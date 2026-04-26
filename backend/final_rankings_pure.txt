@@ -1,0 +1,61 @@
+﻿--- 25/26 TACTICALLY PURE RANKINGS (Lethality + Purity Filters) ---
+
+--- TOP 10 STRIKERS ---
+1. Kylian MbappΘ (La Liga) - Score: 106.4 | Conf: 100% | Cluster: Poacher / Ball Carrier
+2. Harry Kane (Bundesliga) - Score: 99.4 | Conf: 100% | Cluster: Poacher / Ball Carrier
+3. Deniz Undav (Bundesliga) - Score: 98.0 | Conf: 100% | Cluster: Poacher / Ball Carrier
+4. Marcus Thuram (Serie A) - Score: 93.4 | Conf: 97% | Cluster: Poacher / Ball Carrier
+5. Hugo EkitikΘ (Premier League) - Score: 88.3 | Conf: 100% | Cluster: Poacher / Ball Carrier
+6. Lautaro Martφnez (Serie A) - Score: 88.3 | Conf: 100% | Cluster: Poacher / Ball Carrier
+7. Nikola Krstovic (Serie A) - Score: 86.8 | Conf: 87% | Cluster: Poacher / Ball Carrier
+8. Ferran Torres (La Liga) - Score: 81.3 | Conf: 100% | Cluster: Poacher / Aerial Dominator
+9. ┴lvaro Rodrφguez (La Liga) - Score: 80.6 | Conf: 100% | Cluster: Poacher / Aerial Dominator
+10. Erling Haaland (Premier League) - Score: 80.4 | Conf: 100% | Cluster: Poacher / Ball Carrier
+
+--- TOP 10 WINGERS ---
+1. Bukayo Saka (Premier League) - Score: 92.8 | Conf: 100% | Cluster: Ball Carrier / Poacher
+2. Rayan Cherki (Premier League) - Score: 90.8 | Conf: 97% | Cluster: Ball Carrier / Poacher
+3. Michael Olise (Bundesliga) - Score: 90.3 | Conf: 100% | Cluster: Ball Carrier / Poacher
+4. JΘrΘmy Doku (Premier League) - Score: 88.2 | Conf: 86% | Cluster: Ball Carrier / Poacher
+5. Lamine Yamal (La Liga) - Score: 87.3 | Conf: 100% | Cluster: Ball Carrier / Poacher
+6. Noni Madueke (Premier League) - Score: 83.9 | Conf: 100% | Cluster: Ball Carrier / Poacher
+7. Luis Dφaz (Bundesliga) - Score: 81.7 | Conf: 100% | Cluster: Ball Carrier / Poacher
+8. Francisco Conceiτπo (Serie A) - Score: 79.3 | Conf: 96% | Cluster: Ball Carrier / Poacher
+9. Leandro Trossard (Premier League) - Score: 78.0 | Conf: 100% | Cluster: Ball Carrier / Poacher
+10. Yankuba Minteh (Premier League) - Score: 75.9 | Conf: 100% | Cluster: Ball Carrier / Poacher
+
+--- TOP 10 MFS ---
+1. Declan Rice (Premier League) - Score: 88.7 | Conf: 100% | Cluster: Progressive / Creative
+2. Manuel Locatelli (Serie A) - Score: 86.8 | Conf: 100% | Cluster: Progressive / Creative
+3. Elliot Anderson (Premier League) - Score: 85.9 | Conf: 100% | Cluster: Progressive / Creative
+4. Pedri (La Liga) - Score: 84.8 | Conf: 100% | Cluster: Progressive / Creative
+5. Bruno Guimarπes (Premier League) - Score: 80.5 | Conf: 100% | Cluster: Progressive / Creative
+6. Jude Bellingham (La Liga) - Score: 80.3 | Conf: 90% | Cluster: Progressive / Creative
+7. Dani Olmo (La Liga) - Score: 80.0 | Conf: 97% | Cluster: Progressive / Creative
+8. Joshua Kimmich (Bundesliga) - Score: 79.6 | Conf: 100% | Cluster: Progressive / Creative
+9. Enzo Fernßndez (Premier League) - Score: 78.5 | Conf: 100% | Cluster: Progressive / Creative
+10. Florian Wirtz (Premier League) - Score: 77.9 | Conf: 100% | Cluster: Progressive / Creative
+
+--- TOP 10 CENTERBACKS ---
+1. Carl Starfelt (La Liga) - Score: 93.9 | Conf: 90% | Cluster: Progressive / No-Nonsense
+2. Joan Garcφa (La Liga) - Score: 90.2 | Conf: 100% | Cluster: Progressive / Ball Carrier
+3. Jean Butez (Serie A) - Score: 85.4 | Conf: 100% | Cluster: Progressive / Ball Carrier
+4. Mathew Ryan (La Liga) - Score: 83.7 | Conf: 100% | Cluster: Progressive / Ball Carrier
+5. Matφas Dituro (La Liga) - Score: 81.8 | Conf: 85% | Cluster: Progressive / Ball Carrier
+6. Christian Kabasele (Serie A) - Score: 79.1 | Conf: 100% | Cluster: Progressive / No-Nonsense
+7. David Raya (Premier League) - Score: 78.1 | Conf: 100% | Cluster: Progressive / Ball Carrier
+8. Diant Ramaj (Bundesliga) - Score: 76.6 | Conf: 100% | Cluster: Progressive / Ball Carrier
+9. Finn Dahmen (Bundesliga) - Score: 76.1 | Conf: 100% | Cluster: Progressive / Ball Carrier
+10. Bernd Leno (Premier League) - Score: 75.3 | Conf: 100% | Cluster: Progressive / Ball Carrier
+
+--- TOP 10 FULLBACKS ---
+1. Reece James (Premier League) - Score: 97.7 | Conf: 100% | Cluster: Progressive / Ball Carrier
+2. Matheus Nunes (Premier League) - Score: 94.7 | Conf: 100% | Cluster: Progressive / Ball Carrier
+3. Maximilian MittelstΣdt (Bundesliga) - Score: 92.5 | Conf: 100% | Cluster: Progressive / Ball Carrier
+4. Alessandro Bastoni (Serie A) - Score: 92.2 | Conf: 100% | Cluster: Progressive / Ball Carrier
+5. Lewis Hall (Premier League) - Score: 87.8 | Conf: 100% | Cluster: Progressive / Ball Carrier
+6. Emerson (Ligue 1) - Score: 85.8 | Conf: 100% | Cluster: Progressive / Ball Carrier
+7. Marcos Senesi (Premier League) - Score: 84.8 | Conf: 100% | Cluster: Progressive / Ball Carrier
+8. Malo Gusto (Premier League) - Score: 84.6 | Conf: 100% | Cluster: Progressive / Ball Carrier
+9. Adrien Truffert (Premier League) - Score: 84.4 | Conf: 100% | Cluster: Progressive / Ball Carrier
+10. David Raum (Bundesliga) - Score: 84.3 | Conf: 100% | Cluster: Progressive / Ball Carrier

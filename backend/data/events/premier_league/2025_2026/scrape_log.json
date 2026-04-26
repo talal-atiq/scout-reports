@@ -1,0 +1,2876 @@
+{
+  "scraped": {
+    "1903378": {
+      "url": "https://www.whoscored.com/Matches/1903378/Live/Premier-League-2025-2026-Manchester-City-vs-Arsenal",
+      "display_name": "Manchester City vs Arsenal | 2025/2026 | Premier League | 2026-04-19",
+      "rows": 1877,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903378.parquet",
+      "scraped_at": "2026-04-22T14:53:12.071283+00:00"
+    },
+    "1974918": {
+      "url": "https://www.whoscored.com/Matches/1974918/Live/Champions-League-2025-2026-Arsenal-vs-Sporting-CP",
+      "display_name": "Arsenal vs Sporting CP | 2025/2026 | Champions League | 2026-04-15",
+      "rows": 1820,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1974918.parquet",
+      "scraped_at": "2026-04-22T14:53:30.259193+00:00"
+    },
+    "1903470": {
+      "url": "https://www.whoscored.com/Matches/1903470/Live/Premier-League-2025-2026-Arsenal-vs-Bournemouth",
+      "display_name": "Arsenal vs Bournemouth | 2025/2026 | Premier League | 2026-04-11",
+      "rows": 1762,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903470.parquet",
+      "scraped_at": "2026-04-22T14:53:49.377205+00:00"
+    },
+    "1903389": {
+      "url": "https://www.whoscored.com/Matches/1903389/Live/England-Premier-League-2025-2026-Burnley-vs-Manchester-City",
+      "display_name": "Burnley vs Manchester City | 2025/2026 | England Premier League | 2026-04-22",
+      "rows": 2153,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903389.parquet",
+      "scraped_at": "2026-04-23T00:38:41.624731+00:00"
+    },
+    "1903384": {
+      "url": "https://www.whoscored.com/Matches/1903384/Live/England-Premier-League-2025-2026-Bournemouth-vs-Leeds",
+      "display_name": "Bournemouth vs Leeds | 2025/2026 | England Premier League | 2026-04-22",
+      "rows": 1790,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903384.parquet",
+      "scraped_at": "2026-04-23T00:38:57.183998+00:00"
+    },
+    "1903388": {
+      "url": "https://www.whoscored.com/Matches/1903388/Live/England-Premier-League-2025-2026-Brighton-vs-Chelsea",
+      "display_name": "Brighton vs Chelsea | 2025/2026 | England Premier League | 2026-04-21",
+      "rows": 1957,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903388.parquet",
+      "scraped_at": "2026-04-23T00:39:16.205464+00:00"
+    },
+    "1974917": {
+      "url": "https://www.whoscored.com/Matches/1974917/Live/Champions-League-2025-2026-Sporting-CP-vs-Arsenal",
+      "display_name": "Sporting CP vs Arsenal | 2025/2026 | Champions League | 2026-04-07",
+      "rows": 1784,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1974917.parquet",
+      "scraped_at": "2026-04-23T05:39:28.037035+00:00"
+    },
+    "1973802": {
+      "url": "https://www.whoscored.com/Matches/1973802/Live/FA-Cup-2025-2026-Southampton-vs-Arsenal",
+      "display_name": "Southampton vs Arsenal | 2025/2026 | FA Cup | 2026-04-04",
+      "rows": 1763,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1973802.parquet",
+      "scraped_at": "2026-04-23T05:39:52.584716+00:00"
+    },
+    "1968803": {
+      "url": "https://www.whoscored.com/Matches/1968803/Live/League-Cup-2025-2026-Arsenal-vs-Manchester-City",
+      "display_name": "Arsenal vs Manchester City | 2025/2026 | League Cup | 2026-03-22",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1968803.parquet",
+      "scraped_at": "2026-04-23T05:40:13.178257+00:00"
+    },
+    "1972191": {
+      "url": "https://www.whoscored.com/Matches/1972191/Live/Champions-League-2025-2026-Arsenal-vs-Bayer-Leverkusen",
+      "display_name": "Arsenal vs Bayer Leverkusen | 2025/2026 | Champions League | 2026-03-17",
+      "rows": 1895,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1972191.parquet",
+      "scraped_at": "2026-04-23T05:40:37.132795+00:00"
+    },
+    "1903437": {
+      "url": "https://www.whoscored.com/Matches/1903437/Live/Premier-League-2025-2026-Arsenal-vs-Everton",
+      "display_name": "Arsenal vs Everton | 2025/2026 | Premier League | 2026-03-14",
+      "rows": 1925,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903437.parquet",
+      "scraped_at": "2026-04-23T05:41:02.466567+00:00"
+    },
+    "1972189": {
+      "url": "https://www.whoscored.com/Matches/1972189/Live/Champions-League-2025-2026-Bayer-Leverkusen-vs-Arsenal",
+      "display_name": "Bayer Leverkusen vs Arsenal | 2025/2026 | Champions League | 2026-03-11",
+      "rows": 1805,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1972189.parquet",
+      "scraped_at": "2026-04-23T05:41:26.105299+00:00"
+    },
+    "1970081": {
+      "url": "https://www.whoscored.com/Matches/1970081/Live/FA-Cup-2025-2026-Mansfield-vs-Arsenal",
+      "display_name": "Mansfield vs Arsenal | 2025/2026 | FA Cup | 2026-03-07",
+      "rows": 1866,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1970081.parquet",
+      "scraped_at": "2026-04-23T05:41:47.592078+00:00"
+    },
+    "1903421": {
+      "url": "https://www.whoscored.com/Matches/1903421/Live/Premier-League-2025-2026-Brighton-vs-Arsenal",
+      "display_name": "Brighton vs Arsenal | 2025/2026 | Premier League | 2026-03-04",
+      "rows": 1789,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903421.parquet",
+      "scraped_at": "2026-04-23T05:42:07.263014+00:00"
+    },
+    "1903399": {
+      "url": "https://www.whoscored.com/Matches/1903399/Live/Premier-League-2025-2026-Arsenal-vs-Chelsea",
+      "display_name": "Arsenal vs Chelsea | 2025/2026 | Premier League | 2026-03-01",
+      "rows": 1719,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903399.parquet",
+      "scraped_at": "2026-04-23T05:42:30.863662+00:00"
+    },
+    "1903393": {
+      "url": "https://www.whoscored.com/Matches/1903393/Live/Premier-League-2025-2026-Tottenham-vs-Arsenal",
+      "display_name": "Tottenham vs Arsenal | 2025/2026 | Premier League | 2026-02-22",
+      "rows": 1837,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903393.parquet",
+      "scraped_at": "2026-04-23T05:42:50.415849+00:00"
+    },
+    "1903469": {
+      "url": "https://www.whoscored.com/Matches/1903469/Live/Premier-League-2025-2026-Wolves-vs-Arsenal",
+      "display_name": "Wolves vs Arsenal | 2025/2026 | Premier League | 2026-02-18",
+      "rows": 1855,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903469.parquet",
+      "scraped_at": "2026-04-23T05:43:09.474291+00:00"
+    },
+    "1962042": {
+      "url": "https://www.whoscored.com/Matches/1962042/Live/FA-Cup-2025-2026-Arsenal-vs-Wigan",
+      "display_name": "Arsenal vs Wigan | 2025/2026 | FA Cup | 2026-02-15",
+      "rows": 1827,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1962042.parquet",
+      "scraped_at": "2026-04-23T05:43:32.593668+00:00"
+    },
+    "1903315": {
+      "url": "https://www.whoscored.com/Matches/1903315/Live/Premier-League-2025-2026-Brentford-vs-Arsenal",
+      "display_name": "Brentford vs Arsenal | 2025/2026 | Premier League | 2026-02-12",
+      "rows": 1726,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903315.parquet",
+      "scraped_at": "2026-04-23T05:43:56.199670+00:00"
+    },
+    "1903283": {
+      "url": "https://www.whoscored.com/Matches/1903283/Live/Premier-League-2025-2026-Arsenal-vs-Sunderland",
+      "display_name": "Arsenal vs Sunderland | 2025/2026 | Premier League | 2026-02-07",
+      "rows": 1741,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903283.parquet",
+      "scraped_at": "2026-04-23T05:44:17.160990+00:00"
+    },
+    "1958055": {
+      "url": "https://www.whoscored.com/Matches/1958055/Live/League-Cup-2025-2026-Arsenal-vs-Chelsea",
+      "display_name": "Arsenal vs Chelsea | 2025/2026 | League Cup | 2026-02-03",
+      "rows": 1835,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1958055.parquet",
+      "scraped_at": "2026-04-23T05:44:36.323640+00:00"
+    },
+    "1903268": {
+      "url": "https://www.whoscored.com/Matches/1903268/Live/Premier-League-2025-2026-Leeds-vs-Arsenal",
+      "display_name": "Leeds vs Arsenal | 2025/2026 | Premier League | 2026-01-31",
+      "rows": 1701,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903268.parquet",
+      "scraped_at": "2026-04-23T05:44:53.551464+00:00"
+    },
+    "1946424": {
+      "url": "https://www.whoscored.com/Matches/1946424/Live/Champions-League-2025-2026-Arsenal-vs-Kairat-Almaty",
+      "display_name": "Arsenal vs Kairat Almaty | 2025/2026 | Champions League | 2026-01-28",
+      "rows": 1928,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946424.parquet",
+      "scraped_at": "2026-04-23T05:45:12.822953+00:00"
+    },
+    "1903322": {
+      "url": "https://www.whoscored.com/Matches/1903322/Live/Premier-League-2025-2026-Arsenal-vs-Manchester-United",
+      "display_name": "Arsenal vs Manchester United | 2025/2026 | Premier League | 2026-01-25",
+      "rows": 1735,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903322.parquet",
+      "scraped_at": "2026-04-23T05:45:36.919669+00:00"
+    },
+    "1946361": {
+      "url": "https://www.whoscored.com/Matches/1946361/Live/Champions-League-2025-2026-Inter-vs-Arsenal",
+      "display_name": "Inter vs Arsenal | 2025/2026 | Champions League | 2026-01-20",
+      "rows": 1782,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946361.parquet",
+      "scraped_at": "2026-04-23T05:45:56.105157+00:00"
+    },
+    "1903307": {
+      "url": "https://www.whoscored.com/Matches/1903307/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Arsenal",
+      "display_name": "Nottingham Forest vs Arsenal | 2025/2026 | Premier League | 2026-01-17",
+      "rows": 1767,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903307.parquet",
+      "scraped_at": "2026-04-23T05:46:19.990464+00:00"
+    },
+    "1958056": {
+      "url": "https://www.whoscored.com/Matches/1958056/Live/League-Cup-2025-2026-Chelsea-vs-Arsenal",
+      "display_name": "Chelsea vs Arsenal | 2025/2026 | League Cup | 2026-01-14",
+      "rows": 1786,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1958056.parquet",
+      "scraped_at": "2026-04-23T05:46:39.882748+00:00"
+    },
+    "1954192": {
+      "url": "https://www.whoscored.com/Matches/1954192/Live/FA-Cup-2025-2026-Portsmouth-vs-Arsenal",
+      "display_name": "Portsmouth vs Arsenal | 2025/2026 | FA Cup | 2026-01-11",
+      "rows": 1622,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1954192.parquet",
+      "scraped_at": "2026-04-23T05:46:57.886364+00:00"
+    },
+    "1903267": {
+      "url": "https://www.whoscored.com/Matches/1903267/Live/Premier-League-2025-2026-Arsenal-vs-Liverpool",
+      "display_name": "Arsenal vs Liverpool | 2025/2026 | Premier League | 2026-01-08",
+      "rows": 1850,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903267.parquet",
+      "scraped_at": "2026-04-23T05:47:22.565719+00:00"
+    },
+    "1903363": {
+      "url": "https://www.whoscored.com/Matches/1903363/Live/Premier-League-2025-2026-Bournemouth-vs-Arsenal",
+      "display_name": "Bournemouth vs Arsenal | 2025/2026 | Premier League | 2026-01-03",
+      "rows": 1778,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903363.parquet",
+      "scraped_at": "2026-04-23T05:47:42.932031+00:00"
+    },
+    "1903333": {
+      "url": "https://www.whoscored.com/Matches/1903333/Live/Premier-League-2025-2026-Arsenal-vs-Aston-Villa",
+      "display_name": "Arsenal vs Aston Villa | 2025/2026 | Premier League | 2025-12-30",
+      "rows": 1620,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903333.parquet",
+      "scraped_at": "2026-04-23T05:48:05.979924+00:00"
+    },
+    "1903302": {
+      "url": "https://www.whoscored.com/Matches/1903302/Live/Premier-League-2025-2026-Arsenal-vs-Brighton",
+      "display_name": "Arsenal vs Brighton | 2025/2026 | Premier League | 2025-12-27",
+      "rows": 1822,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903302.parquet",
+      "scraped_at": "2026-04-23T05:48:29.784789+00:00"
+    },
+    "1951511": {
+      "url": "https://www.whoscored.com/Matches/1951511/Live/League-Cup-2025-2026-Arsenal-vs-Crystal-Palace",
+      "display_name": "Arsenal vs Crystal Palace | 2025/2026 | League Cup | 2025-12-23",
+      "rows": 1855,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1951511.parquet",
+      "scraped_at": "2026-04-23T05:48:53.589866+00:00"
+    },
+    "1903281": {
+      "url": "https://www.whoscored.com/Matches/1903281/Live/Premier-League-2025-2026-Everton-vs-Arsenal",
+      "display_name": "Everton vs Arsenal | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 2023,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903281.parquet",
+      "scraped_at": "2026-04-23T05:49:18.677254+00:00"
+    },
+    "1903484": {
+      "url": "https://www.whoscored.com/Matches/1903484/Live/Premier-League-2025-2026-Arsenal-vs-Wolves",
+      "display_name": "Arsenal vs Wolves | 2025/2026 | Premier League | 2025-12-13",
+      "rows": 1787,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903484.parquet",
+      "scraped_at": "2026-04-23T05:49:37.495386+00:00"
+    },
+    "1946412": {
+      "url": "https://www.whoscored.com/Matches/1946412/Live/Champions-League-2025-2026-Club-Brugge-vs-Arsenal",
+      "display_name": "Club Brugge vs Arsenal | 2025/2026 | Champions League | 2025-12-10",
+      "rows": 1881,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946412.parquet",
+      "scraped_at": "2026-04-23T05:49:58.980558+00:00"
+    },
+    "1903258": {
+      "url": "https://www.whoscored.com/Matches/1903258/Live/Premier-League-2025-2026-Aston-Villa-vs-Arsenal",
+      "display_name": "Aston Villa vs Arsenal | 2025/2026 | Premier League | 2025-12-06",
+      "rows": 1827,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903258.parquet",
+      "scraped_at": "2026-04-23T05:50:20.072457+00:00"
+    },
+    "1903248": {
+      "url": "https://www.whoscored.com/Matches/1903248/Live/Premier-League-2025-2026-Arsenal-vs-Brentford",
+      "display_name": "Arsenal vs Brentford | 2025/2026 | Premier League | 2025-12-03",
+      "rows": 1875,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903248.parquet",
+      "scraped_at": "2026-04-23T05:50:42.489259+00:00"
+    },
+    "1903239": {
+      "url": "https://www.whoscored.com/Matches/1903239/Live/Premier-League-2025-2026-Chelsea-vs-Arsenal",
+      "display_name": "Chelsea vs Arsenal | 2025/2026 | Premier League | 2025-11-30",
+      "rows": 1656,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903239.parquet",
+      "scraped_at": "2026-04-23T05:50:59.153584+00:00"
+    },
+    "1946351": {
+      "url": "https://www.whoscored.com/Matches/1946351/Live/Champions-League-2025-2026-Arsenal-vs-Bayern-Munich",
+      "display_name": "Arsenal vs Bayern Munich | 2025/2026 | Champions League | 2025-11-26",
+      "rows": 1740,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946351.parquet",
+      "scraped_at": "2026-04-23T05:51:15.915453+00:00"
+    },
+    "1903228": {
+      "url": "https://www.whoscored.com/Matches/1903228/Live/Premier-League-2025-2026-Arsenal-vs-Tottenham",
+      "display_name": "Arsenal vs Tottenham | 2025/2026 | Premier League | 2025-11-23",
+      "rows": 1701,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903228.parquet",
+      "scraped_at": "2026-04-23T05:51:34.433918+00:00"
+    },
+    "1903224": {
+      "url": "https://www.whoscored.com/Matches/1903224/Live/Premier-League-2025-2026-Sunderland-vs-Arsenal",
+      "display_name": "Sunderland vs Arsenal | 2025/2026 | Premier League | 2025-11-08",
+      "rows": 1670,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903224.parquet",
+      "scraped_at": "2026-04-23T05:51:55.866058+00:00"
+    },
+    "1946416": {
+      "url": "https://www.whoscored.com/Matches/1946416/Live/Champions-League-2025-2026-Slavia-Prague-vs-Arsenal",
+      "display_name": "Slavia Prague vs Arsenal | 2025/2026 | Champions League | 2025-11-04",
+      "rows": 1486,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946416.parquet",
+      "scraped_at": "2026-04-23T05:52:15.671948+00:00"
+    },
+    "1903208": {
+      "url": "https://www.whoscored.com/Matches/1903208/Live/Premier-League-2025-2026-Burnley-vs-Arsenal",
+      "display_name": "Burnley vs Arsenal | 2025/2026 | Premier League | 2025-11-01",
+      "rows": 1857,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903208.parquet",
+      "scraped_at": "2026-04-23T05:52:35.706929+00:00"
+    },
+    "1949677": {
+      "url": "https://www.whoscored.com/Matches/1949677/Live/League-Cup-2025-2026-Arsenal-vs-Brighton",
+      "display_name": "Arsenal vs Brighton | 2025/2026 | League Cup | 2025-10-29",
+      "rows": 1912,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1949677.parquet",
+      "scraped_at": "2026-04-23T05:53:00.261758+00:00"
+    },
+    "1903198": {
+      "url": "https://www.whoscored.com/Matches/1903198/Live/Premier-League-2025-2026-Arsenal-vs-Crystal-Palace",
+      "display_name": "Arsenal vs Crystal Palace | 2025/2026 | Premier League | 2025-10-26",
+      "rows": 1857,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903198.parquet",
+      "scraped_at": "2026-04-23T05:53:23.333147+00:00"
+    },
+    "1946410": {
+      "url": "https://www.whoscored.com/Matches/1946410/Live/Champions-League-2025-2026-Arsenal-vs-Atletico-Madrid",
+      "display_name": "Arsenal vs Atletico Madrid | 2025/2026 | Champions League | 2025-10-21",
+      "rows": 1674,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946410.parquet",
+      "scraped_at": "2026-04-23T05:53:48.277188+00:00"
+    },
+    "1903190": {
+      "url": "https://www.whoscored.com/Matches/1903190/Live/Premier-League-2025-2026-Fulham-vs-Arsenal",
+      "display_name": "Fulham vs Arsenal | 2025/2026 | Premier League | 2025-10-18",
+      "rows": 1871,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903190.parquet",
+      "scraped_at": "2026-04-23T05:54:12.485370+00:00"
+    },
+    "1903165": {
+      "url": "https://www.whoscored.com/Matches/1903165/Live/Premier-League-2025-2026-Arsenal-vs-West-Ham",
+      "display_name": "Arsenal vs West Ham | 2025/2026 | Premier League | 2025-10-04",
+      "rows": 1802,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903165.parquet",
+      "scraped_at": "2026-04-23T05:54:31.874200+00:00"
+    },
+    "1946414": {
+      "url": "https://www.whoscored.com/Matches/1946414/Live/Champions-League-2025-2026-Arsenal-vs-Olympiacos",
+      "display_name": "Arsenal vs Olympiacos | 2025/2026 | Champions League | 2025-10-01",
+      "rows": 1838,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946414.parquet",
+      "scraped_at": "2026-04-23T05:54:55.452991+00:00"
+    },
+    "1903186": {
+      "url": "https://www.whoscored.com/Matches/1903186/Live/Premier-League-2025-2026-Newcastle-vs-Arsenal",
+      "display_name": "Newcastle vs Arsenal | 2025/2026 | Premier League | 2025-09-28",
+      "rows": 1782,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903186.parquet",
+      "scraped_at": "2026-04-23T05:55:14.832919+00:00"
+    },
+    "1946103": {
+      "url": "https://www.whoscored.com/Matches/1946103/Live/League-Cup-2025-2026-Port-Vale-vs-Arsenal",
+      "display_name": "Port Vale vs Arsenal | 2025/2026 | League Cup | 2025-09-24",
+      "rows": 1731,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946103.parquet",
+      "scraped_at": "2026-04-23T05:55:37.389734+00:00"
+    },
+    "1903158": {
+      "url": "https://www.whoscored.com/Matches/1903158/Live/Premier-League-2025-2026-Arsenal-vs-Manchester-City",
+      "display_name": "Arsenal vs Manchester City | 2025/2026 | Premier League | 2025-09-21",
+      "rows": 1937,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903158.parquet",
+      "scraped_at": "2026-04-23T05:55:58.412066+00:00"
+    },
+    "1946426": {
+      "url": "https://www.whoscored.com/Matches/1946426/Live/Champions-League-2025-2026-Athletic-Club-vs-Arsenal",
+      "display_name": "Athletic Club vs Arsenal | 2025/2026 | Champions League | 2025-09-16",
+      "rows": 1718,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1946426.parquet",
+      "scraped_at": "2026-04-23T05:56:20.779825+00:00"
+    },
+    "1903148": {
+      "url": "https://www.whoscored.com/Matches/1903148/Live/Premier-League-2025-2026-Arsenal-vs-Nottingham-Forest",
+      "display_name": "Arsenal vs Nottingham Forest | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1831,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903148.parquet",
+      "scraped_at": "2026-04-23T05:56:44.583210+00:00"
+    },
+    "1903145": {
+      "url": "https://www.whoscored.com/Matches/1903145/Live/Premier-League-2025-2026-Liverpool-vs-Arsenal",
+      "display_name": "Liverpool vs Arsenal | 2025/2026 | Premier League | 2025-08-31",
+      "rows": 1740,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903145.parquet",
+      "scraped_at": "2026-04-23T05:57:08.229262+00:00"
+    },
+    "1903128": {
+      "url": "https://www.whoscored.com/Matches/1903128/Live/Premier-League-2025-2026-Arsenal-vs-Leeds",
+      "display_name": "Arsenal vs Leeds | 2025/2026 | Premier League | 2025-08-23",
+      "rows": 1726,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903128.parquet",
+      "scraped_at": "2026-04-23T05:57:31.320066+00:00"
+    },
+    "1903125": {
+      "url": "https://www.whoscored.com/Matches/1903125/Live/Premier-League-2025-2026-Manchester-United-vs-Arsenal",
+      "display_name": "Manchester United vs Arsenal | 2025/2026 | Premier League | 2025-08-17",
+      "rows": 1776,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903125.parquet",
+      "scraped_at": "2026-04-23T05:57:55.493264+00:00"
+    },
+    "1903368": {
+      "url": "https://www.whoscored.com/Matches/1903368/Live/Premier-League-2025-2026-Crystal-Palace-vs-West-Ham",
+      "display_name": "Crystal Palace vs West Ham | 2025/2026 | Premier League | 2026-04-20",
+      "rows": 1815,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903368.parquet",
+      "scraped_at": "2026-04-23T11:06:38.657086+00:00"
+    },
+    "1903358": {
+      "url": "https://www.whoscored.com/Matches/1903358/Live/Premier-League-2025-2026-Aston-Villa-vs-Sunderland",
+      "display_name": "Aston Villa vs Sunderland | 2025/2026 | Premier League | 2026-04-19",
+      "rows": 1698,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903358.parquet",
+      "scraped_at": "2026-04-23T11:06:58.474768+00:00"
+    },
+    "1903381": {
+      "url": "https://www.whoscored.com/Matches/1903381/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Burnley",
+      "display_name": "Nottingham Forest vs Burnley | 2025/2026 | Premier League | 2026-04-19",
+      "rows": 1899,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903381.parquet",
+      "scraped_at": "2026-04-23T11:07:21.081692+00:00"
+    },
+    "1903372": {
+      "url": "https://www.whoscored.com/Matches/1903372/Live/Premier-League-2025-2026-Everton-vs-Liverpool",
+      "display_name": "Everton vs Liverpool | 2025/2026 | Premier League | 2026-04-19",
+      "rows": 1876,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903372.parquet",
+      "scraped_at": "2026-04-23T11:07:40.165858+00:00"
+    },
+    "1903379": {
+      "url": "https://www.whoscored.com/Matches/1903379/Live/Premier-League-2025-2026-Newcastle-vs-Bournemouth",
+      "display_name": "Newcastle vs Bournemouth | 2025/2026 | Premier League | 2026-04-18",
+      "rows": 1856,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903379.parquet",
+      "scraped_at": "2026-04-23T11:07:58.535541+00:00"
+    },
+    "1903362": {
+      "url": "https://www.whoscored.com/Matches/1903362/Live/Premier-League-2025-2026-Brentford-vs-Fulham",
+      "display_name": "Brentford vs Fulham | 2025/2026 | Premier League | 2026-04-18",
+      "rows": 1762,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903362.parquet",
+      "scraped_at": "2026-04-23T11:08:19.467408+00:00"
+    },
+    "1903382": {
+      "url": "https://www.whoscored.com/Matches/1903382/Live/Premier-League-2025-2026-Tottenham-vs-Brighton",
+      "display_name": "Tottenham vs Brighton | 2025/2026 | Premier League | 2026-04-18",
+      "rows": 1779,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903382.parquet",
+      "scraped_at": "2026-04-23T11:08:43.751718+00:00"
+    },
+    "1903365": {
+      "url": "https://www.whoscored.com/Matches/1903365/Live/Premier-League-2025-2026-Chelsea-vs-Manchester-United",
+      "display_name": "Chelsea vs Manchester United | 2025/2026 | Premier League | 2026-04-18",
+      "rows": 2008,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903365.parquet",
+      "scraped_at": "2026-04-23T11:09:07.706131+00:00"
+    },
+    "1903377": {
+      "url": "https://www.whoscored.com/Matches/1903377/Live/Premier-League-2025-2026-Leeds-vs-Wolves",
+      "display_name": "Leeds vs Wolves | 2025/2026 | Premier League | 2026-04-18",
+      "rows": 1744,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903377.parquet",
+      "scraped_at": "2026-04-23T11:09:32.864186+00:00"
+    },
+    "1903346": {
+      "url": "https://www.whoscored.com/Matches/1903346/Live/Premier-League-2025-2026-Manchester-United-vs-Leeds",
+      "display_name": "Manchester United vs Leeds | 2025/2026 | Premier League | 2026-04-13",
+      "rows": 2010,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903346.parquet",
+      "scraped_at": "2026-04-23T11:09:52.472052+00:00"
+    },
+    "1903349": {
+      "url": "https://www.whoscored.com/Matches/1903349/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Aston-Villa",
+      "display_name": "Nottingham Forest vs Aston Villa | 2025/2026 | Premier League | 2026-04-12",
+      "rows": 1806,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903349.parquet",
+      "scraped_at": "2026-04-23T11:10:12.828432+00:00"
+    },
+    "1903473": {
+      "url": "https://www.whoscored.com/Matches/1903473/Live/Premier-League-2025-2026-Chelsea-vs-Manchester-City",
+      "display_name": "Chelsea vs Manchester City | 2025/2026 | Premier League | 2026-04-12",
+      "rows": 2184,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903473.parquet",
+      "scraped_at": "2026-04-23T11:10:34.150666+00:00"
+    },
+    "1903474": {
+      "url": "https://www.whoscored.com/Matches/1903474/Live/Premier-League-2025-2026-Crystal-Palace-vs-Newcastle",
+      "display_name": "Crystal Palace vs Newcastle | 2025/2026 | Premier League | 2026-04-12",
+      "rows": 1964,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903474.parquet",
+      "scraped_at": "2026-04-23T11:10:57.585975+00:00"
+    },
+    "1903352": {
+      "url": "https://www.whoscored.com/Matches/1903352/Live/Premier-League-2025-2026-Sunderland-vs-Tottenham",
+      "display_name": "Sunderland vs Tottenham | 2025/2026 | Premier League | 2026-04-12",
+      "rows": 1717,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903352.parquet",
+      "scraped_at": "2026-04-23T11:11:17.478181+00:00"
+    },
+    "1903471": {
+      "url": "https://www.whoscored.com/Matches/1903471/Live/Premier-League-2025-2026-Brentford-vs-Everton",
+      "display_name": "Brentford vs Everton | 2025/2026 | Premier League | 2026-04-11",
+      "rows": 1842,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903471.parquet",
+      "scraped_at": "2026-04-23T11:11:42.269130+00:00"
+    },
+    "1903472": {
+      "url": "https://www.whoscored.com/Matches/1903472/Live/Premier-League-2025-2026-Burnley-vs-Brighton",
+      "display_name": "Burnley vs Brighton | 2025/2026 | Premier League | 2026-04-11",
+      "rows": 1997,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903472.parquet",
+      "scraped_at": "2026-04-23T11:12:03.343488+00:00"
+    },
+    "1903475": {
+      "url": "https://www.whoscored.com/Matches/1903475/Live/Premier-League-2025-2026-Liverpool-vs-Fulham",
+      "display_name": "Liverpool vs Fulham | 2025/2026 | Premier League | 2026-04-11",
+      "rows": 2029,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903475.parquet",
+      "scraped_at": "2026-04-23T11:12:30.807138+00:00"
+    },
+    "1903355": {
+      "url": "https://www.whoscored.com/Matches/1903355/Live/Premier-League-2025-2026-West-Ham-vs-Wolves",
+      "display_name": "West Ham vs Wolves | 2025/2026 | Premier League | 2026-04-10",
+      "rows": 1740,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903355.parquet",
+      "scraped_at": "2026-04-23T11:12:55.008891+00:00"
+    },
+    "1903461": {
+      "url": "https://www.whoscored.com/Matches/1903461/Live/Premier-League-2025-2026-Aston-Villa-vs-West-Ham",
+      "display_name": "Aston Villa vs West Ham | 2025/2026 | Premier League | 2026-03-22",
+      "rows": 1772,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903461.parquet",
+      "scraped_at": "2026-04-23T11:13:14.961647+00:00"
+    },
+    "1903467": {
+      "url": "https://www.whoscored.com/Matches/1903467/Live/Premier-League-2025-2026-Newcastle-vs-Sunderland",
+      "display_name": "Newcastle vs Sunderland | 2025/2026 | Premier League | 2026-03-22",
+      "rows": 1593,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903467.parquet",
+      "scraped_at": "2026-04-23T11:13:34.567725+00:00"
+    },
+    "1903468": {
+      "url": "https://www.whoscored.com/Matches/1903468/Live/Premier-League-2025-2026-Tottenham-vs-Nottingham-Forest",
+      "display_name": "Tottenham vs Nottingham Forest | 2025/2026 | Premier League | 2026-03-22",
+      "rows": 1849,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903468.parquet",
+      "scraped_at": "2026-04-23T11:13:56.938591+00:00"
+    },
+    "1903465": {
+      "url": "https://www.whoscored.com/Matches/1903465/Live/Premier-League-2025-2026-Leeds-vs-Brentford",
+      "display_name": "Leeds vs Brentford | 2025/2026 | Premier League | 2026-03-21",
+      "rows": 1899,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903465.parquet",
+      "scraped_at": "2026-04-23T11:14:16.735759+00:00"
+    },
+    "1903462": {
+      "url": "https://www.whoscored.com/Matches/1903462/Live/Premier-League-2025-2026-Brighton-vs-Liverpool",
+      "display_name": "Brighton vs Liverpool | 2025/2026 | Premier League | 2026-03-21",
+      "rows": 1819,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903462.parquet",
+      "scraped_at": "2026-04-23T11:14:37.743155+00:00"
+    },
+    "1903464": {
+      "url": "https://www.whoscored.com/Matches/1903464/Live/Premier-League-2025-2026-Fulham-vs-Burnley",
+      "display_name": "Fulham vs Burnley | 2025/2026 | Premier League | 2026-03-21",
+      "rows": 1928,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903464.parquet",
+      "scraped_at": "2026-04-23T11:14:59.436383+00:00"
+    },
+    "1903463": {
+      "url": "https://www.whoscored.com/Matches/1903463/Live/Premier-League-2025-2026-Everton-vs-Chelsea",
+      "display_name": "Everton vs Chelsea | 2025/2026 | Premier League | 2026-03-21",
+      "rows": 2065,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903463.parquet",
+      "scraped_at": "2026-04-23T11:15:19.847343+00:00"
+    },
+    "1903460": {
+      "url": "https://www.whoscored.com/Matches/1903460/Live/Premier-League-2025-2026-Bournemouth-vs-Manchester-United",
+      "display_name": "Bournemouth vs Manchester United | 2025/2026 | Premier League | 2026-03-20",
+      "rows": 1901,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903460.parquet",
+      "scraped_at": "2026-04-23T11:15:43.845611+00:00"
+    },
+    "1903439": {
+      "url": "https://www.whoscored.com/Matches/1903439/Live/Premier-League-2025-2026-Brentford-vs-Wolves",
+      "display_name": "Brentford vs Wolves | 2025/2026 | Premier League | 2026-03-16",
+      "rows": 1761,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903439.parquet",
+      "scraped_at": "2026-04-23T11:16:04.081364+00:00"
+    },
+    "1903450": {
+      "url": "https://www.whoscored.com/Matches/1903450/Live/Premier-League-2025-2026-Manchester-United-vs-Aston-Villa",
+      "display_name": "Manchester United vs Aston Villa | 2025/2026 | Premier League | 2026-03-15",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903450.parquet",
+      "scraped_at": "2026-04-23T11:16:27.825100+00:00"
+    },
+    "1903445": {
+      "url": "https://www.whoscored.com/Matches/1903445/Live/Premier-League-2025-2026-Crystal-Palace-vs-Leeds",
+      "display_name": "Crystal Palace vs Leeds | 2025/2026 | Premier League | 2026-03-15",
+      "rows": 1689,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903445.parquet",
+      "scraped_at": "2026-04-23T11:16:51.272343+00:00"
+    },
+    "1903452": {
+      "url": "https://www.whoscored.com/Matches/1903452/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Fulham",
+      "display_name": "Nottingham Forest vs Fulham | 2025/2026 | Premier League | 2026-03-15",
+      "rows": 1848,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903452.parquet",
+      "scraped_at": "2026-04-23T11:17:11.459438+00:00"
+    },
+    "1903447": {
+      "url": "https://www.whoscored.com/Matches/1903447/Live/Premier-League-2025-2026-Liverpool-vs-Tottenham",
+      "display_name": "Liverpool vs Tottenham | 2025/2026 | Premier League | 2026-03-15",
+      "rows": 1867,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903447.parquet",
+      "scraped_at": "2026-04-23T11:17:36.181528+00:00"
+    },
+    "1903441": {
+      "url": "https://www.whoscored.com/Matches/1903441/Live/Premier-League-2025-2026-Burnley-vs-Bournemouth",
+      "display_name": "Burnley vs Bournemouth | 2025/2026 | Premier League | 2026-03-14",
+      "rows": 1791,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903441.parquet",
+      "scraped_at": "2026-04-23T11:17:55.938666+00:00"
+    },
+    "1903456": {
+      "url": "https://www.whoscored.com/Matches/1903456/Live/Premier-League-2025-2026-Sunderland-vs-Brighton",
+      "display_name": "Sunderland vs Brighton | 2025/2026 | Premier League | 2026-03-14",
+      "rows": 1891,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903456.parquet",
+      "scraped_at": "2026-04-23T11:18:20.513189+00:00"
+    },
+    "1903443": {
+      "url": "https://www.whoscored.com/Matches/1903443/Live/Premier-League-2025-2026-Chelsea-vs-Newcastle",
+      "display_name": "Chelsea vs Newcastle | 2025/2026 | Premier League | 2026-03-14",
+      "rows": 2015,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903443.parquet",
+      "scraped_at": "2026-04-23T11:18:39.664032+00:00"
+    },
+    "1903459": {
+      "url": "https://www.whoscored.com/Matches/1903459/Live/Premier-League-2025-2026-West-Ham-vs-Manchester-City",
+      "display_name": "West Ham vs Manchester City | 2025/2026 | Premier League | 2026-03-14",
+      "rows": 2143,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903459.parquet",
+      "scraped_at": "2026-04-23T11:18:58.578465+00:00"
+    },
+    "1903433": {
+      "url": "https://www.whoscored.com/Matches/1903433/Live/Premier-League-2025-2026-Tottenham-vs-Crystal-Palace",
+      "display_name": "Tottenham vs Crystal Palace | 2025/2026 | Premier League | 2026-03-05",
+      "rows": 1712,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903433.parquet",
+      "scraped_at": "2026-04-23T11:19:19.857344+00:00"
+    },
+    "1903418": {
+      "url": "https://www.whoscored.com/Matches/1903418/Live/Premier-League-2025-2026-Aston-Villa-vs-Chelsea",
+      "display_name": "Aston Villa vs Chelsea | 2025/2026 | Premier League | 2026-03-04",
+      "rows": 1936,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903418.parquet",
+      "scraped_at": "2026-04-23T11:19:41.068917+00:00"
+    },
+    "1903425": {
+      "url": "https://www.whoscored.com/Matches/1903425/Live/Premier-League-2025-2026-Fulham-vs-West-Ham",
+      "display_name": "Fulham vs West Ham | 2025/2026 | Premier League | 2026-03-04",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903425.parquet",
+      "scraped_at": "2026-04-23T11:20:03.353641+00:00"
+    },
+    "1903429": {
+      "url": "https://www.whoscored.com/Matches/1903429/Live/Premier-League-2025-2026-Manchester-City-vs-Nottingham-Forest",
+      "display_name": "Manchester City vs Nottingham Forest | 2025/2026 | Premier League | 2026-03-04",
+      "rows": 2090,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903429.parquet",
+      "scraped_at": "2026-04-23T11:20:28.079595+00:00"
+    },
+    "1903431": {
+      "url": "https://www.whoscored.com/Matches/1903431/Live/Premier-League-2025-2026-Newcastle-vs-Manchester-United",
+      "display_name": "Newcastle vs Manchester United | 2025/2026 | Premier League | 2026-03-04",
+      "rows": 1833,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903431.parquet",
+      "scraped_at": "2026-04-23T11:20:49.211788+00:00"
+    },
+    "1903416": {
+      "url": "https://www.whoscored.com/Matches/1903416/Live/Premier-League-2025-2026-Bournemouth-vs-Brentford",
+      "display_name": "Bournemouth vs Brentford | 2025/2026 | Premier League | 2026-03-03",
+      "rows": 1958,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903416.parquet",
+      "scraped_at": "2026-04-23T11:21:07.845916+00:00"
+    },
+    "1903423": {
+      "url": "https://www.whoscored.com/Matches/1903423/Live/Premier-League-2025-2026-Everton-vs-Burnley",
+      "display_name": "Everton vs Burnley | 2025/2026 | Premier League | 2026-03-03",
+      "rows": 2064,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903423.parquet",
+      "scraped_at": "2026-04-23T11:21:28.909791+00:00"
+    },
+    "1903427": {
+      "url": "https://www.whoscored.com/Matches/1903427/Live/Premier-League-2025-2026-Leeds-vs-Sunderland",
+      "display_name": "Leeds vs Sunderland | 2025/2026 | Premier League | 2026-03-03",
+      "rows": 1790,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903427.parquet",
+      "scraped_at": "2026-04-23T11:21:48.655665+00:00"
+    },
+    "1903435": {
+      "url": "https://www.whoscored.com/Matches/1903435/Live/Premier-League-2025-2026-Wolves-vs-Liverpool",
+      "display_name": "Wolves vs Liverpool | 2025/2026 | Premier League | 2026-03-03",
+      "rows": 1982,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903435.parquet",
+      "scraped_at": "2026-04-23T11:22:10.574155+00:00"
+    },
+    "1903400": {
+      "url": "https://www.whoscored.com/Matches/1903400/Live/Premier-League-2025-2026-Brighton-vs-Nottingham-Forest",
+      "display_name": "Brighton vs Nottingham Forest | 2025/2026 | Premier League | 2026-03-01",
+      "rows": 1966,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903400.parquet",
+      "scraped_at": "2026-04-23T11:22:34.540927+00:00"
+    },
+    "1903396": {
+      "url": "https://www.whoscored.com/Matches/1903396/Live/Premier-League-2025-2026-Bournemouth-vs-Sunderland",
+      "display_name": "Bournemouth vs Sunderland | 2025/2026 | Premier League | 2026-02-28",
+      "rows": 1789,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903396.parquet",
+      "scraped_at": "2026-04-23T11:23:47.084953+00:00"
+    },
+    "1903402": {
+      "url": "https://www.whoscored.com/Matches/1903402/Live/Premier-League-2025-2026-Burnley-vs-Brentford",
+      "display_name": "Burnley vs Brentford | 2025/2026 | Premier League | 2026-02-28",
+      "rows": 1786,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903402.parquet",
+      "scraped_at": "2026-04-23T11:24:07.256178+00:00"
+    },
+    "1903412": {
+      "url": "https://www.whoscored.com/Matches/1903412/Live/Premier-League-2025-2026-Newcastle-vs-Everton",
+      "display_name": "Newcastle vs Everton | 2025/2026 | Premier League | 2026-02-28",
+      "rows": 1954,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903412.parquet",
+      "scraped_at": "2026-04-23T11:24:30.062316+00:00"
+    },
+    "1903406": {
+      "url": "https://www.whoscored.com/Matches/1903406/Live/Premier-League-2025-2026-Leeds-vs-Manchester-City",
+      "display_name": "Leeds vs Manchester City | 2025/2026 | Premier League | 2026-02-28",
+      "rows": 1874,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903406.parquet",
+      "scraped_at": "2026-04-23T11:24:49.066238+00:00"
+    },
+    "1903408": {
+      "url": "https://www.whoscored.com/Matches/1903408/Live/Premier-League-2025-2026-Liverpool-vs-West-Ham",
+      "display_name": "Liverpool vs West Ham | 2025/2026 | Premier League | 2026-02-28",
+      "rows": 1879,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903408.parquet",
+      "scraped_at": "2026-04-23T11:25:09.862115+00:00"
+    },
+    "1903414": {
+      "url": "https://www.whoscored.com/Matches/1903414/Live/Premier-League-2025-2026-Wolves-vs-Aston-Villa",
+      "display_name": "Wolves vs Aston Villa | 2025/2026 | Premier League | 2026-02-27",
+      "rows": 1738,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903414.parquet",
+      "scraped_at": "2026-04-23T11:25:28.951445+00:00"
+    },
+    "1903383": {
+      "url": "https://www.whoscored.com/Matches/1903383/Live/Premier-League-2025-2026-Everton-vs-Manchester-United",
+      "display_name": "Everton vs Manchester United | 2025/2026 | Premier League | 2026-02-23",
+      "rows": 1922,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903383.parquet",
+      "scraped_at": "2026-04-23T11:25:51.330678+00:00"
+    },
+    "1903380": {
+      "url": "https://www.whoscored.com/Matches/1903380/Live/Premier-League-2025-2026-Crystal-Palace-vs-Wolves",
+      "display_name": "Crystal Palace vs Wolves | 2025/2026 | Premier League | 2026-02-22",
+      "rows": 1718,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903380.parquet",
+      "scraped_at": "2026-04-23T11:26:09.653168+00:00"
+    },
+    "1903390": {
+      "url": "https://www.whoscored.com/Matches/1903390/Live/Premier-League-2025-2026-Sunderland-vs-Fulham",
+      "display_name": "Sunderland vs Fulham | 2025/2026 | Premier League | 2026-02-22",
+      "rows": 1650,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903390.parquet",
+      "scraped_at": "2026-04-23T11:26:33.080030+00:00"
+    },
+    "1903386": {
+      "url": "https://www.whoscored.com/Matches/1903386/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Liverpool",
+      "display_name": "Nottingham Forest vs Liverpool | 2025/2026 | Premier League | 2026-02-22",
+      "rows": 1860,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903386.parquet",
+      "scraped_at": "2026-04-23T11:26:57.950075+00:00"
+    },
+    "1903341": {
+      "url": "https://www.whoscored.com/Matches/1903341/Live/Premier-League-2025-2026-Aston-Villa-vs-Leeds",
+      "display_name": "Aston Villa vs Leeds | 2025/2026 | Premier League | 2026-02-21",
+      "rows": 1854,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903341.parquet",
+      "scraped_at": "2026-04-23T11:27:20.114842+00:00"
+    },
+    "1903394": {
+      "url": "https://www.whoscored.com/Matches/1903394/Live/Premier-League-2025-2026-West-Ham-vs-Bournemouth",
+      "display_name": "West Ham vs Bournemouth | 2025/2026 | Premier League | 2026-02-21",
+      "rows": 1855,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903394.parquet",
+      "scraped_at": "2026-04-23T11:27:42.158116+00:00"
+    },
+    "1903344": {
+      "url": "https://www.whoscored.com/Matches/1903344/Live/Premier-League-2025-2026-Brentford-vs-Brighton",
+      "display_name": "Brentford vs Brighton | 2025/2026 | Premier League | 2026-02-21",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903344.parquet",
+      "scraped_at": "2026-04-23T11:28:20.119806+00:00"
+    },
+    "1903347": {
+      "url": "https://www.whoscored.com/Matches/1903347/Live/Premier-League-2025-2026-Chelsea-vs-Burnley",
+      "display_name": "Chelsea vs Burnley | 2025/2026 | Premier League | 2026-02-21",
+      "rows": 1758,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903347.parquet",
+      "scraped_at": "2026-04-23T11:28:40.644896+00:00"
+    },
+    "1903385": {
+      "url": "https://www.whoscored.com/Matches/1903385/Live/Premier-League-2025-2026-Manchester-City-vs-Newcastle",
+      "display_name": "Manchester City vs Newcastle | 2025/2026 | Premier League | 2026-02-21",
+      "rows": 1812,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903385.parquet",
+      "scraped_at": "2026-04-23T11:29:10.299876+00:00"
+    },
+    "1903312": {
+      "url": "https://www.whoscored.com/Matches/1903312/Live/Premier-League-2025-2026-Aston-Villa-vs-Brighton",
+      "display_name": "Aston Villa vs Brighton | 2025/2026 | Premier League | 2026-02-11",
+      "rows": 1745,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903312.parquet",
+      "scraped_at": "2026-04-23T11:29:30.351736+00:00"
+    },
+    "1903321": {
+      "url": "https://www.whoscored.com/Matches/1903321/Live/Premier-League-2025-2026-Crystal-Palace-vs-Burnley",
+      "display_name": "Crystal Palace vs Burnley | 2025/2026 | Premier League | 2026-02-11",
+      "rows": 1921,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903321.parquet",
+      "scraped_at": "2026-04-23T11:29:55.428789+00:00"
+    },
+    "1903327": {
+      "url": "https://www.whoscored.com/Matches/1903327/Live/Premier-League-2025-2026-Manchester-City-vs-Fulham",
+      "display_name": "Manchester City vs Fulham | 2025/2026 | Premier League | 2026-02-11",
+      "rows": 2170,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903327.parquet",
+      "scraped_at": "2026-04-23T11:30:18.813866+00:00"
+    },
+    "1903332": {
+      "url": "https://www.whoscored.com/Matches/1903332/Live/Premier-League-2025-2026-Sunderland-vs-Liverpool",
+      "display_name": "Sunderland vs Liverpool | 2025/2026 | Premier League | 2026-02-11",
+      "rows": 1913,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903332.parquet",
+      "scraped_at": "2026-04-23T11:30:38.415391+00:00"
+    },
+    "1903329": {
+      "url": "https://www.whoscored.com/Matches/1903329/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Wolves",
+      "display_name": "Nottingham Forest vs Wolves | 2025/2026 | Premier League | 2026-02-11",
+      "rows": 1808,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903329.parquet",
+      "scraped_at": "2026-04-23T11:30:56.610167+00:00"
+    },
+    "1903324": {
+      "url": "https://www.whoscored.com/Matches/1903324/Live/Premier-League-2025-2026-Everton-vs-Bournemouth",
+      "display_name": "Everton vs Bournemouth | 2025/2026 | Premier League | 2026-02-10",
+      "rows": 1828,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903324.parquet",
+      "scraped_at": "2026-04-23T11:31:18.062968+00:00"
+    },
+    "1903318": {
+      "url": "https://www.whoscored.com/Matches/1903318/Live/Premier-League-2025-2026-Chelsea-vs-Leeds",
+      "display_name": "Chelsea vs Leeds | 2025/2026 | Premier League | 2026-02-10",
+      "rows": 1897,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903318.parquet",
+      "scraped_at": "2026-04-23T11:31:38.566917+00:00"
+    },
+    "1903338": {
+      "url": "https://www.whoscored.com/Matches/1903338/Live/Premier-League-2025-2026-West-Ham-vs-Manchester-United",
+      "display_name": "West Ham vs Manchester United | 2025/2026 | Premier League | 2026-02-10",
+      "rows": 1957,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903338.parquet",
+      "scraped_at": "2026-04-23T11:31:56.958298+00:00"
+    },
+    "1903335": {
+      "url": "https://www.whoscored.com/Matches/1903335/Live/Premier-League-2025-2026-Tottenham-vs-Newcastle",
+      "display_name": "Tottenham vs Newcastle | 2025/2026 | Premier League | 2026-02-10",
+      "rows": 1736,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903335.parquet",
+      "scraped_at": "2026-04-23T11:32:17.105290+00:00"
+    },
+    "1903286": {
+      "url": "https://www.whoscored.com/Matches/1903286/Live/Premier-League-2025-2026-Brighton-vs-Crystal-Palace",
+      "display_name": "Brighton vs Crystal Palace | 2025/2026 | Premier League | 2026-02-08",
+      "rows": 1889,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903286.parquet",
+      "scraped_at": "2026-04-23T11:32:35.873060+00:00"
+    },
+    "1903298": {
+      "url": "https://www.whoscored.com/Matches/1903298/Live/Premier-League-2025-2026-Liverpool-vs-Manchester-City",
+      "display_name": "Liverpool vs Manchester City | 2025/2026 | Premier League | 2026-02-08",
+      "rows": 1858,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903298.parquet",
+      "scraped_at": "2026-04-23T11:32:56.180985+00:00"
+    },
+    "1903280": {
+      "url": "https://www.whoscored.com/Matches/1903280/Live/Premier-League-2025-2026-Bournemouth-vs-Aston-Villa",
+      "display_name": "Bournemouth vs Aston Villa | 2025/2026 | Premier League | 2026-02-07",
+      "rows": 1793,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903280.parquet",
+      "scraped_at": "2026-04-23T11:33:17.846269+00:00"
+    },
+    "1903306": {
+      "url": "https://www.whoscored.com/Matches/1903306/Live/Premier-League-2025-2026-Newcastle-vs-Brentford",
+      "display_name": "Newcastle vs Brentford | 2025/2026 | Premier League | 2026-02-07",
+      "rows": 1786,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903306.parquet",
+      "scraped_at": "2026-04-23T11:33:36.002684+00:00"
+    },
+    "1903289": {
+      "url": "https://www.whoscored.com/Matches/1903289/Live/Premier-League-2025-2026-Burnley-vs-West-Ham",
+      "display_name": "Burnley vs West Ham | 2025/2026 | Premier League | 2026-02-07",
+      "rows": 2000,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903289.parquet",
+      "scraped_at": "2026-04-23T11:33:59.775979+00:00"
+    },
+    "1903309": {
+      "url": "https://www.whoscored.com/Matches/1903309/Live/Premier-League-2025-2026-Wolves-vs-Chelsea",
+      "display_name": "Wolves vs Chelsea | 2025/2026 | Premier League | 2026-02-07",
+      "rows": 2153,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903309.parquet",
+      "scraped_at": "2026-04-23T11:34:24.102253+00:00"
+    },
+    "1903292": {
+      "url": "https://www.whoscored.com/Matches/1903292/Live/Premier-League-2025-2026-Fulham-vs-Everton",
+      "display_name": "Fulham vs Everton | 2025/2026 | Premier League | 2026-02-07",
+      "rows": 1862,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903292.parquet",
+      "scraped_at": "2026-04-23T11:34:46.499784+00:00"
+    },
+    "1903301": {
+      "url": "https://www.whoscored.com/Matches/1903301/Live/Premier-League-2025-2026-Manchester-United-vs-Tottenham",
+      "display_name": "Manchester United vs Tottenham | 2025/2026 | Premier League | 2026-02-07",
+      "rows": 1923,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903301.parquet",
+      "scraped_at": "2026-04-23T11:35:05.960636+00:00"
+    },
+    "1903295": {
+      "url": "https://www.whoscored.com/Matches/1903295/Live/Premier-League-2025-2026-Leeds-vs-Nottingham-Forest",
+      "display_name": "Leeds vs Nottingham Forest | 2025/2026 | Premier League | 2026-02-06",
+      "rows": 1800,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903295.parquet",
+      "scraped_at": "2026-04-23T11:35:24.272000+00:00"
+    },
+    "1903275": {
+      "url": "https://www.whoscored.com/Matches/1903275/Live/Premier-League-2025-2026-Sunderland-vs-Burnley",
+      "display_name": "Sunderland vs Burnley | 2025/2026 | Premier League | 2026-02-02",
+      "rows": 1905,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903275.parquet",
+      "scraped_at": "2026-04-23T11:35:47.142190+00:00"
+    },
+    "1903262": {
+      "url": "https://www.whoscored.com/Matches/1903262/Live/Premier-League-2025-2026-Aston-Villa-vs-Brentford",
+      "display_name": "Aston Villa vs Brentford | 2025/2026 | Premier League | 2026-02-01",
+      "rows": 1906,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903262.parquet",
+      "scraped_at": "2026-04-23T11:36:07.489443+00:00"
+    },
+    "1903273": {
+      "url": "https://www.whoscored.com/Matches/1903273/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Crystal-Palace",
+      "display_name": "Nottingham Forest vs Crystal Palace | 2025/2026 | Premier League | 2026-02-01",
+      "rows": 1770,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903273.parquet",
+      "scraped_at": "2026-04-23T11:36:30.421884+00:00"
+    },
+    "1903272": {
+      "url": "https://www.whoscored.com/Matches/1903272/Live/Premier-League-2025-2026-Manchester-United-vs-Fulham",
+      "display_name": "Manchester United vs Fulham | 2025/2026 | Premier League | 2026-02-01",
+      "rows": 2013,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903272.parquet",
+      "scraped_at": "2026-04-23T11:36:49.697080+00:00"
+    },
+    "1903277": {
+      "url": "https://www.whoscored.com/Matches/1903277/Live/Premier-League-2025-2026-Tottenham-vs-Manchester-City",
+      "display_name": "Tottenham vs Manchester City | 2025/2026 | Premier League | 2026-02-01",
+      "rows": 1989,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903277.parquet",
+      "scraped_at": "2026-04-23T11:37:10.624552+00:00"
+    },
+    "1903278": {
+      "url": "https://www.whoscored.com/Matches/1903278/Live/Premier-League-2025-2026-Wolves-vs-Bournemouth",
+      "display_name": "Wolves vs Bournemouth | 2025/2026 | Premier League | 2026-01-31",
+      "rows": 2038,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903278.parquet",
+      "scraped_at": "2026-04-23T11:37:31.679929+00:00"
+    },
+    "1903264": {
+      "url": "https://www.whoscored.com/Matches/1903264/Live/Premier-League-2025-2026-Brighton-vs-Everton",
+      "display_name": "Brighton vs Everton | 2025/2026 | Premier League | 2026-01-31",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903264.parquet",
+      "scraped_at": "2026-04-23T11:37:54.231064+00:00"
+    },
+    "1903266": {
+      "url": "https://www.whoscored.com/Matches/1903266/Live/Premier-League-2025-2026-Chelsea-vs-West-Ham",
+      "display_name": "Chelsea vs West Ham | 2025/2026 | Premier League | 2026-01-31",
+      "rows": 2075,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903266.parquet",
+      "scraped_at": "2026-04-23T11:38:25.067096+00:00"
+    },
+    "1903270": {
+      "url": "https://www.whoscored.com/Matches/1903270/Live/Premier-League-2025-2026-Liverpool-vs-Newcastle",
+      "display_name": "Liverpool vs Newcastle | 2025/2026 | Premier League | 2026-01-31",
+      "rows": 1661,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903270.parquet",
+      "scraped_at": "2026-04-23T11:38:46.041990+00:00"
+    },
+    "1903334": {
+      "url": "https://www.whoscored.com/Matches/1903334/Live/Premier-League-2025-2026-Everton-vs-Leeds",
+      "display_name": "Everton vs Leeds | 2025/2026 | Premier League | 2026-01-26",
+      "rows": 2084,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903334.parquet",
+      "scraped_at": "2026-04-23T11:39:10.406187+00:00"
+    },
+    "1903343": {
+      "url": "https://www.whoscored.com/Matches/1903343/Live/Premier-League-2025-2026-Newcastle-vs-Aston-Villa",
+      "display_name": "Newcastle vs Aston Villa | 2025/2026 | Premier League | 2026-01-25",
+      "rows": 1961,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903343.parquet",
+      "scraped_at": "2026-04-23T11:39:31.671143+00:00"
+    },
+    "1903325": {
+      "url": "https://www.whoscored.com/Matches/1903325/Live/Premier-League-2025-2026-Brentford-vs-Nottingham-Forest",
+      "display_name": "Brentford vs Nottingham Forest | 2025/2026 | Premier League | 2026-01-25",
+      "rows": 1906,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903325.parquet",
+      "scraped_at": "2026-04-23T11:39:53.294180+00:00"
+    },
+    "1903331": {
+      "url": "https://www.whoscored.com/Matches/1903331/Live/Premier-League-2025-2026-Crystal-Palace-vs-Chelsea",
+      "display_name": "Crystal Palace vs Chelsea | 2025/2026 | Premier League | 2026-01-25",
+      "rows": 2047,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903331.parquet",
+      "scraped_at": "2026-04-23T11:40:14.440081+00:00"
+    },
+    "1903320": {
+      "url": "https://www.whoscored.com/Matches/1903320/Live/Premier-League-2025-2026-Bournemouth-vs-Liverpool",
+      "display_name": "Bournemouth vs Liverpool | 2025/2026 | Premier League | 2026-01-24",
+      "rows": 1832,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903320.parquet",
+      "scraped_at": "2026-04-23T11:40:32.906143+00:00"
+    },
+    "1903337": {
+      "url": "https://www.whoscored.com/Matches/1903337/Live/Premier-League-2025-2026-Fulham-vs-Brighton",
+      "display_name": "Fulham vs Brighton | 2025/2026 | Premier League | 2026-01-24",
+      "rows": 2064,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903337.parquet",
+      "scraped_at": "2026-04-23T11:40:52.636707+00:00"
+    },
+    "1903328": {
+      "url": "https://www.whoscored.com/Matches/1903328/Live/Premier-League-2025-2026-Burnley-vs-Tottenham",
+      "display_name": "Burnley vs Tottenham | 2025/2026 | Premier League | 2026-01-24",
+      "rows": 2059,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903328.parquet",
+      "scraped_at": "2026-04-23T11:41:16.538425+00:00"
+    },
+    "1903340": {
+      "url": "https://www.whoscored.com/Matches/1903340/Live/Premier-League-2025-2026-Manchester-City-vs-Wolves",
+      "display_name": "Manchester City vs Wolves | 2025/2026 | Premier League | 2026-01-24",
+      "rows": 2011,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903340.parquet",
+      "scraped_at": "2026-04-23T11:41:40.721593+00:00"
+    },
+    "1903260": {
+      "url": "https://www.whoscored.com/Matches/1903260/Live/Premier-League-2025-2026-West-Ham-vs-Sunderland",
+      "display_name": "West Ham vs Sunderland | 2025/2026 | Premier League | 2026-01-24",
+      "rows": 1707,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903260.parquet",
+      "scraped_at": "2026-04-23T11:41:59.649282+00:00"
+    },
+    "1903294": {
+      "url": "https://www.whoscored.com/Matches/1903294/Live/Premier-League-2025-2026-Brighton-vs-Bournemouth",
+      "display_name": "Brighton vs Bournemouth | 2025/2026 | Premier League | 2026-01-19",
+      "rows": 1900,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903294.parquet",
+      "scraped_at": "2026-04-23T11:42:18.463643+00:00"
+    },
+    "1903291": {
+      "url": "https://www.whoscored.com/Matches/1903291/Live/Premier-League-2025-2026-Aston-Villa-vs-Everton",
+      "display_name": "Aston Villa vs Everton | 2025/2026 | Premier League | 2026-01-18",
+      "rows": 1733,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903291.parquet",
+      "scraped_at": "2026-04-23T11:42:38.064368+00:00"
+    },
+    "1903317": {
+      "url": "https://www.whoscored.com/Matches/1903317/Live/Premier-League-2025-2026-Wolves-vs-Newcastle",
+      "display_name": "Wolves vs Newcastle | 2025/2026 | Premier League | 2026-01-18",
+      "rows": 1934,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903317.parquet",
+      "scraped_at": "2026-04-23T11:42:57.786189+00:00"
+    },
+    "1903297": {
+      "url": "https://www.whoscored.com/Matches/1903297/Live/Premier-League-2025-2026-Chelsea-vs-Brentford",
+      "display_name": "Chelsea vs Brentford | 2025/2026 | Premier League | 2026-01-17",
+      "rows": 1907,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903297.parquet",
+      "scraped_at": "2026-04-23T11:43:21.068853+00:00"
+    },
+    "1903303": {
+      "url": "https://www.whoscored.com/Matches/1903303/Live/Premier-League-2025-2026-Liverpool-vs-Burnley",
+      "display_name": "Liverpool vs Burnley | 2025/2026 | Premier League | 2026-01-17",
+      "rows": 2096,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903303.parquet",
+      "scraped_at": "2026-04-23T11:43:40.110569+00:00"
+    },
+    "1903310": {
+      "url": "https://www.whoscored.com/Matches/1903310/Live/Premier-League-2025-2026-Sunderland-vs-Crystal-Palace",
+      "display_name": "Sunderland vs Crystal Palace | 2025/2026 | Premier League | 2026-01-17",
+      "rows": 1707,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903310.parquet",
+      "scraped_at": "2026-04-23T11:44:02.736950+00:00"
+    },
+    "1903300": {
+      "url": "https://www.whoscored.com/Matches/1903300/Live/Premier-League-2025-2026-Leeds-vs-Fulham",
+      "display_name": "Leeds vs Fulham | 2025/2026 | Premier League | 2026-01-17",
+      "rows": 1857,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903300.parquet",
+      "scraped_at": "2026-04-23T11:44:21.282306+00:00"
+    },
+    "1903304": {
+      "url": "https://www.whoscored.com/Matches/1903304/Live/Premier-League-2025-2026-Manchester-United-vs-Manchester-City",
+      "display_name": "Manchester United vs Manchester City | 2025/2026 | Premier League | 2026-01-17",
+      "rows": 1925,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903304.parquet",
+      "scraped_at": "2026-04-23T11:44:47.664945+00:00"
+    },
+    "1903313": {
+      "url": "https://www.whoscored.com/Matches/1903313/Live/Premier-League-2025-2026-Tottenham-vs-West-Ham",
+      "display_name": "Tottenham vs West Ham | 2025/2026 | Premier League | 2026-01-17",
+      "rows": 1924,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903313.parquet",
+      "scraped_at": "2026-04-23T11:45:07.367252+00:00"
+    },
+    "1903274": {
+      "url": "https://www.whoscored.com/Matches/1903274/Live/Premier-League-2025-2026-Crystal-Palace-vs-Aston-Villa",
+      "display_name": "Crystal Palace vs Aston Villa | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903274.parquet",
+      "scraped_at": "2026-04-23T11:45:31.067292+00:00"
+    },
+    "1903265": {
+      "url": "https://www.whoscored.com/Matches/1903265/Live/Premier-League-2025-2026-Bournemouth-vs-Tottenham",
+      "display_name": "Bournemouth vs Tottenham | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 1807,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903265.parquet",
+      "scraped_at": "2026-04-23T11:45:49.641564+00:00"
+    },
+    "1903269": {
+      "url": "https://www.whoscored.com/Matches/1903269/Live/Premier-League-2025-2026-Brentford-vs-Sunderland",
+      "display_name": "Brentford vs Sunderland | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 1692,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903269.parquet",
+      "scraped_at": "2026-04-23T11:46:11.802436+00:00"
+    },
+    "1903282": {
+      "url": "https://www.whoscored.com/Matches/1903282/Live/Premier-League-2025-2026-Manchester-City-vs-Brighton",
+      "display_name": "Manchester City vs Brighton | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 2032,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903282.parquet",
+      "scraped_at": "2026-04-23T11:46:33.822317+00:00"
+    },
+    "1903271": {
+      "url": "https://www.whoscored.com/Matches/1903271/Live/Premier-League-2025-2026-Burnley-vs-Manchester-United",
+      "display_name": "Burnley vs Manchester United | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 1947,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903271.parquet",
+      "scraped_at": "2026-04-23T11:46:51.704199+00:00"
+    },
+    "1903279": {
+      "url": "https://www.whoscored.com/Matches/1903279/Live/Premier-League-2025-2026-Fulham-vs-Chelsea",
+      "display_name": "Fulham vs Chelsea | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 2056,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903279.parquet",
+      "scraped_at": "2026-04-23T11:47:15.842082+00:00"
+    },
+    "1903276": {
+      "url": "https://www.whoscored.com/Matches/1903276/Live/Premier-League-2025-2026-Everton-vs-Wolves",
+      "display_name": "Everton vs Wolves | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 1821,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903276.parquet",
+      "scraped_at": "2026-04-23T11:47:37.971701+00:00"
+    },
+    "1903285": {
+      "url": "https://www.whoscored.com/Matches/1903285/Live/Premier-League-2025-2026-Newcastle-vs-Leeds",
+      "display_name": "Newcastle vs Leeds | 2025/2026 | Premier League | 2026-01-07",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903285.parquet",
+      "scraped_at": "2026-04-23T11:48:00.930617+00:00"
+    },
+    "1903288": {
+      "url": "https://www.whoscored.com/Matches/1903288/Live/Premier-League-2025-2026-West-Ham-vs-Nottingham-Forest",
+      "display_name": "West Ham vs Nottingham Forest | 2025/2026 | Premier League | 2026-01-06",
+      "rows": 1840,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903288.parquet",
+      "scraped_at": "2026-04-23T11:48:19.932081+00:00"
+    },
+    "1903371": {
+      "url": "https://www.whoscored.com/Matches/1903371/Live/Premier-League-2025-2026-Everton-vs-Brentford",
+      "display_name": "Everton vs Brentford | 2025/2026 | Premier League | 2026-01-04",
+      "rows": 1831,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903371.parquet",
+      "scraped_at": "2026-04-23T11:48:41.734860+00:00"
+    },
+    "1903376": {
+      "url": "https://www.whoscored.com/Matches/1903376/Live/Premier-League-2025-2026-Manchester-City-vs-Chelsea",
+      "display_name": "Manchester City vs Chelsea | 2025/2026 | Premier League | 2026-01-04",
+      "rows": 2057,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903376.parquet",
+      "scraped_at": "2026-04-23T11:49:04.082547+00:00"
+    },
+    "1903259": {
+      "url": "https://www.whoscored.com/Matches/1903259/Live/Premier-League-2025-2026-Newcastle-vs-Crystal-Palace",
+      "display_name": "Newcastle vs Crystal Palace | 2025/2026 | Premier League | 2026-01-04",
+      "rows": 1914,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903259.parquet",
+      "scraped_at": "2026-04-23T11:49:23.757325+00:00"
+    },
+    "1903374": {
+      "url": "https://www.whoscored.com/Matches/1903374/Live/Premier-League-2025-2026-Fulham-vs-Liverpool",
+      "display_name": "Fulham vs Liverpool | 2025/2026 | Premier League | 2026-01-04",
+      "rows": 2111,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903374.parquet",
+      "scraped_at": "2026-04-23T11:49:45.552187+00:00"
+    },
+    "1903375": {
+      "url": "https://www.whoscored.com/Matches/1903375/Live/Premier-League-2025-2026-Leeds-vs-Manchester-United",
+      "display_name": "Leeds vs Manchester United | 2025/2026 | Premier League | 2026-01-04",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903375.parquet",
+      "scraped_at": "2026-04-23T11:50:05.927648+00:00"
+    },
+    "1903261": {
+      "url": "https://www.whoscored.com/Matches/1903261/Live/Premier-League-2025-2026-Tottenham-vs-Sunderland",
+      "display_name": "Tottenham vs Sunderland | 2025/2026 | Premier League | 2026-01-04",
+      "rows": 1793,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903261.parquet",
+      "scraped_at": "2026-04-23T11:50:25.937793+00:00"
+    },
+    "1903366": {
+      "url": "https://www.whoscored.com/Matches/1903366/Live/Premier-League-2025-2026-Aston-Villa-vs-Nottingham-Forest",
+      "display_name": "Aston Villa vs Nottingham Forest | 2025/2026 | Premier League | 2026-01-03",
+      "rows": 1855,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903366.parquet",
+      "scraped_at": "2026-04-23T11:50:46.188223+00:00"
+    },
+    "1903369": {
+      "url": "https://www.whoscored.com/Matches/1903369/Live/Premier-League-2025-2026-Brighton-vs-Burnley",
+      "display_name": "Brighton vs Burnley | 2025/2026 | Premier League | 2026-01-03",
+      "rows": 2022,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903369.parquet",
+      "scraped_at": "2026-04-23T11:51:08.841052+00:00"
+    },
+    "1903263": {
+      "url": "https://www.whoscored.com/Matches/1903263/Live/Premier-League-2025-2026-Wolves-vs-West-Ham",
+      "display_name": "Wolves vs West Ham | 2025/2026 | Premier League | 2026-01-03",
+      "rows": 1852,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903263.parquet",
+      "scraped_at": "2026-04-23T11:51:30.289482+00:00"
+    },
+    "1903336": {
+      "url": "https://www.whoscored.com/Matches/1903336/Live/Premier-League-2025-2026-Brentford-vs-Tottenham",
+      "display_name": "Brentford vs Tottenham | 2025/2026 | Premier League | 2026-01-01",
+      "rows": 1891,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903336.parquet",
+      "scraped_at": "2026-04-23T11:51:50.408565+00:00"
+    },
+    "1903345": {
+      "url": "https://www.whoscored.com/Matches/1903345/Live/Premier-League-2025-2026-Crystal-Palace-vs-Fulham",
+      "display_name": "Crystal Palace vs Fulham | 2025/2026 | Premier League | 2026-01-01",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903345.parquet",
+      "scraped_at": "2026-04-23T11:52:12.268826+00:00"
+    },
+    "1903348": {
+      "url": "https://www.whoscored.com/Matches/1903348/Live/Premier-League-2025-2026-Liverpool-vs-Leeds",
+      "display_name": "Liverpool vs Leeds | 2025/2026 | Premier League | 2026-01-01",
+      "rows": 1998,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903348.parquet",
+      "scraped_at": "2026-04-23T11:52:35.647988+00:00"
+    },
+    "1903357": {
+      "url": "https://www.whoscored.com/Matches/1903357/Live/Premier-League-2025-2026-Sunderland-vs-Manchester-City",
+      "display_name": "Sunderland vs Manchester City | 2025/2026 | Premier League | 2026-01-01",
+      "rows": 1970,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903357.parquet",
+      "scraped_at": "2026-04-23T11:52:59.452822+00:00"
+    },
+    "1903342": {
+      "url": "https://www.whoscored.com/Matches/1903342/Live/Premier-League-2025-2026-Chelsea-vs-Bournemouth",
+      "display_name": "Chelsea vs Bournemouth | 2025/2026 | Premier League | 2025-12-30",
+      "rows": 1902,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903342.parquet",
+      "scraped_at": "2026-04-23T11:53:23.266488+00:00"
+    },
+    "1903360": {
+      "url": "https://www.whoscored.com/Matches/1903360/Live/Premier-League-2025-2026-West-Ham-vs-Brighton",
+      "display_name": "West Ham vs Brighton | 2025/2026 | Premier League | 2025-12-30",
+      "rows": 1981,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903360.parquet",
+      "scraped_at": "2026-04-23T11:53:45.226065+00:00"
+    },
+    "1903339": {
+      "url": "https://www.whoscored.com/Matches/1903339/Live/Premier-League-2025-2026-Burnley-vs-Newcastle",
+      "display_name": "Burnley vs Newcastle | 2025/2026 | Premier League | 2025-12-30",
+      "rows": 1934,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903339.parquet",
+      "scraped_at": "2026-04-23T11:54:06.418947+00:00"
+    },
+    "1903354": {
+      "url": "https://www.whoscored.com/Matches/1903354/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Everton",
+      "display_name": "Nottingham Forest vs Everton | 2025/2026 | Premier League | 2025-12-30",
+      "rows": 2123,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903354.parquet",
+      "scraped_at": "2026-04-23T11:54:28.904656+00:00"
+    },
+    "1903351": {
+      "url": "https://www.whoscored.com/Matches/1903351/Live/Premier-League-2025-2026-Manchester-United-vs-Wolves",
+      "display_name": "Manchester United vs Wolves | 2025/2026 | Premier League | 2025-12-30",
+      "rows": 1885,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903351.parquet",
+      "scraped_at": "2026-04-23T11:54:52.620997+00:00"
+    },
+    "1903314": {
+      "url": "https://www.whoscored.com/Matches/1903314/Live/Premier-League-2025-2026-Crystal-Palace-vs-Tottenham",
+      "display_name": "Crystal Palace vs Tottenham | 2025/2026 | Premier League | 2025-12-28",
+      "rows": 1935,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903314.parquet",
+      "scraped_at": "2026-04-23T11:55:45.895223+00:00"
+    },
+    "1903326": {
+      "url": "https://www.whoscored.com/Matches/1903326/Live/Premier-League-2025-2026-Sunderland-vs-Leeds",
+      "display_name": "Sunderland vs Leeds | 2025/2026 | Premier League | 2025-12-28",
+      "rows": 1943,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903326.parquet",
+      "scraped_at": "2026-04-23T11:56:13.451739+00:00"
+    },
+    "1903311": {
+      "url": "https://www.whoscored.com/Matches/1903311/Live/Premier-League-2025-2026-Chelsea-vs-Aston-Villa",
+      "display_name": "Chelsea vs Aston Villa | 2025/2026 | Premier League | 2025-12-27",
+      "rows": 1773,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903311.parquet",
+      "scraped_at": "2026-04-23T11:56:37.639697+00:00"
+    },
+    "1903305": {
+      "url": "https://www.whoscored.com/Matches/1903305/Live/Premier-League-2025-2026-Brentford-vs-Bournemouth",
+      "display_name": "Brentford vs Bournemouth | 2025/2026 | Premier League | 2025-12-27",
+      "rows": 1879,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903305.parquet",
+      "scraped_at": "2026-04-23T11:57:04.350898+00:00"
+    },
+    "1903308": {
+      "url": "https://www.whoscored.com/Matches/1903308/Live/Premier-League-2025-2026-Burnley-vs-Everton",
+      "display_name": "Burnley vs Everton | 2025/2026 | Premier League | 2025-12-27",
+      "rows": 1922,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903308.parquet",
+      "scraped_at": "2026-04-23T11:57:33.385922+00:00"
+    },
+    "1903330": {
+      "url": "https://www.whoscored.com/Matches/1903330/Live/Premier-League-2025-2026-West-Ham-vs-Fulham",
+      "display_name": "West Ham vs Fulham | 2025/2026 | Premier League | 2025-12-27",
+      "rows": 1978,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903330.parquet",
+      "scraped_at": "2026-04-23T11:58:02.051968+00:00"
+    },
+    "1903316": {
+      "url": "https://www.whoscored.com/Matches/1903316/Live/Premier-League-2025-2026-Liverpool-vs-Wolves",
+      "display_name": "Liverpool vs Wolves | 2025/2026 | Premier League | 2025-12-27",
+      "rows": 2065,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903316.parquet",
+      "scraped_at": "2026-04-23T11:58:25.797667+00:00"
+    },
+    "1903323": {
+      "url": "https://www.whoscored.com/Matches/1903323/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Manchester-City",
+      "display_name": "Nottingham Forest vs Manchester City | 2025/2026 | Premier League | 2025-12-27",
+      "rows": 1823,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903323.parquet",
+      "scraped_at": "2026-04-23T11:58:53.762599+00:00"
+    },
+    "1903319": {
+      "url": "https://www.whoscored.com/Matches/1903319/Live/Premier-League-2025-2026-Manchester-United-vs-Newcastle",
+      "display_name": "Manchester United vs Newcastle | 2025/2026 | Premier League | 2025-12-26",
+      "rows": 2069,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903319.parquet",
+      "scraped_at": "2026-04-23T11:59:23.511694+00:00"
+    },
+    "1903284": {
+      "url": "https://www.whoscored.com/Matches/1903284/Live/Premier-League-2025-2026-Fulham-vs-Nottingham-Forest",
+      "display_name": "Fulham vs Nottingham Forest | 2025/2026 | Premier League | 2025-12-22",
+      "rows": 1959,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903284.parquet",
+      "scraped_at": "2026-04-23T11:59:48.933917+00:00"
+    },
+    "1903495": {
+      "url": "https://www.whoscored.com/Matches/1903495/Live/Premier-League-2025-2026-Aston-Villa-vs-Manchester-United",
+      "display_name": "Aston Villa vs Manchester United | 2025/2026 | Premier League | 2025-12-21",
+      "rows": 1837,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903495.parquet",
+      "scraped_at": "2026-04-23T12:00:06.967439+00:00"
+    },
+    "1903494": {
+      "url": "https://www.whoscored.com/Matches/1903494/Live/Premier-League-2025-2026-Bournemouth-vs-Burnley",
+      "display_name": "Bournemouth vs Burnley | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 1785,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903494.parquet",
+      "scraped_at": "2026-04-23T12:00:37.021036+00:00"
+    },
+    "1903299": {
+      "url": "https://www.whoscored.com/Matches/1903299/Live/Premier-League-2025-2026-Wolves-vs-Brentford",
+      "display_name": "Wolves vs Brentford | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 1833,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903299.parquet",
+      "scraped_at": "2026-04-23T12:01:04.117970+00:00"
+    },
+    "1903496": {
+      "url": "https://www.whoscored.com/Matches/1903496/Live/Premier-League-2025-2026-Brighton-vs-Sunderland",
+      "display_name": "Brighton vs Sunderland | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 1836,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903496.parquet",
+      "scraped_at": "2026-04-23T12:01:43.539671+00:00"
+    },
+    "1903293": {
+      "url": "https://www.whoscored.com/Matches/1903293/Live/Premier-League-2025-2026-Newcastle-vs-Chelsea",
+      "display_name": "Newcastle vs Chelsea | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 1760,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903293.parquet",
+      "scraped_at": "2026-04-23T12:02:14.268164+00:00"
+    },
+    "1903287": {
+      "url": "https://www.whoscored.com/Matches/1903287/Live/Premier-League-2025-2026-Leeds-vs-Crystal-Palace",
+      "display_name": "Leeds vs Crystal Palace | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 1752,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903287.parquet",
+      "scraped_at": "2026-04-23T12:02:40.873028+00:00"
+    },
+    "1903296": {
+      "url": "https://www.whoscored.com/Matches/1903296/Live/Premier-League-2025-2026-Tottenham-vs-Liverpool",
+      "display_name": "Tottenham vs Liverpool | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 1841,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903296.parquet",
+      "scraped_at": "2026-04-23T12:03:05.401397+00:00"
+    },
+    "1903290": {
+      "url": "https://www.whoscored.com/Matches/1903290/Live/Premier-League-2025-2026-Manchester-City-vs-West-Ham",
+      "display_name": "Manchester City vs West Ham | 2025/2026 | Premier League | 2025-12-20",
+      "rows": 2134,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903290.parquet",
+      "scraped_at": "2026-04-23T12:03:30.151809+00:00"
+    },
+    "1903490": {
+      "url": "https://www.whoscored.com/Matches/1903490/Live/Premier-League-2025-2026-Manchester-United-vs-Bournemouth",
+      "display_name": "Manchester United vs Bournemouth | 2025/2026 | Premier League | 2025-12-15",
+      "rows": 1678,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903490.parquet",
+      "scraped_at": "2026-04-23T12:03:54.221769+00:00"
+    },
+    "1903493": {
+      "url": "https://www.whoscored.com/Matches/1903493/Live/Premier-League-2025-2026-West-Ham-vs-Aston-Villa",
+      "display_name": "West Ham vs Aston Villa | 2025/2026 | Premier League | 2025-12-14",
+      "rows": 1918,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903493.parquet",
+      "scraped_at": "2026-04-23T12:04:19.728370+00:00"
+    },
+    "1903485": {
+      "url": "https://www.whoscored.com/Matches/1903485/Live/Premier-League-2025-2026-Brentford-vs-Leeds",
+      "display_name": "Brentford vs Leeds | 2025/2026 | Premier League | 2025-12-14",
+      "rows": 1811,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903485.parquet",
+      "scraped_at": "2026-04-23T12:04:41.210456+00:00"
+    },
+    "1903488": {
+      "url": "https://www.whoscored.com/Matches/1903488/Live/Premier-League-2025-2026-Crystal-Palace-vs-Manchester-City",
+      "display_name": "Crystal Palace vs Manchester City | 2025/2026 | Premier League | 2025-12-14",
+      "rows": 2021,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903488.parquet",
+      "scraped_at": "2026-04-23T12:05:07.983118+00:00"
+    },
+    "1903492": {
+      "url": "https://www.whoscored.com/Matches/1903492/Live/Premier-League-2025-2026-Sunderland-vs-Newcastle",
+      "display_name": "Sunderland vs Newcastle | 2025/2026 | Premier League | 2025-12-14",
+      "rows": 1798,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903492.parquet",
+      "scraped_at": "2026-04-23T12:05:28.854502+00:00"
+    },
+    "1903491": {
+      "url": "https://www.whoscored.com/Matches/1903491/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Tottenham",
+      "display_name": "Nottingham Forest vs Tottenham | 2025/2026 | Premier League | 2025-12-14",
+      "rows": 1757,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903491.parquet",
+      "scraped_at": "2026-04-23T12:05:58.198775+00:00"
+    },
+    "1903489": {
+      "url": "https://www.whoscored.com/Matches/1903489/Live/Premier-League-2025-2026-Liverpool-vs-Brighton",
+      "display_name": "Liverpool vs Brighton | 2025/2026 | Premier League | 2025-12-13",
+      "rows": 2127,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903489.parquet",
+      "scraped_at": "2026-04-23T12:06:21.749936+00:00"
+    },
+    "1903486": {
+      "url": "https://www.whoscored.com/Matches/1903486/Live/Premier-League-2025-2026-Burnley-vs-Fulham",
+      "display_name": "Burnley vs Fulham | 2025/2026 | Premier League | 2025-12-13",
+      "rows": 1986,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903486.parquet",
+      "scraped_at": "2026-04-23T12:06:47.692507+00:00"
+    },
+    "1903487": {
+      "url": "https://www.whoscored.com/Matches/1903487/Live/Premier-League-2025-2026-Chelsea-vs-Everton",
+      "display_name": "Chelsea vs Everton | 2025/2026 | Premier League | 2025-12-13",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903487.parquet",
+      "scraped_at": "2026-04-23T12:07:12.230907+00:00"
+    },
+    "1903483": {
+      "url": "https://www.whoscored.com/Matches/1903483/Live/Premier-League-2025-2026-Wolves-vs-Manchester-United",
+      "display_name": "Wolves vs Manchester United | 2025/2026 | Premier League | 2025-12-08",
+      "rows": 1933,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903483.parquet",
+      "scraped_at": "2026-04-23T12:07:38.518586+00:00"
+    },
+    "1903476": {
+      "url": "https://www.whoscored.com/Matches/1903476/Live/Premier-League-2025-2026-Brighton-vs-West-Ham",
+      "display_name": "Brighton vs West Ham | 2025/2026 | Premier League | 2025-12-07",
+      "rows": 1922,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903476.parquet",
+      "scraped_at": "2026-04-23T12:07:59.511932+00:00"
+    },
+    "1903478": {
+      "url": "https://www.whoscored.com/Matches/1903478/Live/Premier-League-2025-2026-Fulham-vs-Crystal-Palace",
+      "display_name": "Fulham vs Crystal Palace | 2025/2026 | Premier League | 2025-12-07",
+      "rows": 2043,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903478.parquet",
+      "scraped_at": "2026-04-23T12:08:25.653028+00:00"
+    },
+    "1903257": {
+      "url": "https://www.whoscored.com/Matches/1903257/Live/Premier-League-2025-2026-Bournemouth-vs-Chelsea",
+      "display_name": "Bournemouth vs Chelsea | 2025/2026 | Premier League | 2025-12-06",
+      "rows": 1831,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903257.parquet",
+      "scraped_at": "2026-04-23T12:08:48.503436+00:00"
+    },
+    "1903482": {
+      "url": "https://www.whoscored.com/Matches/1903482/Live/Premier-League-2025-2026-Tottenham-vs-Brentford",
+      "display_name": "Tottenham vs Brentford | 2025/2026 | Premier League | 2025-12-06",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903482.parquet",
+      "scraped_at": "2026-04-23T12:09:18.650383+00:00"
+    },
+    "1903481": {
+      "url": "https://www.whoscored.com/Matches/1903481/Live/Premier-League-2025-2026-Newcastle-vs-Burnley",
+      "display_name": "Newcastle vs Burnley | 2025/2026 | Premier League | 2025-12-06",
+      "rows": 1853,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903481.parquet",
+      "scraped_at": "2026-04-23T12:09:38.913475+00:00"
+    },
+    "1903477": {
+      "url": "https://www.whoscored.com/Matches/1903477/Live/Premier-League-2025-2026-Everton-vs-Nottingham-Forest",
+      "display_name": "Everton vs Nottingham Forest | 2025/2026 | Premier League | 2025-12-06",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903477.parquet",
+      "scraped_at": "2026-04-23T12:09:59.755027+00:00"
+    },
+    "1903479": {
+      "url": "https://www.whoscored.com/Matches/1903479/Live/Premier-League-2025-2026-Leeds-vs-Liverpool",
+      "display_name": "Leeds vs Liverpool | 2025/2026 | Premier League | 2025-12-06",
+      "rows": 1891,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903479.parquet",
+      "scraped_at": "2026-04-23T12:10:19.665775+00:00"
+    },
+    "1903480": {
+      "url": "https://www.whoscored.com/Matches/1903480/Live/Premier-League-2025-2026-Manchester-City-vs-Sunderland",
+      "display_name": "Manchester City vs Sunderland | 2025/2026 | Premier League | 2025-12-06",
+      "rows": 1963,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903480.parquet",
+      "scraped_at": "2026-04-23T12:10:41.632467+00:00"
+    },
+    "1903254": {
+      "url": "https://www.whoscored.com/Matches/1903254/Live/Premier-League-2025-2026-Manchester-United-vs-West-Ham",
+      "display_name": "Manchester United vs West Ham | 2025/2026 | Premier League | 2025-12-04",
+      "rows": 1872,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903254.parquet",
+      "scraped_at": "2026-04-23T12:11:00.772705+00:00"
+    },
+    "1903249": {
+      "url": "https://www.whoscored.com/Matches/1903249/Live/Premier-League-2025-2026-Brighton-vs-Aston-Villa",
+      "display_name": "Brighton vs Aston Villa | 2025/2026 | Premier League | 2025-12-03",
+      "rows": 1906,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903249.parquet",
+      "scraped_at": "2026-04-23T12:11:24.852609+00:00"
+    },
+    "1903250": {
+      "url": "https://www.whoscored.com/Matches/1903250/Live/Premier-League-2025-2026-Burnley-vs-Crystal-Palace",
+      "display_name": "Burnley vs Crystal Palace | 2025/2026 | Premier League | 2025-12-03",
+      "rows": 2019,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903250.parquet",
+      "scraped_at": "2026-04-23T12:11:46.956310+00:00"
+    },
+    "1903252": {
+      "url": "https://www.whoscored.com/Matches/1903252/Live/Premier-League-2025-2026-Leeds-vs-Chelsea",
+      "display_name": "Leeds vs Chelsea | 2025/2026 | Premier League | 2025-12-03",
+      "rows": 1986,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903252.parquet",
+      "scraped_at": "2026-04-23T12:12:10.710527+00:00"
+    },
+    "1903253": {
+      "url": "https://www.whoscored.com/Matches/1903253/Live/Premier-League-2025-2026-Liverpool-vs-Sunderland",
+      "display_name": "Liverpool vs Sunderland | 2025/2026 | Premier League | 2025-12-03",
+      "rows": 1913,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903253.parquet",
+      "scraped_at": "2026-04-23T12:12:34.028678+00:00"
+    },
+    "1903256": {
+      "url": "https://www.whoscored.com/Matches/1903256/Live/Premier-League-2025-2026-Wolves-vs-Nottingham-Forest",
+      "display_name": "Wolves vs Nottingham Forest | 2025/2026 | Premier League | 2025-12-03",
+      "rows": 1869,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903256.parquet",
+      "scraped_at": "2026-04-23T12:12:58.302578+00:00"
+    },
+    "1903247": {
+      "url": "https://www.whoscored.com/Matches/1903247/Live/Premier-League-2025-2026-Bournemouth-vs-Everton",
+      "display_name": "Bournemouth vs Everton | 2025/2026 | Premier League | 2025-12-02",
+      "rows": 1889,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903247.parquet",
+      "scraped_at": "2026-04-23T12:13:19.008467+00:00"
+    },
+    "1903251": {
+      "url": "https://www.whoscored.com/Matches/1903251/Live/Premier-League-2025-2026-Fulham-vs-Manchester-City",
+      "display_name": "Fulham vs Manchester City | 2025/2026 | Premier League | 2025-12-02",
+      "rows": 2118,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903251.parquet",
+      "scraped_at": "2026-04-23T12:13:39.647559+00:00"
+    },
+    "1903255": {
+      "url": "https://www.whoscored.com/Matches/1903255/Live/Premier-League-2025-2026-Newcastle-vs-Tottenham",
+      "display_name": "Newcastle vs Tottenham | 2025/2026 | Premier League | 2025-12-02",
+      "rows": 1910,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903255.parquet",
+      "scraped_at": "2026-04-23T12:14:02.323700+00:00"
+    },
+    "1903237": {
+      "url": "https://www.whoscored.com/Matches/1903237/Live/Premier-League-2025-2026-Aston-Villa-vs-Wolves",
+      "display_name": "Aston Villa vs Wolves | 2025/2026 | Premier League | 2025-11-30",
+      "rows": 1849,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903237.parquet",
+      "scraped_at": "2026-04-23T12:14:24.821393+00:00"
+    },
+    "1903243": {
+      "url": "https://www.whoscored.com/Matches/1903243/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Brighton",
+      "display_name": "Nottingham Forest vs Brighton | 2025/2026 | Premier League | 2025-11-30",
+      "rows": 2033,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903243.parquet",
+      "scraped_at": "2026-04-23T12:14:48.588408+00:00"
+    },
+    "1903240": {
+      "url": "https://www.whoscored.com/Matches/1903240/Live/Premier-League-2025-2026-Crystal-Palace-vs-Manchester-United",
+      "display_name": "Crystal Palace vs Manchester United | 2025/2026 | Premier League | 2025-11-30",
+      "rows": 1725,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903240.parquet",
+      "scraped_at": "2026-04-23T12:15:09.402777+00:00"
+    },
+    "1903246": {
+      "url": "https://www.whoscored.com/Matches/1903246/Live/Premier-League-2025-2026-West-Ham-vs-Liverpool",
+      "display_name": "West Ham vs Liverpool | 2025/2026 | Premier League | 2025-11-30",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903246.parquet",
+      "scraped_at": "2026-04-23T12:15:29.713831+00:00"
+    },
+    "1903244": {
+      "url": "https://www.whoscored.com/Matches/1903244/Live/Premier-League-2025-2026-Sunderland-vs-Bournemouth",
+      "display_name": "Sunderland vs Bournemouth | 2025/2026 | Premier League | 2025-11-29",
+      "rows": 1796,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903244.parquet",
+      "scraped_at": "2026-04-23T12:15:51.564223+00:00"
+    },
+    "1903238": {
+      "url": "https://www.whoscored.com/Matches/1903238/Live/Premier-League-2025-2026-Brentford-vs-Burnley",
+      "display_name": "Brentford vs Burnley | 2025/2026 | Premier League | 2025-11-29",
+      "rows": 1720,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903238.parquet",
+      "scraped_at": "2026-04-23T12:16:14.703176+00:00"
+    },
+    "1903241": {
+      "url": "https://www.whoscored.com/Matches/1903241/Live/Premier-League-2025-2026-Everton-vs-Newcastle",
+      "display_name": "Everton vs Newcastle | 2025/2026 | Premier League | 2025-11-29",
+      "rows": 2053,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903241.parquet",
+      "scraped_at": "2026-04-23T12:16:36.382841+00:00"
+    },
+    "1903245": {
+      "url": "https://www.whoscored.com/Matches/1903245/Live/Premier-League-2025-2026-Tottenham-vs-Fulham",
+      "display_name": "Tottenham vs Fulham | 2025/2026 | Premier League | 2025-11-29",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903245.parquet",
+      "scraped_at": "2026-04-23T12:16:55.954557+00:00"
+    },
+    "1903242": {
+      "url": "https://www.whoscored.com/Matches/1903242/Live/Premier-League-2025-2026-Manchester-City-vs-Leeds",
+      "display_name": "Manchester City vs Leeds | 2025/2026 | Premier League | 2025-11-29",
+      "rows": 1976,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903242.parquet",
+      "scraped_at": "2026-04-23T12:17:15.476681+00:00"
+    },
+    "1903234": {
+      "url": "https://www.whoscored.com/Matches/1903234/Live/Premier-League-2025-2026-Manchester-United-vs-Everton",
+      "display_name": "Manchester United vs Everton | 2025/2026 | Premier League | 2025-11-24",
+      "rows": 1966,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903234.parquet",
+      "scraped_at": "2026-04-23T12:17:36.995020+00:00"
+    },
+    "1903232": {
+      "url": "https://www.whoscored.com/Matches/1903232/Live/Premier-League-2025-2026-Leeds-vs-Aston-Villa",
+      "display_name": "Leeds vs Aston Villa | 2025/2026 | Premier League | 2025-11-23",
+      "rows": 1892,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903232.parquet",
+      "scraped_at": "2026-04-23T12:18:01.216699+00:00"
+    },
+    "1903227": {
+      "url": "https://www.whoscored.com/Matches/1903227/Live/Premier-League-2025-2026-Bournemouth-vs-West-Ham",
+      "display_name": "Bournemouth vs West Ham | 2025/2026 | Premier League | 2025-11-22",
+      "rows": 1905,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903227.parquet",
+      "scraped_at": "2026-04-23T12:18:24.731616+00:00"
+    },
+    "1903229": {
+      "url": "https://www.whoscored.com/Matches/1903229/Live/Premier-League-2025-2026-Brighton-vs-Brentford",
+      "display_name": "Brighton vs Brentford | 2025/2026 | Premier League | 2025-11-22",
+      "rows": 1879,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903229.parquet",
+      "scraped_at": "2026-04-23T12:18:47.466937+00:00"
+    },
+    "1903230": {
+      "url": "https://www.whoscored.com/Matches/1903230/Live/Premier-League-2025-2026-Burnley-vs-Chelsea",
+      "display_name": "Burnley vs Chelsea | 2025/2026 | Premier League | 2025-11-22",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903230.parquet",
+      "scraped_at": "2026-04-23T12:19:05.932792+00:00"
+    },
+    "1903236": {
+      "url": "https://www.whoscored.com/Matches/1903236/Live/Premier-League-2025-2026-Wolves-vs-Crystal-Palace",
+      "display_name": "Wolves vs Crystal Palace | 2025/2026 | Premier League | 2025-11-22",
+      "rows": 1828,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903236.parquet",
+      "scraped_at": "2026-04-23T12:19:26.041056+00:00"
+    },
+    "1903231": {
+      "url": "https://www.whoscored.com/Matches/1903231/Live/Premier-League-2025-2026-Fulham-vs-Sunderland",
+      "display_name": "Fulham vs Sunderland | 2025/2026 | Premier League | 2025-11-22",
+      "rows": 1820,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903231.parquet",
+      "scraped_at": "2026-04-23T12:19:44.623279+00:00"
+    },
+    "1903233": {
+      "url": "https://www.whoscored.com/Matches/1903233/Live/Premier-League-2025-2026-Liverpool-vs-Nottingham-Forest",
+      "display_name": "Liverpool vs Nottingham Forest | 2025/2026 | Premier League | 2025-11-22",
+      "rows": 1899,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903233.parquet",
+      "scraped_at": "2026-04-23T12:20:07.826015+00:00"
+    },
+    "1903235": {
+      "url": "https://www.whoscored.com/Matches/1903235/Live/Premier-League-2025-2026-Newcastle-vs-Manchester-City",
+      "display_name": "Newcastle vs Manchester City | 2025/2026 | Premier League | 2025-11-22",
+      "rows": 1846,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903235.parquet",
+      "scraped_at": "2026-04-23T12:20:26.974389+00:00"
+    },
+    "1903217": {
+      "url": "https://www.whoscored.com/Matches/1903217/Live/Premier-League-2025-2026-Aston-Villa-vs-Bournemouth",
+      "display_name": "Aston Villa vs Bournemouth | 2025/2026 | Premier League | 2025-11-09",
+      "rows": 1657,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903217.parquet",
+      "scraped_at": "2026-04-23T12:20:44.470758+00:00"
+    },
+    "1903218": {
+      "url": "https://www.whoscored.com/Matches/1903218/Live/Premier-League-2025-2026-Brentford-vs-Newcastle",
+      "display_name": "Brentford vs Newcastle | 2025/2026 | Premier League | 2025-11-09",
+      "rows": 1771,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903218.parquet",
+      "scraped_at": "2026-04-23T12:21:05.177697+00:00"
+    },
+    "1903220": {
+      "url": "https://www.whoscored.com/Matches/1903220/Live/Premier-League-2025-2026-Crystal-Palace-vs-Brighton",
+      "display_name": "Crystal Palace vs Brighton | 2025/2026 | Premier League | 2025-11-09",
+      "rows": 1897,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903220.parquet",
+      "scraped_at": "2026-04-23T12:21:28.085006+00:00"
+    },
+    "1903223": {
+      "url": "https://www.whoscored.com/Matches/1903223/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Leeds",
+      "display_name": "Nottingham Forest vs Leeds | 2025/2026 | Premier League | 2025-11-09",
+      "rows": 1824,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903223.parquet",
+      "scraped_at": "2026-04-23T12:21:52.082276+00:00"
+    },
+    "1903222": {
+      "url": "https://www.whoscored.com/Matches/1903222/Live/Premier-League-2025-2026-Manchester-City-vs-Liverpool",
+      "display_name": "Manchester City vs Liverpool | 2025/2026 | Premier League | 2025-11-09",
+      "rows": 1907,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903222.parquet",
+      "scraped_at": "2026-04-23T12:22:16.561948+00:00"
+    },
+    "1903226": {
+      "url": "https://www.whoscored.com/Matches/1903226/Live/Premier-League-2025-2026-West-Ham-vs-Burnley",
+      "display_name": "West Ham vs Burnley | 2025/2026 | Premier League | 2025-11-08",
+      "rows": 1847,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903226.parquet",
+      "scraped_at": "2026-04-23T12:22:35.185927+00:00"
+    },
+    "1903219": {
+      "url": "https://www.whoscored.com/Matches/1903219/Live/Premier-League-2025-2026-Chelsea-vs-Wolves",
+      "display_name": "Chelsea vs Wolves | 2025/2026 | Premier League | 2025-11-08",
+      "rows": 1901,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903219.parquet",
+      "scraped_at": "2026-04-23T12:22:56.744032+00:00"
+    },
+    "1903221": {
+      "url": "https://www.whoscored.com/Matches/1903221/Live/Premier-League-2025-2026-Everton-vs-Fulham",
+      "display_name": "Everton vs Fulham | 2025/2026 | Premier League | 2025-11-08",
+      "rows": 1785,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903221.parquet",
+      "scraped_at": "2026-04-23T12:23:19.737551+00:00"
+    },
+    "1903225": {
+      "url": "https://www.whoscored.com/Matches/1903225/Live/Premier-League-2025-2026-Tottenham-vs-Manchester-United",
+      "display_name": "Tottenham vs Manchester United | 2025/2026 | Premier League | 2025-11-08",
+      "rows": 1903,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903225.parquet",
+      "scraped_at": "2026-04-23T12:23:43.565059+00:00"
+    },
+    "1903214": {
+      "url": "https://www.whoscored.com/Matches/1903214/Live/Premier-League-2025-2026-Sunderland-vs-Everton",
+      "display_name": "Sunderland vs Everton | 2025/2026 | Premier League | 2025-11-03",
+      "rows": 1847,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903214.parquet",
+      "scraped_at": "2026-04-23T12:24:05.401620+00:00"
+    },
+    "1903212": {
+      "url": "https://www.whoscored.com/Matches/1903212/Live/Premier-League-2025-2026-Manchester-City-vs-Bournemouth",
+      "display_name": "Manchester City vs Bournemouth | 2025/2026 | Premier League | 2025-11-02",
+      "rows": 2055,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903212.parquet",
+      "scraped_at": "2026-04-23T12:24:24.669986+00:00"
+    },
+    "1903216": {
+      "url": "https://www.whoscored.com/Matches/1903216/Live/Premier-League-2025-2026-West-Ham-vs-Newcastle",
+      "display_name": "West Ham vs Newcastle | 2025/2026 | Premier League | 2025-11-02",
+      "rows": 1823,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903216.parquet",
+      "scraped_at": "2026-04-23T12:24:48.125724+00:00"
+    },
+    "1903211": {
+      "url": "https://www.whoscored.com/Matches/1903211/Live/Premier-League-2025-2026-Liverpool-vs-Aston-Villa",
+      "display_name": "Liverpool vs Aston Villa | 2025/2026 | Premier League | 2025-11-01",
+      "rows": 1759,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903211.parquet",
+      "scraped_at": "2026-04-23T12:25:09.232400+00:00"
+    },
+    "1903209": {
+      "url": "https://www.whoscored.com/Matches/1903209/Live/Premier-League-2025-2026-Crystal-Palace-vs-Brentford",
+      "display_name": "Crystal Palace vs Brentford | 2025/2026 | Premier League | 2025-11-01",
+      "rows": 1706,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903209.parquet",
+      "scraped_at": "2026-04-23T12:25:25.931330+00:00"
+    },
+    "1903207": {
+      "url": "https://www.whoscored.com/Matches/1903207/Live/Premier-League-2025-2026-Brighton-vs-Leeds",
+      "display_name": "Brighton vs Leeds | 2025/2026 | Premier League | 2025-11-01",
+      "rows": 1985,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903207.parquet",
+      "scraped_at": "2026-04-23T12:25:48.129563+00:00"
+    },
+    "1903215": {
+      "url": "https://www.whoscored.com/Matches/1903215/Live/Premier-League-2025-2026-Tottenham-vs-Chelsea",
+      "display_name": "Tottenham vs Chelsea | 2025/2026 | Premier League | 2025-11-01",
+      "rows": 1886,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903215.parquet",
+      "scraped_at": "2026-04-23T12:26:09.307645+00:00"
+    },
+    "1903210": {
+      "url": "https://www.whoscored.com/Matches/1903210/Live/Premier-League-2025-2026-Fulham-vs-Wolves",
+      "display_name": "Fulham vs Wolves | 2025/2026 | Premier League | 2025-11-01",
+      "rows": 1861,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903210.parquet",
+      "scraped_at": "2026-04-23T12:26:27.925732+00:00"
+    },
+    "1903213": {
+      "url": "https://www.whoscored.com/Matches/1903213/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Manchester-United",
+      "display_name": "Nottingham Forest vs Manchester United | 2025/2026 | Premier League | 2025-11-01",
+      "rows": 1851,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903213.parquet",
+      "scraped_at": "2026-04-23T12:26:51.620061+00:00"
+    },
+    "1903199": {
+      "url": "https://www.whoscored.com/Matches/1903199/Live/Premier-League-2025-2026-Aston-Villa-vs-Manchester-City",
+      "display_name": "Aston Villa vs Manchester City | 2025/2026 | Premier League | 2025-10-26",
+      "rows": 1950,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903199.parquet",
+      "scraped_at": "2026-04-23T12:27:12.474022+00:00"
+    },
+    "1903197": {
+      "url": "https://www.whoscored.com/Matches/1903197/Live/Premier-League-2025-2026-Bournemouth-vs-Nottingham-Forest",
+      "display_name": "Bournemouth vs Nottingham Forest | 2025/2026 | Premier League | 2025-10-26",
+      "rows": 1843,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903197.parquet",
+      "scraped_at": "2026-04-23T12:27:36.833375+00:00"
+    },
+    "1903206": {
+      "url": "https://www.whoscored.com/Matches/1903206/Live/Premier-League-2025-2026-Wolves-vs-Burnley",
+      "display_name": "Wolves vs Burnley | 2025/2026 | Premier League | 2025-10-26",
+      "rows": 1970,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903206.parquet",
+      "scraped_at": "2026-04-23T12:28:00.359629+00:00"
+    },
+    "1903202": {
+      "url": "https://www.whoscored.com/Matches/1903202/Live/Premier-League-2025-2026-Everton-vs-Tottenham",
+      "display_name": "Everton vs Tottenham | 2025/2026 | Premier League | 2025-10-26",
+      "rows": 1834,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903202.parquet",
+      "scraped_at": "2026-04-23T12:28:20.318670+00:00"
+    },
+    "1903200": {
+      "url": "https://www.whoscored.com/Matches/1903200/Live/Premier-League-2025-2026-Brentford-vs-Liverpool",
+      "display_name": "Brentford vs Liverpool | 2025/2026 | Premier League | 2025-10-25",
+      "rows": 1970,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903200.parquet",
+      "scraped_at": "2026-04-23T12:28:42.943926+00:00"
+    },
+    "1903204": {
+      "url": "https://www.whoscored.com/Matches/1903204/Live/Premier-League-2025-2026-Manchester-United-vs-Brighton",
+      "display_name": "Manchester United vs Brighton | 2025/2026 | Premier League | 2025-10-25",
+      "rows": 2081,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903204.parquet",
+      "scraped_at": "2026-04-23T12:29:06.222028+00:00"
+    },
+    "1903201": {
+      "url": "https://www.whoscored.com/Matches/1903201/Live/Premier-League-2025-2026-Chelsea-vs-Sunderland",
+      "display_name": "Chelsea vs Sunderland | 2025/2026 | Premier League | 2025-10-25",
+      "rows": 1908,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903201.parquet",
+      "scraped_at": "2026-04-23T12:29:26.264665+00:00"
+    },
+    "1903205": {
+      "url": "https://www.whoscored.com/Matches/1903205/Live/Premier-League-2025-2026-Newcastle-vs-Fulham",
+      "display_name": "Newcastle vs Fulham | 2025/2026 | Premier League | 2025-10-25",
+      "rows": 1945,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903205.parquet",
+      "scraped_at": "2026-04-23T12:29:48.936735+00:00"
+    },
+    "1903203": {
+      "url": "https://www.whoscored.com/Matches/1903203/Live/Premier-League-2025-2026-Leeds-vs-West-Ham",
+      "display_name": "Leeds vs West Ham | 2025/2026 | Premier League | 2025-10-24",
+      "rows": 1901,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903203.parquet",
+      "scraped_at": "2026-04-23T12:30:09.843602+00:00"
+    },
+    "1903196": {
+      "url": "https://www.whoscored.com/Matches/1903196/Live/Premier-League-2025-2026-West-Ham-vs-Brentford",
+      "display_name": "West Ham vs Brentford | 2025/2026 | Premier League | 2025-10-20",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903196.parquet",
+      "scraped_at": "2026-04-23T12:30:26.860029+00:00"
+    },
+    "1903195": {
+      "url": "https://www.whoscored.com/Matches/1903195/Live/Premier-League-2025-2026-Tottenham-vs-Aston-Villa",
+      "display_name": "Tottenham vs Aston Villa | 2025/2026 | Premier League | 2025-10-19",
+      "rows": 1638,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903195.parquet",
+      "scraped_at": "2026-04-23T12:30:50.663080+00:00"
+    },
+    "1903191": {
+      "url": "https://www.whoscored.com/Matches/1903191/Live/Premier-League-2025-2026-Liverpool-vs-Manchester-United",
+      "display_name": "Liverpool vs Manchester United | 2025/2026 | Premier League | 2025-10-19",
+      "rows": 1770,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903191.parquet",
+      "scraped_at": "2026-04-23T12:31:12.863755+00:00"
+    },
+    "1903189": {
+      "url": "https://www.whoscored.com/Matches/1903189/Live/Premier-League-2025-2026-Crystal-Palace-vs-Bournemouth",
+      "display_name": "Crystal Palace vs Bournemouth | 2025/2026 | Premier League | 2025-10-18",
+      "rows": 1814,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903189.parquet",
+      "scraped_at": "2026-04-23T12:31:36.428496+00:00"
+    },
+    "1903184": {
+      "url": "https://www.whoscored.com/Matches/1903184/Live/Premier-League-2025-2026-Brighton-vs-Newcastle",
+      "display_name": "Brighton vs Newcastle | 2025/2026 | Premier League | 2025-10-18",
+      "rows": 1950,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903184.parquet",
+      "scraped_at": "2026-04-23T12:31:54.425724+00:00"
+    },
+    "1903187": {
+      "url": "https://www.whoscored.com/Matches/1903187/Live/Premier-League-2025-2026-Burnley-vs-Leeds",
+      "display_name": "Burnley vs Leeds | 2025/2026 | Premier League | 2025-10-18",
+      "rows": 1915,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903187.parquet",
+      "scraped_at": "2026-04-23T12:32:12.476771+00:00"
+    },
+    "1903193": {
+      "url": "https://www.whoscored.com/Matches/1903193/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Chelsea",
+      "display_name": "Nottingham Forest vs Chelsea | 2025/2026 | Premier League | 2025-10-18",
+      "rows": 1878,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903193.parquet",
+      "scraped_at": "2026-04-23T12:32:36.734478+00:00"
+    },
+    "1903192": {
+      "url": "https://www.whoscored.com/Matches/1903192/Live/Premier-League-2025-2026-Manchester-City-vs-Everton",
+      "display_name": "Manchester City vs Everton | 2025/2026 | Premier League | 2025-10-18",
+      "rows": 2145,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903192.parquet",
+      "scraped_at": "2026-04-23T12:32:58.993439+00:00"
+    },
+    "1903194": {
+      "url": "https://www.whoscored.com/Matches/1903194/Live/Premier-League-2025-2026-Sunderland-vs-Wolves",
+      "display_name": "Sunderland vs Wolves | 2025/2026 | Premier League | 2025-10-18",
+      "rows": 1770,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903194.parquet",
+      "scraped_at": "2026-04-23T12:33:23.157190+00:00"
+    },
+    "1903166": {
+      "url": "https://www.whoscored.com/Matches/1903166/Live/Premier-League-2025-2026-Aston-Villa-vs-Burnley",
+      "display_name": "Aston Villa vs Burnley | 2025/2026 | Premier League | 2025-10-05",
+      "rows": 1841,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903166.parquet",
+      "scraped_at": "2026-04-23T12:33:45.251674+00:00"
+    },
+    "1903168": {
+      "url": "https://www.whoscored.com/Matches/1903168/Live/Premier-League-2025-2026-Brentford-vs-Manchester-City",
+      "display_name": "Brentford vs Manchester City | 2025/2026 | Premier League | 2025-10-05",
+      "rows": 1976,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903168.parquet",
+      "scraped_at": "2026-04-23T12:34:05.786682+00:00"
+    },
+    "1903182": {
+      "url": "https://www.whoscored.com/Matches/1903182/Live/Premier-League-2025-2026-Wolves-vs-Brighton",
+      "display_name": "Wolves vs Brighton | 2025/2026 | Premier League | 2025-10-05",
+      "rows": 1899,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903182.parquet",
+      "scraped_at": "2026-04-23T12:34:28.010401+00:00"
+    },
+    "1903172": {
+      "url": "https://www.whoscored.com/Matches/1903172/Live/Premier-League-2025-2026-Everton-vs-Crystal-Palace",
+      "display_name": "Everton vs Crystal Palace | 2025/2026 | Premier League | 2025-10-05",
+      "rows": 2011,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903172.parquet",
+      "scraped_at": "2026-04-23T12:34:46.510310+00:00"
+    },
+    "1903180": {
+      "url": "https://www.whoscored.com/Matches/1903180/Live/Premier-League-2025-2026-Newcastle-vs-Nottingham-Forest",
+      "display_name": "Newcastle vs Nottingham Forest | 2025/2026 | Premier League | 2025-10-05",
+      "rows": 1920,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903180.parquet",
+      "scraped_at": "2026-04-23T12:35:06.882862+00:00"
+    },
+    "1903170": {
+      "url": "https://www.whoscored.com/Matches/1903170/Live/Premier-League-2025-2026-Chelsea-vs-Liverpool",
+      "display_name": "Chelsea vs Liverpool | 2025/2026 | Premier League | 2025-10-04",
+      "rows": 1953,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903170.parquet",
+      "scraped_at": "2026-04-23T12:35:26.325282+00:00"
+    },
+    "1903174": {
+      "url": "https://www.whoscored.com/Matches/1903174/Live/Premier-League-2025-2026-Leeds-vs-Tottenham",
+      "display_name": "Leeds vs Tottenham | 2025/2026 | Premier League | 2025-10-04",
+      "rows": 1732,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903174.parquet",
+      "scraped_at": "2026-04-23T12:35:49.076084+00:00"
+    },
+    "1903176": {
+      "url": "https://www.whoscored.com/Matches/1903176/Live/Premier-League-2025-2026-Manchester-United-vs-Sunderland",
+      "display_name": "Manchester United vs Sunderland | 2025/2026 | Premier League | 2025-10-04",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903176.parquet",
+      "scraped_at": "2026-04-23T12:36:13.405416+00:00"
+    },
+    "1903163": {
+      "url": "https://www.whoscored.com/Matches/1903163/Live/Premier-League-2025-2026-Bournemouth-vs-Fulham",
+      "display_name": "Bournemouth vs Fulham | 2025/2026 | Premier League | 2025-10-03",
+      "rows": 2096,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903163.parquet",
+      "scraped_at": "2026-04-23T12:36:34.356145+00:00"
+    },
+    "1903181": {
+      "url": "https://www.whoscored.com/Matches/1903181/Live/Premier-League-2025-2026-Everton-vs-West-Ham",
+      "display_name": "Everton vs West Ham | 2025/2026 | Premier League | 2025-09-29",
+      "rows": 1896,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903181.parquet",
+      "scraped_at": "2026-04-23T12:36:55.498040+00:00"
+    },
+    "1903175": {
+      "url": "https://www.whoscored.com/Matches/1903175/Live/Premier-League-2025-2026-Aston-Villa-vs-Fulham",
+      "display_name": "Aston Villa vs Fulham | 2025/2026 | Premier League | 2025-09-28",
+      "rows": 1803,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903175.parquet",
+      "scraped_at": "2026-04-23T12:37:15.707610+00:00"
+    },
+    "1903183": {
+      "url": "https://www.whoscored.com/Matches/1903183/Live/Premier-League-2025-2026-Leeds-vs-Bournemouth",
+      "display_name": "Leeds vs Bournemouth | 2025/2026 | Premier League | 2025-09-27",
+      "rows": 1958,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903183.parquet",
+      "scraped_at": "2026-04-23T12:37:34.768622+00:00"
+    },
+    "1903177": {
+      "url": "https://www.whoscored.com/Matches/1903177/Live/Premier-League-2025-2026-Brentford-vs-Manchester-United",
+      "display_name": "Brentford vs Manchester United | 2025/2026 | Premier League | 2025-09-27",
+      "rows": 1724,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903177.parquet",
+      "scraped_at": "2026-04-23T12:37:52.851965+00:00"
+    },
+    "1903178": {
+      "url": "https://www.whoscored.com/Matches/1903178/Live/Premier-League-2025-2026-Chelsea-vs-Brighton",
+      "display_name": "Chelsea vs Brighton | 2025/2026 | Premier League | 2025-09-27",
+      "rows": 1714,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903178.parquet",
+      "scraped_at": "2026-04-23T12:38:22.058086+00:00"
+    },
+    "1903185": {
+      "url": "https://www.whoscored.com/Matches/1903185/Live/Premier-League-2025-2026-Manchester-City-vs-Burnley",
+      "display_name": "Manchester City vs Burnley | 2025/2026 | Premier League | 2025-09-27",
+      "rows": 1890,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903185.parquet",
+      "scraped_at": "2026-04-23T12:38:45.301850+00:00"
+    },
+    "1903179": {
+      "url": "https://www.whoscored.com/Matches/1903179/Live/Premier-League-2025-2026-Crystal-Palace-vs-Liverpool",
+      "display_name": "Crystal Palace vs Liverpool | 2025/2026 | Premier League | 2025-09-27",
+      "rows": 1928,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903179.parquet",
+      "scraped_at": "2026-04-23T12:39:02.824173+00:00"
+    },
+    "1903188": {
+      "url": "https://www.whoscored.com/Matches/1903188/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Sunderland",
+      "display_name": "Nottingham Forest vs Sunderland | 2025/2026 | Premier League | 2025-09-27",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903188.parquet",
+      "scraped_at": "2026-04-23T12:39:25.334245+00:00"
+    },
+    "1903161": {
+      "url": "https://www.whoscored.com/Matches/1903161/Live/Premier-League-2025-2026-Tottenham-vs-Wolves",
+      "display_name": "Tottenham vs Wolves | 2025/2026 | Premier League | 2025-09-27",
+      "rows": 1865,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903161.parquet",
+      "scraped_at": "2026-04-23T12:39:47.531994+00:00"
+    },
+    "1903169": {
+      "url": "https://www.whoscored.com/Matches/1903169/Live/Premier-League-2025-2026-Sunderland-vs-Aston-Villa",
+      "display_name": "Sunderland vs Aston Villa | 2025/2026 | Premier League | 2025-09-21",
+      "rows": 1693,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903169.parquet",
+      "scraped_at": "2026-04-23T12:40:23.114251+00:00"
+    },
+    "1903157": {
+      "url": "https://www.whoscored.com/Matches/1903157/Live/Premier-League-2025-2026-Bournemouth-vs-Newcastle",
+      "display_name": "Bournemouth vs Newcastle | 2025/2026 | Premier League | 2025-09-21",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903157.parquet",
+      "scraped_at": "2026-04-23T12:40:42.325992+00:00"
+    },
+    "1903162": {
+      "url": "https://www.whoscored.com/Matches/1903162/Live/Premier-League-2025-2026-Fulham-vs-Brentford",
+      "display_name": "Fulham vs Brentford | 2025/2026 | Premier League | 2025-09-20",
+      "rows": 1839,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903162.parquet",
+      "scraped_at": "2026-04-23T12:41:03.985986+00:00"
+    },
+    "1903159": {
+      "url": "https://www.whoscored.com/Matches/1903159/Live/Premier-League-2025-2026-Brighton-vs-Tottenham",
+      "display_name": "Brighton vs Tottenham | 2025/2026 | Premier League | 2025-09-20",
+      "rows": 1934,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903159.parquet",
+      "scraped_at": "2026-04-23T12:41:27.441970+00:00"
+    },
+    "1903160": {
+      "url": "https://www.whoscored.com/Matches/1903160/Live/Premier-League-2025-2026-Burnley-vs-Nottingham-Forest",
+      "display_name": "Burnley vs Nottingham Forest | 2025/2026 | Premier League | 2025-09-20",
+      "rows": 1997,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903160.parquet",
+      "scraped_at": "2026-04-23T12:41:50.991407+00:00"
+    },
+    "1903167": {
+      "url": "https://www.whoscored.com/Matches/1903167/Live/Premier-League-2025-2026-Manchester-United-vs-Chelsea",
+      "display_name": "Manchester United vs Chelsea | 2025/2026 | Premier League | 2025-09-20",
+      "rows": 1913,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903167.parquet",
+      "scraped_at": "2026-04-23T12:42:11.017245+00:00"
+    },
+    "1903171": {
+      "url": "https://www.whoscored.com/Matches/1903171/Live/Premier-League-2025-2026-West-Ham-vs-Crystal-Palace",
+      "display_name": "West Ham vs Crystal Palace | 2025/2026 | Premier League | 2025-09-20",
+      "rows": 1810,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903171.parquet",
+      "scraped_at": "2026-04-23T12:42:35.751032+00:00"
+    },
+    "1903164": {
+      "url": "https://www.whoscored.com/Matches/1903164/Live/Premier-League-2025-2026-Liverpool-vs-Everton",
+      "display_name": "Liverpool vs Everton | 2025/2026 | Premier League | 2025-09-20",
+      "rows": 1840,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903164.parquet",
+      "scraped_at": "2026-04-23T12:42:59.818959+00:00"
+    },
+    "1903173": {
+      "url": "https://www.whoscored.com/Matches/1903173/Live/Premier-League-2025-2026-Wolves-vs-Leeds",
+      "display_name": "Wolves vs Leeds | 2025/2026 | Premier League | 2025-09-20",
+      "rows": 2012,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903173.parquet",
+      "scraped_at": "2026-04-23T12:43:22.397004+00:00"
+    },
+    "1903150": {
+      "url": "https://www.whoscored.com/Matches/1903150/Live/Premier-League-2025-2026-Burnley-vs-Liverpool",
+      "display_name": "Burnley vs Liverpool | 2025/2026 | Premier League | 2025-09-14",
+      "rows": 1864,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903150.parquet",
+      "scraped_at": "2026-04-23T12:43:43.990853+00:00"
+    },
+    "1903154": {
+      "url": "https://www.whoscored.com/Matches/1903154/Live/Premier-League-2025-2026-Manchester-City-vs-Manchester-United",
+      "display_name": "Manchester City vs Manchester United | 2025/2026 | Premier League | 2025-09-14",
+      "rows": 1880,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903154.parquet",
+      "scraped_at": "2026-04-23T12:44:06.330497+00:00"
+    },
+    "1903152": {
+      "url": "https://www.whoscored.com/Matches/1903152/Live/Premier-League-2025-2026-Everton-vs-Aston-Villa",
+      "display_name": "Everton vs Aston Villa | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1713,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903152.parquet",
+      "scraped_at": "2026-04-23T12:44:29.965128+00:00"
+    },
+    "1903147": {
+      "url": "https://www.whoscored.com/Matches/1903147/Live/Premier-League-2025-2026-Bournemouth-vs-Brighton",
+      "display_name": "Bournemouth vs Brighton | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1802,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903147.parquet",
+      "scraped_at": "2026-04-23T12:44:51.385706+00:00"
+    },
+    "1903149": {
+      "url": "https://www.whoscored.com/Matches/1903149/Live/Premier-League-2025-2026-Brentford-vs-Chelsea",
+      "display_name": "Brentford vs Chelsea | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1838,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903149.parquet",
+      "scraped_at": "2026-04-23T12:45:10.447230+00:00"
+    },
+    "1903151": {
+      "url": "https://www.whoscored.com/Matches/1903151/Live/Premier-League-2025-2026-Crystal-Palace-vs-Sunderland",
+      "display_name": "Crystal Palace vs Sunderland | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1812,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903151.parquet",
+      "scraped_at": "2026-04-23T12:45:29.386135+00:00"
+    },
+    "1903153": {
+      "url": "https://www.whoscored.com/Matches/1903153/Live/Premier-League-2025-2026-Fulham-vs-Leeds",
+      "display_name": "Fulham vs Leeds | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1872,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903153.parquet",
+      "scraped_at": "2026-04-23T12:45:52.483018+00:00"
+    },
+    "1903155": {
+      "url": "https://www.whoscored.com/Matches/1903155/Live/Premier-League-2025-2026-Newcastle-vs-Wolves",
+      "display_name": "Newcastle vs Wolves | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1808,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903155.parquet",
+      "scraped_at": "2026-04-23T12:46:17.943080+00:00"
+    },
+    "1903156": {
+      "url": "https://www.whoscored.com/Matches/1903156/Live/Premier-League-2025-2026-West-Ham-vs-Tottenham",
+      "display_name": "West Ham vs Tottenham | 2025/2026 | Premier League | 2025-09-13",
+      "rows": 1787,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903156.parquet",
+      "scraped_at": "2026-04-23T12:46:37.673184+00:00"
+    },
+    "1903137": {
+      "url": "https://www.whoscored.com/Matches/1903137/Live/Premier-League-2025-2026-Aston-Villa-vs-Crystal-Palace",
+      "display_name": "Aston Villa vs Crystal Palace | 2025/2026 | Premier League | 2025-08-31",
+      "rows": 1838,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903137.parquet",
+      "scraped_at": "2026-04-23T12:46:58.640867+00:00"
+    },
+    "1903139": {
+      "url": "https://www.whoscored.com/Matches/1903139/Live/Premier-League-2025-2026-Brighton-vs-Manchester-City",
+      "display_name": "Brighton vs Manchester City | 2025/2026 | Premier League | 2025-08-31",
+      "rows": 1825,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903139.parquet",
+      "scraped_at": "2026-04-23T12:47:21.617690+00:00"
+    },
+    "1903138": {
+      "url": "https://www.whoscored.com/Matches/1903138/Live/Premier-League-2025-2026-Nottingham-Forest-vs-West-Ham",
+      "display_name": "Nottingham Forest vs West Ham | 2025/2026 | Premier League | 2025-08-31",
+      "rows": 1947,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903138.parquet",
+      "scraped_at": "2026-04-23T12:47:43.341342+00:00"
+    },
+    "1903142": {
+      "url": "https://www.whoscored.com/Matches/1903142/Live/Premier-League-2025-2026-Tottenham-vs-Bournemouth",
+      "display_name": "Tottenham vs Bournemouth | 2025/2026 | Premier League | 2025-08-30",
+      "rows": 1818,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903142.parquet",
+      "scraped_at": "2026-04-23T12:48:03.253035+00:00"
+    },
+    "1903140": {
+      "url": "https://www.whoscored.com/Matches/1903140/Live/Premier-League-2025-2026-Sunderland-vs-Brentford",
+      "display_name": "Sunderland vs Brentford | 2025/2026 | Premier League | 2025-08-30",
+      "rows": 1712,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903140.parquet",
+      "scraped_at": "2026-04-23T12:48:27.370471+00:00"
+    },
+    "1903146": {
+      "url": "https://www.whoscored.com/Matches/1903146/Live/Premier-League-2025-2026-Manchester-United-vs-Burnley",
+      "display_name": "Manchester United vs Burnley | 2025/2026 | Premier League | 2025-08-30",
+      "rows": 1790,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903146.parquet",
+      "scraped_at": "2026-04-23T12:48:52.512148+00:00"
+    },
+    "1903141": {
+      "url": "https://www.whoscored.com/Matches/1903141/Live/Premier-League-2025-2026-Chelsea-vs-Fulham",
+      "display_name": "Chelsea vs Fulham | 2025/2026 | Premier League | 2025-08-30",
+      "rows": 1907,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903141.parquet",
+      "scraped_at": "2026-04-23T12:49:15.311451+00:00"
+    },
+    "1903144": {
+      "url": "https://www.whoscored.com/Matches/1903144/Live/Premier-League-2025-2026-Wolves-vs-Everton",
+      "display_name": "Wolves vs Everton | 2025/2026 | Premier League | 2025-08-30",
+      "rows": 1913,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903144.parquet",
+      "scraped_at": "2026-04-23T12:49:36.495632+00:00"
+    },
+    "1903143": {
+      "url": "https://www.whoscored.com/Matches/1903143/Live/Premier-League-2025-2026-Leeds-vs-Newcastle",
+      "display_name": "Leeds vs Newcastle | 2025/2026 | Premier League | 2025-08-30",
+      "rows": 1918,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903143.parquet",
+      "scraped_at": "2026-04-23T12:50:00.904403+00:00"
+    },
+    "1903135": {
+      "url": "https://www.whoscored.com/Matches/1903135/Live/Premier-League-2025-2026-Newcastle-vs-Liverpool",
+      "display_name": "Newcastle vs Liverpool | 2025/2026 | Premier League | 2025-08-25",
+      "rows": 1580,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903135.parquet",
+      "scraped_at": "2026-04-23T12:50:20.467300+00:00"
+    },
+    "1903132": {
+      "url": "https://www.whoscored.com/Matches/1903132/Live/Premier-League-2025-2026-Everton-vs-Brighton",
+      "display_name": "Everton vs Brighton | 2025/2026 | Premier League | 2025-08-24",
+      "rows": 1875,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903132.parquet",
+      "scraped_at": "2026-04-23T12:50:43.461052+00:00"
+    },
+    "1903131": {
+      "url": "https://www.whoscored.com/Matches/1903131/Live/Premier-League-2025-2026-Crystal-Palace-vs-Nottingham-Forest",
+      "display_name": "Crystal Palace vs Nottingham Forest | 2025/2026 | Premier League | 2025-08-24",
+      "rows": 1819,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903131.parquet",
+      "scraped_at": "2026-04-23T12:51:09.181501+00:00"
+    },
+    "1903133": {
+      "url": "https://www.whoscored.com/Matches/1903133/Live/Premier-League-2025-2026-Fulham-vs-Manchester-United",
+      "display_name": "Fulham vs Manchester United | 2025/2026 | Premier League | 2025-08-24",
+      "rows": 1816,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903133.parquet",
+      "scraped_at": "2026-04-23T12:51:34.267976+00:00"
+    },
+    "1903129": {
+      "url": "https://www.whoscored.com/Matches/1903129/Live/Premier-League-2025-2026-Brentford-vs-Aston-Villa",
+      "display_name": "Brentford vs Aston Villa | 2025/2026 | Premier League | 2025-08-23",
+      "rows": 1812,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903129.parquet",
+      "scraped_at": "2026-04-23T12:51:58.328103+00:00"
+    },
+    "1903127": {
+      "url": "https://www.whoscored.com/Matches/1903127/Live/Premier-League-2025-2026-Bournemouth-vs-Wolves",
+      "display_name": "Bournemouth vs Wolves | 2025/2026 | Premier League | 2025-08-23",
+      "rows": 1694,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903127.parquet",
+      "scraped_at": "2026-04-23T12:52:24.999520+00:00"
+    },
+    "1903130": {
+      "url": "https://www.whoscored.com/Matches/1903130/Live/Premier-League-2025-2026-Burnley-vs-Sunderland",
+      "display_name": "Burnley vs Sunderland | 2025/2026 | Premier League | 2025-08-23",
+      "rows": 2061,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903130.parquet",
+      "scraped_at": "2026-04-23T12:52:50.526235+00:00"
+    },
+    "1903134": {
+      "url": "https://www.whoscored.com/Matches/1903134/Live/Premier-League-2025-2026-Manchester-City-vs-Tottenham",
+      "display_name": "Manchester City vs Tottenham | 2025/2026 | Premier League | 2025-08-23",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903134.parquet",
+      "scraped_at": "2026-04-23T12:53:14.263344+00:00"
+    },
+    "1903136": {
+      "url": "https://www.whoscored.com/Matches/1903136/Live/Premier-League-2025-2026-West-Ham-vs-Chelsea",
+      "display_name": "West Ham vs Chelsea | 2025/2026 | Premier League | 2025-08-22",
+      "rows": 1865,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903136.parquet",
+      "scraped_at": "2026-04-23T12:53:37.938250+00:00"
+    },
+    "1903126": {
+      "url": "https://www.whoscored.com/Matches/1903126/Live/Premier-League-2025-2026-Leeds-vs-Everton",
+      "display_name": "Leeds vs Everton | 2025/2026 | Premier League | 2025-08-18",
+      "rows": 1831,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903126.parquet",
+      "scraped_at": "2026-04-23T12:53:57.583124+00:00"
+    },
+    "1903120": {
+      "url": "https://www.whoscored.com/Matches/1903120/Live/Premier-League-2025-2026-Nottingham-Forest-vs-Brentford",
+      "display_name": "Nottingham Forest vs Brentford | 2025/2026 | Premier League | 2025-08-17",
+      "rows": 1714,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903120.parquet",
+      "scraped_at": "2026-04-23T12:54:20.409610+00:00"
+    },
+    "1903124": {
+      "url": "https://www.whoscored.com/Matches/1903124/Live/Premier-League-2025-2026-Chelsea-vs-Crystal-Palace",
+      "display_name": "Chelsea vs Crystal Palace | 2025/2026 | Premier League | 2025-08-17",
+      "rows": 1802,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903124.parquet",
+      "scraped_at": "2026-04-23T12:54:44.993240+00:00"
+    },
+    "1903118": {
+      "url": "https://www.whoscored.com/Matches/1903118/Live/Premier-League-2025-2026-Aston-Villa-vs-Newcastle",
+      "display_name": "Aston Villa vs Newcastle | 2025/2026 | Premier League | 2025-08-16",
+      "rows": 1691,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903118.parquet",
+      "scraped_at": "2026-04-23T12:55:05.906057+00:00"
+    },
+    "1903119": {
+      "url": "https://www.whoscored.com/Matches/1903119/Live/Premier-League-2025-2026-Brighton-vs-Fulham",
+      "display_name": "Brighton vs Fulham | 2025/2026 | Premier League | 2025-08-16",
+      "rows": 1756,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903119.parquet",
+      "scraped_at": "2026-04-23T12:55:29.688337+00:00"
+    },
+    "1903122": {
+      "url": "https://www.whoscored.com/Matches/1903122/Live/Premier-League-2025-2026-Tottenham-vs-Burnley",
+      "display_name": "Tottenham vs Burnley | 2025/2026 | Premier League | 2025-08-16",
+      "rows": 1650,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903122.parquet",
+      "scraped_at": "2026-04-23T12:55:49.708046+00:00"
+    },
+    "1903123": {
+      "url": "https://www.whoscored.com/Matches/1903123/Live/Premier-League-2025-2026-Wolves-vs-Manchester-City",
+      "display_name": "Wolves vs Manchester City | 2025/2026 | Premier League | 2025-08-16",
+      "rows": 1961,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903123.parquet",
+      "scraped_at": "2026-04-23T12:56:11.551138+00:00"
+    },
+    "1903121": {
+      "url": "https://www.whoscored.com/Matches/1903121/Live/Premier-League-2025-2026-Sunderland-vs-West-Ham",
+      "display_name": "Sunderland vs West Ham | 2025/2026 | Premier League | 2025-08-16",
+      "rows": 1814,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903121.parquet",
+      "scraped_at": "2026-04-23T12:56:34.015740+00:00"
+    },
+    "1903117": {
+      "url": "https://www.whoscored.com/Matches/1903117/Live/Premier-League-2025-2026-Liverpool-vs-Bournemouth",
+      "display_name": "Liverpool vs Bournemouth | 2025/2026 | Premier League | 2025-08-15",
+      "rows": 1831,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903117.parquet",
+      "scraped_at": "2026-04-23T12:56:59.697454+00:00"
+    },
+    "1903410": {
+      "url": "https://www.whoscored.com/Matches/1903410/Live/Premier-League-2025-2026-Manchester-United-vs-Crystal-Palace",
+      "display_name": "Manchester United vs Crystal Palace | 2025/2026 | Premier League | 2026-03-01",
+      "rows": 2009,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903410.parquet",
+      "scraped_at": "2026-04-23T13:13:05.602153+00:00"
+    },
+    "1903404": {
+      "url": "https://www.whoscored.com/Matches/1903404/Live/Premier-League-2025-2026-Fulham-vs-Tottenham",
+      "display_name": "Fulham vs Tottenham | 2025/2026 | Premier League | 2026-03-01",
+      "rows": 1880,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\premier_league\\2025_2026\\1903404.parquet",
+      "scraped_at": "2026-04-23T13:13:26.403494+00:00"
+    }
+  },
+  "failed": {
+    "1903389": {
+      "url": "https://www.whoscored.com/Matches/1903389/Live/England-Premier-League-2025-2026-Burnley-vs-Manchester-City",
+      "display_name": "Burnley vs Manchester City | 2025/2026 | England Premier League | 2026-04-22",
+      "error": "'charmap' codec can't encode character '\\u2705' in position 0: character maps to <undefined>",
+      "attempts": 1,
+      "last_attempt": "2026-04-23T00:34:39.486295+00:00"
+    },
+    "1903384": {
+      "url": "https://www.whoscored.com/Matches/1903384/Live/England-Premier-League-2025-2026-Bournemouth-vs-Leeds",
+      "display_name": "Bournemouth vs Leeds | 2025/2026 | England Premier League | 2026-04-22",
+      "error": "'charmap' codec can't encode character '\\u2705' in position 0: character maps to <undefined>",
+      "attempts": 1,
+      "last_attempt": "2026-04-23T00:34:58.748716+00:00"
+    },
+    "1903388": {
+      "url": "https://www.whoscored.com/Matches/1903388/Live/England-Premier-League-2025-2026-Brighton-vs-Chelsea",
+      "display_name": "Brighton vs Chelsea | 2025/2026 | England Premier League | 2026-04-21",
+      "error": "'charmap' codec can't encode character '\\u2705' in position 0: character maps to <undefined>",
+      "attempts": 1,
+      "last_attempt": "2026-04-23T00:35:14.926863+00:00"
+    },
+    "1903410": {
+      "url": "https://www.whoscored.com/Matches/1903410/Live/Premier-League-2025-2026-Manchester-United-vs-Crystal-Palace",
+      "display_name": "Manchester United vs Crystal Palace | 2025/2026 | Premier League | 2026-03-01",
+      "error": "Failed to perform, curl: (6) Could not resolve host: www.whoscored.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+      "attempts": 1,
+      "last_attempt": "2026-04-23T11:23:00.076619+00:00"
+    },
+    "1903404": {
+      "url": "https://www.whoscored.com/Matches/1903404/Live/Premier-League-2025-2026-Fulham-vs-Tottenham",
+      "display_name": "Fulham vs Tottenham | 2025/2026 | Premier League | 2026-03-01",
+      "error": "Failed to perform, curl: (6) Could not resolve host: www.whoscored.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+      "attempts": 1,
+      "last_attempt": "2026-04-23T11:23:23.118195+00:00"
+    }
+  },
+  "skipped": {},
+  "created_at": "2026-04-22T14:51:50.032713+00:00",
+  "updated_at": "2026-04-23T13:13:32.197738+00:00"
+}

@@ -1,0 +1,2160 @@
+{
+  "scraped": {
+    "1911504": {
+      "url": "https://www.whoscored.com/Matches/1911504/Live/France-Ligue-1-2025-2026-Paris-Saint-Germain-vs-Nantes",
+      "display_name": "Paris Saint-Germain vs Nantes | 2025/2026 | France Ligue 1 | 2026-04-22",
+      "rows": 2052,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911504.parquet",
+      "scraped_at": "2026-04-23T00:42:23.198968+00:00"
+    },
+    "1911550": {
+      "url": "https://www.whoscored.com/Matches/1911550/Live/Ligue-1-2025-2026-Monaco-vs-Auxerre",
+      "display_name": "Monaco vs Auxerre | 2025/2026 | Ligue 1 | 2026-04-19",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911550.parquet",
+      "scraped_at": "2026-04-24T09:51:16.122068+00:00"
+    },
+    "1911551": {
+      "url": "https://www.whoscored.com/Matches/1911551/Live/Ligue-1-2025-2026-Nantes-vs-Brest",
+      "display_name": "Nantes vs Brest | 2025/2026 | Ligue 1 | 2026-04-19",
+      "rows": 1631,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911551.parquet",
+      "scraped_at": "2026-04-24T09:51:39.793975+00:00"
+    },
+    "1911552": {
+      "url": "https://www.whoscored.com/Matches/1911552/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Lyon",
+      "display_name": "Paris Saint-Germain vs Lyon | 2025/2026 | Ligue 1 | 2026-04-19",
+      "rows": 2026,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911552.parquet",
+      "scraped_at": "2026-04-24T09:51:57.831810+00:00"
+    },
+    "1911549": {
+      "url": "https://www.whoscored.com/Matches/1911549/Live/Ligue-1-2025-2026-Metz-vs-Paris-FC",
+      "display_name": "Metz vs Paris FC | 2025/2026 | Ligue 1 | 2026-04-19",
+      "rows": 2005,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911549.parquet",
+      "scraped_at": "2026-04-24T09:52:18.292999+00:00"
+    },
+    "1911553": {
+      "url": "https://www.whoscored.com/Matches/1911553/Live/Ligue-1-2025-2026-Strasbourg-vs-Rennes",
+      "display_name": "Strasbourg vs Rennes | 2025/2026 | Ligue 1 | 2026-04-19",
+      "rows": 1904,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911553.parquet",
+      "scraped_at": "2026-04-24T09:52:40.930590+00:00"
+    },
+    "1911545": {
+      "url": "https://www.whoscored.com/Matches/1911545/Live/Ligue-1-2025-2026-Angers-vs-Le-Havre",
+      "display_name": "Angers vs Le Havre | 2025/2026 | Ligue 1 | 2026-04-18",
+      "rows": 1763,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911545.parquet",
+      "scraped_at": "2026-04-24T09:53:00.877986+00:00"
+    },
+    "1911547": {
+      "url": "https://www.whoscored.com/Matches/1911547/Live/Ligue-1-2025-2026-Lille-vs-Nice",
+      "display_name": "Lille vs Nice | 2025/2026 | Ligue 1 | 2026-04-18",
+      "rows": 1900,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911547.parquet",
+      "scraped_at": "2026-04-24T09:53:23.264688+00:00"
+    },
+    "1911548": {
+      "url": "https://www.whoscored.com/Matches/1911548/Live/Ligue-1-2025-2026-Lorient-vs-Marseille",
+      "display_name": "Lorient vs Marseille | 2025/2026 | Ligue 1 | 2026-04-18",
+      "rows": 1842,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911548.parquet",
+      "scraped_at": "2026-04-24T09:53:44.063306+00:00"
+    },
+    "1911546": {
+      "url": "https://www.whoscored.com/Matches/1911546/Live/Ligue-1-2025-2026-Lens-vs-Toulouse",
+      "display_name": "Lens vs Toulouse | 2025/2026 | Ligue 1 | 2026-04-17",
+      "rows": 1818,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911546.parquet",
+      "scraped_at": "2026-04-24T09:54:06.344354+00:00"
+    },
+    "1911541": {
+      "url": "https://www.whoscored.com/Matches/1911541/Live/Ligue-1-2025-2026-Nice-vs-Le-Havre",
+      "display_name": "Nice vs Le Havre | 2025/2026 | Ligue 1 | 2026-04-12",
+      "rows": 1764,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911541.parquet",
+      "scraped_at": "2026-04-24T09:54:24.288717+00:00"
+    },
+    "1911544": {
+      "url": "https://www.whoscored.com/Matches/1911544/Live/Ligue-1-2025-2026-Toulouse-vs-Lille",
+      "display_name": "Toulouse vs Lille | 2025/2026 | Ligue 1 | 2026-04-12",
+      "rows": 1913,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911544.parquet",
+      "scraped_at": "2026-04-24T09:54:47.447567+00:00"
+    },
+    "1911539": {
+      "url": "https://www.whoscored.com/Matches/1911539/Live/Ligue-1-2025-2026-Lyon-vs-Lorient",
+      "display_name": "Lyon vs Lorient | 2025/2026 | Ligue 1 | 2026-04-12",
+      "rows": 1925,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911539.parquet",
+      "scraped_at": "2026-04-24T09:55:12.145305+00:00"
+    },
+    "1911543": {
+      "url": "https://www.whoscored.com/Matches/1911543/Live/Ligue-1-2025-2026-Rennes-vs-Angers",
+      "display_name": "Rennes vs Angers | 2025/2026 | Ligue 1 | 2026-04-11",
+      "rows": 1995,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911543.parquet",
+      "scraped_at": "2026-04-24T09:55:29.975202+00:00"
+    },
+    "1911536": {
+      "url": "https://www.whoscored.com/Matches/1911536/Live/Ligue-1-2025-2026-Auxerre-vs-Nantes",
+      "display_name": "Auxerre vs Nantes | 2025/2026 | Ligue 1 | 2026-04-11",
+      "rows": 1733,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911536.parquet",
+      "scraped_at": "2026-04-24T09:55:47.653151+00:00"
+    },
+    "1911540": {
+      "url": "https://www.whoscored.com/Matches/1911540/Live/Ligue-1-2025-2026-Marseille-vs-Metz",
+      "display_name": "Marseille vs Metz | 2025/2026 | Ligue 1 | 2026-04-10",
+      "rows": 1876,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911540.parquet",
+      "scraped_at": "2026-04-24T09:56:10.648418+00:00"
+    },
+    "1911542": {
+      "url": "https://www.whoscored.com/Matches/1911542/Live/Ligue-1-2025-2026-Paris-FC-vs-Monaco",
+      "display_name": "Paris FC vs Monaco | 2025/2026 | Ligue 1 | 2026-04-10",
+      "rows": 1986,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911542.parquet",
+      "scraped_at": "2026-04-24T09:56:32.613103+00:00"
+    },
+    "1911521": {
+      "url": "https://www.whoscored.com/Matches/1911521/Live/Ligue-1-2025-2026-Angers-vs-Lyon",
+      "display_name": "Angers vs Lyon | 2025/2026 | Ligue 1 | 2026-04-05",
+      "rows": 1888,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911521.parquet",
+      "scraped_at": "2026-04-24T09:56:51.136814+00:00"
+    },
+    "1911529": {
+      "url": "https://www.whoscored.com/Matches/1911529/Live/Ligue-1-2025-2026-Le-Havre-vs-Auxerre",
+      "display_name": "Le Havre vs Auxerre | 2025/2026 | Ligue 1 | 2026-04-05",
+      "rows": 1735,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911529.parquet",
+      "scraped_at": "2026-04-24T09:57:12.780292+00:00"
+    },
+    "1911531": {
+      "url": "https://www.whoscored.com/Matches/1911531/Live/Ligue-1-2025-2026-Lorient-vs-Paris-FC",
+      "display_name": "Lorient vs Paris FC | 2025/2026 | Ligue 1 | 2026-04-05",
+      "rows": 1865,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911531.parquet",
+      "scraped_at": "2026-04-24T09:57:30.599099+00:00"
+    },
+    "1911533": {
+      "url": "https://www.whoscored.com/Matches/1911533/Live/Ligue-1-2025-2026-Monaco-vs-Marseille",
+      "display_name": "Monaco vs Marseille | 2025/2026 | Ligue 1 | 2026-04-05",
+      "rows": 1749,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911533.parquet",
+      "scraped_at": "2026-04-24T09:57:49.827492+00:00"
+    },
+    "1911532": {
+      "url": "https://www.whoscored.com/Matches/1911532/Live/Ligue-1-2025-2026-Metz-vs-Nantes",
+      "display_name": "Metz vs Nantes | 2025/2026 | Ligue 1 | 2026-04-05",
+      "rows": 1941,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911532.parquet",
+      "scraped_at": "2026-04-24T09:58:12.203838+00:00"
+    },
+    "1911523": {
+      "url": "https://www.whoscored.com/Matches/1911523/Live/Ligue-1-2025-2026-Brest-vs-Rennes",
+      "display_name": "Brest vs Rennes | 2025/2026 | Ligue 1 | 2026-04-04",
+      "rows": 1731,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911523.parquet",
+      "scraped_at": "2026-04-24T09:58:30.127217+00:00"
+    },
+    "1911530": {
+      "url": "https://www.whoscored.com/Matches/1911530/Live/Ligue-1-2025-2026-Lille-vs-Lens",
+      "display_name": "Lille vs Lens | 2025/2026 | Ligue 1 | 2026-04-04",
+      "rows": 1721,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911530.parquet",
+      "scraped_at": "2026-04-24T09:58:53.575663+00:00"
+    },
+    "1911535": {
+      "url": "https://www.whoscored.com/Matches/1911535/Live/Ligue-1-2025-2026-Strasbourg-vs-Nice",
+      "display_name": "Strasbourg vs Nice | 2025/2026 | Ligue 1 | 2026-04-04",
+      "rows": 2051,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911535.parquet",
+      "scraped_at": "2026-04-24T09:59:12.930826+00:00"
+    },
+    "1911534": {
+      "url": "https://www.whoscored.com/Matches/1911534/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Toulouse",
+      "display_name": "Paris Saint-Germain vs Toulouse | 2025/2026 | Ligue 1 | 2026-04-03",
+      "rows": 2066,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911534.parquet",
+      "scraped_at": "2026-04-24T09:59:31.563216+00:00"
+    },
+    "1911515": {
+      "url": "https://www.whoscored.com/Matches/1911515/Live/Ligue-1-2025-2026-Paris-FC-vs-Le-Havre",
+      "display_name": "Paris FC vs Le Havre | 2025/2026 | Ligue 1 | 2026-03-22",
+      "rows": 1588,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911515.parquet",
+      "scraped_at": "2026-04-24T09:59:49.974170+00:00"
+    },
+    "1911510": {
+      "url": "https://www.whoscored.com/Matches/1911510/Live/Ligue-1-2025-2026-Marseille-vs-Lille",
+      "display_name": "Marseille vs Lille | 2025/2026 | Ligue 1 | 2026-03-22",
+      "rows": 1851,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911510.parquet",
+      "scraped_at": "2026-04-24T10:00:12.877498+00:00"
+    },
+    "1911509": {
+      "url": "https://www.whoscored.com/Matches/1911509/Live/Ligue-1-2025-2026-Lyon-vs-Monaco",
+      "display_name": "Lyon vs Monaco | 2025/2026 | Ligue 1 | 2026-03-22",
+      "rows": 1823,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911509.parquet",
+      "scraped_at": "2026-04-24T10:00:33.389236+00:00"
+    },
+    "1911517": {
+      "url": "https://www.whoscored.com/Matches/1911517/Live/Ligue-1-2025-2026-Rennes-vs-Metz",
+      "display_name": "Rennes vs Metz | 2025/2026 | Ligue 1 | 2026-03-22",
+      "rows": 2030,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911517.parquet",
+      "scraped_at": "2026-04-24T10:00:54.234925+00:00"
+    },
+    "1911511": {
+      "url": "https://www.whoscored.com/Matches/1911511/Live/Ligue-1-2025-2026-Nantes-vs-Strasbourg",
+      "display_name": "Nantes vs Strasbourg | 2025/2026 | Ligue 1 | 2026-03-22",
+      "rows": 1923,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911511.parquet",
+      "scraped_at": "2026-04-24T10:01:16.438910+00:00"
+    },
+    "1911507": {
+      "url": "https://www.whoscored.com/Matches/1911507/Live/Ligue-1-2025-2026-Auxerre-vs-Brest",
+      "display_name": "Auxerre vs Brest | 2025/2026 | Ligue 1 | 2026-03-21",
+      "rows": 1661,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911507.parquet",
+      "scraped_at": "2026-04-24T10:01:38.382570+00:00"
+    },
+    "1911519": {
+      "url": "https://www.whoscored.com/Matches/1911519/Live/Ligue-1-2025-2026-Toulouse-vs-Lorient",
+      "display_name": "Toulouse vs Lorient | 2025/2026 | Ligue 1 | 2026-03-21",
+      "rows": 1964,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911519.parquet",
+      "scraped_at": "2026-04-24T10:01:58.662555+00:00"
+    },
+    "1911513": {
+      "url": "https://www.whoscored.com/Matches/1911513/Live/Ligue-1-2025-2026-Nice-vs-Paris-Saint-Germain",
+      "display_name": "Nice vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2026-03-21",
+      "rows": 1790,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911513.parquet",
+      "scraped_at": "2026-04-24T10:02:16.623385+00:00"
+    },
+    "1911508": {
+      "url": "https://www.whoscored.com/Matches/1911508/Live/Ligue-1-2025-2026-Lens-vs-Angers",
+      "display_name": "Lens vs Angers | 2025/2026 | Ligue 1 | 2026-03-20",
+      "rows": 2107,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911508.parquet",
+      "scraped_at": "2026-04-24T10:02:37.580396+00:00"
+    },
+    "1911499": {
+      "url": "https://www.whoscored.com/Matches/1911499/Live/Ligue-1-2025-2026-Le-Havre-vs-Lyon",
+      "display_name": "Le Havre vs Lyon | 2025/2026 | Ligue 1 | 2026-03-15",
+      "rows": 1772,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911499.parquet",
+      "scraped_at": "2026-04-24T10:03:00.906457+00:00"
+    },
+    "1911505": {
+      "url": "https://www.whoscored.com/Matches/1911505/Live/Ligue-1-2025-2026-Rennes-vs-Lille",
+      "display_name": "Rennes vs Lille | 2025/2026 | Ligue 1 | 2026-03-15",
+      "rows": 2016,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911505.parquet",
+      "scraped_at": "2026-04-24T10:03:24.418118+00:00"
+    },
+    "1911502": {
+      "url": "https://www.whoscored.com/Matches/1911502/Live/Ligue-1-2025-2026-Metz-vs-Toulouse",
+      "display_name": "Metz vs Toulouse | 2025/2026 | Ligue 1 | 2026-03-15",
+      "rows": 2036,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911502.parquet",
+      "scraped_at": "2026-04-24T10:03:43.232109+00:00"
+    },
+    "1911506": {
+      "url": "https://www.whoscored.com/Matches/1911506/Live/Ligue-1-2025-2026-Strasbourg-vs-Paris-FC",
+      "display_name": "Strasbourg vs Paris FC | 2025/2026 | Ligue 1 | 2026-03-15",
+      "rows": 2065,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911506.parquet",
+      "scraped_at": "2026-04-24T10:04:08.146819+00:00"
+    },
+    "1911498": {
+      "url": "https://www.whoscored.com/Matches/1911498/Live/Ligue-1-2025-2026-Angers-vs-Nice",
+      "display_name": "Angers vs Nice | 2025/2026 | Ligue 1 | 2026-03-14",
+      "rows": 1989,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911498.parquet",
+      "scraped_at": "2026-04-24T10:04:27.274056+00:00"
+    },
+    "1911503": {
+      "url": "https://www.whoscored.com/Matches/1911503/Live/Ligue-1-2025-2026-Monaco-vs-Brest",
+      "display_name": "Monaco vs Brest | 2025/2026 | Ligue 1 | 2026-03-14",
+      "rows": 1950,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911503.parquet",
+      "scraped_at": "2026-04-24T10:04:45.761347+00:00"
+    },
+    "1911500": {
+      "url": "https://www.whoscored.com/Matches/1911500/Live/Ligue-1-2025-2026-Lorient-vs-Lens",
+      "display_name": "Lorient vs Lens | 2025/2026 | Ligue 1 | 2026-03-14",
+      "rows": 2045,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911500.parquet",
+      "scraped_at": "2026-04-24T10:05:04.077973+00:00"
+    },
+    "1911501": {
+      "url": "https://www.whoscored.com/Matches/1911501/Live/Ligue-1-2025-2026-Marseille-vs-Auxerre",
+      "display_name": "Marseille vs Auxerre | 2025/2026 | Ligue 1 | 2026-03-13",
+      "rows": 1931,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911501.parquet",
+      "scraped_at": "2026-04-24T10:05:22.477403+00:00"
+    },
+    "1911490": {
+      "url": "https://www.whoscored.com/Matches/1911490/Live/Ligue-1-2025-2026-Brest-vs-Le-Havre",
+      "display_name": "Brest vs Le Havre | 2025/2026 | Ligue 1 | 2026-03-08",
+      "rows": 1862,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911490.parquet",
+      "scraped_at": "2026-04-24T10:05:42.297212+00:00"
+    },
+    "1911491": {
+      "url": "https://www.whoscored.com/Matches/1911491/Live/Ligue-1-2025-2026-Lens-vs-Metz",
+      "display_name": "Lens vs Metz | 2025/2026 | Ligue 1 | 2026-03-08",
+      "rows": 1992,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911491.parquet",
+      "scraped_at": "2026-04-24T10:06:01.443746+00:00"
+    },
+    "1911492": {
+      "url": "https://www.whoscored.com/Matches/1911492/Live/Ligue-1-2025-2026-Lille-vs-Lorient",
+      "display_name": "Lille vs Lorient | 2025/2026 | Ligue 1 | 2026-03-08",
+      "rows": 1844,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911492.parquet",
+      "scraped_at": "2026-04-24T10:06:19.486956+00:00"
+    },
+    "1911493": {
+      "url": "https://www.whoscored.com/Matches/1911493/Live/Ligue-1-2025-2026-Lyon-vs-Paris-FC",
+      "display_name": "Lyon vs Paris FC | 2025/2026 | Ligue 1 | 2026-03-08",
+      "rows": 1827,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911493.parquet",
+      "scraped_at": "2026-04-24T10:06:37.323860+00:00"
+    },
+    "1911495": {
+      "url": "https://www.whoscored.com/Matches/1911495/Live/Ligue-1-2025-2026-Nice-vs-Rennes",
+      "display_name": "Nice vs Rennes | 2025/2026 | Ligue 1 | 2026-03-08",
+      "rows": 2022,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911495.parquet",
+      "scraped_at": "2026-04-24T10:06:56.551411+00:00"
+    },
+    "1911494": {
+      "url": "https://www.whoscored.com/Matches/1911494/Live/Ligue-1-2025-2026-Nantes-vs-Angers",
+      "display_name": "Nantes vs Angers | 2025/2026 | Ligue 1 | 2026-03-07",
+      "rows": 1789,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911494.parquet",
+      "scraped_at": "2026-04-24T10:07:16.987218+00:00"
+    },
+    "1911489": {
+      "url": "https://www.whoscored.com/Matches/1911489/Live/Ligue-1-2025-2026-Auxerre-vs-Strasbourg",
+      "display_name": "Auxerre vs Strasbourg | 2025/2026 | Ligue 1 | 2026-03-07",
+      "rows": 1895,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911489.parquet",
+      "scraped_at": "2026-04-24T10:07:36.011455+00:00"
+    },
+    "1911497": {
+      "url": "https://www.whoscored.com/Matches/1911497/Live/Ligue-1-2025-2026-Toulouse-vs-Marseille",
+      "display_name": "Toulouse vs Marseille | 2025/2026 | Ligue 1 | 2026-03-07",
+      "rows": 1856,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911497.parquet",
+      "scraped_at": "2026-04-24T10:07:55.337960+00:00"
+    },
+    "1911496": {
+      "url": "https://www.whoscored.com/Matches/1911496/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Monaco",
+      "display_name": "Paris Saint-Germain vs Monaco | 2025/2026 | Ligue 1 | 2026-03-06",
+      "rows": 2061,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911496.parquet",
+      "scraped_at": "2026-04-24T10:08:13.812326+00:00"
+    },
+    "1911482": {
+      "url": "https://www.whoscored.com/Matches/1911482/Live/Ligue-1-2025-2026-Lorient-vs-Auxerre",
+      "display_name": "Lorient vs Auxerre | 2025/2026 | Ligue 1 | 2026-03-01",
+      "rows": 1967,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911482.parquet",
+      "scraped_at": "2026-04-24T10:08:35.948053+00:00"
+    },
+    "1911484": {
+      "url": "https://www.whoscored.com/Matches/1911484/Live/Ligue-1-2025-2026-Metz-vs-Brest",
+      "display_name": "Metz vs Brest | 2025/2026 | Ligue 1 | 2026-03-01",
+      "rows": 1991,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911484.parquet",
+      "scraped_at": "2026-04-24T10:08:55.722272+00:00"
+    },
+    "1911481": {
+      "url": "https://www.whoscored.com/Matches/1911481/Live/Ligue-1-2025-2026-Lille-vs-Nantes",
+      "display_name": "Lille vs Nantes | 2025/2026 | Ligue 1 | 2026-03-01",
+      "rows": 1823,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911481.parquet",
+      "scraped_at": "2026-04-24T10:09:18.919345+00:00"
+    },
+    "1911483": {
+      "url": "https://www.whoscored.com/Matches/1911483/Live/Ligue-1-2025-2026-Marseille-vs-Lyon",
+      "display_name": "Marseille vs Lyon | 2025/2026 | Ligue 1 | 2026-03-01",
+      "rows": 1903,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911483.parquet",
+      "scraped_at": "2026-04-24T10:09:40.966138+00:00"
+    },
+    "1911486": {
+      "url": "https://www.whoscored.com/Matches/1911486/Live/Ligue-1-2025-2026-Paris-FC-vs-Nice",
+      "display_name": "Paris FC vs Nice | 2025/2026 | Ligue 1 | 2026-03-01",
+      "rows": 1844,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911486.parquet",
+      "scraped_at": "2026-04-24T10:10:03.265506+00:00"
+    },
+    "1911485": {
+      "url": "https://www.whoscored.com/Matches/1911485/Live/Ligue-1-2025-2026-Monaco-vs-Angers",
+      "display_name": "Monaco vs Angers | 2025/2026 | Ligue 1 | 2026-02-28",
+      "rows": 2145,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911485.parquet",
+      "scraped_at": "2026-04-24T10:10:25.772418+00:00"
+    },
+    "1911480": {
+      "url": "https://www.whoscored.com/Matches/1911480/Live/Ligue-1-2025-2026-Le-Havre-vs-Paris-Saint-Germain",
+      "display_name": "Le Havre vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2026-02-28",
+      "rows": 2017,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911480.parquet",
+      "scraped_at": "2026-04-24T10:10:47.699984+00:00"
+    },
+    "1911487": {
+      "url": "https://www.whoscored.com/Matches/1911487/Live/Ligue-1-2025-2026-Rennes-vs-Toulouse",
+      "display_name": "Rennes vs Toulouse | 2025/2026 | Ligue 1 | 2026-02-28",
+      "rows": 2027,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911487.parquet",
+      "scraped_at": "2026-04-24T10:11:11.626922+00:00"
+    },
+    "1911488": {
+      "url": "https://www.whoscored.com/Matches/1911488/Live/Ligue-1-2025-2026-Strasbourg-vs-Lens",
+      "display_name": "Strasbourg vs Lens | 2025/2026 | Ligue 1 | 2026-02-27",
+      "rows": 1971,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911488.parquet",
+      "scraped_at": "2026-04-24T10:11:34.942568+00:00"
+    },
+    "1911471": {
+      "url": "https://www.whoscored.com/Matches/1911471/Live/Ligue-1-2025-2026-Angers-vs-Lille",
+      "display_name": "Angers vs Lille | 2025/2026 | Ligue 1 | 2026-02-22",
+      "rows": 1985,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911471.parquet",
+      "scraped_at": "2026-04-24T10:11:57.922905+00:00"
+    },
+    "1911472": {
+      "url": "https://www.whoscored.com/Matches/1911472/Live/Ligue-1-2025-2026-Auxerre-vs-Rennes",
+      "display_name": "Auxerre vs Rennes | 2025/2026 | Ligue 1 | 2026-02-22",
+      "rows": 1887,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911472.parquet",
+      "scraped_at": "2026-04-24T10:12:17.692295+00:00"
+    },
+    "1911475": {
+      "url": "https://www.whoscored.com/Matches/1911475/Live/Ligue-1-2025-2026-Nantes-vs-Le-Havre",
+      "display_name": "Nantes vs Le Havre | 2025/2026 | Ligue 1 | 2026-02-22",
+      "rows": 1755,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911475.parquet",
+      "scraped_at": "2026-04-24T10:12:38.313695+00:00"
+    },
+    "1911476": {
+      "url": "https://www.whoscored.com/Matches/1911476/Live/Ligue-1-2025-2026-Nice-vs-Lorient",
+      "display_name": "Nice vs Lorient | 2025/2026 | Ligue 1 | 2026-02-22",
+      "rows": 1871,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911476.parquet",
+      "scraped_at": "2026-04-24T10:12:55.814576+00:00"
+    },
+    "1911478": {
+      "url": "https://www.whoscored.com/Matches/1911478/Live/Ligue-1-2025-2026-Strasbourg-vs-Lyon",
+      "display_name": "Strasbourg vs Lyon | 2025/2026 | Ligue 1 | 2026-02-22",
+      "rows": 1701,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911478.parquet",
+      "scraped_at": "2026-04-24T10:13:17.273531+00:00"
+    },
+    "1911474": {
+      "url": "https://www.whoscored.com/Matches/1911474/Live/Ligue-1-2025-2026-Lens-vs-Monaco",
+      "display_name": "Lens vs Monaco | 2025/2026 | Ligue 1 | 2026-02-21",
+      "rows": 1909,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911474.parquet",
+      "scraped_at": "2026-04-24T10:13:41.965591+00:00"
+    },
+    "1911477": {
+      "url": "https://www.whoscored.com/Matches/1911477/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Metz",
+      "display_name": "Paris Saint-Germain vs Metz | 2025/2026 | Ligue 1 | 2026-02-21",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911477.parquet",
+      "scraped_at": "2026-04-24T10:14:07.019917+00:00"
+    },
+    "1911479": {
+      "url": "https://www.whoscored.com/Matches/1911479/Live/Ligue-1-2025-2026-Toulouse-vs-Paris-FC",
+      "display_name": "Toulouse vs Paris FC | 2025/2026 | Ligue 1 | 2026-02-21",
+      "rows": 1924,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911479.parquet",
+      "scraped_at": "2026-04-24T10:14:31.716813+00:00"
+    },
+    "1911473": {
+      "url": "https://www.whoscored.com/Matches/1911473/Live/Ligue-1-2025-2026-Brest-vs-Marseille",
+      "display_name": "Brest vs Marseille | 2025/2026 | Ligue 1 | 2026-02-20",
+      "rows": 2001,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911473.parquet",
+      "scraped_at": "2026-04-24T10:14:52.763345+00:00"
+    },
+    "1911464": {
+      "url": "https://www.whoscored.com/Matches/1911464/Live/Ligue-1-2025-2026-Lorient-vs-Angers",
+      "display_name": "Lorient vs Angers | 2025/2026 | Ligue 1 | 2026-02-15",
+      "rows": 2088,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911464.parquet",
+      "scraped_at": "2026-04-24T10:15:13.274238+00:00"
+    },
+    "1911467": {
+      "url": "https://www.whoscored.com/Matches/1911467/Live/Ligue-1-2025-2026-Metz-vs-Auxerre",
+      "display_name": "Metz vs Auxerre | 2025/2026 | Ligue 1 | 2026-02-15",
+      "rows": 2024,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911467.parquet",
+      "scraped_at": "2026-04-24T10:15:35.138726+00:00"
+    },
+    "1911462": {
+      "url": "https://www.whoscored.com/Matches/1911462/Live/Ligue-1-2025-2026-Le-Havre-vs-Toulouse",
+      "display_name": "Le Havre vs Toulouse | 2025/2026 | Ligue 1 | 2026-02-15",
+      "rows": 1946,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911462.parquet",
+      "scraped_at": "2026-04-24T10:16:00.496863+00:00"
+    },
+    "1911465": {
+      "url": "https://www.whoscored.com/Matches/1911465/Live/Ligue-1-2025-2026-Lyon-vs-Nice",
+      "display_name": "Lyon vs Nice | 2025/2026 | Ligue 1 | 2026-02-15",
+      "rows": 1970,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911465.parquet",
+      "scraped_at": "2026-04-24T10:16:19.210122+00:00"
+    },
+    "1911463": {
+      "url": "https://www.whoscored.com/Matches/1911463/Live/Ligue-1-2025-2026-Lille-vs-Brest",
+      "display_name": "Lille vs Brest | 2025/2026 | Ligue 1 | 2026-02-14",
+      "rows": 1976,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911463.parquet",
+      "scraped_at": "2026-04-24T10:16:38.887397+00:00"
+    },
+    "1911469": {
+      "url": "https://www.whoscored.com/Matches/1911469/Live/Ligue-1-2025-2026-Paris-FC-vs-Lens",
+      "display_name": "Paris FC vs Lens | 2025/2026 | Ligue 1 | 2026-02-14",
+      "rows": 2055,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911469.parquet",
+      "scraped_at": "2026-04-24T10:16:56.446171+00:00"
+    },
+    "1911466": {
+      "url": "https://www.whoscored.com/Matches/1911466/Live/Ligue-1-2025-2026-Marseille-vs-Strasbourg",
+      "display_name": "Marseille vs Strasbourg | 2025/2026 | Ligue 1 | 2026-02-14",
+      "rows": 2031,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911466.parquet",
+      "scraped_at": "2026-04-24T10:17:14.960245+00:00"
+    },
+    "1911468": {
+      "url": "https://www.whoscored.com/Matches/1911468/Live/Ligue-1-2025-2026-Monaco-vs-Nantes",
+      "display_name": "Monaco vs Nantes | 2025/2026 | Ligue 1 | 2026-02-13",
+      "rows": 1890,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911468.parquet",
+      "scraped_at": "2026-04-24T10:17:37.962343+00:00"
+    },
+    "1911470": {
+      "url": "https://www.whoscored.com/Matches/1911470/Live/Ligue-1-2025-2026-Rennes-vs-Paris-Saint-Germain",
+      "display_name": "Rennes vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2026-02-13",
+      "rows": 1956,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911470.parquet",
+      "scraped_at": "2026-04-24T10:17:59.112860+00:00"
+    },
+    "1911453": {
+      "url": "https://www.whoscored.com/Matches/1911453/Live/Ligue-1-2025-2026-Angers-vs-Toulouse",
+      "display_name": "Angers vs Toulouse | 2025/2026 | Ligue 1 | 2026-02-08",
+      "rows": 1905,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911453.parquet",
+      "scraped_at": "2026-04-24T10:18:18.083604+00:00"
+    },
+    "1911454": {
+      "url": "https://www.whoscored.com/Matches/1911454/Live/Ligue-1-2025-2026-Auxerre-vs-Paris-FC",
+      "display_name": "Auxerre vs Paris FC | 2025/2026 | Ligue 1 | 2026-02-08",
+      "rows": 1788,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911454.parquet",
+      "scraped_at": "2026-04-24T10:18:37.663194+00:00"
+    },
+    "1911456": {
+      "url": "https://www.whoscored.com/Matches/1911456/Live/Ligue-1-2025-2026-Le-Havre-vs-Strasbourg",
+      "display_name": "Le Havre vs Strasbourg | 2025/2026 | Ligue 1 | 2026-02-08",
+      "rows": 1798,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911456.parquet",
+      "scraped_at": "2026-04-24T10:18:55.804025+00:00"
+    },
+    "1911461": {
+      "url": "https://www.whoscored.com/Matches/1911461/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Marseille",
+      "display_name": "Paris Saint-Germain vs Marseille | 2025/2026 | Ligue 1 | 2026-02-08",
+      "rows": 1914,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911461.parquet",
+      "scraped_at": "2026-04-24T10:19:15.195015+00:00"
+    },
+    "1911460": {
+      "url": "https://www.whoscored.com/Matches/1911460/Live/Ligue-1-2025-2026-Nice-vs-Monaco",
+      "display_name": "Nice vs Monaco | 2025/2026 | Ligue 1 | 2026-02-08",
+      "rows": 1680,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911460.parquet",
+      "scraped_at": "2026-04-24T10:19:32.934020+00:00"
+    },
+    "1911455": {
+      "url": "https://www.whoscored.com/Matches/1911455/Live/Ligue-1-2025-2026-Brest-vs-Lorient",
+      "display_name": "Brest vs Lorient | 2025/2026 | Ligue 1 | 2026-02-07",
+      "rows": 1838,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911455.parquet",
+      "scraped_at": "2026-04-24T10:19:57.202492+00:00"
+    },
+    "1911457": {
+      "url": "https://www.whoscored.com/Matches/1911457/Live/Ligue-1-2025-2026-Lens-vs-Rennes",
+      "display_name": "Lens vs Rennes | 2025/2026 | Ligue 1 | 2026-02-07",
+      "rows": 1813,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911457.parquet",
+      "scraped_at": "2026-04-24T10:20:21.173940+00:00"
+    },
+    "1911459": {
+      "url": "https://www.whoscored.com/Matches/1911459/Live/Ligue-1-2025-2026-Nantes-vs-Lyon",
+      "display_name": "Nantes vs Lyon | 2025/2026 | Ligue 1 | 2026-02-07",
+      "rows": 1813,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911459.parquet",
+      "scraped_at": "2026-04-24T10:20:41.133819+00:00"
+    },
+    "1911458": {
+      "url": "https://www.whoscored.com/Matches/1911458/Live/Ligue-1-2025-2026-Metz-vs-Lille",
+      "display_name": "Metz vs Lille | 2025/2026 | Ligue 1 | 2026-02-06",
+      "rows": 1737,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911458.parquet",
+      "scraped_at": "2026-04-24T10:21:04.687753+00:00"
+    },
+    "1911444": {
+      "url": "https://www.whoscored.com/Matches/1911444/Live/Ligue-1-2025-2026-Angers-vs-Metz",
+      "display_name": "Angers vs Metz | 2025/2026 | Ligue 1 | 2026-02-01",
+      "rows": 2037,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911444.parquet",
+      "scraped_at": "2026-04-24T10:21:28.839813+00:00"
+    },
+    "1911452": {
+      "url": "https://www.whoscored.com/Matches/1911452/Live/Ligue-1-2025-2026-Toulouse-vs-Auxerre",
+      "display_name": "Toulouse vs Auxerre | 2025/2026 | Ligue 1 | 2026-02-01",
+      "rows": 1877,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911452.parquet",
+      "scraped_at": "2026-04-24T10:21:51.667147+00:00"
+    },
+    "1911449": {
+      "url": "https://www.whoscored.com/Matches/1911449/Live/Ligue-1-2025-2026-Nice-vs-Brest",
+      "display_name": "Nice vs Brest | 2025/2026 | Ligue 1 | 2026-02-01",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911449.parquet",
+      "scraped_at": "2026-04-24T10:22:12.815439+00:00"
+    },
+    "1911447": {
+      "url": "https://www.whoscored.com/Matches/1911447/Live/Ligue-1-2025-2026-Lyon-vs-Lille",
+      "display_name": "Lyon vs Lille | 2025/2026 | Ligue 1 | 2026-02-01",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911447.parquet",
+      "scraped_at": "2026-04-24T10:22:33.716814+00:00"
+    },
+    "1911451": {
+      "url": "https://www.whoscored.com/Matches/1911451/Live/Ligue-1-2025-2026-Strasbourg-vs-Paris-Saint-Germain",
+      "display_name": "Strasbourg vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2026-02-01",
+      "rows": 1951,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911451.parquet",
+      "scraped_at": "2026-04-24T10:22:53.793069+00:00"
+    },
+    "1911446": {
+      "url": "https://www.whoscored.com/Matches/1911446/Live/Ligue-1-2025-2026-Lorient-vs-Nantes",
+      "display_name": "Lorient vs Nantes | 2025/2026 | Ligue 1 | 2026-01-31",
+      "rows": 1978,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911446.parquet",
+      "scraped_at": "2026-04-24T10:23:17.146497+00:00"
+    },
+    "1911450": {
+      "url": "https://www.whoscored.com/Matches/1911450/Live/Ligue-1-2025-2026-Paris-FC-vs-Marseille",
+      "display_name": "Paris FC vs Marseille | 2025/2026 | Ligue 1 | 2026-01-31",
+      "rows": 1943,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911450.parquet",
+      "scraped_at": "2026-04-24T10:23:40.882704+00:00"
+    },
+    "1911448": {
+      "url": "https://www.whoscored.com/Matches/1911448/Live/Ligue-1-2025-2026-Monaco-vs-Rennes",
+      "display_name": "Monaco vs Rennes | 2025/2026 | Ligue 1 | 2026-01-31",
+      "rows": 1868,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911448.parquet",
+      "scraped_at": "2026-04-24T10:24:02.873002+00:00"
+    },
+    "1911445": {
+      "url": "https://www.whoscored.com/Matches/1911445/Live/Ligue-1-2025-2026-Lens-vs-Le-Havre",
+      "display_name": "Lens vs Le Havre | 2025/2026 | Ligue 1 | 2026-01-30",
+      "rows": 2021,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911445.parquet",
+      "scraped_at": "2026-04-24T10:24:24.696907+00:00"
+    },
+    "1911442": {
+      "url": "https://www.whoscored.com/Matches/1911442/Live/Ligue-1-2025-2026-Paris-FC-vs-Angers",
+      "display_name": "Paris FC vs Angers | 2025/2026 | Ligue 1 | 2026-01-25",
+      "rows": 1979,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911442.parquet",
+      "scraped_at": "2026-04-24T10:24:48.690048+00:00"
+    },
+    "1911436": {
+      "url": "https://www.whoscored.com/Matches/1911436/Live/Ligue-1-2025-2026-Brest-vs-Toulouse",
+      "display_name": "Brest vs Toulouse | 2025/2026 | Ligue 1 | 2026-01-25",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911436.parquet",
+      "scraped_at": "2026-04-24T10:25:14.305269+00:00"
+    },
+    "1911438": {
+      "url": "https://www.whoscored.com/Matches/1911438/Live/Ligue-1-2025-2026-Lille-vs-Strasbourg",
+      "display_name": "Lille vs Strasbourg | 2025/2026 | Ligue 1 | 2026-01-25",
+      "rows": 1862,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911438.parquet",
+      "scraped_at": "2026-04-24T10:25:37.901663+00:00"
+    },
+    "1911440": {
+      "url": "https://www.whoscored.com/Matches/1911440/Live/Ligue-1-2025-2026-Metz-vs-Lyon",
+      "display_name": "Metz vs Lyon | 2025/2026 | Ligue 1 | 2026-01-25",
+      "rows": 1823,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911440.parquet",
+      "scraped_at": "2026-04-24T10:26:00.379536+00:00"
+    },
+    "1911441": {
+      "url": "https://www.whoscored.com/Matches/1911441/Live/Ligue-1-2025-2026-Nantes-vs-Nice",
+      "display_name": "Nantes vs Nice | 2025/2026 | Ligue 1 | 2026-01-25",
+      "rows": 1903,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911441.parquet",
+      "scraped_at": "2026-04-24T10:26:23.075046+00:00"
+    },
+    "1911437": {
+      "url": "https://www.whoscored.com/Matches/1911437/Live/Ligue-1-2025-2026-Le-Havre-vs-Monaco",
+      "display_name": "Le Havre vs Monaco | 2025/2026 | Ligue 1 | 2026-01-24",
+      "rows": 1745,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911437.parquet",
+      "scraped_at": "2026-04-24T10:26:46.927334+00:00"
+    },
+    "1911439": {
+      "url": "https://www.whoscored.com/Matches/1911439/Live/Ligue-1-2025-2026-Marseille-vs-Lens",
+      "display_name": "Marseille vs Lens | 2025/2026 | Ligue 1 | 2026-01-24",
+      "rows": 1993,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911439.parquet",
+      "scraped_at": "2026-04-24T10:27:12.292545+00:00"
+    },
+    "1911443": {
+      "url": "https://www.whoscored.com/Matches/1911443/Live/Ligue-1-2025-2026-Rennes-vs-Lorient",
+      "display_name": "Rennes vs Lorient | 2025/2026 | Ligue 1 | 2026-01-24",
+      "rows": 1846,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911443.parquet",
+      "scraped_at": "2026-04-24T10:27:34.757194+00:00"
+    },
+    "1911435": {
+      "url": "https://www.whoscored.com/Matches/1911435/Live/Ligue-1-2025-2026-Auxerre-vs-Paris-Saint-Germain",
+      "display_name": "Auxerre vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2026-01-23",
+      "rows": 1969,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911435.parquet",
+      "scraped_at": "2026-04-24T10:27:53.643090+00:00"
+    },
+    "1911428": {
+      "url": "https://www.whoscored.com/Matches/1911428/Live/Ligue-1-2025-2026-Lyon-vs-Brest",
+      "display_name": "Lyon vs Brest | 2025/2026 | Ligue 1 | 2026-01-18",
+      "rows": 1990,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911428.parquet",
+      "scraped_at": "2026-04-24T10:28:15.459647+00:00"
+    },
+    "1911432": {
+      "url": "https://www.whoscored.com/Matches/1911432/Live/Ligue-1-2025-2026-Rennes-vs-Le-Havre",
+      "display_name": "Rennes vs Le Havre | 2025/2026 | Ligue 1 | 2026-01-18",
+      "rows": 1813,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911432.parquet",
+      "scraped_at": "2026-04-24T10:28:37.691467+00:00"
+    },
+    "1911433": {
+      "url": "https://www.whoscored.com/Matches/1911433/Live/Ligue-1-2025-2026-Strasbourg-vs-Metz",
+      "display_name": "Strasbourg vs Metz | 2025/2026 | Ligue 1 | 2026-01-18",
+      "rows": 2019,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911433.parquet",
+      "scraped_at": "2026-04-24T10:29:03.120942+00:00"
+    },
+    "1911430": {
+      "url": "https://www.whoscored.com/Matches/1911430/Live/Ligue-1-2025-2026-Nantes-vs-Paris-FC",
+      "display_name": "Nantes vs Paris FC | 2025/2026 | Ligue 1 | 2026-01-18",
+      "rows": 2000,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911430.parquet",
+      "scraped_at": "2026-04-24T10:29:24.015243+00:00"
+    },
+    "1911426": {
+      "url": "https://www.whoscored.com/Matches/1911426/Live/Ligue-1-2025-2026-Angers-vs-Marseille",
+      "display_name": "Angers vs Marseille | 2025/2026 | Ligue 1 | 2026-01-17",
+      "rows": 2058,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911426.parquet",
+      "scraped_at": "2026-04-24T10:29:45.055199+00:00"
+    },
+    "1911427": {
+      "url": "https://www.whoscored.com/Matches/1911427/Live/Ligue-1-2025-2026-Lens-vs-Auxerre",
+      "display_name": "Lens vs Auxerre | 2025/2026 | Ligue 1 | 2026-01-17",
+      "rows": 1914,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911427.parquet",
+      "scraped_at": "2026-04-24T10:30:05.188468+00:00"
+    },
+    "1911434": {
+      "url": "https://www.whoscored.com/Matches/1911434/Live/Ligue-1-2025-2026-Toulouse-vs-Nice",
+      "display_name": "Toulouse vs Nice | 2025/2026 | Ligue 1 | 2026-01-17",
+      "rows": 1958,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911434.parquet",
+      "scraped_at": "2026-04-24T10:30:28.188019+00:00"
+    },
+    "1911431": {
+      "url": "https://www.whoscored.com/Matches/1911431/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Lille",
+      "display_name": "Paris Saint-Germain vs Lille | 2025/2026 | Ligue 1 | 2026-01-16",
+      "rows": 2186,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911431.parquet",
+      "scraped_at": "2026-04-24T10:30:46.652977+00:00"
+    },
+    "1911429": {
+      "url": "https://www.whoscored.com/Matches/1911429/Live/Ligue-1-2025-2026-Monaco-vs-Lorient",
+      "display_name": "Monaco vs Lorient | 2025/2026 | Ligue 1 | 2026-01-16",
+      "rows": 1952,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911429.parquet",
+      "scraped_at": "2026-04-24T10:31:09.701152+00:00"
+    },
+    "1911418": {
+      "url": "https://www.whoscored.com/Matches/1911418/Live/Ligue-1-2025-2026-Le-Havre-vs-Angers",
+      "display_name": "Le Havre vs Angers | 2025/2026 | Ligue 1 | 2026-01-04",
+      "rows": 1889,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911418.parquet",
+      "scraped_at": "2026-04-24T10:31:28.629707+00:00"
+    },
+    "1911416": {
+      "url": "https://www.whoscored.com/Matches/1911416/Live/Ligue-1-2025-2026-Brest-vs-Auxerre",
+      "display_name": "Brest vs Auxerre | 2025/2026 | Ligue 1 | 2026-01-04",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911416.parquet",
+      "scraped_at": "2026-04-24T10:31:50.299879+00:00"
+    },
+    "1911420": {
+      "url": "https://www.whoscored.com/Matches/1911420/Live/Ligue-1-2025-2026-Lorient-vs-Metz",
+      "display_name": "Lorient vs Metz | 2025/2026 | Ligue 1 | 2026-01-04",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911420.parquet",
+      "scraped_at": "2026-04-24T10:32:12.282537+00:00"
+    },
+    "1911421": {
+      "url": "https://www.whoscored.com/Matches/1911421/Live/Ligue-1-2025-2026-Marseille-vs-Nantes",
+      "display_name": "Marseille vs Nantes | 2025/2026 | Ligue 1 | 2026-01-04",
+      "rows": 1855,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911421.parquet",
+      "scraped_at": "2026-04-24T10:32:31.590634+00:00"
+    },
+    "1911424": {
+      "url": "https://www.whoscored.com/Matches/1911424/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Paris-FC",
+      "display_name": "Paris Saint-Germain vs Paris FC | 2025/2026 | Ligue 1 | 2026-01-04",
+      "rows": 2108,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911424.parquet",
+      "scraped_at": "2026-04-24T10:32:51.716058+00:00"
+    },
+    "1911419": {
+      "url": "https://www.whoscored.com/Matches/1911419/Live/Ligue-1-2025-2026-Lille-vs-Rennes",
+      "display_name": "Lille vs Rennes | 2025/2026 | Ligue 1 | 2026-01-03",
+      "rows": 1939,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911419.parquet",
+      "scraped_at": "2026-04-24T10:33:15.804687+00:00"
+    },
+    "1911422": {
+      "url": "https://www.whoscored.com/Matches/1911422/Live/Ligue-1-2025-2026-Monaco-vs-Lyon",
+      "display_name": "Monaco vs Lyon | 2025/2026 | Ligue 1 | 2026-01-03",
+      "rows": 1765,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911422.parquet",
+      "scraped_at": "2026-04-24T10:33:39.346938+00:00"
+    },
+    "1911423": {
+      "url": "https://www.whoscored.com/Matches/1911423/Live/Ligue-1-2025-2026-Nice-vs-Strasbourg",
+      "display_name": "Nice vs Strasbourg | 2025/2026 | Ligue 1 | 2026-01-03",
+      "rows": 1955,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911423.parquet",
+      "scraped_at": "2026-04-24T10:34:02.228455+00:00"
+    },
+    "1911425": {
+      "url": "https://www.whoscored.com/Matches/1911425/Live/Ligue-1-2025-2026-Toulouse-vs-Lens",
+      "display_name": "Toulouse vs Lens | 2025/2026 | Ligue 1 | 2026-01-02",
+      "rows": 1810,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911425.parquet",
+      "scraped_at": "2026-04-24T10:34:22.514960+00:00"
+    },
+    "1911399": {
+      "url": "https://www.whoscored.com/Matches/1911399/Live/Ligue-1-2025-2026-Auxerre-vs-Lille",
+      "display_name": "Auxerre vs Lille | 2025/2026 | Ligue 1 | 2025-12-14",
+      "rows": 1749,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911399.parquet",
+      "scraped_at": "2026-04-24T10:34:44.447194+00:00"
+    },
+    "1911404": {
+      "url": "https://www.whoscored.com/Matches/1911404/Live/Ligue-1-2025-2026-Lyon-vs-Le-Havre",
+      "display_name": "Lyon vs Le Havre | 2025/2026 | Ligue 1 | 2025-12-14",
+      "rows": 1584,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911404.parquet",
+      "scraped_at": "2026-04-24T10:35:07.887993+00:00"
+    },
+    "1911402": {
+      "url": "https://www.whoscored.com/Matches/1911402/Live/Ligue-1-2025-2026-Lens-vs-Nice",
+      "display_name": "Lens vs Nice | 2025/2026 | Ligue 1 | 2025-12-14",
+      "rows": 1957,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911402.parquet",
+      "scraped_at": "2026-04-24T10:35:26.463285+00:00"
+    },
+    "1911414": {
+      "url": "https://www.whoscored.com/Matches/1911414/Live/Ligue-1-2025-2026-Strasbourg-vs-Lorient",
+      "display_name": "Strasbourg vs Lorient | 2025/2026 | Ligue 1 | 2025-12-14",
+      "rows": 2099,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911414.parquet",
+      "scraped_at": "2026-04-24T10:35:47.340109+00:00"
+    },
+    "1911406": {
+      "url": "https://www.whoscored.com/Matches/1911406/Live/Ligue-1-2025-2026-Marseille-vs-Monaco",
+      "display_name": "Marseille vs Monaco | 2025/2026 | Ligue 1 | 2025-12-14",
+      "rows": 1840,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911406.parquet",
+      "scraped_at": "2026-04-24T10:36:06.534824+00:00"
+    },
+    "1911412": {
+      "url": "https://www.whoscored.com/Matches/1911412/Live/Ligue-1-2025-2026-Rennes-vs-Brest",
+      "display_name": "Rennes vs Brest | 2025/2026 | Ligue 1 | 2025-12-13",
+      "rows": 1832,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911412.parquet",
+      "scraped_at": "2026-04-24T10:36:24.620758+00:00"
+    },
+    "1911408": {
+      "url": "https://www.whoscored.com/Matches/1911408/Live/Ligue-1-2025-2026-Metz-vs-Paris-Saint-Germain",
+      "display_name": "Metz vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-12-13",
+      "rows": 2114,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911408.parquet",
+      "scraped_at": "2026-04-24T10:36:50.008063+00:00"
+    },
+    "1911410": {
+      "url": "https://www.whoscored.com/Matches/1911410/Live/Ligue-1-2025-2026-Paris-FC-vs-Toulouse",
+      "display_name": "Paris FC vs Toulouse | 2025/2026 | Ligue 1 | 2025-12-13",
+      "rows": 1873,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911410.parquet",
+      "scraped_at": "2026-04-24T10:37:12.206780+00:00"
+    },
+    "1911397": {
+      "url": "https://www.whoscored.com/Matches/1911397/Live/Ligue-1-2025-2026-Angers-vs-Nantes",
+      "display_name": "Angers vs Nantes | 2025/2026 | Ligue 1 | 2025-12-12",
+      "rows": 1856,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911397.parquet",
+      "scraped_at": "2026-04-24T10:37:31.779616+00:00"
+    },
+    "1911391": {
+      "url": "https://www.whoscored.com/Matches/1911391/Live/Ligue-1-2025-2026-Nice-vs-Angers",
+      "display_name": "Nice vs Angers | 2025/2026 | Ligue 1 | 2025-12-07",
+      "rows": 2099,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911391.parquet",
+      "scraped_at": "2026-04-24T10:37:55.517808+00:00"
+    },
+    "1911380": {
+      "url": "https://www.whoscored.com/Matches/1911380/Live/Ligue-1-2025-2026-Auxerre-vs-Metz",
+      "display_name": "Auxerre vs Metz | 2025/2026 | Ligue 1 | 2025-12-07",
+      "rows": 1844,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911380.parquet",
+      "scraped_at": "2026-04-24T10:38:13.865288+00:00"
+    },
+    "1911384": {
+      "url": "https://www.whoscored.com/Matches/1911384/Live/Ligue-1-2025-2026-Le-Havre-vs-Paris-FC",
+      "display_name": "Le Havre vs Paris FC | 2025/2026 | Ligue 1 | 2025-12-07",
+      "rows": 1791,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911384.parquet",
+      "scraped_at": "2026-04-24T10:38:36.982970+00:00"
+    },
+    "1911388": {
+      "url": "https://www.whoscored.com/Matches/1911388/Live/Ligue-1-2025-2026-Lorient-vs-Lyon",
+      "display_name": "Lorient vs Lyon | 2025/2026 | Ligue 1 | 2025-12-07",
+      "rows": 1648,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911388.parquet",
+      "scraped_at": "2026-04-24T10:38:57.960570+00:00"
+    },
+    "1911389": {
+      "url": "https://www.whoscored.com/Matches/1911389/Live/Ligue-1-2025-2026-Nantes-vs-Lens",
+      "display_name": "Nantes vs Lens | 2025/2026 | Ligue 1 | 2025-12-06",
+      "rows": 1906,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911389.parquet",
+      "scraped_at": "2026-04-24T10:39:21.951283+00:00"
+    },
+    "1911394": {
+      "url": "https://www.whoscored.com/Matches/1911394/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Rennes",
+      "display_name": "Paris Saint-Germain vs Rennes | 2025/2026 | Ligue 1 | 2025-12-06",
+      "rows": 1981,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911394.parquet",
+      "scraped_at": "2026-04-24T10:39:43.657290+00:00"
+    },
+    "1911396": {
+      "url": "https://www.whoscored.com/Matches/1911396/Live/Ligue-1-2025-2026-Toulouse-vs-Strasbourg",
+      "display_name": "Toulouse vs Strasbourg | 2025/2026 | Ligue 1 | 2025-12-06",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911396.parquet",
+      "scraped_at": "2026-04-24T10:40:04.210578+00:00"
+    },
+    "1911382": {
+      "url": "https://www.whoscored.com/Matches/1911382/Live/Ligue-1-2025-2026-Brest-vs-Monaco",
+      "display_name": "Brest vs Monaco | 2025/2026 | Ligue 1 | 2025-12-05",
+      "rows": 1731,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911382.parquet",
+      "scraped_at": "2026-04-24T10:40:27.326213+00:00"
+    },
+    "1911386": {
+      "url": "https://www.whoscored.com/Matches/1911386/Live/Ligue-1-2025-2026-Lille-vs-Marseille",
+      "display_name": "Lille vs Marseille | 2025/2026 | Ligue 1 | 2025-12-05",
+      "rows": 2027,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911386.parquet",
+      "scraped_at": "2026-04-24T10:40:46.593252+00:00"
+    },
+    "1911403": {
+      "url": "https://www.whoscored.com/Matches/1911403/Live/Ligue-1-2025-2026-Angers-vs-Lens",
+      "display_name": "Angers vs Lens | 2025/2026 | Ligue 1 | 2025-11-30",
+      "rows": 2019,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911403.parquet",
+      "scraped_at": "2026-04-24T10:41:06.520713+00:00"
+    },
+    "1911377": {
+      "url": "https://www.whoscored.com/Matches/1911377/Live/Ligue-1-2025-2026-Strasbourg-vs-Brest",
+      "display_name": "Strasbourg vs Brest | 2025/2026 | Ligue 1 | 2025-11-30",
+      "rows": 1934,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911377.parquet",
+      "scraped_at": "2026-04-24T10:41:25.435012+00:00"
+    },
+    "1911405": {
+      "url": "https://www.whoscored.com/Matches/1911405/Live/Ligue-1-2025-2026-Le-Havre-vs-Lille",
+      "display_name": "Le Havre vs Lille | 2025/2026 | Ligue 1 | 2025-11-30",
+      "rows": 1827,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911405.parquet",
+      "scraped_at": "2026-04-24T10:41:45.617040+00:00"
+    },
+    "1911407": {
+      "url": "https://www.whoscored.com/Matches/1911407/Live/Ligue-1-2025-2026-Lorient-vs-Nice",
+      "display_name": "Lorient vs Nice | 2025/2026 | Ligue 1 | 2025-11-30",
+      "rows": 1970,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911407.parquet",
+      "scraped_at": "2026-04-24T10:42:05.099889+00:00"
+    },
+    "1911409": {
+      "url": "https://www.whoscored.com/Matches/1911409/Live/Ligue-1-2025-2026-Lyon-vs-Nantes",
+      "display_name": "Lyon vs Nantes | 2025/2026 | Ligue 1 | 2025-11-30",
+      "rows": 1743,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911409.parquet",
+      "scraped_at": "2026-04-24T10:42:27.735256+00:00"
+    },
+    "1911417": {
+      "url": "https://www.whoscored.com/Matches/1911417/Live/Ligue-1-2025-2026-Paris-FC-vs-Auxerre",
+      "display_name": "Paris FC vs Auxerre | 2025/2026 | Ligue 1 | 2025-11-29",
+      "rows": 1892,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911417.parquet",
+      "scraped_at": "2026-04-24T10:42:52.158431+00:00"
+    },
+    "1911411": {
+      "url": "https://www.whoscored.com/Matches/1911411/Live/Ligue-1-2025-2026-Marseille-vs-Toulouse",
+      "display_name": "Marseille vs Toulouse | 2025/2026 | Ligue 1 | 2025-11-29",
+      "rows": 1955,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911411.parquet",
+      "scraped_at": "2026-04-24T10:43:11.177771+00:00"
+    },
+    "1911415": {
+      "url": "https://www.whoscored.com/Matches/1911415/Live/Ligue-1-2025-2026-Monaco-vs-Paris-Saint-Germain",
+      "display_name": "Monaco vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-11-29",
+      "rows": 1856,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911415.parquet",
+      "scraped_at": "2026-04-24T10:43:33.156529+00:00"
+    },
+    "1911413": {
+      "url": "https://www.whoscored.com/Matches/1911413/Live/Ligue-1-2025-2026-Metz-vs-Rennes",
+      "display_name": "Metz vs Rennes | 2025/2026 | Ligue 1 | 2025-11-28",
+      "rows": 1944,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911413.parquet",
+      "scraped_at": "2026-04-24T10:43:56.370254+00:00"
+    },
+    "1911401": {
+      "url": "https://www.whoscored.com/Matches/1911401/Live/Ligue-1-2025-2026-Toulouse-vs-Angers",
+      "display_name": "Toulouse vs Angers | 2025/2026 | Ligue 1 | 2025-11-23",
+      "rows": 1902,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911401.parquet",
+      "scraped_at": "2026-04-24T10:44:20.740556+00:00"
+    },
+    "1911385": {
+      "url": "https://www.whoscored.com/Matches/1911385/Live/Ligue-1-2025-2026-Auxerre-vs-Lyon",
+      "display_name": "Auxerre vs Lyon | 2025/2026 | Ligue 1 | 2025-11-23",
+      "rows": 1746,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911385.parquet",
+      "scraped_at": "2026-04-24T10:44:45.183706+00:00"
+    },
+    "1911387": {
+      "url": "https://www.whoscored.com/Matches/1911387/Live/Ligue-1-2025-2026-Brest-vs-Metz",
+      "display_name": "Brest vs Metz | 2025/2026 | Ligue 1 | 2025-11-23",
+      "rows": 1875,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911387.parquet",
+      "scraped_at": "2026-04-24T10:45:09.882272+00:00"
+    },
+    "1911392": {
+      "url": "https://www.whoscored.com/Matches/1911392/Live/Ligue-1-2025-2026-Lille-vs-Paris-FC",
+      "display_name": "Lille vs Paris FC | 2025/2026 | Ligue 1 | 2025-11-23",
+      "rows": 1906,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911392.parquet",
+      "scraped_at": "2026-04-24T10:45:33.803901+00:00"
+    },
+    "1911393": {
+      "url": "https://www.whoscored.com/Matches/1911393/Live/Ligue-1-2025-2026-Nantes-vs-Lorient",
+      "display_name": "Nantes vs Lorient | 2025/2026 | Ligue 1 | 2025-11-23",
+      "rows": 1929,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911393.parquet",
+      "scraped_at": "2026-04-24T10:45:57.638661+00:00"
+    },
+    "1911398": {
+      "url": "https://www.whoscored.com/Matches/1911398/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Le-Havre",
+      "display_name": "Paris Saint-Germain vs Le Havre | 2025/2026 | Ligue 1 | 2025-11-22",
+      "rows": 1978,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911398.parquet",
+      "scraped_at": "2026-04-24T10:46:18.529551+00:00"
+    },
+    "1911390": {
+      "url": "https://www.whoscored.com/Matches/1911390/Live/Ligue-1-2025-2026-Lens-vs-Strasbourg",
+      "display_name": "Lens vs Strasbourg | 2025/2026 | Ligue 1 | 2025-11-22",
+      "rows": 1934,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911390.parquet",
+      "scraped_at": "2026-04-24T10:46:41.075329+00:00"
+    },
+    "1911400": {
+      "url": "https://www.whoscored.com/Matches/1911400/Live/Ligue-1-2025-2026-Rennes-vs-Monaco",
+      "display_name": "Rennes vs Monaco | 2025/2026 | Ligue 1 | 2025-11-22",
+      "rows": 1981,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911400.parquet",
+      "scraped_at": "2026-04-24T10:47:06.049576+00:00"
+    },
+    "1911395": {
+      "url": "https://www.whoscored.com/Matches/1911395/Live/Ligue-1-2025-2026-Nice-vs-Marseille",
+      "display_name": "Nice vs Marseille | 2025/2026 | Ligue 1 | 2025-11-21",
+      "rows": 1862,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911395.parquet",
+      "scraped_at": "2026-04-24T10:47:24.835902+00:00"
+    },
+    "1911365": {
+      "url": "https://www.whoscored.com/Matches/1911365/Live/Ligue-1-2025-2026-Angers-vs-Auxerre",
+      "display_name": "Angers vs Auxerre | 2025/2026 | Ligue 1 | 2025-11-09",
+      "rows": 1934,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911365.parquet",
+      "scraped_at": "2026-04-24T10:47:48.308369+00:00"
+    },
+    "1911383": {
+      "url": "https://www.whoscored.com/Matches/1911383/Live/Ligue-1-2025-2026-Strasbourg-vs-Lille",
+      "display_name": "Strasbourg vs Lille | 2025/2026 | Ligue 1 | 2025-11-09",
+      "rows": 1787,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911383.parquet",
+      "scraped_at": "2026-04-24T10:48:12.098249+00:00"
+    },
+    "1911369": {
+      "url": "https://www.whoscored.com/Matches/1911369/Live/Ligue-1-2025-2026-Lorient-vs-Toulouse",
+      "display_name": "Lorient vs Toulouse | 2025/2026 | Ligue 1 | 2025-11-09",
+      "rows": 1775,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911369.parquet",
+      "scraped_at": "2026-04-24T10:48:31.409544+00:00"
+    },
+    "1911371": {
+      "url": "https://www.whoscored.com/Matches/1911371/Live/Ligue-1-2025-2026-Lyon-vs-Paris-Saint-Germain",
+      "display_name": "Lyon vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-11-09",
+      "rows": 1942,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911371.parquet",
+      "scraped_at": "2026-04-24T10:48:55.342408+00:00"
+    },
+    "1911375": {
+      "url": "https://www.whoscored.com/Matches/1911375/Live/Ligue-1-2025-2026-Metz-vs-Nice",
+      "display_name": "Metz vs Nice | 2025/2026 | Ligue 1 | 2025-11-09",
+      "rows": 1853,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911375.parquet",
+      "scraped_at": "2026-04-24T10:49:16.850978+00:00"
+    },
+    "1911373": {
+      "url": "https://www.whoscored.com/Matches/1911373/Live/Ligue-1-2025-2026-Marseille-vs-Brest",
+      "display_name": "Marseille vs Brest | 2025/2026 | Ligue 1 | 2025-11-08",
+      "rows": 1978,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911373.parquet",
+      "scraped_at": "2026-04-24T10:49:35.351996+00:00"
+    },
+    "1911367": {
+      "url": "https://www.whoscored.com/Matches/1911367/Live/Ligue-1-2025-2026-Le-Havre-vs-Nantes",
+      "display_name": "Le Havre vs Nantes | 2025/2026 | Ligue 1 | 2025-11-08",
+      "rows": 1851,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911367.parquet",
+      "scraped_at": "2026-04-24T10:49:56.867759+00:00"
+    },
+    "1911379": {
+      "url": "https://www.whoscored.com/Matches/1911379/Live/Ligue-1-2025-2026-Monaco-vs-Lens",
+      "display_name": "Monaco vs Lens | 2025/2026 | Ligue 1 | 2025-11-08",
+      "rows": 1945,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911379.parquet",
+      "scraped_at": "2026-04-24T10:50:16.382072+00:00"
+    },
+    "1911381": {
+      "url": "https://www.whoscored.com/Matches/1911381/Live/Ligue-1-2025-2026-Paris-FC-vs-Rennes",
+      "display_name": "Paris FC vs Rennes | 2025/2026 | Ligue 1 | 2025-11-07",
+      "rows": 1823,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911381.parquet",
+      "scraped_at": "2026-04-24T10:50:39.413790+00:00"
+    },
+    "1911353": {
+      "url": "https://www.whoscored.com/Matches/1911353/Live/Ligue-1-2025-2026-Lille-vs-Angers",
+      "display_name": "Lille vs Angers | 2025/2026 | Ligue 1 | 2025-11-02",
+      "rows": 1998,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911353.parquet",
+      "scraped_at": "2026-04-24T10:51:01.243214+00:00"
+    },
+    "1911349": {
+      "url": "https://www.whoscored.com/Matches/1911349/Live/Ligue-1-2025-2026-Brest-vs-Lyon",
+      "display_name": "Brest vs Lyon | 2025/2026 | Ligue 1 | 2025-11-02",
+      "rows": 1777,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911349.parquet",
+      "scraped_at": "2026-04-24T10:51:22.227608+00:00"
+    },
+    "1911363": {
+      "url": "https://www.whoscored.com/Matches/1911363/Live/Ligue-1-2025-2026-Toulouse-vs-Le-Havre",
+      "display_name": "Toulouse vs Le Havre | 2025/2026 | Ligue 1 | 2025-11-02",
+      "rows": 1838,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911363.parquet",
+      "scraped_at": "2026-04-24T10:51:44.688566+00:00"
+    },
+    "1911351": {
+      "url": "https://www.whoscored.com/Matches/1911351/Live/Ligue-1-2025-2026-Lens-vs-Lorient",
+      "display_name": "Lens vs Lorient | 2025/2026 | Ligue 1 | 2025-11-02",
+      "rows": 2005,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911351.parquet",
+      "scraped_at": "2026-04-24T10:52:10.230778+00:00"
+    },
+    "1911357": {
+      "url": "https://www.whoscored.com/Matches/1911357/Live/Ligue-1-2025-2026-Nantes-vs-Metz",
+      "display_name": "Nantes vs Metz | 2025/2026 | Ligue 1 | 2025-11-02",
+      "rows": 1703,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911357.parquet",
+      "scraped_at": "2026-04-24T10:52:31.365308+00:00"
+    },
+    "1911361": {
+      "url": "https://www.whoscored.com/Matches/1911361/Live/Ligue-1-2025-2026-Rennes-vs-Strasbourg",
+      "display_name": "Rennes vs Strasbourg | 2025/2026 | Ligue 1 | 2025-11-02",
+      "rows": 1998,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911361.parquet",
+      "scraped_at": "2026-04-24T10:52:50.859117+00:00"
+    },
+    "1911347": {
+      "url": "https://www.whoscored.com/Matches/1911347/Live/Ligue-1-2025-2026-Auxerre-vs-Marseille",
+      "display_name": "Auxerre vs Marseille | 2025/2026 | Ligue 1 | 2025-11-01",
+      "rows": 1820,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911347.parquet",
+      "scraped_at": "2026-04-24T10:53:14.283344+00:00"
+    },
+    "1911355": {
+      "url": "https://www.whoscored.com/Matches/1911355/Live/Ligue-1-2025-2026-Monaco-vs-Paris-FC",
+      "display_name": "Monaco vs Paris FC | 2025/2026 | Ligue 1 | 2025-11-01",
+      "rows": 1852,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911355.parquet",
+      "scraped_at": "2026-04-24T10:53:37.253686+00:00"
+    },
+    "1911359": {
+      "url": "https://www.whoscored.com/Matches/1911359/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Nice",
+      "display_name": "Paris Saint-Germain vs Nice | 2025/2026 | Ligue 1 | 2025-11-01",
+      "rows": 2051,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911359.parquet",
+      "scraped_at": "2026-04-24T10:54:01.016196+00:00"
+    },
+    "1911327": {
+      "url": "https://www.whoscored.com/Matches/1911327/Live/Ligue-1-2025-2026-Marseille-vs-Angers",
+      "display_name": "Marseille vs Angers | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 2108,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911327.parquet",
+      "scraped_at": "2026-04-24T10:54:20.698610+00:00"
+    },
+    "1911342": {
+      "url": "https://www.whoscored.com/Matches/1911342/Live/Ligue-1-2025-2026-Strasbourg-vs-Auxerre",
+      "display_name": "Strasbourg vs Auxerre | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 1995,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911342.parquet",
+      "scraped_at": "2026-04-24T10:54:43.799827+00:00"
+    },
+    "1911322": {
+      "url": "https://www.whoscored.com/Matches/1911322/Live/Ligue-1-2025-2026-Le-Havre-vs-Brest",
+      "display_name": "Le Havre vs Brest | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 1969,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911322.parquet",
+      "scraped_at": "2026-04-24T10:55:08.670120+00:00"
+    },
+    "1911331": {
+      "url": "https://www.whoscored.com/Matches/1911331/Live/Ligue-1-2025-2026-Metz-vs-Lens",
+      "display_name": "Metz vs Lens | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 1942,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911331.parquet",
+      "scraped_at": "2026-04-24T10:55:34.399481+00:00"
+    },
+    "1911337": {
+      "url": "https://www.whoscored.com/Matches/1911337/Live/Ligue-1-2025-2026-Nice-vs-Lille",
+      "display_name": "Nice vs Lille | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 1915,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911337.parquet",
+      "scraped_at": "2026-04-24T10:55:53.649529+00:00"
+    },
+    "1911325": {
+      "url": "https://www.whoscored.com/Matches/1911325/Live/Ligue-1-2025-2026-Lorient-vs-Paris-Saint-Germain",
+      "display_name": "Lorient vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 2059,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911325.parquet",
+      "scraped_at": "2026-04-24T10:56:17.884970+00:00"
+    },
+    "1911340": {
+      "url": "https://www.whoscored.com/Matches/1911340/Live/Ligue-1-2025-2026-Paris-FC-vs-Lyon",
+      "display_name": "Paris FC vs Lyon | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 1844,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911340.parquet",
+      "scraped_at": "2026-04-24T10:56:37.780765+00:00"
+    },
+    "1911334": {
+      "url": "https://www.whoscored.com/Matches/1911334/Live/Ligue-1-2025-2026-Nantes-vs-Monaco",
+      "display_name": "Nantes vs Monaco | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 1783,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911334.parquet",
+      "scraped_at": "2026-04-24T10:56:55.954814+00:00"
+    },
+    "1911345": {
+      "url": "https://www.whoscored.com/Matches/1911345/Live/Ligue-1-2025-2026-Toulouse-vs-Rennes",
+      "display_name": "Toulouse vs Rennes | 2025/2026 | Ligue 1 | 2025-10-29",
+      "rows": 1722,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911345.parquet",
+      "scraped_at": "2026-04-24T10:57:18.084905+00:00"
+    },
+    "1911300": {
+      "url": "https://www.whoscored.com/Matches/1911300/Live/Ligue-1-2025-2026-Angers-vs-Lorient",
+      "display_name": "Angers vs Lorient | 2025/2026 | Ligue 1 | 2025-10-26",
+      "rows": 1978,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911300.parquet",
+      "scraped_at": "2026-04-24T10:57:39.985974+00:00"
+    },
+    "1911302": {
+      "url": "https://www.whoscored.com/Matches/1911302/Live/Ligue-1-2025-2026-Auxerre-vs-Le-Havre",
+      "display_name": "Auxerre vs Le Havre | 2025/2026 | Ligue 1 | 2025-10-26",
+      "rows": 1662,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911302.parquet",
+      "scraped_at": "2026-04-24T10:57:59.212585+00:00"
+    },
+    "1911308": {
+      "url": "https://www.whoscored.com/Matches/1911308/Live/Ligue-1-2025-2026-Lille-vs-Metz",
+      "display_name": "Lille vs Metz | 2025/2026 | Ligue 1 | 2025-10-26",
+      "rows": 1886,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911308.parquet",
+      "scraped_at": "2026-04-24T10:58:24.112573+00:00"
+    },
+    "1911311": {
+      "url": "https://www.whoscored.com/Matches/1911311/Live/Ligue-1-2025-2026-Lyon-vs-Strasbourg",
+      "display_name": "Lyon vs Strasbourg | 2025/2026 | Ligue 1 | 2025-10-26",
+      "rows": 1670,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911311.parquet",
+      "scraped_at": "2026-04-24T10:58:47.280354+00:00"
+    },
+    "1911319": {
+      "url": "https://www.whoscored.com/Matches/1911319/Live/Ligue-1-2025-2026-Rennes-vs-Nice",
+      "display_name": "Rennes vs Nice | 2025/2026 | Ligue 1 | 2025-10-26",
+      "rows": 1897,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911319.parquet",
+      "scraped_at": "2026-04-24T10:59:08.434920+00:00"
+    },
+    "1911304": {
+      "url": "https://www.whoscored.com/Matches/1911304/Live/Ligue-1-2025-2026-Brest-vs-Paris-Saint-Germain",
+      "display_name": "Brest vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-10-25",
+      "rows": 2088,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911304.parquet",
+      "scraped_at": "2026-04-24T10:59:34.413792+00:00"
+    },
+    "1911306": {
+      "url": "https://www.whoscored.com/Matches/1911306/Live/Ligue-1-2025-2026-Lens-vs-Marseille",
+      "display_name": "Lens vs Marseille | 2025/2026 | Ligue 1 | 2025-10-25",
+      "rows": 2169,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911306.parquet",
+      "scraped_at": "2026-04-24T10:59:56.038835+00:00"
+    },
+    "1911313": {
+      "url": "https://www.whoscored.com/Matches/1911313/Live/Ligue-1-2025-2026-Monaco-vs-Toulouse",
+      "display_name": "Monaco vs Toulouse | 2025/2026 | Ligue 1 | 2025-10-25",
+      "rows": 1748,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911313.parquet",
+      "scraped_at": "2026-04-24T11:00:15.687626+00:00"
+    },
+    "1911316": {
+      "url": "https://www.whoscored.com/Matches/1911316/Live/Ligue-1-2025-2026-Paris-FC-vs-Nantes",
+      "display_name": "Paris FC vs Nantes | 2025/2026 | Ligue 1 | 2025-10-24",
+      "rows": 1818,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911316.parquet",
+      "scraped_at": "2026-04-24T11:00:33.773546+00:00"
+    },
+    "1911344": {
+      "url": "https://www.whoscored.com/Matches/1911344/Live/Ligue-1-2025-2026-Rennes-vs-Auxerre",
+      "display_name": "Rennes vs Auxerre | 2025/2026 | Ligue 1 | 2025-10-19",
+      "rows": 1794,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911344.parquet",
+      "scraped_at": "2026-04-24T11:00:56.275234+00:00"
+    },
+    "1911329": {
+      "url": "https://www.whoscored.com/Matches/1911329/Live/Ligue-1-2025-2026-Lorient-vs-Brest",
+      "display_name": "Lorient vs Brest | 2025/2026 | Ligue 1 | 2025-10-19",
+      "rows": 1739,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911329.parquet",
+      "scraped_at": "2026-04-24T11:01:15.772883+00:00"
+    },
+    "1911326": {
+      "url": "https://www.whoscored.com/Matches/1911326/Live/Ligue-1-2025-2026-Lens-vs-Paris-FC",
+      "display_name": "Lens vs Paris FC | 2025/2026 | Ligue 1 | 2025-10-19",
+      "rows": 1898,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911326.parquet",
+      "scraped_at": "2026-04-24T11:01:34.541404+00:00"
+    },
+    "1911335": {
+      "url": "https://www.whoscored.com/Matches/1911335/Live/Ligue-1-2025-2026-Nantes-vs-Lille",
+      "display_name": "Nantes vs Lille | 2025/2026 | Ligue 1 | 2025-10-19",
+      "rows": 1842,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911335.parquet",
+      "scraped_at": "2026-04-24T11:01:57.420192+00:00"
+    },
+    "1911298": {
+      "url": "https://www.whoscored.com/Matches/1911298/Live/Ligue-1-2025-2026-Toulouse-vs-Metz",
+      "display_name": "Toulouse vs Metz | 2025/2026 | Ligue 1 | 2025-10-19",
+      "rows": 1914,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911298.parquet",
+      "scraped_at": "2026-04-24T11:02:17.902726+00:00"
+    },
+    "1911323": {
+      "url": "https://www.whoscored.com/Matches/1911323/Live/Ligue-1-2025-2026-Angers-vs-Monaco",
+      "display_name": "Angers vs Monaco | 2025/2026 | Ligue 1 | 2025-10-18",
+      "rows": 1956,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911323.parquet",
+      "scraped_at": "2026-04-24T11:02:47.391847+00:00"
+    },
+    "1911332": {
+      "url": "https://www.whoscored.com/Matches/1911332/Live/Ligue-1-2025-2026-Marseille-vs-Le-Havre",
+      "display_name": "Marseille vs Le Havre | 2025/2026 | Ligue 1 | 2025-10-18",
+      "rows": 1782,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911332.parquet",
+      "scraped_at": "2026-04-24T11:03:06.471896+00:00"
+    },
+    "1911338": {
+      "url": "https://www.whoscored.com/Matches/1911338/Live/Ligue-1-2025-2026-Nice-vs-Lyon",
+      "display_name": "Nice vs Lyon | 2025/2026 | Ligue 1 | 2025-10-18",
+      "rows": 1840,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911338.parquet",
+      "scraped_at": "2026-04-24T11:03:29.807105+00:00"
+    },
+    "1911341": {
+      "url": "https://www.whoscored.com/Matches/1911341/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Strasbourg",
+      "display_name": "Paris Saint-Germain vs Strasbourg | 2025/2026 | Ligue 1 | 2025-10-17",
+      "rows": 2107,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911341.parquet",
+      "scraped_at": "2026-04-24T11:03:49.167352+00:00"
+    },
+    "1911320": {
+      "url": "https://www.whoscored.com/Matches/1911320/Live/Ligue-1-2025-2026-Strasbourg-vs-Angers",
+      "display_name": "Strasbourg vs Angers | 2025/2026 | Ligue 1 | 2025-10-05",
+      "rows": 2173,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911320.parquet",
+      "scraped_at": "2026-04-24T11:04:09.378301+00:00"
+    },
+    "1911305": {
+      "url": "https://www.whoscored.com/Matches/1911305/Live/Ligue-1-2025-2026-Le-Havre-vs-Rennes",
+      "display_name": "Le Havre vs Rennes | 2025/2026 | Ligue 1 | 2025-10-05",
+      "rows": 1996,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911305.parquet",
+      "scraped_at": "2026-04-24T11:04:31.533321+00:00"
+    },
+    "1911307": {
+      "url": "https://www.whoscored.com/Matches/1911307/Live/Ligue-1-2025-2026-Lille-vs-Paris-Saint-Germain",
+      "display_name": "Lille vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-10-05",
+      "rows": 2012,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911307.parquet",
+      "scraped_at": "2026-04-24T11:04:56.732306+00:00"
+    },
+    "1911309": {
+      "url": "https://www.whoscored.com/Matches/1911309/Live/Ligue-1-2025-2026-Lyon-vs-Toulouse",
+      "display_name": "Lyon vs Toulouse | 2025/2026 | Ligue 1 | 2025-10-05",
+      "rows": 1771,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911309.parquet",
+      "scraped_at": "2026-04-24T11:05:16.682710+00:00"
+    },
+    "1911314": {
+      "url": "https://www.whoscored.com/Matches/1911314/Live/Ligue-1-2025-2026-Monaco-vs-Nice",
+      "display_name": "Monaco vs Nice | 2025/2026 | Ligue 1 | 2025-10-05",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911314.parquet",
+      "scraped_at": "2026-04-24T11:05:35.079106+00:00"
+    },
+    "1911301": {
+      "url": "https://www.whoscored.com/Matches/1911301/Live/Ligue-1-2025-2026-Auxerre-vs-Lens",
+      "display_name": "Auxerre vs Lens | 2025/2026 | Ligue 1 | 2025-10-04",
+      "rows": 1879,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911301.parquet",
+      "scraped_at": "2026-04-24T11:05:54.177720+00:00"
+    },
+    "1911303": {
+      "url": "https://www.whoscored.com/Matches/1911303/Live/Ligue-1-2025-2026-Brest-vs-Nantes",
+      "display_name": "Brest vs Nantes | 2025/2026 | Ligue 1 | 2025-10-04",
+      "rows": 1735,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911303.parquet",
+      "scraped_at": "2026-04-24T11:06:18.175592+00:00"
+    },
+    "1911312": {
+      "url": "https://www.whoscored.com/Matches/1911312/Live/Ligue-1-2025-2026-Metz-vs-Marseille",
+      "display_name": "Metz vs Marseille | 2025/2026 | Ligue 1 | 2025-10-04",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911312.parquet",
+      "scraped_at": "2026-04-24T11:06:39.118191+00:00"
+    },
+    "1911317": {
+      "url": "https://www.whoscored.com/Matches/1911317/Live/Ligue-1-2025-2026-Paris-FC-vs-Lorient",
+      "display_name": "Paris FC vs Lorient | 2025/2026 | Ligue 1 | 2025-10-03",
+      "rows": 2089,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911317.parquet",
+      "scraped_at": "2026-04-24T11:06:59.816671+00:00"
+    },
+    "1911372": {
+      "url": "https://www.whoscored.com/Matches/1911372/Live/Ligue-1-2025-2026-Angers-vs-Brest",
+      "display_name": "Angers vs Brest | 2025/2026 | Ligue 1 | 2025-09-28",
+      "rows": 1833,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911372.parquet",
+      "scraped_at": "2026-04-24T11:07:24.164684+00:00"
+    },
+    "1911378": {
+      "url": "https://www.whoscored.com/Matches/1911378/Live/Ligue-1-2025-2026-Metz-vs-Le-Havre",
+      "display_name": "Metz vs Le Havre | 2025/2026 | Ligue 1 | 2025-09-28",
+      "rows": 1677,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911378.parquet",
+      "scraped_at": "2026-04-24T11:07:43.850519+00:00"
+    },
+    "1911294": {
+      "url": "https://www.whoscored.com/Matches/1911294/Live/Ligue-1-2025-2026-Rennes-vs-Lens",
+      "display_name": "Rennes vs Lens | 2025/2026 | Ligue 1 | 2025-09-28",
+      "rows": 1876,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911294.parquet",
+      "scraped_at": "2026-04-24T11:08:07.474237+00:00"
+    },
+    "1911374": {
+      "url": "https://www.whoscored.com/Matches/1911374/Live/Ligue-1-2025-2026-Lille-vs-Lyon",
+      "display_name": "Lille vs Lyon | 2025/2026 | Ligue 1 | 2025-09-28",
+      "rows": 1727,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911374.parquet",
+      "scraped_at": "2026-04-24T11:08:27.165715+00:00"
+    },
+    "1911288": {
+      "url": "https://www.whoscored.com/Matches/1911288/Live/Ligue-1-2025-2026-Nice-vs-Paris-FC",
+      "display_name": "Nice vs Paris FC | 2025/2026 | Ligue 1 | 2025-09-28",
+      "rows": 1857,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911288.parquet",
+      "scraped_at": "2026-04-24T11:08:50.161006+00:00"
+    },
+    "1911291": {
+      "url": "https://www.whoscored.com/Matches/1911291/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Auxerre",
+      "display_name": "Paris Saint-Germain vs Auxerre | 2025/2026 | Ligue 1 | 2025-09-27",
+      "rows": 2081,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911291.parquet",
+      "scraped_at": "2026-04-24T11:09:12.335023+00:00"
+    },
+    "1911376": {
+      "url": "https://www.whoscored.com/Matches/1911376/Live/Ligue-1-2025-2026-Lorient-vs-Monaco",
+      "display_name": "Lorient vs Monaco | 2025/2026 | Ligue 1 | 2025-09-27",
+      "rows": 2098,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911376.parquet",
+      "scraped_at": "2026-04-24T11:09:32.881129+00:00"
+    },
+    "1911299": {
+      "url": "https://www.whoscored.com/Matches/1911299/Live/Ligue-1-2025-2026-Toulouse-vs-Nantes",
+      "display_name": "Toulouse vs Nantes | 2025/2026 | Ligue 1 | 2025-09-27",
+      "rows": 1891,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911299.parquet",
+      "scraped_at": "2026-04-24T11:09:57.523584+00:00"
+    },
+    "1911297": {
+      "url": "https://www.whoscored.com/Matches/1911297/Live/Ligue-1-2025-2026-Strasbourg-vs-Marseille",
+      "display_name": "Strasbourg vs Marseille | 2025/2026 | Ligue 1 | 2025-09-26",
+      "rows": 1870,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911297.parquet",
+      "scraped_at": "2026-04-24T11:10:18.577289+00:00"
+    },
+    "1911364": {
+      "url": "https://www.whoscored.com/Matches/1911364/Live/Ligue-1-2025-2026-Marseille-vs-Paris-Saint-Germain",
+      "display_name": "Marseille vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-09-22",
+      "rows": 1911,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911364.parquet",
+      "scraped_at": "2026-04-24T11:10:39.907718+00:00"
+    },
+    "1911354": {
+      "url": "https://www.whoscored.com/Matches/1911354/Live/Ligue-1-2025-2026-Auxerre-vs-Toulouse",
+      "display_name": "Auxerre vs Toulouse | 2025/2026 | Ligue 1 | 2025-09-21",
+      "rows": 1674,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911354.parquet",
+      "scraped_at": "2026-04-24T11:11:03.096913+00:00"
+    },
+    "1911358": {
+      "url": "https://www.whoscored.com/Matches/1911358/Live/Ligue-1-2025-2026-Le-Havre-vs-Lorient",
+      "display_name": "Le Havre vs Lorient | 2025/2026 | Ligue 1 | 2025-09-21",
+      "rows": 1994,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911358.parquet",
+      "scraped_at": "2026-04-24T11:11:24.562659+00:00"
+    },
+    "1911366": {
+      "url": "https://www.whoscored.com/Matches/1911366/Live/Ligue-1-2025-2026-Monaco-vs-Metz",
+      "display_name": "Monaco vs Metz | 2025/2026 | Ligue 1 | 2025-09-21",
+      "rows": 1927,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911366.parquet",
+      "scraped_at": "2026-04-24T11:11:45.139646+00:00"
+    },
+    "1911370": {
+      "url": "https://www.whoscored.com/Matches/1911370/Live/Ligue-1-2025-2026-Paris-FC-vs-Strasbourg",
+      "display_name": "Paris FC vs Strasbourg | 2025/2026 | Ligue 1 | 2025-09-21",
+      "rows": 1941,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911370.parquet",
+      "scraped_at": "2026-04-24T11:12:07.885162+00:00"
+    },
+    "1911356": {
+      "url": "https://www.whoscored.com/Matches/1911356/Live/Ligue-1-2025-2026-Brest-vs-Nice",
+      "display_name": "Brest vs Nice | 2025/2026 | Ligue 1 | 2025-09-20",
+      "rows": 2057,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911356.parquet",
+      "scraped_at": "2026-04-24T11:12:27.519159+00:00"
+    },
+    "1911360": {
+      "url": "https://www.whoscored.com/Matches/1911360/Live/Ligue-1-2025-2026-Lens-vs-Lille",
+      "display_name": "Lens vs Lille | 2025/2026 | Ligue 1 | 2025-09-20",
+      "rows": 1833,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911360.parquet",
+      "scraped_at": "2026-04-24T11:12:50.950646+00:00"
+    },
+    "1911368": {
+      "url": "https://www.whoscored.com/Matches/1911368/Live/Ligue-1-2025-2026-Nantes-vs-Rennes",
+      "display_name": "Nantes vs Rennes | 2025/2026 | Ligue 1 | 2025-09-20",
+      "rows": 1749,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911368.parquet",
+      "scraped_at": "2026-04-24T11:13:14.367275+00:00"
+    },
+    "1911362": {
+      "url": "https://www.whoscored.com/Matches/1911362/Live/Ligue-1-2025-2026-Lyon-vs-Angers",
+      "display_name": "Lyon vs Angers | 2025/2026 | Ligue 1 | 2025-09-19",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911362.parquet",
+      "scraped_at": "2026-04-24T11:13:34.219704+00:00"
+    },
+    "1911343": {
+      "url": "https://www.whoscored.com/Matches/1911343/Live/Ligue-1-2025-2026-Metz-vs-Angers",
+      "display_name": "Metz vs Angers | 2025/2026 | Ligue 1 | 2025-09-14",
+      "rows": 2025,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911343.parquet",
+      "scraped_at": "2026-04-24T11:13:52.433902+00:00"
+    },
+    "1911333": {
+      "url": "https://www.whoscored.com/Matches/1911333/Live/Ligue-1-2025-2026-Brest-vs-Paris-FC",
+      "display_name": "Brest vs Paris FC | 2025/2026 | Ligue 1 | 2025-09-14",
+      "rows": 1857,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911333.parquet",
+      "scraped_at": "2026-04-24T11:14:13.005518+00:00"
+    },
+    "1911352": {
+      "url": "https://www.whoscored.com/Matches/1911352/Live/Ligue-1-2025-2026-Strasbourg-vs-Le-Havre",
+      "display_name": "Strasbourg vs Le Havre | 2025/2026 | Ligue 1 | 2025-09-14",
+      "rows": 1963,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911352.parquet",
+      "scraped_at": "2026-04-24T11:14:34.546453+00:00"
+    },
+    "1911348": {
+      "url": "https://www.whoscored.com/Matches/1911348/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Lens",
+      "display_name": "Paris Saint-Germain vs Lens | 2025/2026 | Ligue 1 | 2025-09-14",
+      "rows": 2065,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911348.parquet",
+      "scraped_at": "2026-04-24T11:14:58.746179+00:00"
+    },
+    "1911336": {
+      "url": "https://www.whoscored.com/Matches/1911336/Live/Ligue-1-2025-2026-Lille-vs-Toulouse",
+      "display_name": "Lille vs Toulouse | 2025/2026 | Ligue 1 | 2025-09-14",
+      "rows": 1735,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911336.parquet",
+      "scraped_at": "2026-04-24T11:15:20.110172+00:00"
+    },
+    "1911350": {
+      "url": "https://www.whoscored.com/Matches/1911350/Live/Ligue-1-2025-2026-Rennes-vs-Lyon",
+      "display_name": "Rennes vs Lyon | 2025/2026 | Ligue 1 | 2025-09-14",
+      "rows": 1914,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911350.parquet",
+      "scraped_at": "2026-04-24T11:15:38.176138+00:00"
+    },
+    "1911330": {
+      "url": "https://www.whoscored.com/Matches/1911330/Live/Ligue-1-2025-2026-Auxerre-vs-Monaco",
+      "display_name": "Auxerre vs Monaco | 2025/2026 | Ligue 1 | 2025-09-13",
+      "rows": 1939,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911330.parquet",
+      "scraped_at": "2026-04-24T11:15:56.690137+00:00"
+    },
+    "1911346": {
+      "url": "https://www.whoscored.com/Matches/1911346/Live/Ligue-1-2025-2026-Nice-vs-Nantes",
+      "display_name": "Nice vs Nantes | 2025/2026 | Ligue 1 | 2025-09-13",
+      "rows": 1849,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911346.parquet",
+      "scraped_at": "2026-04-24T11:16:19.413411+00:00"
+    },
+    "1911339": {
+      "url": "https://www.whoscored.com/Matches/1911339/Live/Ligue-1-2025-2026-Marseille-vs-Lorient",
+      "display_name": "Marseille vs Lorient | 2025/2026 | Ligue 1 | 2025-09-12",
+      "rows": 2018,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911339.parquet",
+      "scraped_at": "2026-04-24T11:16:41.127761+00:00"
+    },
+    "1911289": {
+      "url": "https://www.whoscored.com/Matches/1911289/Live/Ligue-1-2025-2026-Angers-vs-Rennes",
+      "display_name": "Angers vs Rennes | 2025/2026 | Ligue 1 | 2025-08-31",
+      "rows": 1976,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911289.parquet",
+      "scraped_at": "2026-04-24T11:17:04.958458+00:00"
+    },
+    "1911292": {
+      "url": "https://www.whoscored.com/Matches/1911292/Live/Ligue-1-2025-2026-Le-Havre-vs-Nice",
+      "display_name": "Le Havre vs Nice | 2025/2026 | Ligue 1 | 2025-08-31",
+      "rows": 1767,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911292.parquet",
+      "scraped_at": "2026-04-24T11:17:23.134269+00:00"
+    },
+    "1911315": {
+      "url": "https://www.whoscored.com/Matches/1911315/Live/Ligue-1-2025-2026-Lyon-vs-Marseille",
+      "display_name": "Lyon vs Marseille | 2025/2026 | Ligue 1 | 2025-08-31",
+      "rows": 1683,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911315.parquet",
+      "scraped_at": "2026-04-24T11:17:41.929586+00:00"
+    },
+    "1911324": {
+      "url": "https://www.whoscored.com/Matches/1911324/Live/Ligue-1-2025-2026-Paris-FC-vs-Metz",
+      "display_name": "Paris FC vs Metz | 2025/2026 | Ligue 1 | 2025-08-31",
+      "rows": 1972,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911324.parquet",
+      "scraped_at": "2026-04-24T11:18:05.377906+00:00"
+    },
+    "1911318": {
+      "url": "https://www.whoscored.com/Matches/1911318/Live/Ligue-1-2025-2026-Monaco-vs-Strasbourg",
+      "display_name": "Monaco vs Strasbourg | 2025/2026 | Ligue 1 | 2025-08-31",
+      "rows": 1936,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911318.parquet",
+      "scraped_at": "2026-04-24T11:18:23.992376+00:00"
+    },
+    "1911321": {
+      "url": "https://www.whoscored.com/Matches/1911321/Live/Ligue-1-2025-2026-Nantes-vs-Auxerre",
+      "display_name": "Nantes vs Auxerre | 2025/2026 | Ligue 1 | 2025-08-30",
+      "rows": 1738,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911321.parquet",
+      "scraped_at": "2026-04-24T11:18:42.352112+00:00"
+    },
+    "1911310": {
+      "url": "https://www.whoscored.com/Matches/1911310/Live/Ligue-1-2025-2026-Lorient-vs-Lille",
+      "display_name": "Lorient vs Lille | 2025/2026 | Ligue 1 | 2025-08-30",
+      "rows": 1865,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911310.parquet",
+      "scraped_at": "2026-04-24T11:19:04.395660+00:00"
+    },
+    "1911328": {
+      "url": "https://www.whoscored.com/Matches/1911328/Live/Ligue-1-2025-2026-Toulouse-vs-Paris-Saint-Germain",
+      "display_name": "Toulouse vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-08-30",
+      "rows": 2091,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911328.parquet",
+      "scraped_at": "2026-04-24T11:19:27.647609+00:00"
+    },
+    "1911295": {
+      "url": "https://www.whoscored.com/Matches/1911295/Live/Ligue-1-2025-2026-Lens-vs-Brest",
+      "display_name": "Lens vs Brest | 2025/2026 | Ligue 1 | 2025-08-29",
+      "rows": 1856,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911295.parquet",
+      "scraped_at": "2026-04-24T11:19:50.064942+00:00"
+    },
+    "1911286": {
+      "url": "https://www.whoscored.com/Matches/1911286/Live/Ligue-1-2025-2026-Toulouse-vs-Brest",
+      "display_name": "Toulouse vs Brest | 2025/2026 | Ligue 1 | 2025-08-24",
+      "rows": 1857,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911286.parquet",
+      "scraped_at": "2026-04-24T11:20:07.254288+00:00"
+    },
+    "1911276": {
+      "url": "https://www.whoscored.com/Matches/1911276/Live/Ligue-1-2025-2026-Le-Havre-vs-Lens",
+      "display_name": "Le Havre vs Lens | 2025/2026 | Ligue 1 | 2025-08-24",
+      "rows": 1940,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911276.parquet",
+      "scraped_at": "2026-04-24T11:20:25.538835+00:00"
+    },
+    "1911279": {
+      "url": "https://www.whoscored.com/Matches/1911279/Live/Ligue-1-2025-2026-Lille-vs-Monaco",
+      "display_name": "Lille vs Monaco | 2025/2026 | Ligue 1 | 2025-08-24",
+      "rows": 1835,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911279.parquet",
+      "scraped_at": "2026-04-24T11:20:45.758408+00:00"
+    },
+    "1911282": {
+      "url": "https://www.whoscored.com/Matches/1911282/Live/Ligue-1-2025-2026-Lorient-vs-Rennes",
+      "display_name": "Lorient vs Rennes | 2025/2026 | Ligue 1 | 2025-08-24",
+      "rows": 1868,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911282.parquet",
+      "scraped_at": "2026-04-24T11:21:06.258412+00:00"
+    },
+    "1911283": {
+      "url": "https://www.whoscored.com/Matches/1911283/Live/Ligue-1-2025-2026-Strasbourg-vs-Nantes",
+      "display_name": "Strasbourg vs Nantes | 2025/2026 | Ligue 1 | 2025-08-24",
+      "rows": 1949,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911283.parquet",
+      "scraped_at": "2026-04-24T11:21:29.681115+00:00"
+    },
+    "1911277": {
+      "url": "https://www.whoscored.com/Matches/1911277/Live/Ligue-1-2025-2026-Nice-vs-Auxerre",
+      "display_name": "Nice vs Auxerre | 2025/2026 | Ligue 1 | 2025-08-23",
+      "rows": 1885,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911277.parquet",
+      "scraped_at": "2026-04-24T11:21:53.809899+00:00"
+    },
+    "1911285": {
+      "url": "https://www.whoscored.com/Matches/1911285/Live/Ligue-1-2025-2026-Lyon-vs-Metz",
+      "display_name": "Lyon vs Metz | 2025/2026 | Ligue 1 | 2025-08-23",
+      "rows": 1943,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911285.parquet",
+      "scraped_at": "2026-04-24T11:22:12.795051+00:00"
+    },
+    "1911274": {
+      "url": "https://www.whoscored.com/Matches/1911274/Live/Ligue-1-2025-2026-Marseille-vs-Paris-FC",
+      "display_name": "Marseille vs Paris FC | 2025/2026 | Ligue 1 | 2025-08-23",
+      "rows": 1819,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911274.parquet",
+      "scraped_at": "2026-04-24T11:22:30.974062+00:00"
+    },
+    "1911280": {
+      "url": "https://www.whoscored.com/Matches/1911280/Live/Ligue-1-2025-2026-Paris-Saint-Germain-vs-Angers",
+      "display_name": "Paris Saint-Germain vs Angers | 2025/2026 | Ligue 1 | 2025-08-22",
+      "rows": 2197,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911280.parquet",
+      "scraped_at": "2026-04-24T11:22:52.101513+00:00"
+    },
+    "1911275": {
+      "url": "https://www.whoscored.com/Matches/1911275/Live/Ligue-1-2025-2026-Angers-vs-Paris-FC",
+      "display_name": "Angers vs Paris FC | 2025/2026 | Ligue 1 | 2025-08-17",
+      "rows": 1762,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911275.parquet",
+      "scraped_at": "2026-04-24T11:23:12.141566+00:00"
+    },
+    "1911278": {
+      "url": "https://www.whoscored.com/Matches/1911278/Live/Ligue-1-2025-2026-Auxerre-vs-Lorient",
+      "display_name": "Auxerre vs Lorient | 2025/2026 | Ligue 1 | 2025-08-17",
+      "rows": 1771,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911278.parquet",
+      "scraped_at": "2026-04-24T11:23:36.970265+00:00"
+    },
+    "1911281": {
+      "url": "https://www.whoscored.com/Matches/1911281/Live/Ligue-1-2025-2026-Brest-vs-Lille",
+      "display_name": "Brest vs Lille | 2025/2026 | Ligue 1 | 2025-08-17",
+      "rows": 1780,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911281.parquet",
+      "scraped_at": "2026-04-24T11:23:57.217794+00:00"
+    },
+    "1911287": {
+      "url": "https://www.whoscored.com/Matches/1911287/Live/Ligue-1-2025-2026-Metz-vs-Strasbourg",
+      "display_name": "Metz vs Strasbourg | 2025/2026 | Ligue 1 | 2025-08-17",
+      "rows": 2029,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911287.parquet",
+      "scraped_at": "2026-04-24T11:24:17.107652+00:00"
+    },
+    "1911293": {
+      "url": "https://www.whoscored.com/Matches/1911293/Live/Ligue-1-2025-2026-Nantes-vs-Paris-Saint-Germain",
+      "display_name": "Nantes vs Paris Saint-Germain | 2025/2026 | Ligue 1 | 2025-08-17",
+      "rows": 2022,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911293.parquet",
+      "scraped_at": "2026-04-24T11:24:35.775696+00:00"
+    },
+    "1911290": {
+      "url": "https://www.whoscored.com/Matches/1911290/Live/Ligue-1-2025-2026-Monaco-vs-Le-Havre",
+      "display_name": "Monaco vs Le Havre | 2025/2026 | Ligue 1 | 2025-08-16",
+      "rows": 1973,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911290.parquet",
+      "scraped_at": "2026-04-24T11:24:56.096974+00:00"
+    },
+    "1911284": {
+      "url": "https://www.whoscored.com/Matches/1911284/Live/Ligue-1-2025-2026-Lens-vs-Lyon",
+      "display_name": "Lens vs Lyon | 2025/2026 | Ligue 1 | 2025-08-16",
+      "rows": 1804,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911284.parquet",
+      "scraped_at": "2026-04-24T11:25:19.083109+00:00"
+    },
+    "1911296": {
+      "url": "https://www.whoscored.com/Matches/1911296/Live/Ligue-1-2025-2026-Nice-vs-Toulouse",
+      "display_name": "Nice vs Toulouse | 2025/2026 | Ligue 1 | 2025-08-16",
+      "rows": 1777,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911296.parquet",
+      "scraped_at": "2026-04-24T11:25:38.404222+00:00"
+    },
+    "1911273": {
+      "url": "https://www.whoscored.com/Matches/1911273/Live/Ligue-1-2025-2026-Rennes-vs-Marseille",
+      "display_name": "Rennes vs Marseille | 2025/2026 | Ligue 1 | 2025-08-15",
+      "rows": 1958,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\ligue_1\\2025_2026\\1911273.parquet",
+      "scraped_at": "2026-04-24T11:26:03.014687+00:00"
+    }
+  },
+  "failed": {
+    "1911504": {
+      "url": "https://www.whoscored.com/Matches/1911504/Live/France-Ligue-1-2025-2026-Paris-Saint-Germain-vs-Nantes",
+      "display_name": "Paris Saint-Germain vs Nantes | 2025/2026 | France Ligue 1 | 2026-04-22",
+      "error": "'charmap' codec can't encode character '\\u2705' in position 0: character maps to <undefined>",
+      "attempts": 1,
+      "last_attempt": "2026-04-23T00:37:57.151648+00:00"
+    }
+  },
+  "skipped": {},
+  "created_at": "2026-04-23T00:37:51.777175+00:00",
+  "updated_at": "2026-04-24T11:26:06.588966+00:00"
+}

@@ -1,0 +1,2656 @@
+{
+  "scraped": {
+    "1901247": {
+      "url": "https://www.whoscored.com/Matches/1901247/Live/Serie-A-2025-2026-Lecce-vs-Fiorentina",
+      "display_name": "Lecce vs Fiorentina | 2025/2026 | Serie A | 2026-04-20",
+      "rows": 1710,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901247.parquet",
+      "scraped_at": "2026-04-24T04:59:14.703702+00:00"
+    },
+    "1901259": {
+      "url": "https://www.whoscored.com/Matches/1901259/Live/Serie-A-2025-2026-Verona-vs-AC-Milan",
+      "display_name": "Verona vs AC Milan | 2025/2026 | Serie A | 2026-04-19",
+      "rows": 1775,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901259.parquet",
+      "scraped_at": "2026-04-24T04:59:38.153590+00:00"
+    },
+    "1901245": {
+      "url": "https://www.whoscored.com/Matches/1901245/Live/Serie-A-2025-2026-Juventus-vs-Bologna",
+      "display_name": "Juventus vs Bologna | 2025/2026 | Serie A | 2026-04-19",
+      "rows": 1800,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901245.parquet",
+      "scraped_at": "2026-04-24T04:59:59.851422+00:00"
+    },
+    "1901261": {
+      "url": "https://www.whoscored.com/Matches/1901261/Live/Serie-A-2025-2026-Cremonese-vs-Torino",
+      "display_name": "Cremonese vs Torino | 2025/2026 | Serie A | 2026-04-19",
+      "rows": 1630,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901261.parquet",
+      "scraped_at": "2026-04-24T05:00:19.761600+00:00"
+    },
+    "1901251": {
+      "url": "https://www.whoscored.com/Matches/1901251/Live/Serie-A-2025-2026-Pisa-vs-Genoa",
+      "display_name": "Pisa vs Genoa | 2025/2026 | Serie A | 2026-04-19",
+      "rows": 1648,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901251.parquet",
+      "scraped_at": "2026-04-24T05:00:40.430591+00:00"
+    },
+    "1901253": {
+      "url": "https://www.whoscored.com/Matches/1901253/Live/Serie-A-2025-2026-Roma-vs-Atalanta",
+      "display_name": "Roma vs Atalanta | 2025/2026 | Serie A | 2026-04-18",
+      "rows": 2091,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901253.parquet",
+      "scraped_at": "2026-04-24T05:00:59.975645+00:00"
+    },
+    "1901249": {
+      "url": "https://www.whoscored.com/Matches/1901249/Live/Serie-A-2025-2026-Napoli-vs-Lazio",
+      "display_name": "Napoli vs Lazio | 2025/2026 | Serie A | 2026-04-18",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901249.parquet",
+      "scraped_at": "2026-04-24T05:01:25.748732+00:00"
+    },
+    "1901257": {
+      "url": "https://www.whoscored.com/Matches/1901257/Live/Serie-A-2025-2026-Udinese-vs-Parma-Calcio-1913",
+      "display_name": "Udinese vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-04-18",
+      "rows": 1749,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901257.parquet",
+      "scraped_at": "2026-04-24T05:01:47.423212+00:00"
+    },
+    "1901243": {
+      "url": "https://www.whoscored.com/Matches/1901243/Live/Serie-A-2025-2026-Inter-vs-Cagliari",
+      "display_name": "Inter vs Cagliari | 2025/2026 | Serie A | 2026-04-17",
+      "rows": 1874,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901243.parquet",
+      "scraped_at": "2026-04-24T05:02:05.553043+00:00"
+    },
+    "1901255": {
+      "url": "https://www.whoscored.com/Matches/1901255/Live/Serie-A-2025-2026-Sassuolo-vs-Como",
+      "display_name": "Sassuolo vs Como | 2025/2026 | Serie A | 2026-04-17",
+      "rows": 1716,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901255.parquet",
+      "scraped_at": "2026-04-24T05:02:28.362644+00:00"
+    },
+    "1901231": {
+      "url": "https://www.whoscored.com/Matches/1901231/Live/Serie-A-2025-2026-Fiorentina-vs-Lazio",
+      "display_name": "Fiorentina vs Lazio | 2025/2026 | Serie A | 2026-04-13",
+      "rows": 1963,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901231.parquet",
+      "scraped_at": "2026-04-24T05:02:48.468603+00:00"
+    },
+    "1901225": {
+      "url": "https://www.whoscored.com/Matches/1901225/Live/Serie-A-2025-2026-Bologna-vs-Lecce",
+      "display_name": "Bologna vs Lecce | 2025/2026 | Serie A | 2026-04-12",
+      "rows": 1661,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901225.parquet",
+      "scraped_at": "2026-04-24T05:03:06.479718+00:00"
+    },
+    "1901229": {
+      "url": "https://www.whoscored.com/Matches/1901229/Live/Serie-A-2025-2026-Como-vs-Inter",
+      "display_name": "Como vs Inter | 2025/2026 | Serie A | 2026-04-12",
+      "rows": 1750,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901229.parquet",
+      "scraped_at": "2026-04-24T05:03:28.805322+00:00"
+    },
+    "1901233": {
+      "url": "https://www.whoscored.com/Matches/1901233/Live/Serie-A-2025-2026-Genoa-vs-Sassuolo",
+      "display_name": "Genoa vs Sassuolo | 2025/2026 | Serie A | 2026-04-12",
+      "rows": 1693,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901233.parquet",
+      "scraped_at": "2026-04-24T05:03:48.549110+00:00"
+    },
+    "1901237": {
+      "url": "https://www.whoscored.com/Matches/1901237/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Napoli",
+      "display_name": "Parma Calcio 1913 vs Napoli | 2025/2026 | Serie A | 2026-04-12",
+      "rows": 1993,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901237.parquet",
+      "scraped_at": "2026-04-24T05:04:12.261947+00:00"
+    },
+    "1901235": {
+      "url": "https://www.whoscored.com/Matches/1901235/Live/Serie-A-2025-2026-AC-Milan-vs-Udinese",
+      "display_name": "AC Milan vs Udinese | 2025/2026 | Serie A | 2026-04-11",
+      "rows": 1909,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901235.parquet",
+      "scraped_at": "2026-04-24T05:04:32.817676+00:00"
+    },
+    "1901223": {
+      "url": "https://www.whoscored.com/Matches/1901223/Live/Serie-A-2025-2026-Atalanta-vs-Juventus",
+      "display_name": "Atalanta vs Juventus | 2025/2026 | Serie A | 2026-04-11",
+      "rows": 1968,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901223.parquet",
+      "scraped_at": "2026-04-24T05:04:54.659877+00:00"
+    },
+    "1901227": {
+      "url": "https://www.whoscored.com/Matches/1901227/Live/Serie-A-2025-2026-Cagliari-vs-Cremonese",
+      "display_name": "Cagliari vs Cremonese | 2025/2026 | Serie A | 2026-04-11",
+      "rows": 1673,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901227.parquet",
+      "scraped_at": "2026-04-24T05:05:15.626224+00:00"
+    },
+    "1901241": {
+      "url": "https://www.whoscored.com/Matches/1901241/Live/Serie-A-2025-2026-Torino-vs-Verona",
+      "display_name": "Torino vs Verona | 2025/2026 | Serie A | 2026-04-11",
+      "rows": 1701,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901241.parquet",
+      "scraped_at": "2026-04-24T05:05:33.519464+00:00"
+    },
+    "1901239": {
+      "url": "https://www.whoscored.com/Matches/1901239/Live/Serie-A-2025-2026-Roma-vs-Pisa",
+      "display_name": "Roma vs Pisa | 2025/2026 | Serie A | 2026-04-10",
+      "rows": 2016,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901239.parquet",
+      "scraped_at": "2026-04-24T05:05:51.630457+00:00"
+    },
+    "1901213": {
+      "url": "https://www.whoscored.com/Matches/1901213/Live/Serie-A-2025-2026-Napoli-vs-AC-Milan",
+      "display_name": "Napoli vs AC Milan | 2025/2026 | Serie A | 2026-04-06",
+      "rows": 1923,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901213.parquet",
+      "scraped_at": "2026-04-24T05:06:12.592127+00:00"
+    },
+    "1901211": {
+      "url": "https://www.whoscored.com/Matches/1901211/Live/Serie-A-2025-2026-Lecce-vs-Atalanta",
+      "display_name": "Lecce vs Atalanta | 2025/2026 | Serie A | 2026-04-06",
+      "rows": 1737,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901211.parquet",
+      "scraped_at": "2026-04-24T05:06:33.586489+00:00"
+    },
+    "1901219": {
+      "url": "https://www.whoscored.com/Matches/1901219/Live/Serie-A-2025-2026-Udinese-vs-Como",
+      "display_name": "Udinese vs Como | 2025/2026 | Serie A | 2026-04-06",
+      "rows": 1835,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901219.parquet",
+      "scraped_at": "2026-04-24T05:06:54.377499+00:00"
+    },
+    "1901207": {
+      "url": "https://www.whoscored.com/Matches/1901207/Live/Serie-A-2025-2026-Juventus-vs-Genoa",
+      "display_name": "Juventus vs Genoa | 2025/2026 | Serie A | 2026-04-06",
+      "rows": 1875,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901207.parquet",
+      "scraped_at": "2026-04-24T05:07:18.697614+00:00"
+    },
+    "1901203": {
+      "url": "https://www.whoscored.com/Matches/1901203/Live/Serie-A-2025-2026-Cremonese-vs-Bologna",
+      "display_name": "Cremonese vs Bologna | 2025/2026 | Serie A | 2026-04-05",
+      "rows": 1858,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901203.parquet",
+      "scraped_at": "2026-04-24T05:07:40.537793+00:00"
+    },
+    "1901205": {
+      "url": "https://www.whoscored.com/Matches/1901205/Live/Serie-A-2025-2026-Inter-vs-Roma",
+      "display_name": "Inter vs Roma | 2025/2026 | Serie A | 2026-04-05",
+      "rows": 1842,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901205.parquet",
+      "scraped_at": "2026-04-24T05:08:03.232228+00:00"
+    },
+    "1901215": {
+      "url": "https://www.whoscored.com/Matches/1901215/Live/Serie-A-2025-2026-Pisa-vs-Torino",
+      "display_name": "Pisa vs Torino | 2025/2026 | Serie A | 2026-04-05",
+      "rows": 1828,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901215.parquet",
+      "scraped_at": "2026-04-24T05:08:22.684210+00:00"
+    },
+    "1901217": {
+      "url": "https://www.whoscored.com/Matches/1901217/Live/Serie-A-2025-2026-Sassuolo-vs-Cagliari",
+      "display_name": "Sassuolo vs Cagliari | 2025/2026 | Serie A | 2026-04-04",
+      "rows": 1777,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901217.parquet",
+      "scraped_at": "2026-04-24T05:08:42.753335+00:00"
+    },
+    "1901221": {
+      "url": "https://www.whoscored.com/Matches/1901221/Live/Serie-A-2025-2026-Verona-vs-Fiorentina",
+      "display_name": "Verona vs Fiorentina | 2025/2026 | Serie A | 2026-04-04",
+      "rows": 1790,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901221.parquet",
+      "scraped_at": "2026-04-24T05:09:05.946404+00:00"
+    },
+    "1901209": {
+      "url": "https://www.whoscored.com/Matches/1901209/Live/Serie-A-2025-2026-Lazio-vs-Parma-Calcio-1913",
+      "display_name": "Lazio vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-04-04",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901209.parquet",
+      "scraped_at": "2026-04-24T05:09:30.893506+00:00"
+    },
+    "1901183": {
+      "url": "https://www.whoscored.com/Matches/1901183/Live/Serie-A-2025-2026-Atalanta-vs-Verona",
+      "display_name": "Atalanta vs Verona | 2025/2026 | Serie A | 2026-03-22",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901183.parquet",
+      "scraped_at": "2026-04-24T05:09:55.339332+00:00"
+    },
+    "1901185": {
+      "url": "https://www.whoscored.com/Matches/1901185/Live/Serie-A-2025-2026-Bologna-vs-Lazio",
+      "display_name": "Bologna vs Lazio | 2025/2026 | Serie A | 2026-03-22",
+      "rows": 2026,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901185.parquet",
+      "scraped_at": "2026-04-24T05:10:22.234820+00:00"
+    },
+    "1901189": {
+      "url": "https://www.whoscored.com/Matches/1901189/Live/Serie-A-2025-2026-Como-vs-Pisa",
+      "display_name": "Como vs Pisa | 2025/2026 | Serie A | 2026-03-22",
+      "rows": 1872,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901189.parquet",
+      "scraped_at": "2026-04-24T05:10:51.491862+00:00"
+    },
+    "1901191": {
+      "url": "https://www.whoscored.com/Matches/1901191/Live/Serie-A-2025-2026-Fiorentina-vs-Inter",
+      "display_name": "Fiorentina vs Inter | 2025/2026 | Serie A | 2026-03-22",
+      "rows": 1918,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901191.parquet",
+      "scraped_at": "2026-04-24T05:11:10.210791+00:00"
+    },
+    "1901201": {
+      "url": "https://www.whoscored.com/Matches/1901201/Live/Serie-A-2025-2026-Roma-vs-Lecce",
+      "display_name": "Roma vs Lecce | 2025/2026 | Serie A | 2026-03-22",
+      "rows": 1941,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901201.parquet",
+      "scraped_at": "2026-04-24T05:11:32.048072+00:00"
+    },
+    "1901197": {
+      "url": "https://www.whoscored.com/Matches/1901197/Live/Serie-A-2025-2026-AC-Milan-vs-Torino",
+      "display_name": "AC Milan vs Torino | 2025/2026 | Serie A | 2026-03-21",
+      "rows": 1847,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901197.parquet",
+      "scraped_at": "2026-04-24T05:11:56.695858+00:00"
+    },
+    "1901199": {
+      "url": "https://www.whoscored.com/Matches/1901199/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Cremonese",
+      "display_name": "Parma Calcio 1913 vs Cremonese | 2025/2026 | Serie A | 2026-03-21",
+      "rows": 1705,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901199.parquet",
+      "scraped_at": "2026-04-24T05:12:18.499310+00:00"
+    },
+    "1901195": {
+      "url": "https://www.whoscored.com/Matches/1901195/Live/Serie-A-2025-2026-Juventus-vs-Sassuolo",
+      "display_name": "Juventus vs Sassuolo | 2025/2026 | Serie A | 2026-03-21",
+      "rows": 1850,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901195.parquet",
+      "scraped_at": "2026-04-24T05:12:41.733621+00:00"
+    },
+    "1901187": {
+      "url": "https://www.whoscored.com/Matches/1901187/Live/Serie-A-2025-2026-Cagliari-vs-Napoli",
+      "display_name": "Cagliari vs Napoli | 2025/2026 | Serie A | 2026-03-20",
+      "rows": 1975,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901187.parquet",
+      "scraped_at": "2026-04-24T05:13:03.819665+00:00"
+    },
+    "1901193": {
+      "url": "https://www.whoscored.com/Matches/1901193/Live/Serie-A-2025-2026-Genoa-vs-Udinese",
+      "display_name": "Genoa vs Udinese | 2025/2026 | Serie A | 2026-03-20",
+      "rows": 1673,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901193.parquet",
+      "scraped_at": "2026-04-24T05:13:21.224138+00:00"
+    },
+    "1901165": {
+      "url": "https://www.whoscored.com/Matches/1901165/Live/Serie-A-2025-2026-Cremonese-vs-Fiorentina",
+      "display_name": "Cremonese vs Fiorentina | 2025/2026 | Serie A | 2026-03-16",
+      "rows": 1699,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901165.parquet",
+      "scraped_at": "2026-04-24T05:13:39.948687+00:00"
+    },
+    "1901169": {
+      "url": "https://www.whoscored.com/Matches/1901169/Live/Serie-A-2025-2026-Lazio-vs-AC-Milan",
+      "display_name": "Lazio vs AC Milan | 2025/2026 | Serie A | 2026-03-15",
+      "rows": 2034,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901169.parquet",
+      "scraped_at": "2026-04-24T05:14:02.314165+00:00"
+    },
+    "1901175": {
+      "url": "https://www.whoscored.com/Matches/1901175/Live/Serie-A-2025-2026-Sassuolo-vs-Bologna",
+      "display_name": "Sassuolo vs Bologna | 2025/2026 | Serie A | 2026-03-15",
+      "rows": 1715,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901175.parquet",
+      "scraped_at": "2026-04-24T05:14:23.663260+00:00"
+    },
+    "1901173": {
+      "url": "https://www.whoscored.com/Matches/1901173/Live/Serie-A-2025-2026-Pisa-vs-Cagliari",
+      "display_name": "Pisa vs Cagliari | 2025/2026 | Serie A | 2026-03-15",
+      "rows": 1732,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901173.parquet",
+      "scraped_at": "2026-04-24T05:14:45.642407+00:00"
+    },
+    "1901399": {
+      "url": "https://www.whoscored.com/Matches/1901399/Live/Serie-A-2025-2026-Como-vs-Roma",
+      "display_name": "Como vs Roma | 2025/2026 | Serie A | 2026-03-15",
+      "rows": 1811,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901399.parquet",
+      "scraped_at": "2026-04-24T05:15:04.626583+00:00"
+    },
+    "1901181": {
+      "url": "https://www.whoscored.com/Matches/1901181/Live/Serie-A-2025-2026-Verona-vs-Genoa",
+      "display_name": "Verona vs Genoa | 2025/2026 | Serie A | 2026-03-15",
+      "rows": 1709,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901181.parquet",
+      "scraped_at": "2026-04-24T05:15:28.087424+00:00"
+    },
+    "1901167": {
+      "url": "https://www.whoscored.com/Matches/1901167/Live/Serie-A-2025-2026-Inter-vs-Atalanta",
+      "display_name": "Inter vs Atalanta | 2025/2026 | Serie A | 2026-03-14",
+      "rows": 2104,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901167.parquet",
+      "scraped_at": "2026-04-24T05:15:48.197526+00:00"
+    },
+    "1901179": {
+      "url": "https://www.whoscored.com/Matches/1901179/Live/Serie-A-2025-2026-Udinese-vs-Juventus",
+      "display_name": "Udinese vs Juventus | 2025/2026 | Serie A | 2026-03-14",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901179.parquet",
+      "scraped_at": "2026-04-24T05:16:06.387524+00:00"
+    },
+    "1901171": {
+      "url": "https://www.whoscored.com/Matches/1901171/Live/Serie-A-2025-2026-Napoli-vs-Lecce",
+      "display_name": "Napoli vs Lecce | 2025/2026 | Serie A | 2026-03-14",
+      "rows": 1741,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901171.parquet",
+      "scraped_at": "2026-04-24T05:16:24.535996+00:00"
+    },
+    "1901177": {
+      "url": "https://www.whoscored.com/Matches/1901177/Live/Serie-A-2025-2026-Torino-vs-Parma-Calcio-1913",
+      "display_name": "Torino vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-03-13",
+      "rows": 1673,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901177.parquet",
+      "scraped_at": "2026-04-24T05:16:48.571174+00:00"
+    },
+    "1901395": {
+      "url": "https://www.whoscored.com/Matches/1901395/Live/Serie-A-2025-2026-Lazio-vs-Sassuolo",
+      "display_name": "Lazio vs Sassuolo | 2025/2026 | Serie A | 2026-03-09",
+      "rows": 1979,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901395.parquet",
+      "scraped_at": "2026-04-24T05:17:11.509692+00:00"
+    },
+    "1901397": {
+      "url": "https://www.whoscored.com/Matches/1901397/Live/Serie-A-2025-2026-AC-Milan-vs-Inter",
+      "display_name": "AC Milan vs Inter | 2025/2026 | Serie A | 2026-03-08",
+      "rows": 1958,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901397.parquet",
+      "scraped_at": "2026-04-24T05:17:31.214356+00:00"
+    },
+    "1901398": {
+      "url": "https://www.whoscored.com/Matches/1901398/Live/Serie-A-2025-2026-Bologna-vs-Verona",
+      "display_name": "Bologna vs Verona | 2025/2026 | Serie A | 2026-03-08",
+      "rows": 1728,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901398.parquet",
+      "scraped_at": "2026-04-24T05:17:49.617813+00:00"
+    },
+    "1901396": {
+      "url": "https://www.whoscored.com/Matches/1901396/Live/Serie-A-2025-2026-Lecce-vs-Cremonese",
+      "display_name": "Lecce vs Cremonese | 2025/2026 | Serie A | 2026-03-08",
+      "rows": 1667,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901396.parquet",
+      "scraped_at": "2026-04-24T05:18:12.254117+00:00"
+    },
+    "1901392": {
+      "url": "https://www.whoscored.com/Matches/1901392/Live/Serie-A-2025-2026-Fiorentina-vs-Parma-Calcio-1913",
+      "display_name": "Fiorentina vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-03-08",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901392.parquet",
+      "scraped_at": "2026-04-24T05:18:33.343553+00:00"
+    },
+    "1901393": {
+      "url": "https://www.whoscored.com/Matches/1901393/Live/Serie-A-2025-2026-Genoa-vs-Roma",
+      "display_name": "Genoa vs Roma | 2025/2026 | Serie A | 2026-03-08",
+      "rows": 1677,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901393.parquet",
+      "scraped_at": "2026-04-24T05:18:56.912142+00:00"
+    },
+    "1901390": {
+      "url": "https://www.whoscored.com/Matches/1901390/Live/Serie-A-2025-2026-Atalanta-vs-Udinese",
+      "display_name": "Atalanta vs Udinese | 2025/2026 | Serie A | 2026-03-07",
+      "rows": 1945,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901390.parquet",
+      "scraped_at": "2026-04-24T05:19:16.542550+00:00"
+    },
+    "1901391": {
+      "url": "https://www.whoscored.com/Matches/1901391/Live/Serie-A-2025-2026-Cagliari-vs-Como",
+      "display_name": "Cagliari vs Como | 2025/2026 | Serie A | 2026-03-07",
+      "rows": 1867,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901391.parquet",
+      "scraped_at": "2026-04-24T05:19:40.092794+00:00"
+    },
+    "1901394": {
+      "url": "https://www.whoscored.com/Matches/1901394/Live/Serie-A-2025-2026-Juventus-vs-Pisa",
+      "display_name": "Juventus vs Pisa | 2025/2026 | Serie A | 2026-03-07",
+      "rows": 1935,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901394.parquet",
+      "scraped_at": "2026-04-24T05:20:00.184602+00:00"
+    },
+    "1901389": {
+      "url": "https://www.whoscored.com/Matches/1901389/Live/Serie-A-2025-2026-Napoli-vs-Torino",
+      "display_name": "Napoli vs Torino | 2025/2026 | Serie A | 2026-03-06",
+      "rows": 1808,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901389.parquet",
+      "scraped_at": "2026-04-24T05:20:22.724186+00:00"
+    },
+    "1901382": {
+      "url": "https://www.whoscored.com/Matches/1901382/Live/Serie-A-2025-2026-Pisa-vs-Bologna",
+      "display_name": "Pisa vs Bologna | 2025/2026 | Serie A | 2026-03-02",
+      "rows": 1755,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901382.parquet",
+      "scraped_at": "2026-04-24T05:20:42.697686+00:00"
+    },
+    "1901385": {
+      "url": "https://www.whoscored.com/Matches/1901385/Live/Serie-A-2025-2026-Udinese-vs-Fiorentina",
+      "display_name": "Udinese vs Fiorentina | 2025/2026 | Serie A | 2026-03-02",
+      "rows": 1753,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901385.parquet",
+      "scraped_at": "2026-04-24T05:21:01.389112+00:00"
+    },
+    "1901379": {
+      "url": "https://www.whoscored.com/Matches/1901379/Live/Serie-A-2025-2026-Cremonese-vs-AC-Milan",
+      "display_name": "Cremonese vs AC Milan | 2025/2026 | Serie A | 2026-03-01",
+      "rows": 1853,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901379.parquet",
+      "scraped_at": "2026-04-24T05:21:23.360273+00:00"
+    },
+    "1901387": {
+      "url": "https://www.whoscored.com/Matches/1901387/Live/Serie-A-2025-2026-Sassuolo-vs-Atalanta",
+      "display_name": "Sassuolo vs Atalanta | 2025/2026 | Serie A | 2026-03-01",
+      "rows": 1954,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901387.parquet",
+      "scraped_at": "2026-04-24T05:21:45.553777+00:00"
+    },
+    "1901383": {
+      "url": "https://www.whoscored.com/Matches/1901383/Live/Serie-A-2025-2026-Roma-vs-Juventus",
+      "display_name": "Roma vs Juventus | 2025/2026 | Serie A | 2026-03-01",
+      "rows": 1933,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901383.parquet",
+      "scraped_at": "2026-04-24T05:22:07.868433+00:00"
+    },
+    "1901386": {
+      "url": "https://www.whoscored.com/Matches/1901386/Live/Serie-A-2025-2026-Torino-vs-Lazio",
+      "display_name": "Torino vs Lazio | 2025/2026 | Serie A | 2026-03-01",
+      "rows": 2153,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901386.parquet",
+      "scraped_at": "2026-04-24T05:22:30.486115+00:00"
+    },
+    "1901388": {
+      "url": "https://www.whoscored.com/Matches/1901388/Live/Serie-A-2025-2026-Como-vs-Lecce",
+      "display_name": "Como vs Lecce | 2025/2026 | Serie A | 2026-02-28",
+      "rows": 1911,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901388.parquet",
+      "scraped_at": "2026-04-24T05:22:51.549299+00:00"
+    },
+    "1901380": {
+      "url": "https://www.whoscored.com/Matches/1901380/Live/Serie-A-2025-2026-Inter-vs-Genoa",
+      "display_name": "Inter vs Genoa | 2025/2026 | Serie A | 2026-02-28",
+      "rows": 2068,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901380.parquet",
+      "scraped_at": "2026-04-24T05:23:15.239681+00:00"
+    },
+    "1901384": {
+      "url": "https://www.whoscored.com/Matches/1901384/Live/Serie-A-2025-2026-Verona-vs-Napoli",
+      "display_name": "Verona vs Napoli | 2025/2026 | Serie A | 2026-02-28",
+      "rows": 1889,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901384.parquet",
+      "scraped_at": "2026-04-24T05:23:36.085459+00:00"
+    },
+    "1901381": {
+      "url": "https://www.whoscored.com/Matches/1901381/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Cagliari",
+      "display_name": "Parma Calcio 1913 vs Cagliari | 2025/2026 | Serie A | 2026-02-27",
+      "rows": 1857,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901381.parquet",
+      "scraped_at": "2026-04-24T05:23:57.966334+00:00"
+    },
+    "1901370": {
+      "url": "https://www.whoscored.com/Matches/1901370/Live/Serie-A-2025-2026-Bologna-vs-Udinese",
+      "display_name": "Bologna vs Udinese | 2025/2026 | Serie A | 2026-02-23",
+      "rows": 1730,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901370.parquet",
+      "scraped_at": "2026-04-24T05:24:20.911185+00:00"
+    },
+    "1901372": {
+      "url": "https://www.whoscored.com/Matches/1901372/Live/Serie-A-2025-2026-Fiorentina-vs-Pisa",
+      "display_name": "Fiorentina vs Pisa | 2025/2026 | Serie A | 2026-02-23",
+      "rows": 1938,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901372.parquet",
+      "scraped_at": "2026-04-24T05:24:44.931671+00:00"
+    },
+    "1901376": {
+      "url": "https://www.whoscored.com/Matches/1901376/Live/Serie-A-2025-2026-AC-Milan-vs-Parma-Calcio-1913",
+      "display_name": "AC Milan vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-02-22",
+      "rows": 1976,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901376.parquet",
+      "scraped_at": "2026-04-24T05:25:08.470220+00:00"
+    },
+    "1901369": {
+      "url": "https://www.whoscored.com/Matches/1901369/Live/Serie-A-2025-2026-Atalanta-vs-Napoli",
+      "display_name": "Atalanta vs Napoli | 2025/2026 | Serie A | 2026-02-22",
+      "rows": 1958,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901369.parquet",
+      "scraped_at": "2026-04-24T05:25:33.208607+00:00"
+    },
+    "1901377": {
+      "url": "https://www.whoscored.com/Matches/1901377/Live/Serie-A-2025-2026-Roma-vs-Cremonese",
+      "display_name": "Roma vs Cremonese | 2025/2026 | Serie A | 2026-02-22",
+      "rows": 1802,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901377.parquet",
+      "scraped_at": "2026-04-24T05:25:52.403923+00:00"
+    },
+    "1901373": {
+      "url": "https://www.whoscored.com/Matches/1901373/Live/Serie-A-2025-2026-Genoa-vs-Torino",
+      "display_name": "Genoa vs Torino | 2025/2026 | Serie A | 2026-02-22",
+      "rows": 1981,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901373.parquet",
+      "scraped_at": "2026-04-24T05:26:14.630972+00:00"
+    },
+    "1901371": {
+      "url": "https://www.whoscored.com/Matches/1901371/Live/Serie-A-2025-2026-Cagliari-vs-Lazio",
+      "display_name": "Cagliari vs Lazio | 2025/2026 | Serie A | 2026-02-21",
+      "rows": 1960,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901371.parquet",
+      "scraped_at": "2026-04-24T05:26:37.068707+00:00"
+    },
+    "1901374": {
+      "url": "https://www.whoscored.com/Matches/1901374/Live/Serie-A-2025-2026-Juventus-vs-Como",
+      "display_name": "Juventus vs Como | 2025/2026 | Serie A | 2026-02-21",
+      "rows": 1841,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901374.parquet",
+      "scraped_at": "2026-04-24T05:27:00.794014+00:00"
+    },
+    "1901375": {
+      "url": "https://www.whoscored.com/Matches/1901375/Live/Serie-A-2025-2026-Lecce-vs-Inter",
+      "display_name": "Lecce vs Inter | 2025/2026 | Serie A | 2026-02-21",
+      "rows": 1925,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901375.parquet",
+      "scraped_at": "2026-04-24T05:27:24.885770+00:00"
+    },
+    "1901378": {
+      "url": "https://www.whoscored.com/Matches/1901378/Live/Serie-A-2025-2026-Sassuolo-vs-Verona",
+      "display_name": "Sassuolo vs Verona | 2025/2026 | Serie A | 2026-02-20",
+      "rows": 1835,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901378.parquet",
+      "scraped_at": "2026-04-24T05:27:43.906870+00:00"
+    },
+    "1901358": {
+      "url": "https://www.whoscored.com/Matches/1901358/Live/Serie-A-2025-2026-AC-Milan-vs-Como",
+      "display_name": "AC Milan vs Como | 2025/2026 | Serie A | 2026-02-18",
+      "rows": 1968,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901358.parquet",
+      "scraped_at": "2026-04-24T05:28:05.955236+00:00"
+    },
+    "1901359": {
+      "url": "https://www.whoscored.com/Matches/1901359/Live/Serie-A-2025-2026-Cagliari-vs-Lecce",
+      "display_name": "Cagliari vs Lecce | 2025/2026 | Serie A | 2026-02-16",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901359.parquet",
+      "scraped_at": "2026-04-24T05:28:29.911296+00:00"
+    },
+    "1901367": {
+      "url": "https://www.whoscored.com/Matches/1901367/Live/Serie-A-2025-2026-Torino-vs-Bologna",
+      "display_name": "Torino vs Bologna | 2025/2026 | Serie A | 2026-02-15",
+      "rows": 1688,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901367.parquet",
+      "scraped_at": "2026-04-24T05:28:51.473427+00:00"
+    },
+    "1901361": {
+      "url": "https://www.whoscored.com/Matches/1901361/Live/Serie-A-2025-2026-Cremonese-vs-Genoa",
+      "display_name": "Cremonese vs Genoa | 2025/2026 | Serie A | 2026-02-15",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901361.parquet",
+      "scraped_at": "2026-04-24T05:29:15.257539+00:00"
+    },
+    "1901364": {
+      "url": "https://www.whoscored.com/Matches/1901364/Live/Serie-A-2025-2026-Napoli-vs-Roma",
+      "display_name": "Napoli vs Roma | 2025/2026 | Serie A | 2026-02-15",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901364.parquet",
+      "scraped_at": "2026-04-24T05:29:38.632616+00:00"
+    },
+    "1901365": {
+      "url": "https://www.whoscored.com/Matches/1901365/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Verona",
+      "display_name": "Parma Calcio 1913 vs Verona | 2025/2026 | Serie A | 2026-02-15",
+      "rows": 1715,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901365.parquet",
+      "scraped_at": "2026-04-24T05:30:01.188793+00:00"
+    },
+    "1901368": {
+      "url": "https://www.whoscored.com/Matches/1901368/Live/Serie-A-2025-2026-Udinese-vs-Sassuolo",
+      "display_name": "Udinese vs Sassuolo | 2025/2026 | Serie A | 2026-02-15",
+      "rows": 1712,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901368.parquet",
+      "scraped_at": "2026-04-24T05:30:23.241273+00:00"
+    },
+    "1901363": {
+      "url": "https://www.whoscored.com/Matches/1901363/Live/Serie-A-2025-2026-Lazio-vs-Atalanta",
+      "display_name": "Lazio vs Atalanta | 2025/2026 | Serie A | 2026-02-14",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901363.parquet",
+      "scraped_at": "2026-04-24T05:30:44.432391+00:00"
+    },
+    "1901360": {
+      "url": "https://www.whoscored.com/Matches/1901360/Live/Serie-A-2025-2026-Como-vs-Fiorentina",
+      "display_name": "Como vs Fiorentina | 2025/2026 | Serie A | 2026-02-14",
+      "rows": 1818,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901360.parquet",
+      "scraped_at": "2026-04-24T05:31:07.332428+00:00"
+    },
+    "1901362": {
+      "url": "https://www.whoscored.com/Matches/1901362/Live/Serie-A-2025-2026-Inter-vs-Juventus",
+      "display_name": "Inter vs Juventus | 2025/2026 | Serie A | 2026-02-14",
+      "rows": 2032,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901362.parquet",
+      "scraped_at": "2026-04-24T05:31:30.154454+00:00"
+    },
+    "1901366": {
+      "url": "https://www.whoscored.com/Matches/1901366/Live/Serie-A-2025-2026-Pisa-vs-AC-Milan",
+      "display_name": "Pisa vs AC Milan | 2025/2026 | Serie A | 2026-02-13",
+      "rows": 1944,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901366.parquet",
+      "scraped_at": "2026-04-24T05:31:51.677298+00:00"
+    },
+    "1901158": {
+      "url": "https://www.whoscored.com/Matches/1901158/Live/Serie-A-2025-2026-Atalanta-vs-Cremonese",
+      "display_name": "Atalanta vs Cremonese | 2025/2026 | Serie A | 2026-02-09",
+      "rows": 1942,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901158.parquet",
+      "scraped_at": "2026-04-24T05:32:13.425850+00:00"
+    },
+    "1901157": {
+      "url": "https://www.whoscored.com/Matches/1901157/Live/Serie-A-2025-2026-Roma-vs-Cagliari",
+      "display_name": "Roma vs Cagliari | 2025/2026 | Serie A | 2026-02-09",
+      "rows": 1946,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901157.parquet",
+      "scraped_at": "2026-04-24T05:32:32.623490+00:00"
+    },
+    "1901159": {
+      "url": "https://www.whoscored.com/Matches/1901159/Live/Serie-A-2025-2026-Bologna-vs-Parma-Calcio-1913",
+      "display_name": "Bologna vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-02-08",
+      "rows": 1687,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901159.parquet",
+      "scraped_at": "2026-04-24T05:32:52.923312+00:00"
+    },
+    "1901156": {
+      "url": "https://www.whoscored.com/Matches/1901156/Live/Serie-A-2025-2026-Sassuolo-vs-Inter",
+      "display_name": "Sassuolo vs Inter | 2025/2026 | Serie A | 2026-02-08",
+      "rows": 1593,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901156.parquet",
+      "scraped_at": "2026-04-24T05:33:12.037011+00:00"
+    },
+    "1901164": {
+      "url": "https://www.whoscored.com/Matches/1901164/Live/Serie-A-2025-2026-Juventus-vs-Lazio",
+      "display_name": "Juventus vs Lazio | 2025/2026 | Serie A | 2026-02-08",
+      "rows": 2139,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901164.parquet",
+      "scraped_at": "2026-04-24T05:33:35.056062+00:00"
+    },
+    "1901357": {
+      "url": "https://www.whoscored.com/Matches/1901357/Live/Serie-A-2025-2026-Lecce-vs-Udinese",
+      "display_name": "Lecce vs Udinese | 2025/2026 | Serie A | 2026-02-08",
+      "rows": 1751,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901357.parquet",
+      "scraped_at": "2026-04-24T05:33:53.448191+00:00"
+    },
+    "1901160": {
+      "url": "https://www.whoscored.com/Matches/1901160/Live/Serie-A-2025-2026-Fiorentina-vs-Torino",
+      "display_name": "Fiorentina vs Torino | 2025/2026 | Serie A | 2026-02-07",
+      "rows": 1854,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901160.parquet",
+      "scraped_at": "2026-04-24T05:34:17.813447+00:00"
+    },
+    "1901162": {
+      "url": "https://www.whoscored.com/Matches/1901162/Live/Serie-A-2025-2026-Genoa-vs-Napoli",
+      "display_name": "Genoa vs Napoli | 2025/2026 | Serie A | 2026-02-07",
+      "rows": 1721,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901162.parquet",
+      "scraped_at": "2026-04-24T05:34:44.352411+00:00"
+    },
+    "1901154": {
+      "url": "https://www.whoscored.com/Matches/1901154/Live/Serie-A-2025-2026-Verona-vs-Pisa",
+      "display_name": "Verona vs Pisa | 2025/2026 | Serie A | 2026-02-06",
+      "rows": 1773,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901154.parquet",
+      "scraped_at": "2026-04-24T05:35:06.462812+00:00"
+    },
+    "1901134": {
+      "url": "https://www.whoscored.com/Matches/1901134/Live/Serie-A-2025-2026-Bologna-vs-AC-Milan",
+      "display_name": "Bologna vs AC Milan | 2025/2026 | Serie A | 2026-02-03",
+      "rows": 1890,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901134.parquet",
+      "scraped_at": "2026-04-24T05:35:26.525984+00:00"
+    },
+    "1901152": {
+      "url": "https://www.whoscored.com/Matches/1901152/Live/Serie-A-2025-2026-Udinese-vs-Roma",
+      "display_name": "Udinese vs Roma | 2025/2026 | Serie A | 2026-02-02",
+      "rows": 1811,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901152.parquet",
+      "scraped_at": "2026-04-24T05:35:51.868790+00:00"
+    },
+    "1901138": {
+      "url": "https://www.whoscored.com/Matches/1901138/Live/Serie-A-2025-2026-Como-vs-Atalanta",
+      "display_name": "Como vs Atalanta | 2025/2026 | Serie A | 2026-02-01",
+      "rows": 1938,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901138.parquet",
+      "scraped_at": "2026-04-24T05:36:22.751030+00:00"
+    },
+    "1901140": {
+      "url": "https://www.whoscored.com/Matches/1901140/Live/Serie-A-2025-2026-Cremonese-vs-Inter",
+      "display_name": "Cremonese vs Inter | 2025/2026 | Serie A | 2026-02-01",
+      "rows": 1828,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901140.parquet",
+      "scraped_at": "2026-04-24T05:36:45.486025+00:00"
+    },
+    "1901146": {
+      "url": "https://www.whoscored.com/Matches/1901146/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Juventus",
+      "display_name": "Parma Calcio 1913 vs Juventus | 2025/2026 | Serie A | 2026-02-01",
+      "rows": 1865,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901146.parquet",
+      "scraped_at": "2026-04-24T05:37:19.408638+00:00"
+    },
+    "1901150": {
+      "url": "https://www.whoscored.com/Matches/1901150/Live/Serie-A-2025-2026-Torino-vs-Lecce",
+      "display_name": "Torino vs Lecce | 2025/2026 | Serie A | 2026-02-01",
+      "rows": 1810,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901150.parquet",
+      "scraped_at": "2026-04-24T05:37:40.910825+00:00"
+    },
+    "1901136": {
+      "url": "https://www.whoscored.com/Matches/1901136/Live/Serie-A-2025-2026-Cagliari-vs-Verona",
+      "display_name": "Cagliari vs Verona | 2025/2026 | Serie A | 2026-01-31",
+      "rows": 1855,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901136.parquet",
+      "scraped_at": "2026-04-24T05:38:03.725688+00:00"
+    },
+    "1901144": {
+      "url": "https://www.whoscored.com/Matches/1901144/Live/Serie-A-2025-2026-Napoli-vs-Fiorentina",
+      "display_name": "Napoli vs Fiorentina | 2025/2026 | Serie A | 2026-01-31",
+      "rows": 1803,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901144.parquet",
+      "scraped_at": "2026-04-24T05:38:27.846042+00:00"
+    },
+    "1901148": {
+      "url": "https://www.whoscored.com/Matches/1901148/Live/Serie-A-2025-2026-Pisa-vs-Sassuolo",
+      "display_name": "Pisa vs Sassuolo | 2025/2026 | Serie A | 2026-01-31",
+      "rows": 1836,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901148.parquet",
+      "scraped_at": "2026-04-24T05:38:51.934356+00:00"
+    },
+    "1901142": {
+      "url": "https://www.whoscored.com/Matches/1901142/Live/Serie-A-2025-2026-Lazio-vs-Genoa",
+      "display_name": "Lazio vs Genoa | 2025/2026 | Serie A | 2026-01-30",
+      "rows": 1918,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901142.parquet",
+      "scraped_at": "2026-04-24T05:39:09.728014+00:00"
+    },
+    "1901132": {
+      "url": "https://www.whoscored.com/Matches/1901132/Live/Serie-A-2025-2026-Verona-vs-Udinese",
+      "display_name": "Verona vs Udinese | 2025/2026 | Serie A | 2026-01-26",
+      "rows": 1855,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901132.parquet",
+      "scraped_at": "2026-04-24T05:39:28.988146+00:00"
+    },
+    "1901128": {
+      "url": "https://www.whoscored.com/Matches/1901128/Live/Serie-A-2025-2026-Roma-vs-AC-Milan",
+      "display_name": "Roma vs AC Milan | 2025/2026 | Serie A | 2026-01-25",
+      "rows": 1996,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901128.parquet",
+      "scraped_at": "2026-04-24T05:39:49.583015+00:00"
+    },
+    "1901115": {
+      "url": "https://www.whoscored.com/Matches/1901115/Live/Serie-A-2025-2026-Atalanta-vs-Parma-Calcio-1913",
+      "display_name": "Atalanta vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-01-25",
+      "rows": 1866,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901115.parquet",
+      "scraped_at": "2026-04-24T05:40:13.620317+00:00"
+    },
+    "1901120": {
+      "url": "https://www.whoscored.com/Matches/1901120/Live/Serie-A-2025-2026-Genoa-vs-Bologna",
+      "display_name": "Genoa vs Bologna | 2025/2026 | Serie A | 2026-01-25",
+      "rows": 1611,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901120.parquet",
+      "scraped_at": "2026-04-24T05:40:36.596695+00:00"
+    },
+    "1901130": {
+      "url": "https://www.whoscored.com/Matches/1901130/Live/Serie-A-2025-2026-Sassuolo-vs-Cremonese",
+      "display_name": "Sassuolo vs Cremonese | 2025/2026 | Serie A | 2026-01-25",
+      "rows": 1859,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901130.parquet",
+      "scraped_at": "2026-04-24T05:41:01.235228+00:00"
+    },
+    "1901124": {
+      "url": "https://www.whoscored.com/Matches/1901124/Live/Serie-A-2025-2026-Juventus-vs-Napoli",
+      "display_name": "Juventus vs Napoli | 2025/2026 | Serie A | 2026-01-25",
+      "rows": 1946,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901124.parquet",
+      "scraped_at": "2026-04-24T05:41:21.147875+00:00"
+    },
+    "1901119": {
+      "url": "https://www.whoscored.com/Matches/1901119/Live/Serie-A-2025-2026-Fiorentina-vs-Cagliari",
+      "display_name": "Fiorentina vs Cagliari | 2025/2026 | Serie A | 2026-01-24",
+      "rows": 1865,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901119.parquet",
+      "scraped_at": "2026-04-24T05:41:41.466079+00:00"
+    },
+    "1901117": {
+      "url": "https://www.whoscored.com/Matches/1901117/Live/Serie-A-2025-2026-Como-vs-Torino",
+      "display_name": "Como vs Torino | 2025/2026 | Serie A | 2026-01-24",
+      "rows": 1807,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901117.parquet",
+      "scraped_at": "2026-04-24T05:42:04.225197+00:00"
+    },
+    "1901126": {
+      "url": "https://www.whoscored.com/Matches/1901126/Live/Serie-A-2025-2026-Lecce-vs-Lazio",
+      "display_name": "Lecce vs Lazio | 2025/2026 | Serie A | 2026-01-24",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901126.parquet",
+      "scraped_at": "2026-04-24T05:42:27.254648+00:00"
+    },
+    "1901122": {
+      "url": "https://www.whoscored.com/Matches/1901122/Live/Serie-A-2025-2026-Inter-vs-Pisa",
+      "display_name": "Inter vs Pisa | 2025/2026 | Serie A | 2026-01-23",
+      "rows": 1853,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901122.parquet",
+      "scraped_at": "2026-04-24T05:42:48.162391+00:00"
+    },
+    "1901353": {
+      "url": "https://www.whoscored.com/Matches/1901353/Live/Serie-A-2025-2026-Lazio-vs-Como",
+      "display_name": "Lazio vs Como | 2025/2026 | Serie A | 2026-01-19",
+      "rows": 1998,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901353.parquet",
+      "scraped_at": "2026-04-24T05:43:09.147091+00:00"
+    },
+    "1901352": {
+      "url": "https://www.whoscored.com/Matches/1901352/Live/Serie-A-2025-2026-Cremonese-vs-Verona",
+      "display_name": "Cremonese vs Verona | 2025/2026 | Serie A | 2026-01-19",
+      "rows": 1700,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901352.parquet",
+      "scraped_at": "2026-04-24T05:43:32.771395+00:00"
+    },
+    "1901354": {
+      "url": "https://www.whoscored.com/Matches/1901354/Live/Serie-A-2025-2026-AC-Milan-vs-Lecce",
+      "display_name": "AC Milan vs Lecce | 2025/2026 | Serie A | 2026-01-18",
+      "rows": 2023,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901354.parquet",
+      "scraped_at": "2026-04-24T05:43:56.842483+00:00"
+    },
+    "1901111": {
+      "url": "https://www.whoscored.com/Matches/1901111/Live/Serie-A-2025-2026-Bologna-vs-Fiorentina",
+      "display_name": "Bologna vs Fiorentina | 2025/2026 | Serie A | 2026-01-18",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901111.parquet",
+      "scraped_at": "2026-04-24T05:44:16.218238+00:00"
+    },
+    "1901356": {
+      "url": "https://www.whoscored.com/Matches/1901356/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Genoa",
+      "display_name": "Parma Calcio 1913 vs Genoa | 2025/2026 | Serie A | 2026-01-18",
+      "rows": 1738,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901356.parquet",
+      "scraped_at": "2026-04-24T05:44:38.661252+00:00"
+    },
+    "1901107": {
+      "url": "https://www.whoscored.com/Matches/1901107/Live/Serie-A-2025-2026-Torino-vs-Roma",
+      "display_name": "Torino vs Roma | 2025/2026 | Serie A | 2026-01-18",
+      "rows": 1803,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901107.parquet",
+      "scraped_at": "2026-04-24T05:44:57.128961+00:00"
+    },
+    "1901113": {
+      "url": "https://www.whoscored.com/Matches/1901113/Live/Serie-A-2025-2026-Cagliari-vs-Juventus",
+      "display_name": "Cagliari vs Juventus | 2025/2026 | Serie A | 2026-01-17",
+      "rows": 1854,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901113.parquet",
+      "scraped_at": "2026-04-24T05:45:21.667762+00:00"
+    },
+    "1901109": {
+      "url": "https://www.whoscored.com/Matches/1901109/Live/Serie-A-2025-2026-Udinese-vs-Inter",
+      "display_name": "Udinese vs Inter | 2025/2026 | Serie A | 2026-01-17",
+      "rows": 1944,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901109.parquet",
+      "scraped_at": "2026-04-24T05:45:41.464515+00:00"
+    },
+    "1901355": {
+      "url": "https://www.whoscored.com/Matches/1901355/Live/Serie-A-2025-2026-Napoli-vs-Sassuolo",
+      "display_name": "Napoli vs Sassuolo | 2025/2026 | Serie A | 2026-01-17",
+      "rows": 1864,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901355.parquet",
+      "scraped_at": "2026-04-24T05:46:10.380877+00:00"
+    },
+    "1901105": {
+      "url": "https://www.whoscored.com/Matches/1901105/Live/Serie-A-2025-2026-Pisa-vs-Atalanta",
+      "display_name": "Pisa vs Atalanta | 2025/2026 | Serie A | 2026-01-16",
+      "rows": 1755,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901105.parquet",
+      "scraped_at": "2026-04-24T05:46:28.130514+00:00"
+    },
+    "1901303": {
+      "url": "https://www.whoscored.com/Matches/1901303/Live/Serie-A-2025-2026-Como-vs-AC-Milan",
+      "display_name": "Como vs AC Milan | 2025/2026 | Serie A | 2026-01-15",
+      "rows": 1947,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901303.parquet",
+      "scraped_at": "2026-04-24T05:46:49.211107+00:00"
+    },
+    "1901311": {
+      "url": "https://www.whoscored.com/Matches/1901311/Live/Serie-A-2025-2026-Verona-vs-Bologna",
+      "display_name": "Verona vs Bologna | 2025/2026 | Serie A | 2026-01-15",
+      "rows": 1882,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901311.parquet",
+      "scraped_at": "2026-04-24T05:47:08.047248+00:00"
+    },
+    "1901306": {
+      "url": "https://www.whoscored.com/Matches/1901306/Live/Serie-A-2025-2026-Inter-vs-Lecce",
+      "display_name": "Inter vs Lecce | 2025/2026 | Serie A | 2026-01-14",
+      "rows": 1818,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901306.parquet",
+      "scraped_at": "2026-04-24T05:47:37.157322+00:00"
+    },
+    "1901309": {
+      "url": "https://www.whoscored.com/Matches/1901309/Live/Serie-A-2025-2026-Napoli-vs-Parma-Calcio-1913",
+      "display_name": "Napoli vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-01-14",
+      "rows": 2047,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901309.parquet",
+      "scraped_at": "2026-04-24T05:47:59.959584+00:00"
+    },
+    "1901345": {
+      "url": "https://www.whoscored.com/Matches/1901345/Live/Serie-A-2025-2026-Genoa-vs-Cagliari",
+      "display_name": "Genoa vs Cagliari | 2025/2026 | Serie A | 2026-01-12",
+      "rows": 1865,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901345.parquet",
+      "scraped_at": "2026-04-24T05:48:27.612645+00:00"
+    },
+    "1901347": {
+      "url": "https://www.whoscored.com/Matches/1901347/Live/Serie-A-2025-2026-Juventus-vs-Cremonese",
+      "display_name": "Juventus vs Cremonese | 2025/2026 | Serie A | 2026-01-12",
+      "rows": 1983,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901347.parquet",
+      "scraped_at": "2026-04-24T05:48:52.657246+00:00"
+    },
+    "1901344": {
+      "url": "https://www.whoscored.com/Matches/1901344/Live/Serie-A-2025-2026-Fiorentina-vs-AC-Milan",
+      "display_name": "Fiorentina vs AC Milan | 2025/2026 | Serie A | 2026-01-11",
+      "rows": 1758,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901344.parquet",
+      "scraped_at": "2026-04-24T05:49:14.771985+00:00"
+    },
+    "1901346": {
+      "url": "https://www.whoscored.com/Matches/1901346/Live/Serie-A-2025-2026-Inter-vs-Napoli",
+      "display_name": "Inter vs Napoli | 2025/2026 | Serie A | 2026-01-11",
+      "rows": 1844,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901346.parquet",
+      "scraped_at": "2026-04-24T05:49:35.085387+00:00"
+    },
+    "1901351": {
+      "url": "https://www.whoscored.com/Matches/1901351/Live/Serie-A-2025-2026-Verona-vs-Lazio",
+      "display_name": "Verona vs Lazio | 2025/2026 | Serie A | 2026-01-11",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901351.parquet",
+      "scraped_at": "2026-04-24T05:49:55.295337+00:00"
+    },
+    "1901348": {
+      "url": "https://www.whoscored.com/Matches/1901348/Live/Serie-A-2025-2026-Lecce-vs-Parma-Calcio-1913",
+      "display_name": "Lecce vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-01-11",
+      "rows": 1752,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901348.parquet",
+      "scraped_at": "2026-04-24T05:50:19.162508+00:00"
+    },
+    "1901342": {
+      "url": "https://www.whoscored.com/Matches/1901342/Live/Serie-A-2025-2026-Atalanta-vs-Torino",
+      "display_name": "Atalanta vs Torino | 2025/2026 | Serie A | 2026-01-10",
+      "rows": 1908,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901342.parquet",
+      "scraped_at": "2026-04-24T05:50:45.596979+00:00"
+    },
+    "1901343": {
+      "url": "https://www.whoscored.com/Matches/1901343/Live/Serie-A-2025-2026-Como-vs-Bologna",
+      "display_name": "Como vs Bologna | 2025/2026 | Serie A | 2026-01-10",
+      "rows": 1611,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901343.parquet",
+      "scraped_at": "2026-04-24T05:51:10.462240+00:00"
+    },
+    "1901350": {
+      "url": "https://www.whoscored.com/Matches/1901350/Live/Serie-A-2025-2026-Udinese-vs-Pisa",
+      "display_name": "Udinese vs Pisa | 2025/2026 | Serie A | 2026-01-10",
+      "rows": 1590,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901350.parquet",
+      "scraped_at": "2026-04-24T05:51:37.153886+00:00"
+    },
+    "1901349": {
+      "url": "https://www.whoscored.com/Matches/1901349/Live/Serie-A-2025-2026-Roma-vs-Sassuolo",
+      "display_name": "Roma vs Sassuolo | 2025/2026 | Serie A | 2026-01-10",
+      "rows": 1956,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901349.parquet",
+      "scraped_at": "2026-04-24T05:52:00.560022+00:00"
+    },
+    "1901336": {
+      "url": "https://www.whoscored.com/Matches/1901336/Live/Serie-A-2025-2026-AC-Milan-vs-Genoa",
+      "display_name": "AC Milan vs Genoa | 2025/2026 | Serie A | 2026-01-08",
+      "rows": 1997,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901336.parquet",
+      "scraped_at": "2026-04-24T05:52:21.425113+00:00"
+    },
+    "1901333": {
+      "url": "https://www.whoscored.com/Matches/1901333/Live/Serie-A-2025-2026-Cremonese-vs-Cagliari",
+      "display_name": "Cremonese vs Cagliari | 2025/2026 | Serie A | 2026-01-08",
+      "rows": 1896,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901333.parquet",
+      "scraped_at": "2026-04-24T05:52:41.396461+00:00"
+    },
+    "1901332": {
+      "url": "https://www.whoscored.com/Matches/1901332/Live/Serie-A-2025-2026-Bologna-vs-Atalanta",
+      "display_name": "Bologna vs Atalanta | 2025/2026 | Serie A | 2026-01-07",
+      "rows": 1843,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901332.parquet",
+      "scraped_at": "2026-04-24T05:53:06.222033+00:00"
+    },
+    "1901334": {
+      "url": "https://www.whoscored.com/Matches/1901334/Live/Serie-A-2025-2026-Lazio-vs-Fiorentina",
+      "display_name": "Lazio vs Fiorentina | 2025/2026 | Serie A | 2026-01-07",
+      "rows": 1872,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901334.parquet",
+      "scraped_at": "2026-04-24T05:53:25.780237+00:00"
+    },
+    "1901338": {
+      "url": "https://www.whoscored.com/Matches/1901338/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Inter",
+      "display_name": "Parma Calcio 1913 vs Inter | 2025/2026 | Serie A | 2026-01-07",
+      "rows": 2010,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901338.parquet",
+      "scraped_at": "2026-04-24T05:53:45.332397+00:00"
+    },
+    "1901337": {
+      "url": "https://www.whoscored.com/Matches/1901337/Live/Serie-A-2025-2026-Napoli-vs-Verona",
+      "display_name": "Napoli vs Verona | 2025/2026 | Serie A | 2026-01-07",
+      "rows": 2027,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901337.parquet",
+      "scraped_at": "2026-04-24T05:54:04.646028+00:00"
+    },
+    "1901341": {
+      "url": "https://www.whoscored.com/Matches/1901341/Live/Serie-A-2025-2026-Torino-vs-Udinese",
+      "display_name": "Torino vs Udinese | 2025/2026 | Serie A | 2026-01-07",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901341.parquet",
+      "scraped_at": "2026-04-24T05:54:27.848964+00:00"
+    },
+    "1901339": {
+      "url": "https://www.whoscored.com/Matches/1901339/Live/Serie-A-2025-2026-Pisa-vs-Como",
+      "display_name": "Pisa vs Como | 2025/2026 | Serie A | 2026-01-06",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901339.parquet",
+      "scraped_at": "2026-04-24T05:54:47.821100+00:00"
+    },
+    "1901340": {
+      "url": "https://www.whoscored.com/Matches/1901340/Live/Serie-A-2025-2026-Sassuolo-vs-Juventus",
+      "display_name": "Sassuolo vs Juventus | 2025/2026 | Serie A | 2026-01-06",
+      "rows": 2088,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901340.parquet",
+      "scraped_at": "2026-04-24T05:55:08.624427+00:00"
+    },
+    "1901335": {
+      "url": "https://www.whoscored.com/Matches/1901335/Live/Serie-A-2025-2026-Lecce-vs-Roma",
+      "display_name": "Lecce vs Roma | 2025/2026 | Serie A | 2026-01-06",
+      "rows": 1876,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901335.parquet",
+      "scraped_at": "2026-04-24T05:55:30.847793+00:00"
+    },
+    "1901327": {
+      "url": "https://www.whoscored.com/Matches/1901327/Live/Serie-A-2025-2026-Inter-vs-Bologna",
+      "display_name": "Inter vs Bologna | 2025/2026 | Serie A | 2026-01-04",
+      "rows": 1759,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901327.parquet",
+      "scraped_at": "2026-04-24T05:55:54.562836+00:00"
+    },
+    "1901325": {
+      "url": "https://www.whoscored.com/Matches/1901325/Live/Serie-A-2025-2026-Fiorentina-vs-Cremonese",
+      "display_name": "Fiorentina vs Cremonese | 2025/2026 | Serie A | 2026-01-04",
+      "rows": 1800,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901325.parquet",
+      "scraped_at": "2026-04-24T05:56:18.743212+00:00"
+    },
+    "1901329": {
+      "url": "https://www.whoscored.com/Matches/1901329/Live/Serie-A-2025-2026-Lazio-vs-Napoli",
+      "display_name": "Lazio vs Napoli | 2025/2026 | Serie A | 2026-01-04",
+      "rows": 1791,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901329.parquet",
+      "scraped_at": "2026-04-24T05:56:39.874941+00:00"
+    },
+    "1901331": {
+      "url": "https://www.whoscored.com/Matches/1901331/Live/Serie-A-2025-2026-Verona-vs-Torino",
+      "display_name": "Verona vs Torino | 2025/2026 | Serie A | 2026-01-04",
+      "rows": 1937,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901331.parquet",
+      "scraped_at": "2026-04-24T05:56:58.105423+00:00"
+    },
+    "1901322": {
+      "url": "https://www.whoscored.com/Matches/1901322/Live/Serie-A-2025-2026-Atalanta-vs-Roma",
+      "display_name": "Atalanta vs Roma | 2025/2026 | Serie A | 2026-01-03",
+      "rows": 1842,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901322.parquet",
+      "scraped_at": "2026-04-24T05:57:18.367540+00:00"
+    },
+    "1901324": {
+      "url": "https://www.whoscored.com/Matches/1901324/Live/Serie-A-2025-2026-Como-vs-Udinese",
+      "display_name": "Como vs Udinese | 2025/2026 | Serie A | 2026-01-03",
+      "rows": 1931,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901324.parquet",
+      "scraped_at": "2026-04-24T05:57:43.923712+00:00"
+    },
+    "1901326": {
+      "url": "https://www.whoscored.com/Matches/1901326/Live/Serie-A-2025-2026-Genoa-vs-Pisa",
+      "display_name": "Genoa vs Pisa | 2025/2026 | Serie A | 2026-01-03",
+      "rows": 1794,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901326.parquet",
+      "scraped_at": "2026-04-24T05:58:07.395426+00:00"
+    },
+    "1901328": {
+      "url": "https://www.whoscored.com/Matches/1901328/Live/Serie-A-2025-2026-Juventus-vs-Lecce",
+      "display_name": "Juventus vs Lecce | 2025/2026 | Serie A | 2026-01-03",
+      "rows": 2114,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901328.parquet",
+      "scraped_at": "2026-04-24T05:58:30.178600+00:00"
+    },
+    "1901330": {
+      "url": "https://www.whoscored.com/Matches/1901330/Live/Serie-A-2025-2026-Sassuolo-vs-Parma-Calcio-1913",
+      "display_name": "Sassuolo vs Parma Calcio 1913 | 2025/2026 | Serie A | 2026-01-03",
+      "rows": 1970,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901330.parquet",
+      "scraped_at": "2026-04-24T05:58:51.708543+00:00"
+    },
+    "1901323": {
+      "url": "https://www.whoscored.com/Matches/1901323/Live/Serie-A-2025-2026-Cagliari-vs-AC-Milan",
+      "display_name": "Cagliari vs AC Milan | 2025/2026 | Serie A | 2026-01-02",
+      "rows": 1976,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901323.parquet",
+      "scraped_at": "2026-04-24T05:59:12.820179+00:00"
+    },
+    "1901318": {
+      "url": "https://www.whoscored.com/Matches/1901318/Live/Serie-A-2025-2026-Roma-vs-Genoa",
+      "display_name": "Roma vs Genoa | 2025/2026 | Serie A | 2025-12-29",
+      "rows": 1942,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901318.parquet",
+      "scraped_at": "2026-04-24T05:59:34.310795+00:00"
+    },
+    "1901315": {
+      "url": "https://www.whoscored.com/Matches/1901315/Live/Serie-A-2025-2026-AC-Milan-vs-Verona",
+      "display_name": "AC Milan vs Verona | 2025/2026 | Serie A | 2025-12-28",
+      "rows": 1701,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901315.parquet",
+      "scraped_at": "2026-04-24T05:59:57.145062+00:00"
+    },
+    "1901321": {
+      "url": "https://www.whoscored.com/Matches/1901321/Live/Serie-A-2025-2026-Atalanta-vs-Inter",
+      "display_name": "Atalanta vs Inter | 2025/2026 | Serie A | 2025-12-28",
+      "rows": 1933,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901321.parquet",
+      "scraped_at": "2026-04-24T06:00:20.431664+00:00"
+    },
+    "1901312": {
+      "url": "https://www.whoscored.com/Matches/1901312/Live/Serie-A-2025-2026-Bologna-vs-Sassuolo",
+      "display_name": "Bologna vs Sassuolo | 2025/2026 | Serie A | 2025-12-28",
+      "rows": 1793,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901312.parquet",
+      "scraped_at": "2026-04-24T06:00:38.362838+00:00"
+    },
+    "1901313": {
+      "url": "https://www.whoscored.com/Matches/1901313/Live/Serie-A-2025-2026-Cremonese-vs-Napoli",
+      "display_name": "Cremonese vs Napoli | 2025/2026 | Serie A | 2025-12-28",
+      "rows": 1831,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901313.parquet",
+      "scraped_at": "2026-04-24T06:00:57.248262+00:00"
+    },
+    "1901319": {
+      "url": "https://www.whoscored.com/Matches/1901319/Live/Serie-A-2025-2026-Torino-vs-Cagliari",
+      "display_name": "Torino vs Cagliari | 2025/2026 | Serie A | 2025-12-27",
+      "rows": 1744,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901319.parquet",
+      "scraped_at": "2026-04-24T06:01:15.648103+00:00"
+    },
+    "1901314": {
+      "url": "https://www.whoscored.com/Matches/1901314/Live/Serie-A-2025-2026-Lecce-vs-Como",
+      "display_name": "Lecce vs Como | 2025/2026 | Serie A | 2025-12-27",
+      "rows": 1768,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901314.parquet",
+      "scraped_at": "2026-04-24T06:01:34.238596+00:00"
+    },
+    "1901316": {
+      "url": "https://www.whoscored.com/Matches/1901316/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Fiorentina",
+      "display_name": "Parma Calcio 1913 vs Fiorentina | 2025/2026 | Serie A | 2025-12-27",
+      "rows": 1793,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901316.parquet",
+      "scraped_at": "2026-04-24T06:01:57.979423+00:00"
+    },
+    "1901317": {
+      "url": "https://www.whoscored.com/Matches/1901317/Live/Serie-A-2025-2026-Pisa-vs-Juventus",
+      "display_name": "Pisa vs Juventus | 2025/2026 | Serie A | 2025-12-27",
+      "rows": 1902,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901317.parquet",
+      "scraped_at": "2026-04-24T06:02:20.197324+00:00"
+    },
+    "1901320": {
+      "url": "https://www.whoscored.com/Matches/1901320/Live/Serie-A-2025-2026-Udinese-vs-Lazio",
+      "display_name": "Udinese vs Lazio | 2025/2026 | Serie A | 2025-12-27",
+      "rows": 1766,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901320.parquet",
+      "scraped_at": "2026-04-24T06:02:41.044763+00:00"
+    },
+    "1901305": {
+      "url": "https://www.whoscored.com/Matches/1901305/Live/Serie-A-2025-2026-Genoa-vs-Atalanta",
+      "display_name": "Genoa vs Atalanta | 2025/2026 | Serie A | 2025-12-21",
+      "rows": 1713,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901305.parquet",
+      "scraped_at": "2026-04-24T06:03:03.883138+00:00"
+    },
+    "1901302": {
+      "url": "https://www.whoscored.com/Matches/1901302/Live/Serie-A-2025-2026-Cagliari-vs-Pisa",
+      "display_name": "Cagliari vs Pisa | 2025/2026 | Serie A | 2025-12-21",
+      "rows": 1599,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901302.parquet",
+      "scraped_at": "2026-04-24T06:03:27.615156+00:00"
+    },
+    "1901304": {
+      "url": "https://www.whoscored.com/Matches/1901304/Live/Serie-A-2025-2026-Fiorentina-vs-Udinese",
+      "display_name": "Fiorentina vs Udinese | 2025/2026 | Serie A | 2025-12-21",
+      "rows": 1802,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901304.parquet",
+      "scraped_at": "2026-04-24T06:03:56.059019+00:00"
+    },
+    "1901310": {
+      "url": "https://www.whoscored.com/Matches/1901310/Live/Serie-A-2025-2026-Sassuolo-vs-Torino",
+      "display_name": "Sassuolo vs Torino | 2025/2026 | Serie A | 2025-12-21",
+      "rows": 1804,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901310.parquet",
+      "scraped_at": "2026-04-24T06:04:20.579149+00:00"
+    },
+    "1901308": {
+      "url": "https://www.whoscored.com/Matches/1901308/Live/Serie-A-2025-2026-Lazio-vs-Cremonese",
+      "display_name": "Lazio vs Cremonese | 2025/2026 | Serie A | 2025-12-20",
+      "rows": 1881,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901308.parquet",
+      "scraped_at": "2026-04-24T06:04:40.403126+00:00"
+    },
+    "1901307": {
+      "url": "https://www.whoscored.com/Matches/1901307/Live/Serie-A-2025-2026-Juventus-vs-Roma",
+      "display_name": "Juventus vs Roma | 2025/2026 | Serie A | 2025-12-20",
+      "rows": 2064,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901307.parquet",
+      "scraped_at": "2026-04-24T06:05:00.421271+00:00"
+    },
+    "1901299": {
+      "url": "https://www.whoscored.com/Matches/1901299/Live/Serie-A-2025-2026-Roma-vs-Como",
+      "display_name": "Roma vs Como | 2025/2026 | Serie A | 2025-12-15",
+      "rows": 1762,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901299.parquet",
+      "scraped_at": "2026-04-24T06:05:26.812671+00:00"
+    },
+    "1901297": {
+      "url": "https://www.whoscored.com/Matches/1901297/Live/Serie-A-2025-2026-AC-Milan-vs-Sassuolo",
+      "display_name": "AC Milan vs Sassuolo | 2025/2026 | Serie A | 2025-12-14",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901297.parquet",
+      "scraped_at": "2026-04-24T06:05:50.827637+00:00"
+    },
+    "1901293": {
+      "url": "https://www.whoscored.com/Matches/1901293/Live/Serie-A-2025-2026-Bologna-vs-Juventus",
+      "display_name": "Bologna vs Juventus | 2025/2026 | Serie A | 2025-12-14",
+      "rows": 1850,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901293.parquet",
+      "scraped_at": "2026-04-24T06:06:13.404848+00:00"
+    },
+    "1901294": {
+      "url": "https://www.whoscored.com/Matches/1901294/Live/Serie-A-2025-2026-Fiorentina-vs-Verona",
+      "display_name": "Fiorentina vs Verona | 2025/2026 | Serie A | 2025-12-14",
+      "rows": 1755,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901294.parquet",
+      "scraped_at": "2026-04-24T06:06:35.753085+00:00"
+    },
+    "1901295": {
+      "url": "https://www.whoscored.com/Matches/1901295/Live/Serie-A-2025-2026-Genoa-vs-Inter",
+      "display_name": "Genoa vs Inter | 2025/2026 | Serie A | 2025-12-14",
+      "rows": 1753,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901295.parquet",
+      "scraped_at": "2026-04-24T06:06:57.515976+00:00"
+    },
+    "1901301": {
+      "url": "https://www.whoscored.com/Matches/1901301/Live/Serie-A-2025-2026-Udinese-vs-Napoli",
+      "display_name": "Udinese vs Napoli | 2025/2026 | Serie A | 2025-12-14",
+      "rows": 1704,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901301.parquet",
+      "scraped_at": "2026-04-24T06:07:17.013962+00:00"
+    },
+    "1901292": {
+      "url": "https://www.whoscored.com/Matches/1901292/Live/Serie-A-2025-2026-Atalanta-vs-Cagliari",
+      "display_name": "Atalanta vs Cagliari | 2025/2026 | Serie A | 2025-12-13",
+      "rows": 1916,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901292.parquet",
+      "scraped_at": "2026-04-24T06:07:36.731161+00:00"
+    },
+    "1901300": {
+      "url": "https://www.whoscored.com/Matches/1901300/Live/Serie-A-2025-2026-Torino-vs-Cremonese",
+      "display_name": "Torino vs Cremonese | 2025/2026 | Serie A | 2025-12-13",
+      "rows": 1941,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901300.parquet",
+      "scraped_at": "2026-04-24T06:07:58.774894+00:00"
+    },
+    "1901298": {
+      "url": "https://www.whoscored.com/Matches/1901298/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Lazio",
+      "display_name": "Parma Calcio 1913 vs Lazio | 2025/2026 | Serie A | 2025-12-13",
+      "rows": 1741,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901298.parquet",
+      "scraped_at": "2026-04-24T06:08:20.157030+00:00"
+    },
+    "1901296": {
+      "url": "https://www.whoscored.com/Matches/1901296/Live/Serie-A-2025-2026-Lecce-vs-Pisa",
+      "display_name": "Lecce vs Pisa | 2025/2026 | Serie A | 2025-12-12",
+      "rows": 1683,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901296.parquet",
+      "scraped_at": "2026-04-24T06:08:39.789556+00:00"
+    },
+    "1901290": {
+      "url": "https://www.whoscored.com/Matches/1901290/Live/Serie-A-2025-2026-Udinese-vs-Genoa",
+      "display_name": "Udinese vs Genoa | 2025/2026 | Serie A | 2025-12-08",
+      "rows": 1754,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901290.parquet",
+      "scraped_at": "2026-04-24T08:46:25.244041+00:00"
+    },
+    "1901287": {
+      "url": "https://www.whoscored.com/Matches/1901287/Live/Serie-A-2025-2026-Pisa-vs-Parma-Calcio-1913",
+      "display_name": "Pisa vs Parma Calcio 1913 | 2025/2026 | Serie A | 2025-12-08",
+      "rows": 1624,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901287.parquet",
+      "scraped_at": "2026-04-24T08:46:44.592377+00:00"
+    },
+    "1901285": {
+      "url": "https://www.whoscored.com/Matches/1901285/Live/Serie-A-2025-2026-Lazio-vs-Bologna",
+      "display_name": "Lazio vs Bologna | 2025/2026 | Serie A | 2025-12-07",
+      "rows": 1825,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901285.parquet",
+      "scraped_at": "2026-04-24T08:47:07.407374+00:00"
+    },
+    "1901282": {
+      "url": "https://www.whoscored.com/Matches/1901282/Live/Serie-A-2025-2026-Cagliari-vs-Roma",
+      "display_name": "Cagliari vs Roma | 2025/2026 | Serie A | 2025-12-07",
+      "rows": 1736,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901282.parquet",
+      "scraped_at": "2026-04-24T08:47:28.811459+00:00"
+    },
+    "1901283": {
+      "url": "https://www.whoscored.com/Matches/1901283/Live/Serie-A-2025-2026-Cremonese-vs-Lecce",
+      "display_name": "Cremonese vs Lecce | 2025/2026 | Serie A | 2025-12-07",
+      "rows": 1682,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901283.parquet",
+      "scraped_at": "2026-04-24T08:47:49.033924+00:00"
+    },
+    "1901286": {
+      "url": "https://www.whoscored.com/Matches/1901286/Live/Serie-A-2025-2026-Napoli-vs-Juventus",
+      "display_name": "Napoli vs Juventus | 2025/2026 | Serie A | 2025-12-07",
+      "rows": 1895,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901286.parquet",
+      "scraped_at": "2026-04-24T08:48:12.243139+00:00"
+    },
+    "1901291": {
+      "url": "https://www.whoscored.com/Matches/1901291/Live/Serie-A-2025-2026-Verona-vs-Atalanta",
+      "display_name": "Verona vs Atalanta | 2025/2026 | Serie A | 2025-12-06",
+      "rows": 1758,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901291.parquet",
+      "scraped_at": "2026-04-24T08:48:32.119371+00:00"
+    },
+    "1901284": {
+      "url": "https://www.whoscored.com/Matches/1901284/Live/Serie-A-2025-2026-Inter-vs-Como",
+      "display_name": "Inter vs Como | 2025/2026 | Serie A | 2025-12-06",
+      "rows": 1752,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901284.parquet",
+      "scraped_at": "2026-04-24T08:48:55.483382+00:00"
+    },
+    "1901288": {
+      "url": "https://www.whoscored.com/Matches/1901288/Live/Serie-A-2025-2026-Sassuolo-vs-Fiorentina",
+      "display_name": "Sassuolo vs Fiorentina | 2025/2026 | Serie A | 2025-12-06",
+      "rows": 1714,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901288.parquet",
+      "scraped_at": "2026-04-24T08:49:17.231897+00:00"
+    },
+    "1901266": {
+      "url": "https://www.whoscored.com/Matches/1901266/Live/Serie-A-2025-2026-Bologna-vs-Cremonese",
+      "display_name": "Bologna vs Cremonese | 2025/2026 | Serie A | 2025-12-01",
+      "rows": 1856,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901266.parquet",
+      "scraped_at": "2026-04-24T08:49:40.438465+00:00"
+    },
+    "1901264": {
+      "url": "https://www.whoscored.com/Matches/1901264/Live/Serie-A-2025-2026-Atalanta-vs-Fiorentina",
+      "display_name": "Atalanta vs Fiorentina | 2025/2026 | Serie A | 2025-11-30",
+      "rows": 1842,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901264.parquet",
+      "scraped_at": "2026-04-24T08:50:03.101437+00:00"
+    },
+    "1901280": {
+      "url": "https://www.whoscored.com/Matches/1901280/Live/Serie-A-2025-2026-Pisa-vs-Inter",
+      "display_name": "Pisa vs Inter | 2025/2026 | Serie A | 2025-11-30",
+      "rows": 1776,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901280.parquet",
+      "scraped_at": "2026-04-24T08:50:26.852429+00:00"
+    },
+    "1901274": {
+      "url": "https://www.whoscored.com/Matches/1901274/Live/Serie-A-2025-2026-Lecce-vs-Torino",
+      "display_name": "Lecce vs Torino | 2025/2026 | Serie A | 2025-11-30",
+      "rows": 1615,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901274.parquet",
+      "scraped_at": "2026-04-24T08:50:47.705748+00:00"
+    },
+    "1901281": {
+      "url": "https://www.whoscored.com/Matches/1901281/Live/Serie-A-2025-2026-Roma-vs-Napoli",
+      "display_name": "Roma vs Napoli | 2025/2026 | Serie A | 2025-11-30",
+      "rows": 1989,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901281.parquet",
+      "scraped_at": "2026-04-24T08:51:10.811450+00:00"
+    },
+    "1901276": {
+      "url": "https://www.whoscored.com/Matches/1901276/Live/Serie-A-2025-2026-AC-Milan-vs-Lazio",
+      "display_name": "AC Milan vs Lazio | 2025/2026 | Serie A | 2025-11-29",
+      "rows": 2031,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901276.parquet",
+      "scraped_at": "2026-04-24T08:51:35.326109+00:00"
+    },
+    "1901272": {
+      "url": "https://www.whoscored.com/Matches/1901272/Live/Serie-A-2025-2026-Juventus-vs-Cagliari",
+      "display_name": "Juventus vs Cagliari | 2025/2026 | Serie A | 2025-11-29",
+      "rows": 2049,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901272.parquet",
+      "scraped_at": "2026-04-24T08:51:55.205337+00:00"
+    },
+    "1901270": {
+      "url": "https://www.whoscored.com/Matches/1901270/Live/Serie-A-2025-2026-Genoa-vs-Verona",
+      "display_name": "Genoa vs Verona | 2025/2026 | Serie A | 2025-11-29",
+      "rows": 1791,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901270.parquet",
+      "scraped_at": "2026-04-24T08:52:14.232706+00:00"
+    },
+    "1901278": {
+      "url": "https://www.whoscored.com/Matches/1901278/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Udinese",
+      "display_name": "Parma Calcio 1913 vs Udinese | 2025/2026 | Serie A | 2025-11-29",
+      "rows": 1651,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901278.parquet",
+      "scraped_at": "2026-04-24T08:52:34.936036+00:00"
+    },
+    "1901268": {
+      "url": "https://www.whoscored.com/Matches/1901268/Live/Serie-A-2025-2026-Como-vs-Sassuolo",
+      "display_name": "Como vs Sassuolo | 2025/2026 | Serie A | 2025-11-28",
+      "rows": 1940,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901268.parquet",
+      "scraped_at": "2026-04-24T08:52:55.304793+00:00"
+    },
+    "1901260": {
+      "url": "https://www.whoscored.com/Matches/1901260/Live/Serie-A-2025-2026-Torino-vs-Como",
+      "display_name": "Torino vs Como | 2025/2026 | Serie A | 2025-11-24",
+      "rows": 1789,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901260.parquet",
+      "scraped_at": "2026-04-24T08:53:14.557775+00:00"
+    },
+    "1901258": {
+      "url": "https://www.whoscored.com/Matches/1901258/Live/Serie-A-2025-2026-Sassuolo-vs-Pisa",
+      "display_name": "Sassuolo vs Pisa | 2025/2026 | Serie A | 2025-11-24",
+      "rows": 1753,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901258.parquet",
+      "scraped_at": "2026-04-24T08:53:37.581576+00:00"
+    },
+    "1901252": {
+      "url": "https://www.whoscored.com/Matches/1901252/Live/Serie-A-2025-2026-Inter-vs-AC-Milan",
+      "display_name": "Inter vs AC Milan | 2025/2026 | Serie A | 2025-11-23",
+      "rows": 1994,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901252.parquet",
+      "scraped_at": "2026-04-24T08:53:59.384093+00:00"
+    },
+    "1901248": {
+      "url": "https://www.whoscored.com/Matches/1901248/Live/Serie-A-2025-2026-Cremonese-vs-Roma",
+      "display_name": "Cremonese vs Roma | 2025/2026 | Serie A | 2025-11-23",
+      "rows": 1808,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901248.parquet",
+      "scraped_at": "2026-04-24T08:54:19.886120+00:00"
+    },
+    "1901254": {
+      "url": "https://www.whoscored.com/Matches/1901254/Live/Serie-A-2025-2026-Lazio-vs-Lecce",
+      "display_name": "Lazio vs Lecce | 2025/2026 | Serie A | 2025-11-23",
+      "rows": 2008,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901254.parquet",
+      "scraped_at": "2026-04-24T08:54:43.063483+00:00"
+    },
+    "1901244": {
+      "url": "https://www.whoscored.com/Matches/1901244/Live/Serie-A-2025-2026-Verona-vs-Parma-Calcio-1913",
+      "display_name": "Verona vs Parma Calcio 1913 | 2025/2026 | Serie A | 2025-11-23",
+      "rows": 1910,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901244.parquet",
+      "scraped_at": "2026-04-24T08:55:02.938288+00:00"
+    },
+    "1901256": {
+      "url": "https://www.whoscored.com/Matches/1901256/Live/Serie-A-2025-2026-Napoli-vs-Atalanta",
+      "display_name": "Napoli vs Atalanta | 2025/2026 | Serie A | 2025-11-22",
+      "rows": 1888,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901256.parquet",
+      "scraped_at": "2026-04-24T08:55:21.967238+00:00"
+    },
+    "1901262": {
+      "url": "https://www.whoscored.com/Matches/1901262/Live/Serie-A-2025-2026-Udinese-vs-Bologna",
+      "display_name": "Udinese vs Bologna | 2025/2026 | Serie A | 2025-11-22",
+      "rows": 1597,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901262.parquet",
+      "scraped_at": "2026-04-24T08:55:44.051358+00:00"
+    },
+    "1901246": {
+      "url": "https://www.whoscored.com/Matches/1901246/Live/Serie-A-2025-2026-Cagliari-vs-Genoa",
+      "display_name": "Cagliari vs Genoa | 2025/2026 | Serie A | 2025-11-22",
+      "rows": 1672,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901246.parquet",
+      "scraped_at": "2026-04-24T08:56:05.368593+00:00"
+    },
+    "1901250": {
+      "url": "https://www.whoscored.com/Matches/1901250/Live/Serie-A-2025-2026-Fiorentina-vs-Juventus",
+      "display_name": "Fiorentina vs Juventus | 2025/2026 | Serie A | 2025-11-22",
+      "rows": 1754,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901250.parquet",
+      "scraped_at": "2026-04-24T08:56:29.401605+00:00"
+    },
+    "1901224": {
+      "url": "https://www.whoscored.com/Matches/1901224/Live/Serie-A-2025-2026-Atalanta-vs-Sassuolo",
+      "display_name": "Atalanta vs Sassuolo | 2025/2026 | Serie A | 2025-11-09",
+      "rows": 1928,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901224.parquet",
+      "scraped_at": "2026-04-24T08:56:53.142326+00:00"
+    },
+    "1901226": {
+      "url": "https://www.whoscored.com/Matches/1901226/Live/Serie-A-2025-2026-Bologna-vs-Napoli",
+      "display_name": "Bologna vs Napoli | 2025/2026 | Serie A | 2025-11-09",
+      "rows": 1761,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901226.parquet",
+      "scraped_at": "2026-04-24T08:57:19.799829+00:00"
+    },
+    "1901230": {
+      "url": "https://www.whoscored.com/Matches/1901230/Live/Serie-A-2025-2026-Genoa-vs-Fiorentina",
+      "display_name": "Genoa vs Fiorentina | 2025/2026 | Serie A | 2025-11-09",
+      "rows": 1565,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901230.parquet",
+      "scraped_at": "2026-04-24T08:57:39.991104+00:00"
+    },
+    "1901232": {
+      "url": "https://www.whoscored.com/Matches/1901232/Live/Serie-A-2025-2026-Inter-vs-Lazio",
+      "display_name": "Inter vs Lazio | 2025/2026 | Serie A | 2025-11-09",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901232.parquet",
+      "scraped_at": "2026-04-24T08:58:03.171348+00:00"
+    },
+    "1901242": {
+      "url": "https://www.whoscored.com/Matches/1901242/Live/Serie-A-2025-2026-Roma-vs-Udinese",
+      "display_name": "Roma vs Udinese | 2025/2026 | Serie A | 2025-11-09",
+      "rows": 1752,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901242.parquet",
+      "scraped_at": "2026-04-24T08:58:24.972255+00:00"
+    },
+    "1901238": {
+      "url": "https://www.whoscored.com/Matches/1901238/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-AC-Milan",
+      "display_name": "Parma Calcio 1913 vs AC Milan | 2025/2026 | Serie A | 2025-11-08",
+      "rows": 1944,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901238.parquet",
+      "scraped_at": "2026-04-24T08:58:43.318703+00:00"
+    },
+    "1901228": {
+      "url": "https://www.whoscored.com/Matches/1901228/Live/Serie-A-2025-2026-Como-vs-Cagliari",
+      "display_name": "Como vs Cagliari | 2025/2026 | Serie A | 2025-11-08",
+      "rows": 1828,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901228.parquet",
+      "scraped_at": "2026-04-24T08:59:03.927880+00:00"
+    },
+    "1901234": {
+      "url": "https://www.whoscored.com/Matches/1901234/Live/Serie-A-2025-2026-Juventus-vs-Torino",
+      "display_name": "Juventus vs Torino | 2025/2026 | Serie A | 2025-11-08",
+      "rows": 2105,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901234.parquet",
+      "scraped_at": "2026-04-24T08:59:25.911603+00:00"
+    },
+    "1901236": {
+      "url": "https://www.whoscored.com/Matches/1901236/Live/Serie-A-2025-2026-Lecce-vs-Verona",
+      "display_name": "Lecce vs Verona | 2025/2026 | Serie A | 2025-11-08",
+      "rows": 1674,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901236.parquet",
+      "scraped_at": "2026-04-24T08:59:48.353103+00:00"
+    },
+    "1901240": {
+      "url": "https://www.whoscored.com/Matches/1901240/Live/Serie-A-2025-2026-Pisa-vs-Cremonese",
+      "display_name": "Pisa vs Cremonese | 2025/2026 | Serie A | 2025-11-07",
+      "rows": 1778,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901240.parquet",
+      "scraped_at": "2026-04-24T09:00:09.555250+00:00"
+    },
+    "1901208": {
+      "url": "https://www.whoscored.com/Matches/1901208/Live/Serie-A-2025-2026-Lazio-vs-Cagliari",
+      "display_name": "Lazio vs Cagliari | 2025/2026 | Serie A | 2025-11-03",
+      "rows": 1793,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901208.parquet",
+      "scraped_at": "2026-04-24T09:00:32.936982+00:00"
+    },
+    "1901216": {
+      "url": "https://www.whoscored.com/Matches/1901216/Live/Serie-A-2025-2026-Sassuolo-vs-Genoa",
+      "display_name": "Sassuolo vs Genoa | 2025/2026 | Serie A | 2025-11-03",
+      "rows": 1851,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901216.parquet",
+      "scraped_at": "2026-04-24T09:00:53.570848+00:00"
+    },
+    "1901210": {
+      "url": "https://www.whoscored.com/Matches/1901210/Live/Serie-A-2025-2026-AC-Milan-vs-Roma",
+      "display_name": "AC Milan vs Roma | 2025/2026 | Serie A | 2025-11-02",
+      "rows": 1820,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901210.parquet",
+      "scraped_at": "2026-04-24T09:01:14.697026+00:00"
+    },
+    "1901214": {
+      "url": "https://www.whoscored.com/Matches/1901214/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Bologna",
+      "display_name": "Parma Calcio 1913 vs Bologna | 2025/2026 | Serie A | 2025-11-02",
+      "rows": 1508,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901214.parquet",
+      "scraped_at": "2026-04-24T09:01:36.864135+00:00"
+    },
+    "1901206": {
+      "url": "https://www.whoscored.com/Matches/1901206/Live/Serie-A-2025-2026-Fiorentina-vs-Lecce",
+      "display_name": "Fiorentina vs Lecce | 2025/2026 | Serie A | 2025-11-02",
+      "rows": 1708,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901206.parquet",
+      "scraped_at": "2026-04-24T09:01:58.822133+00:00"
+    },
+    "1901222": {
+      "url": "https://www.whoscored.com/Matches/1901222/Live/Serie-A-2025-2026-Verona-vs-Inter",
+      "display_name": "Verona vs Inter | 2025/2026 | Serie A | 2025-11-02",
+      "rows": 1808,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901222.parquet",
+      "scraped_at": "2026-04-24T09:02:20.223329+00:00"
+    },
+    "1901218": {
+      "url": "https://www.whoscored.com/Matches/1901218/Live/Serie-A-2025-2026-Torino-vs-Pisa",
+      "display_name": "Torino vs Pisa | 2025/2026 | Serie A | 2025-11-02",
+      "rows": 1741,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901218.parquet",
+      "scraped_at": "2026-04-24T09:02:44.015228+00:00"
+    },
+    "1901220": {
+      "url": "https://www.whoscored.com/Matches/1901220/Live/Serie-A-2025-2026-Udinese-vs-Atalanta",
+      "display_name": "Udinese vs Atalanta | 2025/2026 | Serie A | 2025-11-01",
+      "rows": 1850,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901220.parquet",
+      "scraped_at": "2026-04-24T09:03:02.394433+00:00"
+    },
+    "1901212": {
+      "url": "https://www.whoscored.com/Matches/1901212/Live/Serie-A-2025-2026-Napoli-vs-Como",
+      "display_name": "Napoli vs Como | 2025/2026 | Serie A | 2025-11-01",
+      "rows": 1805,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901212.parquet",
+      "scraped_at": "2026-04-24T09:03:20.370964+00:00"
+    },
+    "1901204": {
+      "url": "https://www.whoscored.com/Matches/1901204/Live/Serie-A-2025-2026-Cremonese-vs-Juventus",
+      "display_name": "Cremonese vs Juventus | 2025/2026 | Serie A | 2025-11-01",
+      "rows": 1864,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901204.parquet",
+      "scraped_at": "2026-04-24T09:03:43.413487+00:00"
+    },
+    "1901188": {
+      "url": "https://www.whoscored.com/Matches/1901188/Live/Serie-A-2025-2026-Cagliari-vs-Sassuolo",
+      "display_name": "Cagliari vs Sassuolo | 2025/2026 | Serie A | 2025-10-30",
+      "rows": 1724,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901188.parquet",
+      "scraped_at": "2026-04-24T09:04:07.982403+00:00"
+    },
+    "1901200": {
+      "url": "https://www.whoscored.com/Matches/1901200/Live/Serie-A-2025-2026-Pisa-vs-Lazio",
+      "display_name": "Pisa vs Lazio | 2025/2026 | Serie A | 2025-10-30",
+      "rows": 1852,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901200.parquet",
+      "scraped_at": "2026-04-24T09:04:29.839444+00:00"
+    },
+    "1901186": {
+      "url": "https://www.whoscored.com/Matches/1901186/Live/Serie-A-2025-2026-Bologna-vs-Torino",
+      "display_name": "Bologna vs Torino | 2025/2026 | Serie A | 2025-10-29",
+      "rows": 1853,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901186.parquet",
+      "scraped_at": "2026-04-24T09:04:52.535913+00:00"
+    },
+    "1901190": {
+      "url": "https://www.whoscored.com/Matches/1901190/Live/Serie-A-2025-2026-Como-vs-Verona",
+      "display_name": "Como vs Verona | 2025/2026 | Serie A | 2025-10-29",
+      "rows": 1847,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901190.parquet",
+      "scraped_at": "2026-04-24T09:05:13.704166+00:00"
+    },
+    "1901192": {
+      "url": "https://www.whoscored.com/Matches/1901192/Live/Serie-A-2025-2026-Genoa-vs-Cremonese",
+      "display_name": "Genoa vs Cremonese | 2025/2026 | Serie A | 2025-10-29",
+      "rows": 1653,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901192.parquet",
+      "scraped_at": "2026-04-24T09:05:37.563004+00:00"
+    },
+    "1901194": {
+      "url": "https://www.whoscored.com/Matches/1901194/Live/Serie-A-2025-2026-Inter-vs-Fiorentina",
+      "display_name": "Inter vs Fiorentina | 2025/2026 | Serie A | 2025-10-29",
+      "rows": 1864,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901194.parquet",
+      "scraped_at": "2026-04-24T09:05:57.292398+00:00"
+    },
+    "1901196": {
+      "url": "https://www.whoscored.com/Matches/1901196/Live/Serie-A-2025-2026-Juventus-vs-Udinese",
+      "display_name": "Juventus vs Udinese | 2025/2026 | Serie A | 2025-10-29",
+      "rows": 1719,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901196.parquet",
+      "scraped_at": "2026-04-24T09:06:16.809426+00:00"
+    },
+    "1901202": {
+      "url": "https://www.whoscored.com/Matches/1901202/Live/Serie-A-2025-2026-Roma-vs-Parma-Calcio-1913",
+      "display_name": "Roma vs Parma Calcio 1913 | 2025/2026 | Serie A | 2025-10-29",
+      "rows": 1868,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901202.parquet",
+      "scraped_at": "2026-04-24T09:06:35.213424+00:00"
+    },
+    "1901184": {
+      "url": "https://www.whoscored.com/Matches/1901184/Live/Serie-A-2025-2026-Atalanta-vs-AC-Milan",
+      "display_name": "Atalanta vs AC Milan | 2025/2026 | Serie A | 2025-10-28",
+      "rows": 1802,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901184.parquet",
+      "scraped_at": "2026-04-24T09:06:56.441650+00:00"
+    },
+    "1901198": {
+      "url": "https://www.whoscored.com/Matches/1901198/Live/Serie-A-2025-2026-Lecce-vs-Napoli",
+      "display_name": "Lecce vs Napoli | 2025/2026 | Serie A | 2025-10-28",
+      "rows": 1864,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901198.parquet",
+      "scraped_at": "2026-04-24T09:07:14.324460+00:00"
+    },
+    "1901170": {
+      "url": "https://www.whoscored.com/Matches/1901170/Live/Serie-A-2025-2026-Fiorentina-vs-Bologna",
+      "display_name": "Fiorentina vs Bologna | 2025/2026 | Serie A | 2025-10-26",
+      "rows": 1482,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901170.parquet",
+      "scraped_at": "2026-04-24T09:07:31.260817+00:00"
+    },
+    "1901166": {
+      "url": "https://www.whoscored.com/Matches/1901166/Live/Serie-A-2025-2026-Verona-vs-Cagliari",
+      "display_name": "Verona vs Cagliari | 2025/2026 | Serie A | 2025-10-26",
+      "rows": 1910,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901166.parquet",
+      "scraped_at": "2026-04-24T09:07:51.576391+00:00"
+    },
+    "1901182": {
+      "url": "https://www.whoscored.com/Matches/1901182/Live/Serie-A-2025-2026-Torino-vs-Genoa",
+      "display_name": "Torino vs Genoa | 2025/2026 | Serie A | 2025-10-26",
+      "rows": 1781,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901182.parquet",
+      "scraped_at": "2026-04-24T09:08:10.791233+00:00"
+    },
+    "1901172": {
+      "url": "https://www.whoscored.com/Matches/1901172/Live/Serie-A-2025-2026-Lazio-vs-Juventus",
+      "display_name": "Lazio vs Juventus | 2025/2026 | Serie A | 2025-10-26",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901172.parquet",
+      "scraped_at": "2026-04-24T09:08:34.944097+00:00"
+    },
+    "1901180": {
+      "url": "https://www.whoscored.com/Matches/1901180/Live/Serie-A-2025-2026-Sassuolo-vs-Roma",
+      "display_name": "Sassuolo vs Roma | 2025/2026 | Serie A | 2025-10-26",
+      "rows": 1744,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901180.parquet",
+      "scraped_at": "2026-04-24T09:08:58.449048+00:00"
+    },
+    "1901168": {
+      "url": "https://www.whoscored.com/Matches/1901168/Live/Serie-A-2025-2026-Cremonese-vs-Atalanta",
+      "display_name": "Cremonese vs Atalanta | 2025/2026 | Serie A | 2025-10-25",
+      "rows": 1837,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901168.parquet",
+      "scraped_at": "2026-04-24T09:09:20.179932+00:00"
+    },
+    "1901178": {
+      "url": "https://www.whoscored.com/Matches/1901178/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Como",
+      "display_name": "Parma Calcio 1913 vs Como | 2025/2026 | Serie A | 2025-10-25",
+      "rows": 1704,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901178.parquet",
+      "scraped_at": "2026-04-24T09:09:38.350990+00:00"
+    },
+    "1901176": {
+      "url": "https://www.whoscored.com/Matches/1901176/Live/Serie-A-2025-2026-Napoli-vs-Inter",
+      "display_name": "Napoli vs Inter | 2025/2026 | Serie A | 2025-10-25",
+      "rows": 1828,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901176.parquet",
+      "scraped_at": "2026-04-24T09:09:57.485120+00:00"
+    },
+    "1901163": {
+      "url": "https://www.whoscored.com/Matches/1901163/Live/Serie-A-2025-2026-Udinese-vs-Lecce",
+      "display_name": "Udinese vs Lecce | 2025/2026 | Serie A | 2025-10-25",
+      "rows": 1849,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901163.parquet",
+      "scraped_at": "2026-04-24T09:10:21.845418+00:00"
+    },
+    "1901174": {
+      "url": "https://www.whoscored.com/Matches/1901174/Live/Serie-A-2025-2026-AC-Milan-vs-Pisa",
+      "display_name": "AC Milan vs Pisa | 2025/2026 | Serie A | 2025-10-24",
+      "rows": 1921,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901174.parquet",
+      "scraped_at": "2026-04-24T09:10:43.867755+00:00"
+    },
+    "1901093": {
+      "url": "https://www.whoscored.com/Matches/1901093/Live/Serie-A-2025-2026-Cremonese-vs-Udinese",
+      "display_name": "Cremonese vs Udinese | 2025/2026 | Serie A | 2025-10-20",
+      "rows": 1599,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901093.parquet",
+      "scraped_at": "2026-04-24T09:11:03.520864+00:00"
+    },
+    "1901097": {
+      "url": "https://www.whoscored.com/Matches/1901097/Live/Serie-A-2025-2026-AC-Milan-vs-Fiorentina",
+      "display_name": "AC Milan vs Fiorentina | 2025/2026 | Serie A | 2025-10-19",
+      "rows": 1695,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901097.parquet",
+      "scraped_at": "2026-04-24T09:11:26.218082+00:00"
+    },
+    "1901153": {
+      "url": "https://www.whoscored.com/Matches/1901153/Live/Serie-A-2025-2026-Atalanta-vs-Lazio",
+      "display_name": "Atalanta vs Lazio | 2025/2026 | Serie A | 2025-10-19",
+      "rows": 1934,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901153.parquet",
+      "scraped_at": "2026-04-24T09:11:49.927781+00:00"
+    },
+    "1901155": {
+      "url": "https://www.whoscored.com/Matches/1901155/Live/Serie-A-2025-2026-Cagliari-vs-Bologna",
+      "display_name": "Cagliari vs Bologna | 2025/2026 | Serie A | 2025-10-19",
+      "rows": 1631,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901155.parquet",
+      "scraped_at": "2026-04-24T09:12:11.186646+00:00"
+    },
+    "1901091": {
+      "url": "https://www.whoscored.com/Matches/1901091/Live/Serie-A-2025-2026-Como-vs-Juventus",
+      "display_name": "Como vs Juventus | 2025/2026 | Serie A | 2025-10-19",
+      "rows": 1685,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901091.parquet",
+      "scraped_at": "2026-04-24T09:12:35.991954+00:00"
+    },
+    "1901094": {
+      "url": "https://www.whoscored.com/Matches/1901094/Live/Serie-A-2025-2026-Genoa-vs-Parma-Calcio-1913",
+      "display_name": "Genoa vs Parma Calcio 1913 | 2025/2026 | Serie A | 2025-10-19",
+      "rows": 1677,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901094.parquet",
+      "scraped_at": "2026-04-24T09:12:55.226528+00:00"
+    },
+    "1901102": {
+      "url": "https://www.whoscored.com/Matches/1901102/Live/Serie-A-2025-2026-Roma-vs-Inter",
+      "display_name": "Roma vs Inter | 2025/2026 | Serie A | 2025-10-18",
+      "rows": 1897,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901102.parquet",
+      "scraped_at": "2026-04-24T09:13:18.310483+00:00"
+    },
+    "1901096": {
+      "url": "https://www.whoscored.com/Matches/1901096/Live/Serie-A-2025-2026-Lecce-vs-Sassuolo",
+      "display_name": "Lecce vs Sassuolo | 2025/2026 | Serie A | 2025-10-18",
+      "rows": 1781,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901096.parquet",
+      "scraped_at": "2026-04-24T09:13:43.091291+00:00"
+    },
+    "1901161": {
+      "url": "https://www.whoscored.com/Matches/1901161/Live/Serie-A-2025-2026-Torino-vs-Napoli",
+      "display_name": "Torino vs Napoli | 2025/2026 | Serie A | 2025-10-18",
+      "rows": 1906,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901161.parquet",
+      "scraped_at": "2026-04-24T09:14:05.285751+00:00"
+    },
+    "1901099": {
+      "url": "https://www.whoscored.com/Matches/1901099/Live/Serie-A-2025-2026-Pisa-vs-Verona",
+      "display_name": "Pisa vs Verona | 2025/2026 | Serie A | 2025-10-18",
+      "rows": 1739,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901099.parquet",
+      "scraped_at": "2026-04-24T09:14:27.967909+00:00"
+    },
+    "1901141": {
+      "url": "https://www.whoscored.com/Matches/1901141/Live/Serie-A-2025-2026-Juventus-vs-AC-Milan",
+      "display_name": "Juventus vs AC Milan | 2025/2026 | Serie A | 2025-10-05",
+      "rows": 1794,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901141.parquet",
+      "scraped_at": "2026-04-24T09:14:48.404636+00:00"
+    },
+    "1901135": {
+      "url": "https://www.whoscored.com/Matches/1901135/Live/Serie-A-2025-2026-Bologna-vs-Pisa",
+      "display_name": "Bologna vs Pisa | 2025/2026 | Serie A | 2025-10-05",
+      "rows": 1630,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901135.parquet",
+      "scraped_at": "2026-04-24T09:15:11.508865+00:00"
+    },
+    "1901149": {
+      "url": "https://www.whoscored.com/Matches/1901149/Live/Serie-A-2025-2026-Udinese-vs-Cagliari",
+      "display_name": "Udinese vs Cagliari | 2025/2026 | Serie A | 2025-10-05",
+      "rows": 1630,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901149.parquet",
+      "scraped_at": "2026-04-24T09:15:34.929322+00:00"
+    },
+    "1901137": {
+      "url": "https://www.whoscored.com/Matches/1901137/Live/Serie-A-2025-2026-Fiorentina-vs-Roma",
+      "display_name": "Fiorentina vs Roma | 2025/2026 | Serie A | 2025-10-05",
+      "rows": 1787,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901137.parquet",
+      "scraped_at": "2026-04-24T09:15:54.317570+00:00"
+    },
+    "1901145": {
+      "url": "https://www.whoscored.com/Matches/1901145/Live/Serie-A-2025-2026-Napoli-vs-Genoa",
+      "display_name": "Napoli vs Genoa | 2025/2026 | Serie A | 2025-10-05",
+      "rows": 1725,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901145.parquet",
+      "scraped_at": "2026-04-24T09:16:17.975256+00:00"
+    },
+    "1901133": {
+      "url": "https://www.whoscored.com/Matches/1901133/Live/Serie-A-2025-2026-Atalanta-vs-Como",
+      "display_name": "Atalanta vs Como | 2025/2026 | Serie A | 2025-10-04",
+      "rows": 1886,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901133.parquet",
+      "scraped_at": "2026-04-24T09:16:35.484459+00:00"
+    },
+    "1901139": {
+      "url": "https://www.whoscored.com/Matches/1901139/Live/Serie-A-2025-2026-Inter-vs-Cremonese",
+      "display_name": "Inter vs Cremonese | 2025/2026 | Serie A | 2025-10-04",
+      "rows": 1866,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901139.parquet",
+      "scraped_at": "2026-04-24T09:17:00.592874+00:00"
+    },
+    "1901143": {
+      "url": "https://www.whoscored.com/Matches/1901143/Live/Serie-A-2025-2026-Lazio-vs-Torino",
+      "display_name": "Lazio vs Torino | 2025/2026 | Serie A | 2025-10-04",
+      "rows": 1841,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901143.parquet",
+      "scraped_at": "2026-04-24T09:17:25.265697+00:00"
+    },
+    "1901147": {
+      "url": "https://www.whoscored.com/Matches/1901147/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Lecce",
+      "display_name": "Parma Calcio 1913 vs Lecce | 2025/2026 | Serie A | 2025-10-04",
+      "rows": 1728,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901147.parquet",
+      "scraped_at": "2026-04-24T09:17:45.940339+00:00"
+    },
+    "1901151": {
+      "url": "https://www.whoscored.com/Matches/1901151/Live/Serie-A-2025-2026-Verona-vs-Sassuolo",
+      "display_name": "Verona vs Sassuolo | 2025/2026 | Serie A | 2025-10-03",
+      "rows": 1690,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901151.parquet",
+      "scraped_at": "2026-04-24T09:18:04.260266+00:00"
+    },
+    "1901116": {
+      "url": "https://www.whoscored.com/Matches/1901116/Live/Serie-A-2025-2026-Genoa-vs-Lazio",
+      "display_name": "Genoa vs Lazio | 2025/2026 | Serie A | 2025-09-29",
+      "rows": 1706,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901116.parquet",
+      "scraped_at": "2026-04-24T09:18:23.545207+00:00"
+    },
+    "1901125": {
+      "url": "https://www.whoscored.com/Matches/1901125/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Torino",
+      "display_name": "Parma Calcio 1913 vs Torino | 2025/2026 | Serie A | 2025-09-29",
+      "rows": 1644,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901125.parquet",
+      "scraped_at": "2026-04-24T09:18:47.595318+00:00"
+    },
+    "1901123": {
+      "url": "https://www.whoscored.com/Matches/1901123/Live/Serie-A-2025-2026-AC-Milan-vs-Napoli",
+      "display_name": "AC Milan vs Napoli | 2025/2026 | Serie A | 2025-09-28",
+      "rows": 1785,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901123.parquet",
+      "scraped_at": "2026-04-24T09:19:10.650743+00:00"
+    },
+    "1901121": {
+      "url": "https://www.whoscored.com/Matches/1901121/Live/Serie-A-2025-2026-Lecce-vs-Bologna",
+      "display_name": "Lecce vs Bologna | 2025/2026 | Serie A | 2025-09-28",
+      "rows": 1753,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901121.parquet",
+      "scraped_at": "2026-04-24T09:19:35.058783+00:00"
+    },
+    "1901127": {
+      "url": "https://www.whoscored.com/Matches/1901127/Live/Serie-A-2025-2026-Pisa-vs-Fiorentina",
+      "display_name": "Pisa vs Fiorentina | 2025/2026 | Serie A | 2025-09-28",
+      "rows": 1529,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901127.parquet",
+      "scraped_at": "2026-04-24T09:19:57.999771+00:00"
+    },
+    "1901129": {
+      "url": "https://www.whoscored.com/Matches/1901129/Live/Serie-A-2025-2026-Roma-vs-Verona",
+      "display_name": "Roma vs Verona | 2025/2026 | Serie A | 2025-09-28",
+      "rows": 1749,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901129.parquet",
+      "scraped_at": "2026-04-24T09:20:21.530997+00:00"
+    },
+    "1901131": {
+      "url": "https://www.whoscored.com/Matches/1901131/Live/Serie-A-2025-2026-Sassuolo-vs-Udinese",
+      "display_name": "Sassuolo vs Udinese | 2025/2026 | Serie A | 2025-09-28",
+      "rows": 1658,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901131.parquet",
+      "scraped_at": "2026-04-24T09:20:45.821659+00:00"
+    },
+    "1901118": {
+      "url": "https://www.whoscored.com/Matches/1901118/Live/Serie-A-2025-2026-Juventus-vs-Atalanta",
+      "display_name": "Juventus vs Atalanta | 2025/2026 | Serie A | 2025-09-27",
+      "rows": 1968,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901118.parquet",
+      "scraped_at": "2026-04-24T09:21:07.858760+00:00"
+    },
+    "1901112": {
+      "url": "https://www.whoscored.com/Matches/1901112/Live/Serie-A-2025-2026-Cagliari-vs-Inter",
+      "display_name": "Cagliari vs Inter | 2025/2026 | Serie A | 2025-09-27",
+      "rows": 1819,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901112.parquet",
+      "scraped_at": "2026-04-24T09:21:28.437252+00:00"
+    },
+    "1901114": {
+      "url": "https://www.whoscored.com/Matches/1901114/Live/Serie-A-2025-2026-Como-vs-Cremonese",
+      "display_name": "Como vs Cremonese | 2025/2026 | Serie A | 2025-09-27",
+      "rows": 1674,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901114.parquet",
+      "scraped_at": "2026-04-24T09:21:49.580235+00:00"
+    },
+    "1901110": {
+      "url": "https://www.whoscored.com/Matches/1901110/Live/Serie-A-2025-2026-Napoli-vs-Pisa",
+      "display_name": "Napoli vs Pisa | 2025/2026 | Serie A | 2025-09-22",
+      "rows": 1881,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901110.parquet",
+      "scraped_at": "2026-04-24T09:22:13.301946+00:00"
+    },
+    "1901092": {
+      "url": "https://www.whoscored.com/Matches/1901092/Live/Serie-A-2025-2026-Torino-vs-Atalanta",
+      "display_name": "Torino vs Atalanta | 2025/2026 | Serie A | 2025-09-21",
+      "rows": 1880,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901092.parquet",
+      "scraped_at": "2026-04-24T09:22:34.075436+00:00"
+    },
+    "1901103": {
+      "url": "https://www.whoscored.com/Matches/1901103/Live/Serie-A-2025-2026-Fiorentina-vs-Como",
+      "display_name": "Fiorentina vs Como | 2025/2026 | Serie A | 2025-09-21",
+      "rows": 1840,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901103.parquet",
+      "scraped_at": "2026-04-24T09:22:57.483768+00:00"
+    },
+    "1901101": {
+      "url": "https://www.whoscored.com/Matches/1901101/Live/Serie-A-2025-2026-Cremonese-vs-Parma-Calcio-1913",
+      "display_name": "Cremonese vs Parma Calcio 1913 | 2025/2026 | Serie A | 2025-09-21",
+      "rows": 1656,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901101.parquet",
+      "scraped_at": "2026-04-24T09:23:17.822059+00:00"
+    },
+    "1901104": {
+      "url": "https://www.whoscored.com/Matches/1901104/Live/Serie-A-2025-2026-Inter-vs-Sassuolo",
+      "display_name": "Inter vs Sassuolo | 2025/2026 | Serie A | 2025-09-21",
+      "rows": 1724,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901104.parquet",
+      "scraped_at": "2026-04-24T09:23:39.533379+00:00"
+    },
+    "1901106": {
+      "url": "https://www.whoscored.com/Matches/1901106/Live/Serie-A-2025-2026-Lazio-vs-Roma",
+      "display_name": "Lazio vs Roma | 2025/2026 | Serie A | 2025-09-21",
+      "rows": 1756,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901106.parquet",
+      "scraped_at": "2026-04-24T09:24:01.273323+00:00"
+    },
+    "1901095": {
+      "url": "https://www.whoscored.com/Matches/1901095/Live/Serie-A-2025-2026-Udinese-vs-AC-Milan",
+      "display_name": "Udinese vs AC Milan | 2025/2026 | Serie A | 2025-09-20",
+      "rows": 1967,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901095.parquet",
+      "scraped_at": "2026-04-24T09:24:20.121030+00:00"
+    },
+    "1901100": {
+      "url": "https://www.whoscored.com/Matches/1901100/Live/Serie-A-2025-2026-Bologna-vs-Genoa",
+      "display_name": "Bologna vs Genoa | 2025/2026 | Serie A | 2025-09-20",
+      "rows": 1644,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901100.parquet",
+      "scraped_at": "2026-04-24T09:24:39.903324+00:00"
+    },
+    "1901098": {
+      "url": "https://www.whoscored.com/Matches/1901098/Live/Serie-A-2025-2026-Verona-vs-Juventus",
+      "display_name": "Verona vs Juventus | 2025/2026 | Serie A | 2025-09-20",
+      "rows": 1766,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901098.parquet",
+      "scraped_at": "2026-04-24T09:25:04.197960+00:00"
+    },
+    "1901108": {
+      "url": "https://www.whoscored.com/Matches/1901108/Live/Serie-A-2025-2026-Lecce-vs-Cagliari",
+      "display_name": "Lecce vs Cagliari | 2025/2026 | Serie A | 2025-09-19",
+      "rows": 1656,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901108.parquet",
+      "scraped_at": "2026-04-24T09:25:25.530247+00:00"
+    },
+    "1901083": {
+      "url": "https://www.whoscored.com/Matches/1901083/Live/Serie-A-2025-2026-Como-vs-Genoa",
+      "display_name": "Como vs Genoa | 2025/2026 | Serie A | 2025-09-15",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901083.parquet",
+      "scraped_at": "2026-04-24T09:25:43.961301+00:00"
+    },
+    "1901090": {
+      "url": "https://www.whoscored.com/Matches/1901090/Live/Serie-A-2025-2026-Verona-vs-Cremonese",
+      "display_name": "Verona vs Cremonese | 2025/2026 | Serie A | 2025-09-15",
+      "rows": 1916,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901090.parquet",
+      "scraped_at": "2026-04-24T09:26:02.482697+00:00"
+    },
+    "1901086": {
+      "url": "https://www.whoscored.com/Matches/1901086/Live/Serie-A-2025-2026-AC-Milan-vs-Bologna",
+      "display_name": "AC Milan vs Bologna | 2025/2026 | Serie A | 2025-09-14",
+      "rows": 1779,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901086.parquet",
+      "scraped_at": "2026-04-24T09:26:21.850249+00:00"
+    },
+    "1901081": {
+      "url": "https://www.whoscored.com/Matches/1901081/Live/Serie-A-2025-2026-Atalanta-vs-Lecce",
+      "display_name": "Atalanta vs Lecce | 2025/2026 | Serie A | 2025-09-14",
+      "rows": 1800,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901081.parquet",
+      "scraped_at": "2026-04-24T09:26:40.759815+00:00"
+    },
+    "1901089": {
+      "url": "https://www.whoscored.com/Matches/1901089/Live/Serie-A-2025-2026-Sassuolo-vs-Lazio",
+      "display_name": "Sassuolo vs Lazio | 2025/2026 | Serie A | 2025-09-14",
+      "rows": 1992,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901089.parquet",
+      "scraped_at": "2026-04-24T09:27:03.501261+00:00"
+    },
+    "1901087": {
+      "url": "https://www.whoscored.com/Matches/1901087/Live/Serie-A-2025-2026-Pisa-vs-Udinese",
+      "display_name": "Pisa vs Udinese | 2025/2026 | Serie A | 2025-09-14",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901087.parquet",
+      "scraped_at": "2026-04-24T09:27:29.207110+00:00"
+    },
+    "1901088": {
+      "url": "https://www.whoscored.com/Matches/1901088/Live/Serie-A-2025-2026-Roma-vs-Torino",
+      "display_name": "Roma vs Torino | 2025/2026 | Serie A | 2025-09-14",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901088.parquet",
+      "scraped_at": "2026-04-24T09:27:47.807480+00:00"
+    },
+    "1901082": {
+      "url": "https://www.whoscored.com/Matches/1901082/Live/Serie-A-2025-2026-Cagliari-vs-Parma-Calcio-1913",
+      "display_name": "Cagliari vs Parma Calcio 1913 | 2025/2026 | Serie A | 2025-09-13",
+      "rows": 1722,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901082.parquet",
+      "scraped_at": "2026-04-24T09:28:05.962505+00:00"
+    },
+    "1901084": {
+      "url": "https://www.whoscored.com/Matches/1901084/Live/Serie-A-2025-2026-Fiorentina-vs-Napoli",
+      "display_name": "Fiorentina vs Napoli | 2025/2026 | Serie A | 2025-09-13",
+      "rows": 1820,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901084.parquet",
+      "scraped_at": "2026-04-24T09:28:30.318160+00:00"
+    },
+    "1901085": {
+      "url": "https://www.whoscored.com/Matches/1901085/Live/Serie-A-2025-2026-Juventus-vs-Inter",
+      "display_name": "Juventus vs Inter | 2025/2026 | Serie A | 2025-09-13",
+      "rows": 1762,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901085.parquet",
+      "scraped_at": "2026-04-24T09:28:53.495496+00:00"
+    },
+    "1901080": {
+      "url": "https://www.whoscored.com/Matches/1901080/Live/Serie-A-2025-2026-Torino-vs-Fiorentina",
+      "display_name": "Torino vs Fiorentina | 2025/2026 | Serie A | 2025-08-31",
+      "rows": 1511,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901080.parquet",
+      "scraped_at": "2026-04-24T09:29:11.555259+00:00"
+    },
+    "1901073": {
+      "url": "https://www.whoscored.com/Matches/1901073/Live/Serie-A-2025-2026-Genoa-vs-Juventus",
+      "display_name": "Genoa vs Juventus | 2025/2026 | Serie A | 2025-08-31",
+      "rows": 1832,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901073.parquet",
+      "scraped_at": "2026-04-24T09:29:34.912313+00:00"
+    },
+    "1901074": {
+      "url": "https://www.whoscored.com/Matches/1901074/Live/Serie-A-2025-2026-Inter-vs-Udinese",
+      "display_name": "Inter vs Udinese | 2025/2026 | Serie A | 2025-08-31",
+      "rows": 1672,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901074.parquet",
+      "scraped_at": "2026-04-24T09:29:52.935994+00:00"
+    },
+    "1901075": {
+      "url": "https://www.whoscored.com/Matches/1901075/Live/Serie-A-2025-2026-Lazio-vs-Verona",
+      "display_name": "Lazio vs Verona | 2025/2026 | Serie A | 2025-08-31",
+      "rows": 1968,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901075.parquet",
+      "scraped_at": "2026-04-24T09:30:11.989936+00:00"
+    },
+    "1901078": {
+      "url": "https://www.whoscored.com/Matches/1901078/Live/Serie-A-2025-2026-Parma-Calcio-1913-vs-Atalanta",
+      "display_name": "Parma Calcio 1913 vs Atalanta | 2025/2026 | Serie A | 2025-08-30",
+      "rows": 1667,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901078.parquet",
+      "scraped_at": "2026-04-24T09:30:32.993367+00:00"
+    },
+    "1901071": {
+      "url": "https://www.whoscored.com/Matches/1901071/Live/Serie-A-2025-2026-Bologna-vs-Como",
+      "display_name": "Bologna vs Como | 2025/2026 | Serie A | 2025-08-30",
+      "rows": 1662,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901071.parquet",
+      "scraped_at": "2026-04-24T09:30:56.311427+00:00"
+    },
+    "1901077": {
+      "url": "https://www.whoscored.com/Matches/1901077/Live/Serie-A-2025-2026-Napoli-vs-Cagliari",
+      "display_name": "Napoli vs Cagliari | 2025/2026 | Serie A | 2025-08-30",
+      "rows": 1917,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901077.parquet",
+      "scraped_at": "2026-04-24T09:31:20.224746+00:00"
+    },
+    "1901079": {
+      "url": "https://www.whoscored.com/Matches/1901079/Live/Serie-A-2025-2026-Pisa-vs-Roma",
+      "display_name": "Pisa vs Roma | 2025/2026 | Serie A | 2025-08-30",
+      "rows": 1879,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901079.parquet",
+      "scraped_at": "2026-04-24T09:31:41.755920+00:00"
+    },
+    "1901076": {
+      "url": "https://www.whoscored.com/Matches/1901076/Live/Serie-A-2025-2026-Lecce-vs-AC-Milan",
+      "display_name": "Lecce vs AC Milan | 2025/2026 | Serie A | 2025-08-29",
+      "rows": 1771,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901076.parquet",
+      "scraped_at": "2026-04-24T09:32:05.181106+00:00"
+    },
+    "1901072": {
+      "url": "https://www.whoscored.com/Matches/1901072/Live/Serie-A-2025-2026-Cremonese-vs-Sassuolo",
+      "display_name": "Cremonese vs Sassuolo | 2025/2026 | Serie A | 2025-08-29",
+      "rows": 1765,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901072.parquet",
+      "scraped_at": "2026-04-24T09:32:26.200238+00:00"
+    },
+    "1901065": {
+      "url": "https://www.whoscored.com/Matches/1901065/Live/Serie-A-2025-2026-Inter-vs-Torino",
+      "display_name": "Inter vs Torino | 2025/2026 | Serie A | 2025-08-25",
+      "rows": 1812,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901065.parquet",
+      "scraped_at": "2026-04-24T09:32:48.477402+00:00"
+    },
+    "1901070": {
+      "url": "https://www.whoscored.com/Matches/1901070/Live/Serie-A-2025-2026-Udinese-vs-Verona",
+      "display_name": "Udinese vs Verona | 2025/2026 | Serie A | 2025-08-25",
+      "rows": 1718,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901070.parquet",
+      "scraped_at": "2026-04-24T09:33:06.116198+00:00"
+    },
+    "1901061": {
+      "url": "https://www.whoscored.com/Matches/1901061/Live/Serie-A-2025-2026-Atalanta-vs-Pisa",
+      "display_name": "Atalanta vs Pisa | 2025/2026 | Serie A | 2025-08-24",
+      "rows": 1928,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901061.parquet",
+      "scraped_at": "2026-04-24T09:33:29.738329+00:00"
+    },
+    "1901062": {
+      "url": "https://www.whoscored.com/Matches/1901062/Live/Serie-A-2025-2026-Cagliari-vs-Fiorentina",
+      "display_name": "Cagliari vs Fiorentina | 2025/2026 | Serie A | 2025-08-24",
+      "rows": 1643,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901062.parquet",
+      "scraped_at": "2026-04-24T09:33:48.402956+00:00"
+    },
+    "1901063": {
+      "url": "https://www.whoscored.com/Matches/1901063/Live/Serie-A-2025-2026-Como-vs-Lazio",
+      "display_name": "Como vs Lazio | 2025/2026 | Serie A | 2025-08-24",
+      "rows": 1755,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901063.parquet",
+      "scraped_at": "2026-04-24T09:34:11.933954+00:00"
+    },
+    "1901066": {
+      "url": "https://www.whoscored.com/Matches/1901066/Live/Serie-A-2025-2026-Juventus-vs-Parma-Calcio-1913",
+      "display_name": "Juventus vs Parma Calcio 1913 | 2025/2026 | Serie A | 2025-08-24",
+      "rows": 1786,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901066.parquet",
+      "scraped_at": "2026-04-24T09:34:34.183127+00:00"
+    },
+    "1901067": {
+      "url": "https://www.whoscored.com/Matches/1901067/Live/Serie-A-2025-2026-AC-Milan-vs-Cremonese",
+      "display_name": "AC Milan vs Cremonese | 2025/2026 | Serie A | 2025-08-23",
+      "rows": 2024,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901067.parquet",
+      "scraped_at": "2026-04-24T09:34:55.918791+00:00"
+    },
+    "1901068": {
+      "url": "https://www.whoscored.com/Matches/1901068/Live/Serie-A-2025-2026-Roma-vs-Bologna",
+      "display_name": "Roma vs Bologna | 2025/2026 | Serie A | 2025-08-23",
+      "rows": 1730,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901068.parquet",
+      "scraped_at": "2026-04-24T09:35:20.681619+00:00"
+    },
+    "1901064": {
+      "url": "https://www.whoscored.com/Matches/1901064/Live/Serie-A-2025-2026-Genoa-vs-Lecce",
+      "display_name": "Genoa vs Lecce | 2025/2026 | Serie A | 2025-08-23",
+      "rows": 1683,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901064.parquet",
+      "scraped_at": "2026-04-24T09:35:42.349707+00:00"
+    },
+    "1901069": {
+      "url": "https://www.whoscored.com/Matches/1901069/Live/Serie-A-2025-2026-Sassuolo-vs-Napoli",
+      "display_name": "Sassuolo vs Napoli | 2025/2026 | Serie A | 2025-08-23",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901069.parquet",
+      "scraped_at": "2026-04-24T09:36:06.165263+00:00"
+    },
+    "1901289": {
+      "url": "https://www.whoscored.com/Matches/1901289/Live/Serie-A-2025-2026-Torino-vs-AC-Milan",
+      "display_name": "Torino vs AC Milan | 2025/2026 | Serie A | 2025-12-08",
+      "rows": 1825,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\serie_a\\2025_2026\\1901289.parquet",
+      "scraped_at": "2026-04-24T09:43:54.197993+00:00"
+    }
+  },
+  "failed": {
+    "1901289": {
+      "url": "https://www.whoscored.com/Matches/1901289/Live/Serie-A-2025-2026-Torino-vs-AC-Milan",
+      "display_name": "Torino vs AC Milan | 2025/2026 | Serie A | 2025-12-08",
+      "error": "Failed to perform, curl: (7) Send failure: Connection was aborted. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+      "attempts": 1,
+      "last_attempt": "2026-04-24T06:08:55.646463+00:00"
+    }
+  },
+  "skipped": {},
+  "created_at": "2026-04-24T04:59:09.209701+00:00",
+  "updated_at": "2026-04-24T09:43:57.847884+00:00"
+}

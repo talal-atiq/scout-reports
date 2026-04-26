@@ -1,0 +1,2168 @@
+{
+  "scraped": {
+    "1910859": {
+      "url": "https://www.whoscored.com/Matches/1910859/Live/Bundesliga-2025-2026-Bayern-Munich-vs-VfB-Stuttgart",
+      "display_name": "Bayern Munich vs VfB Stuttgart | 2025/2026 | Bundesliga | 2026-04-19",
+      "rows": 2011,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910859.parquet",
+      "scraped_at": "2026-04-24T01:42:53.343931+00:00"
+    },
+    "1910860": {
+      "url": "https://www.whoscored.com/Matches/1910860/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Mainz-05",
+      "display_name": "Borussia M.Gladbach vs Mainz 05 | 2025/2026 | Bundesliga | 2026-04-19",
+      "rows": 1999,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910860.parquet",
+      "scraped_at": "2026-04-24T01:43:13.339645+00:00"
+    },
+    "1910862": {
+      "url": "https://www.whoscored.com/Matches/1910862/Live/Bundesliga-2025-2026-Freiburg-vs-FC-Heidenheim",
+      "display_name": "Freiburg vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-04-19",
+      "rows": 1667,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910862.parquet",
+      "scraped_at": "2026-04-24T01:43:34.401504+00:00"
+    },
+    "1910858": {
+      "url": "https://www.whoscored.com/Matches/1910858/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Augsburg",
+      "display_name": "Bayer Leverkusen vs Augsburg | 2025/2026 | Bundesliga | 2026-04-18",
+      "rows": 2084,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910858.parquet",
+      "scraped_at": "2026-04-24T01:43:55.405187+00:00"
+    },
+    "1910863": {
+      "url": "https://www.whoscored.com/Matches/1910863/Live/Bundesliga-2025-2026-Hoffenheim-vs-Borussia-Dortmund",
+      "display_name": "Hoffenheim vs Borussia Dortmund | 2025/2026 | Bundesliga | 2026-04-18",
+      "rows": 1821,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910863.parquet",
+      "scraped_at": "2026-04-24T01:44:19.561571+00:00"
+    },
+    "1910861": {
+      "url": "https://www.whoscored.com/Matches/1910861/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-RB-Leipzig",
+      "display_name": "Eintracht Frankfurt vs RB Leipzig | 2025/2026 | Bundesliga | 2026-04-18",
+      "rows": 1704,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910861.parquet",
+      "scraped_at": "2026-04-24T01:44:37.313622+00:00"
+    },
+    "1910866": {
+      "url": "https://www.whoscored.com/Matches/1910866/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Hamburger-SV",
+      "display_name": "Werder Bremen vs Hamburger SV | 2025/2026 | Bundesliga | 2026-04-18",
+      "rows": 1770,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910866.parquet",
+      "scraped_at": "2026-04-24T01:44:58.540269+00:00"
+    },
+    "1910865": {
+      "url": "https://www.whoscored.com/Matches/1910865/Live/Bundesliga-2025-2026-Union-Berlin-vs-Wolfsburg",
+      "display_name": "Union Berlin vs Wolfsburg | 2025/2026 | Bundesliga | 2026-04-18",
+      "rows": 1906,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910865.parquet",
+      "scraped_at": "2026-04-24T01:45:19.752315+00:00"
+    },
+    "1910864": {
+      "url": "https://www.whoscored.com/Matches/1910864/Live/Bundesliga-2025-2026-St-Pauli-vs-FC-Koln",
+      "display_name": "St. Pauli vs FC Koln | 2025/2026 | Bundesliga | 2026-04-17",
+      "rows": 1836,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910864.parquet",
+      "scraped_at": "2026-04-24T01:45:38.598391+00:00"
+    },
+    "1910851": {
+      "url": "https://www.whoscored.com/Matches/1910851/Live/Bundesliga-2025-2026-FC-Koln-vs-Werder-Bremen",
+      "display_name": "FC Koln vs Werder Bremen | 2025/2026 | Bundesliga | 2026-04-12",
+      "rows": 1719,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910851.parquet",
+      "scraped_at": "2026-04-24T01:46:02.849761+00:00"
+    },
+    "1910853": {
+      "url": "https://www.whoscored.com/Matches/1910853/Live/Bundesliga-2025-2026-Mainz-05-vs-Freiburg",
+      "display_name": "Mainz 05 vs Freiburg | 2025/2026 | Bundesliga | 2026-04-12",
+      "rows": 1654,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910853.parquet",
+      "scraped_at": "2026-04-24T01:46:26.596551+00:00"
+    },
+    "1910856": {
+      "url": "https://www.whoscored.com/Matches/1910856/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Hamburger-SV",
+      "display_name": "VfB Stuttgart vs Hamburger SV | 2025/2026 | Bundesliga | 2026-04-12",
+      "rows": 1819,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910856.parquet",
+      "scraped_at": "2026-04-24T01:46:46.215788+00:00"
+    },
+    "1910850": {
+      "url": "https://www.whoscored.com/Matches/1910850/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Bayer-Leverkusen",
+      "display_name": "Borussia Dortmund vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-04-11",
+      "rows": 2075,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910850.parquet",
+      "scraped_at": "2026-04-24T01:47:08.868656+00:00"
+    },
+    "1910855": {
+      "url": "https://www.whoscored.com/Matches/1910855/Live/Bundesliga-2025-2026-St-Pauli-vs-Bayern-Munich",
+      "display_name": "St. Pauli vs Bayern Munich | 2025/2026 | Bundesliga | 2026-04-11",
+      "rows": 2212,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910855.parquet",
+      "scraped_at": "2026-04-24T01:47:30.395319+00:00"
+    },
+    "1910854": {
+      "url": "https://www.whoscored.com/Matches/1910854/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Borussia-M-Gladbach",
+      "display_name": "RB Leipzig vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-04-11",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910854.parquet",
+      "scraped_at": "2026-04-24T01:47:54.541676+00:00"
+    },
+    "1910857": {
+      "url": "https://www.whoscored.com/Matches/1910857/Live/Bundesliga-2025-2026-Wolfsburg-vs-Eintracht-Frankfurt",
+      "display_name": "Wolfsburg vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2026-04-11",
+      "rows": 1909,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910857.parquet",
+      "scraped_at": "2026-04-24T01:48:18.947736+00:00"
+    },
+    "1910852": {
+      "url": "https://www.whoscored.com/Matches/1910852/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Union-Berlin",
+      "display_name": "FC Heidenheim vs Union Berlin | 2025/2026 | Bundesliga | 2026-04-11",
+      "rows": 1762,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910852.parquet",
+      "scraped_at": "2026-04-24T01:48:44.988624+00:00"
+    },
+    "1910849": {
+      "url": "https://www.whoscored.com/Matches/1910849/Live/Bundesliga-2025-2026-Augsburg-vs-Hoffenheim",
+      "display_name": "Augsburg vs Hoffenheim | 2025/2026 | Bundesliga | 2026-04-10",
+      "rows": 1801,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910849.parquet",
+      "scraped_at": "2026-04-24T01:49:07.167799+00:00"
+    },
+    "1910842": {
+      "url": "https://www.whoscored.com/Matches/1910842/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-FC-Koln",
+      "display_name": "Eintracht Frankfurt vs FC Koln | 2025/2026 | Bundesliga | 2026-04-05",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910842.parquet",
+      "scraped_at": "2026-04-24T01:49:31.405337+00:00"
+    },
+    "1910847": {
+      "url": "https://www.whoscored.com/Matches/1910847/Live/Bundesliga-2025-2026-Union-Berlin-vs-St-Pauli",
+      "display_name": "Union Berlin vs St. Pauli | 2025/2026 | Bundesliga | 2026-04-05",
+      "rows": 1792,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910847.parquet",
+      "scraped_at": "2026-04-24T01:49:58.639703+00:00"
+    },
+    "1910844": {
+      "url": "https://www.whoscored.com/Matches/1910844/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Augsburg",
+      "display_name": "Hamburger SV vs Augsburg | 2025/2026 | Bundesliga | 2026-04-04",
+      "rows": 1683,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910844.parquet",
+      "scraped_at": "2026-04-24T01:50:16.157926+00:00"
+    },
+    "1910840": {
+      "url": "https://www.whoscored.com/Matches/1910840/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Wolfsburg",
+      "display_name": "Bayer Leverkusen vs Wolfsburg | 2025/2026 | Bundesliga | 2026-04-04",
+      "rows": 1899,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910840.parquet",
+      "scraped_at": "2026-04-24T01:50:38.912632+00:00"
+    },
+    "1910843": {
+      "url": "https://www.whoscored.com/Matches/1910843/Live/Bundesliga-2025-2026-Freiburg-vs-Bayern-Munich",
+      "display_name": "Freiburg vs Bayern Munich | 2025/2026 | Bundesliga | 2026-04-04",
+      "rows": 1875,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910843.parquet",
+      "scraped_at": "2026-04-24T01:51:03.208004+00:00"
+    },
+    "1910846": {
+      "url": "https://www.whoscored.com/Matches/1910846/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Borussia-Dortmund",
+      "display_name": "VfB Stuttgart vs Borussia Dortmund | 2025/2026 | Bundesliga | 2026-04-04",
+      "rows": 1832,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910846.parquet",
+      "scraped_at": "2026-04-24T01:51:27.322068+00:00"
+    },
+    "1910841": {
+      "url": "https://www.whoscored.com/Matches/1910841/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-FC-Heidenheim",
+      "display_name": "Borussia M.Gladbach vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-04-04",
+      "rows": 2009,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910841.parquet",
+      "scraped_at": "2026-04-24T01:51:48.006661+00:00"
+    },
+    "1910845": {
+      "url": "https://www.whoscored.com/Matches/1910845/Live/Bundesliga-2025-2026-Hoffenheim-vs-Mainz-05",
+      "display_name": "Hoffenheim vs Mainz 05 | 2025/2026 | Bundesliga | 2026-04-04",
+      "rows": 1835,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910845.parquet",
+      "scraped_at": "2026-04-24T01:52:11.996527+00:00"
+    },
+    "1910848": {
+      "url": "https://www.whoscored.com/Matches/1910848/Live/Bundesliga-2025-2026-Werder-Bremen-vs-RB-Leipzig",
+      "display_name": "Werder Bremen vs RB Leipzig | 2025/2026 | Bundesliga | 2026-04-04",
+      "rows": 2070,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910848.parquet",
+      "scraped_at": "2026-04-24T01:52:32.642088+00:00"
+    },
+    "1910790": {
+      "url": "https://www.whoscored.com/Matches/1910790/Live/Bundesliga-2025-2026-Augsburg-vs-VfB-Stuttgart",
+      "display_name": "Augsburg vs VfB Stuttgart | 2025/2026 | Bundesliga | 2026-03-22",
+      "rows": 1898,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910790.parquet",
+      "scraped_at": "2026-04-24T01:52:57.075273+00:00"
+    },
+    "1910836": {
+      "url": "https://www.whoscored.com/Matches/1910836/Live/Bundesliga-2025-2026-Mainz-05-vs-Eintracht-Frankfurt",
+      "display_name": "Mainz 05 vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2026-03-22",
+      "rows": 1749,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910836.parquet",
+      "scraped_at": "2026-04-24T01:53:20.765164+00:00"
+    },
+    "1910838": {
+      "url": "https://www.whoscored.com/Matches/1910838/Live/Bundesliga-2025-2026-St-Pauli-vs-Freiburg",
+      "display_name": "St. Pauli vs Freiburg | 2025/2026 | Bundesliga | 2026-03-22",
+      "rows": 1814,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910838.parquet",
+      "scraped_at": "2026-04-24T01:53:43.363258+00:00"
+    },
+    "1910796": {
+      "url": "https://www.whoscored.com/Matches/1910796/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Bayer-Leverkusen",
+      "display_name": "FC Heidenheim vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-03-21",
+      "rows": 1830,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910796.parquet",
+      "scraped_at": "2026-04-24T01:54:02.988790+00:00"
+    },
+    "1910792": {
+      "url": "https://www.whoscored.com/Matches/1910792/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Union-Berlin",
+      "display_name": "Bayern Munich vs Union Berlin | 2025/2026 | Bundesliga | 2026-03-21",
+      "rows": 1955,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910792.parquet",
+      "scraped_at": "2026-04-24T01:54:21.592692+00:00"
+    },
+    "1910794": {
+      "url": "https://www.whoscored.com/Matches/1910794/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Hamburger-SV",
+      "display_name": "Borussia Dortmund vs Hamburger SV | 2025/2026 | Bundesliga | 2026-03-21",
+      "rows": 1817,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910794.parquet",
+      "scraped_at": "2026-04-24T01:54:40.987869+00:00"
+    },
+    "1910795": {
+      "url": "https://www.whoscored.com/Matches/1910795/Live/Bundesliga-2025-2026-FC-Koln-vs-Borussia-M-Gladbach",
+      "display_name": "FC Koln vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-03-21",
+      "rows": 1635,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910795.parquet",
+      "scraped_at": "2026-04-24T01:55:01.319275+00:00"
+    },
+    "1910839": {
+      "url": "https://www.whoscored.com/Matches/1910839/Live/Bundesliga-2025-2026-Wolfsburg-vs-Werder-Bremen",
+      "display_name": "Wolfsburg vs Werder Bremen | 2025/2026 | Bundesliga | 2026-03-21",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910839.parquet",
+      "scraped_at": "2026-04-24T01:55:24.550625+00:00"
+    },
+    "1910837": {
+      "url": "https://www.whoscored.com/Matches/1910837/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Hoffenheim",
+      "display_name": "RB Leipzig vs Hoffenheim | 2025/2026 | Bundesliga | 2026-03-20",
+      "rows": 1852,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910837.parquet",
+      "scraped_at": "2026-04-24T01:55:41.817009+00:00"
+    },
+    "1910781": {
+      "url": "https://www.whoscored.com/Matches/1910781/Live/Bundesliga-2025-2026-Freiburg-vs-Union-Berlin",
+      "display_name": "Freiburg vs Union Berlin | 2025/2026 | Bundesliga | 2026-03-15",
+      "rows": 1914,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910781.parquet",
+      "scraped_at": "2026-04-24T01:56:05.002179+00:00"
+    },
+    "1910789": {
+      "url": "https://www.whoscored.com/Matches/1910789/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Mainz-05",
+      "display_name": "Werder Bremen vs Mainz 05 | 2025/2026 | Bundesliga | 2026-03-15",
+      "rows": 1984,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910789.parquet",
+      "scraped_at": "2026-04-24T01:56:25.178533+00:00"
+    },
+    "1910787": {
+      "url": "https://www.whoscored.com/Matches/1910787/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-RB-Leipzig",
+      "display_name": "VfB Stuttgart vs RB Leipzig | 2025/2026 | Bundesliga | 2026-03-15",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910787.parquet",
+      "scraped_at": "2026-04-24T01:56:46.520870+00:00"
+    },
+    "1910777": {
+      "url": "https://www.whoscored.com/Matches/1910777/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Augsburg",
+      "display_name": "Borussia Dortmund vs Augsburg | 2025/2026 | Bundesliga | 2026-03-14",
+      "rows": 1885,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910777.parquet",
+      "scraped_at": "2026-04-24T01:57:07.491550+00:00"
+    },
+    "1910773": {
+      "url": "https://www.whoscored.com/Matches/1910773/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Bayern-Munich",
+      "display_name": "Bayer Leverkusen vs Bayern Munich | 2025/2026 | Bundesliga | 2026-03-14",
+      "rows": 2148,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910773.parquet",
+      "scraped_at": "2026-04-24T01:57:25.996882+00:00"
+    },
+    "1910779": {
+      "url": "https://www.whoscored.com/Matches/1910779/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-FC-Heidenheim",
+      "display_name": "Eintracht Frankfurt vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-03-14",
+      "rows": 1802,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910779.parquet",
+      "scraped_at": "2026-04-24T01:57:47.682186+00:00"
+    },
+    "1910782": {
+      "url": "https://www.whoscored.com/Matches/1910782/Live/Bundesliga-2025-2026-Hamburger-SV-vs-FC-Koln",
+      "display_name": "Hamburger SV vs FC Koln | 2025/2026 | Bundesliga | 2026-03-14",
+      "rows": 1783,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910782.parquet",
+      "scraped_at": "2026-04-24T01:58:07.426144+00:00"
+    },
+    "1910785": {
+      "url": "https://www.whoscored.com/Matches/1910785/Live/Bundesliga-2025-2026-Hoffenheim-vs-Wolfsburg",
+      "display_name": "Hoffenheim vs Wolfsburg | 2025/2026 | Bundesliga | 2026-03-14",
+      "rows": 1874,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910785.parquet",
+      "scraped_at": "2026-04-24T01:58:30.016586+00:00"
+    },
+    "1910775": {
+      "url": "https://www.whoscored.com/Matches/1910775/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-St-Pauli",
+      "display_name": "Borussia M.Gladbach vs St. Pauli | 2025/2026 | Bundesliga | 2026-03-13",
+      "rows": 2079,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910775.parquet",
+      "scraped_at": "2026-04-24T01:58:54.118320+00:00"
+    },
+    "1910766": {
+      "url": "https://www.whoscored.com/Matches/1910766/Live/Bundesliga-2025-2026-St-Pauli-vs-Eintracht-Frankfurt",
+      "display_name": "St. Pauli vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2026-03-08",
+      "rows": 1903,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910766.parquet",
+      "scraped_at": "2026-04-24T01:59:13.081783+00:00"
+    },
+    "1910768": {
+      "url": "https://www.whoscored.com/Matches/1910768/Live/Bundesliga-2025-2026-Union-Berlin-vs-Werder-Bremen",
+      "display_name": "Union Berlin vs Werder Bremen | 2025/2026 | Bundesliga | 2026-03-08",
+      "rows": 1858,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910768.parquet",
+      "scraped_at": "2026-04-24T01:59:34.600805+00:00"
+    },
+    "1910764": {
+      "url": "https://www.whoscored.com/Matches/1910764/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Augsburg",
+      "display_name": "RB Leipzig vs Augsburg | 2025/2026 | Bundesliga | 2026-03-07",
+      "rows": 1965,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910764.parquet",
+      "scraped_at": "2026-04-24T01:59:53.758672+00:00"
+    },
+    "1910757": {
+      "url": "https://www.whoscored.com/Matches/1910757/Live/Bundesliga-2025-2026-Freiburg-vs-Bayer-Leverkusen",
+      "display_name": "Freiburg vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-03-07",
+      "rows": 2007,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910757.parquet",
+      "scraped_at": "2026-04-24T02:00:14.288589+00:00"
+    },
+    "1910755": {
+      "url": "https://www.whoscored.com/Matches/1910755/Live/Bundesliga-2025-2026-FC-Koln-vs-Borussia-Dortmund",
+      "display_name": "FC Koln vs Borussia Dortmund | 2025/2026 | Bundesliga | 2026-03-07",
+      "rows": 2018,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910755.parquet",
+      "scraped_at": "2026-04-24T02:00:37.178496+00:00"
+    },
+    "1910760": {
+      "url": "https://www.whoscored.com/Matches/1910760/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Hoffenheim",
+      "display_name": "FC Heidenheim vs Hoffenheim | 2025/2026 | Bundesliga | 2026-03-07",
+      "rows": 1723,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910760.parquet",
+      "scraped_at": "2026-04-24T02:01:00.628336+00:00"
+    },
+    "1910770": {
+      "url": "https://www.whoscored.com/Matches/1910770/Live/Bundesliga-2025-2026-Wolfsburg-vs-Hamburger-SV",
+      "display_name": "Wolfsburg vs Hamburger SV | 2025/2026 | Bundesliga | 2026-03-07",
+      "rows": 1744,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910770.parquet",
+      "scraped_at": "2026-04-24T02:01:21.679082+00:00"
+    },
+    "1910762": {
+      "url": "https://www.whoscored.com/Matches/1910762/Live/Bundesliga-2025-2026-Mainz-05-vs-VfB-Stuttgart",
+      "display_name": "Mainz 05 vs VfB Stuttgart | 2025/2026 | Bundesliga | 2026-03-07",
+      "rows": 1849,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910762.parquet",
+      "scraped_at": "2026-04-24T02:01:42.819983+00:00"
+    },
+    "1910753": {
+      "url": "https://www.whoscored.com/Matches/1910753/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Borussia-M-Gladbach",
+      "display_name": "Bayern Munich vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-03-06",
+      "rows": 2139,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910753.parquet",
+      "scraped_at": "2026-04-24T02:02:04.279449+00:00"
+    },
+    "1910799": {
+      "url": "https://www.whoscored.com/Matches/1910799/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Bayer-Leverkusen",
+      "display_name": "Hamburger SV vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-03-04",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910799.parquet",
+      "scraped_at": "2026-04-24T02:02:25.987089+00:00"
+    },
+    "1910743": {
+      "url": "https://www.whoscored.com/Matches/1910743/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Freiburg",
+      "display_name": "Eintracht Frankfurt vs Freiburg | 2025/2026 | Bundesliga | 2026-03-01",
+      "rows": 1837,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910743.parquet",
+      "scraped_at": "2026-04-24T02:02:46.706953+00:00"
+    },
+    "1910745": {
+      "url": "https://www.whoscored.com/Matches/1910745/Live/Bundesliga-2025-2026-Hamburger-SV-vs-RB-Leipzig",
+      "display_name": "Hamburger SV vs RB Leipzig | 2025/2026 | Bundesliga | 2026-03-01",
+      "rows": 1760,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910745.parquet",
+      "scraped_at": "2026-04-24T02:03:10.480259+00:00"
+    },
+    "1910749": {
+      "url": "https://www.whoscored.com/Matches/1910749/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Wolfsburg",
+      "display_name": "VfB Stuttgart vs Wolfsburg | 2025/2026 | Bundesliga | 2026-03-01",
+      "rows": 2033,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910749.parquet",
+      "scraped_at": "2026-04-24T02:03:31.409457+00:00"
+    },
+    "1910737": {
+      "url": "https://www.whoscored.com/Matches/1910737/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Mainz-05",
+      "display_name": "Bayer Leverkusen vs Mainz 05 | 2025/2026 | Bundesliga | 2026-02-28",
+      "rows": 2168,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910737.parquet",
+      "scraped_at": "2026-04-24T02:03:50.921560+00:00"
+    },
+    "1910741": {
+      "url": "https://www.whoscored.com/Matches/1910741/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Bayern-Munich",
+      "display_name": "Borussia Dortmund vs Bayern Munich | 2025/2026 | Bundesliga | 2026-02-28",
+      "rows": 1892,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910741.parquet",
+      "scraped_at": "2026-04-24T02:04:10.235613+00:00"
+    },
+    "1910739": {
+      "url": "https://www.whoscored.com/Matches/1910739/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Union-Berlin",
+      "display_name": "Borussia M.Gladbach vs Union Berlin | 2025/2026 | Bundesliga | 2026-02-28",
+      "rows": 1845,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910739.parquet",
+      "scraped_at": "2026-04-24T02:04:34.554484+00:00"
+    },
+    "1910751": {
+      "url": "https://www.whoscored.com/Matches/1910751/Live/Bundesliga-2025-2026-Werder-Bremen-vs-FC-Heidenheim",
+      "display_name": "Werder Bremen vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-02-28",
+      "rows": 1775,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910751.parquet",
+      "scraped_at": "2026-04-24T02:04:57.459740+00:00"
+    },
+    "1910747": {
+      "url": "https://www.whoscored.com/Matches/1910747/Live/Bundesliga-2025-2026-Hoffenheim-vs-St-Pauli",
+      "display_name": "Hoffenheim vs St. Pauli | 2025/2026 | Bundesliga | 2026-02-28",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910747.parquet",
+      "scraped_at": "2026-04-24T02:05:19.869570+00:00"
+    },
+    "1910735": {
+      "url": "https://www.whoscored.com/Matches/1910735/Live/Bundesliga-2025-2026-Augsburg-vs-FC-Koln",
+      "display_name": "Augsburg vs FC Koln | 2025/2026 | Bundesliga | 2026-02-27",
+      "rows": 1843,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910735.parquet",
+      "scraped_at": "2026-04-24T02:05:43.960126+00:00"
+    },
+    "1910721": {
+      "url": "https://www.whoscored.com/Matches/1910721/Live/Bundesliga-2025-2026-Freiburg-vs-Borussia-M-Gladbach",
+      "display_name": "Freiburg vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-02-22",
+      "rows": 1769,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910721.parquet",
+      "scraped_at": "2026-04-24T02:06:05.676873+00:00"
+    },
+    "1910723": {
+      "url": "https://www.whoscored.com/Matches/1910723/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-VfB-Stuttgart",
+      "display_name": "FC Heidenheim vs VfB Stuttgart | 2025/2026 | Bundesliga | 2026-02-22",
+      "rows": 1917,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910723.parquet",
+      "scraped_at": "2026-04-24T02:06:27.828216+00:00"
+    },
+    "1910729": {
+      "url": "https://www.whoscored.com/Matches/1910729/Live/Bundesliga-2025-2026-St-Pauli-vs-Werder-Bremen",
+      "display_name": "St. Pauli vs Werder Bremen | 2025/2026 | Bundesliga | 2026-02-22",
+      "rows": 1927,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910729.parquet",
+      "scraped_at": "2026-04-24T02:06:51.840771+00:00"
+    },
+    "1910733": {
+      "url": "https://www.whoscored.com/Matches/1910733/Live/Bundesliga-2025-2026-Wolfsburg-vs-Augsburg",
+      "display_name": "Wolfsburg vs Augsburg | 2025/2026 | Bundesliga | 2026-02-21",
+      "rows": 1862,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910733.parquet",
+      "scraped_at": "2026-04-24T02:07:13.944911+00:00"
+    },
+    "1910731": {
+      "url": "https://www.whoscored.com/Matches/1910731/Live/Bundesliga-2025-2026-Union-Berlin-vs-Bayer-Leverkusen",
+      "display_name": "Union Berlin vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-02-21",
+      "rows": 1921,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910731.parquet",
+      "scraped_at": "2026-04-24T02:07:33.578599+00:00"
+    },
+    "1910717": {
+      "url": "https://www.whoscored.com/Matches/1910717/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Eintracht-Frankfurt",
+      "display_name": "Bayern Munich vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2026-02-21",
+      "rows": 2013,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910717.parquet",
+      "scraped_at": "2026-04-24T02:07:52.142698+00:00"
+    },
+    "1910727": {
+      "url": "https://www.whoscored.com/Matches/1910727/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Borussia-Dortmund",
+      "display_name": "RB Leipzig vs Borussia Dortmund | 2025/2026 | Bundesliga | 2026-02-21",
+      "rows": 1806,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910727.parquet",
+      "scraped_at": "2026-04-24T02:08:11.987465+00:00"
+    },
+    "1910719": {
+      "url": "https://www.whoscored.com/Matches/1910719/Live/Bundesliga-2025-2026-FC-Koln-vs-Hoffenheim",
+      "display_name": "FC Koln vs Hoffenheim | 2025/2026 | Bundesliga | 2026-02-21",
+      "rows": 1758,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910719.parquet",
+      "scraped_at": "2026-04-24T02:08:30.387021+00:00"
+    },
+    "1910725": {
+      "url": "https://www.whoscored.com/Matches/1910725/Live/Bundesliga-2025-2026-Mainz-05-vs-Hamburger-SV",
+      "display_name": "Mainz 05 vs Hamburger SV | 2025/2026 | Bundesliga | 2026-02-20",
+      "rows": 1604,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910725.parquet",
+      "scraped_at": "2026-04-24T02:08:51.534241+00:00"
+    },
+    "1910699": {
+      "url": "https://www.whoscored.com/Matches/1910699/Live/Bundesliga-2025-2026-Augsburg-vs-FC-Heidenheim",
+      "display_name": "Augsburg vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-02-15",
+      "rows": 1925,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910699.parquet",
+      "scraped_at": "2026-04-24T02:09:13.162042+00:00"
+    },
+    "1910711": {
+      "url": "https://www.whoscored.com/Matches/1910711/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Wolfsburg",
+      "display_name": "RB Leipzig vs Wolfsburg | 2025/2026 | Bundesliga | 2026-02-15",
+      "rows": 2056,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910711.parquet",
+      "scraped_at": "2026-04-24T02:09:35.692229+00:00"
+    },
+    "1910701": {
+      "url": "https://www.whoscored.com/Matches/1910701/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-St-Pauli",
+      "display_name": "Bayer Leverkusen vs St. Pauli | 2025/2026 | Bundesliga | 2026-02-14",
+      "rows": 2186,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910701.parquet",
+      "scraped_at": "2026-04-24T02:09:54.731672+00:00"
+    },
+    "1910715": {
+      "url": "https://www.whoscored.com/Matches/1910715/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Bayern-Munich",
+      "display_name": "Werder Bremen vs Bayern Munich | 2025/2026 | Bundesliga | 2026-02-14",
+      "rows": 2201,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910715.parquet",
+      "scraped_at": "2026-04-24T02:10:12.904612+00:00"
+    },
+    "1910705": {
+      "url": "https://www.whoscored.com/Matches/1910705/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Borussia-M-Gladbach",
+      "display_name": "Eintracht Frankfurt vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-02-14",
+      "rows": 1842,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910705.parquet",
+      "scraped_at": "2026-04-24T02:10:34.032887+00:00"
+    },
+    "1910713": {
+      "url": "https://www.whoscored.com/Matches/1910713/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-FC-Koln",
+      "display_name": "VfB Stuttgart vs FC Koln | 2025/2026 | Bundesliga | 2026-02-14",
+      "rows": 1782,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910713.parquet",
+      "scraped_at": "2026-04-24T02:10:55.163679+00:00"
+    },
+    "1910709": {
+      "url": "https://www.whoscored.com/Matches/1910709/Live/Bundesliga-2025-2026-Hoffenheim-vs-Freiburg",
+      "display_name": "Hoffenheim vs Freiburg | 2025/2026 | Bundesliga | 2026-02-14",
+      "rows": 1829,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910709.parquet",
+      "scraped_at": "2026-04-24T02:11:16.840283+00:00"
+    },
+    "1910707": {
+      "url": "https://www.whoscored.com/Matches/1910707/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Union-Berlin",
+      "display_name": "Hamburger SV vs Union Berlin | 2025/2026 | Bundesliga | 2026-02-14",
+      "rows": 1772,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910707.parquet",
+      "scraped_at": "2026-04-24T02:11:39.524004+00:00"
+    },
+    "1910703": {
+      "url": "https://www.whoscored.com/Matches/1910703/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Mainz-05",
+      "display_name": "Borussia Dortmund vs Mainz 05 | 2025/2026 | Bundesliga | 2026-02-13",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910703.parquet",
+      "scraped_at": "2026-04-24T02:11:59.519057+00:00"
+    },
+    "1910832": {
+      "url": "https://www.whoscored.com/Matches/1910832/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Hoffenheim",
+      "display_name": "Bayern Munich vs Hoffenheim | 2025/2026 | Bundesliga | 2026-02-08",
+      "rows": 1867,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910832.parquet",
+      "scraped_at": "2026-04-24T02:12:23.650010+00:00"
+    },
+    "1910834": {
+      "url": "https://www.whoscored.com/Matches/1910834/Live/Bundesliga-2025-2026-FC-Koln-vs-RB-Leipzig",
+      "display_name": "FC Koln vs RB Leipzig | 2025/2026 | Bundesliga | 2026-02-08",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910834.parquet",
+      "scraped_at": "2026-04-24T02:12:45.524237+00:00"
+    },
+    "1910692": {
+      "url": "https://www.whoscored.com/Matches/1910692/Live/Bundesliga-2025-2026-Mainz-05-vs-Augsburg",
+      "display_name": "Mainz 05 vs Augsburg | 2025/2026 | Bundesliga | 2026-02-07",
+      "rows": 1853,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910692.parquet",
+      "scraped_at": "2026-04-24T02:13:04.562181+00:00"
+    },
+    "1910833": {
+      "url": "https://www.whoscored.com/Matches/1910833/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Bayer-Leverkusen",
+      "display_name": "Borussia M.Gladbach vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-02-07",
+      "rows": 2160,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910833.parquet",
+      "scraped_at": "2026-04-24T02:13:23.512306+00:00"
+    },
+    "1910697": {
+      "url": "https://www.whoscored.com/Matches/1910697/Live/Bundesliga-2025-2026-Wolfsburg-vs-Borussia-Dortmund",
+      "display_name": "Wolfsburg vs Borussia Dortmund | 2025/2026 | Bundesliga | 2026-02-07",
+      "rows": 1916,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910697.parquet",
+      "scraped_at": "2026-04-24T02:13:44.414792+00:00"
+    },
+    "1910691": {
+      "url": "https://www.whoscored.com/Matches/1910691/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Hamburger-SV",
+      "display_name": "FC Heidenheim vs Hamburger SV | 2025/2026 | Bundesliga | 2026-02-07",
+      "rows": 1805,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910691.parquet",
+      "scraped_at": "2026-04-24T02:14:02.351335+00:00"
+    },
+    "1910835": {
+      "url": "https://www.whoscored.com/Matches/1910835/Live/Bundesliga-2025-2026-Freiburg-vs-Werder-Bremen",
+      "display_name": "Freiburg vs Werder Bremen | 2025/2026 | Bundesliga | 2026-02-07",
+      "rows": 1867,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910835.parquet",
+      "scraped_at": "2026-04-24T02:14:25.256149+00:00"
+    },
+    "1910694": {
+      "url": "https://www.whoscored.com/Matches/1910694/Live/Bundesliga-2025-2026-St-Pauli-vs-VfB-Stuttgart",
+      "display_name": "St. Pauli vs VfB Stuttgart | 2025/2026 | Bundesliga | 2026-02-07",
+      "rows": 1981,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910694.parquet",
+      "scraped_at": "2026-04-24T02:14:48.292267+00:00"
+    },
+    "1910695": {
+      "url": "https://www.whoscored.com/Matches/1910695/Live/Bundesliga-2025-2026-Union-Berlin-vs-Eintracht-Frankfurt",
+      "display_name": "Union Berlin vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2026-02-06",
+      "rows": 1698,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910695.parquet",
+      "scraped_at": "2026-04-24T02:15:10.924450+00:00"
+    },
+    "1910824": {
+      "url": "https://www.whoscored.com/Matches/1910824/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-FC-Heidenheim",
+      "display_name": "Borussia Dortmund vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-02-01",
+      "rows": 1766,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910824.parquet",
+      "scraped_at": "2026-04-24T02:15:34.307533+00:00"
+    },
+    "1910830": {
+      "url": "https://www.whoscored.com/Matches/1910830/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Freiburg",
+      "display_name": "VfB Stuttgart vs Freiburg | 2025/2026 | Bundesliga | 2026-02-01",
+      "rows": 1724,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910830.parquet",
+      "scraped_at": "2026-04-24T02:15:58.306475+00:00"
+    },
+    "1910823": {
+      "url": "https://www.whoscored.com/Matches/1910823/Live/Bundesliga-2025-2026-Augsburg-vs-St-Pauli",
+      "display_name": "Augsburg vs St. Pauli | 2025/2026 | Bundesliga | 2026-01-31",
+      "rows": 1950,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910823.parquet",
+      "scraped_at": "2026-04-24T02:16:19.679256+00:00"
+    },
+    "1910825": {
+      "url": "https://www.whoscored.com/Matches/1910825/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Bayer-Leverkusen",
+      "display_name": "Eintracht Frankfurt vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-01-31",
+      "rows": 2216,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910825.parquet",
+      "scraped_at": "2026-04-24T02:16:42.705054+00:00"
+    },
+    "1910827": {
+      "url": "https://www.whoscored.com/Matches/1910827/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Bayern-Munich",
+      "display_name": "Hamburger SV vs Bayern Munich | 2025/2026 | Bundesliga | 2026-01-31",
+      "rows": 2007,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910827.parquet",
+      "scraped_at": "2026-04-24T02:17:00.785888+00:00"
+    },
+    "1910831": {
+      "url": "https://www.whoscored.com/Matches/1910831/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Borussia-M-Gladbach",
+      "display_name": "Werder Bremen vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-01-31",
+      "rows": 1971,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910831.parquet",
+      "scraped_at": "2026-04-24T02:17:24.509481+00:00"
+    },
+    "1910828": {
+      "url": "https://www.whoscored.com/Matches/1910828/Live/Bundesliga-2025-2026-Hoffenheim-vs-Union-Berlin",
+      "display_name": "Hoffenheim vs Union Berlin | 2025/2026 | Bundesliga | 2026-01-31",
+      "rows": 1694,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910828.parquet",
+      "scraped_at": "2026-04-24T02:17:46.538410+00:00"
+    },
+    "1910829": {
+      "url": "https://www.whoscored.com/Matches/1910829/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Mainz-05",
+      "display_name": "RB Leipzig vs Mainz 05 | 2025/2026 | Bundesliga | 2026-01-31",
+      "rows": 2204,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910829.parquet",
+      "scraped_at": "2026-04-24T02:18:07.877813+00:00"
+    },
+    "1910826": {
+      "url": "https://www.whoscored.com/Matches/1910826/Live/Bundesliga-2025-2026-FC-Koln-vs-Wolfsburg",
+      "display_name": "FC Koln vs Wolfsburg | 2025/2026 | Bundesliga | 2026-01-30",
+      "rows": 1866,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910826.parquet",
+      "scraped_at": "2026-04-24T02:18:25.699364+00:00"
+    },
+    "1910688": {
+      "url": "https://www.whoscored.com/Matches/1910688/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Hoffenheim",
+      "display_name": "Werder Bremen vs Hoffenheim | 2025/2026 | Bundesliga | 2026-01-27",
+      "rows": 1903,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910688.parquet",
+      "scraped_at": "2026-04-24T02:18:48.387396+00:00"
+    },
+    "1910684": {
+      "url": "https://www.whoscored.com/Matches/1910684/Live/Bundesliga-2025-2026-St-Pauli-vs-RB-Leipzig",
+      "display_name": "St. Pauli vs RB Leipzig | 2025/2026 | Bundesliga | 2026-01-27",
+      "rows": 2184,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910684.parquet",
+      "scraped_at": "2026-04-24T02:19:07.889473+00:00"
+    },
+    "1910816": {
+      "url": "https://www.whoscored.com/Matches/1910816/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-VfB-Stuttgart",
+      "display_name": "Borussia M.Gladbach vs VfB Stuttgart | 2025/2026 | Bundesliga | 2026-01-25",
+      "rows": 1983,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910816.parquet",
+      "scraped_at": "2026-04-24T02:19:27.432560+00:00"
+    },
+    "1910818": {
+      "url": "https://www.whoscored.com/Matches/1910818/Live/Bundesliga-2025-2026-Freiburg-vs-FC-Koln",
+      "display_name": "Freiburg vs FC Koln | 2025/2026 | Bundesliga | 2026-01-25",
+      "rows": 1781,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910818.parquet",
+      "scraped_at": "2026-04-24T02:19:48.295720+00:00"
+    },
+    "1910815": {
+      "url": "https://www.whoscored.com/Matches/1910815/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Augsburg",
+      "display_name": "Bayern Munich vs Augsburg | 2025/2026 | Bundesliga | 2026-01-24",
+      "rows": 2226,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910815.parquet",
+      "scraped_at": "2026-04-24T02:20:10.415701+00:00"
+    },
+    "1910814": {
+      "url": "https://www.whoscored.com/Matches/1910814/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Werder-Bremen",
+      "display_name": "Bayer Leverkusen vs Werder Bremen | 2025/2026 | Bundesliga | 2026-01-24",
+      "rows": 2114,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910814.parquet",
+      "scraped_at": "2026-04-24T02:20:34.390939+00:00"
+    },
+    "1910822": {
+      "url": "https://www.whoscored.com/Matches/1910822/Live/Bundesliga-2025-2026-Union-Berlin-vs-Borussia-Dortmund",
+      "display_name": "Union Berlin vs Borussia Dortmund | 2025/2026 | Bundesliga | 2026-01-24",
+      "rows": 1698,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910822.parquet",
+      "scraped_at": "2026-04-24T02:20:55.885607+00:00"
+    },
+    "1910817": {
+      "url": "https://www.whoscored.com/Matches/1910817/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Hoffenheim",
+      "display_name": "Eintracht Frankfurt vs Hoffenheim | 2025/2026 | Bundesliga | 2026-01-24",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910817.parquet",
+      "scraped_at": "2026-04-24T02:21:21.277330+00:00"
+    },
+    "1910819": {
+      "url": "https://www.whoscored.com/Matches/1910819/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-RB-Leipzig",
+      "display_name": "FC Heidenheim vs RB Leipzig | 2025/2026 | Bundesliga | 2026-01-24",
+      "rows": 2049,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910819.parquet",
+      "scraped_at": "2026-04-24T02:21:48.275155+00:00"
+    },
+    "1910820": {
+      "url": "https://www.whoscored.com/Matches/1910820/Live/Bundesliga-2025-2026-Mainz-05-vs-Wolfsburg",
+      "display_name": "Mainz 05 vs Wolfsburg | 2025/2026 | Bundesliga | 2026-01-24",
+      "rows": 1816,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910820.parquet",
+      "scraped_at": "2026-04-24T02:22:08.044261+00:00"
+    },
+    "1910821": {
+      "url": "https://www.whoscored.com/Matches/1910821/Live/Bundesliga-2025-2026-St-Pauli-vs-Hamburger-SV",
+      "display_name": "St. Pauli vs Hamburger SV | 2025/2026 | Bundesliga | 2026-01-23",
+      "rows": 1979,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910821.parquet",
+      "scraped_at": "2026-04-24T02:22:28.288516+00:00"
+    },
+    "1910805": {
+      "url": "https://www.whoscored.com/Matches/1910805/Live/Bundesliga-2025-2026-Augsburg-vs-Freiburg",
+      "display_name": "Augsburg vs Freiburg | 2025/2026 | Bundesliga | 2026-01-18",
+      "rows": 1736,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910805.parquet",
+      "scraped_at": "2026-04-24T02:22:45.740103+00:00"
+    },
+    "1910811": {
+      "url": "https://www.whoscored.com/Matches/1910811/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Union-Berlin",
+      "display_name": "VfB Stuttgart vs Union Berlin | 2025/2026 | Bundesliga | 2026-01-18",
+      "rows": 1829,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910811.parquet",
+      "scraped_at": "2026-04-24T02:23:06.083128+00:00"
+    },
+    "1910809": {
+      "url": "https://www.whoscored.com/Matches/1910809/Live/Bundesliga-2025-2026-Hoffenheim-vs-Bayer-Leverkusen",
+      "display_name": "Hoffenheim vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2026-01-17",
+      "rows": 1954,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910809.parquet",
+      "scraped_at": "2026-04-24T02:23:30.220634+00:00"
+    },
+    "1910810": {
+      "url": "https://www.whoscored.com/Matches/1910810/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Bayern-Munich",
+      "display_name": "RB Leipzig vs Bayern Munich | 2025/2026 | Bundesliga | 2026-01-17",
+      "rows": 2080,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910810.parquet",
+      "scraped_at": "2026-04-24T02:23:55.536717+00:00"
+    },
+    "1910806": {
+      "url": "https://www.whoscored.com/Matches/1910806/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-St-Pauli",
+      "display_name": "Borussia Dortmund vs St. Pauli | 2025/2026 | Bundesliga | 2026-01-17",
+      "rows": 2000,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910806.parquet",
+      "scraped_at": "2026-04-24T02:24:15.705729+00:00"
+    },
+    "1910808": {
+      "url": "https://www.whoscored.com/Matches/1910808/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Borussia-M-Gladbach",
+      "display_name": "Hamburger SV vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-01-17",
+      "rows": 1936,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910808.parquet",
+      "scraped_at": "2026-04-24T02:24:40.105878+00:00"
+    },
+    "1910813": {
+      "url": "https://www.whoscored.com/Matches/1910813/Live/Bundesliga-2025-2026-Wolfsburg-vs-FC-Heidenheim",
+      "display_name": "Wolfsburg vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-01-17",
+      "rows": 1952,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910813.parquet",
+      "scraped_at": "2026-04-24T02:25:00.358638+00:00"
+    },
+    "1910807": {
+      "url": "https://www.whoscored.com/Matches/1910807/Live/Bundesliga-2025-2026-FC-Koln-vs-Mainz-05",
+      "display_name": "FC Koln vs Mainz 05 | 2025/2026 | Bundesliga | 2026-01-17",
+      "rows": 1871,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910807.parquet",
+      "scraped_at": "2026-04-24T02:25:22.814616+00:00"
+    },
+    "1910812": {
+      "url": "https://www.whoscored.com/Matches/1910812/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Eintracht-Frankfurt",
+      "display_name": "Werder Bremen vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2026-01-16",
+      "rows": 1844,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910812.parquet",
+      "scraped_at": "2026-04-24T02:25:41.681747+00:00"
+    },
+    "1910690": {
+      "url": "https://www.whoscored.com/Matches/1910690/Live/Bundesliga-2025-2026-Augsburg-vs-Union-Berlin",
+      "display_name": "Augsburg vs Union Berlin | 2025/2026 | Bundesliga | 2026-01-15",
+      "rows": 1854,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910690.parquet",
+      "scraped_at": "2026-04-24T02:26:03.178368+00:00"
+    },
+    "1910798": {
+      "url": "https://www.whoscored.com/Matches/1910798/Live/Bundesliga-2025-2026-FC-Koln-vs-Bayern-Munich",
+      "display_name": "FC Koln vs Bayern Munich | 2025/2026 | Bundesliga | 2026-01-14",
+      "rows": 1976,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910798.parquet",
+      "scraped_at": "2026-04-24T02:26:25.247039+00:00"
+    },
+    "1910800": {
+      "url": "https://www.whoscored.com/Matches/1910800/Live/Bundesliga-2025-2026-Hoffenheim-vs-Borussia-M-Gladbach",
+      "display_name": "Hoffenheim vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2026-01-14",
+      "rows": 1982,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910800.parquet",
+      "scraped_at": "2026-04-24T02:26:45.989185+00:00"
+    },
+    "1910802": {
+      "url": "https://www.whoscored.com/Matches/1910802/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Freiburg",
+      "display_name": "RB Leipzig vs Freiburg | 2025/2026 | Bundesliga | 2026-01-14",
+      "rows": 1861,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910802.parquet",
+      "scraped_at": "2026-04-24T02:27:09.512025+00:00"
+    },
+    "1910804": {
+      "url": "https://www.whoscored.com/Matches/1910804/Live/Bundesliga-2025-2026-Wolfsburg-vs-St-Pauli",
+      "display_name": "Wolfsburg vs St. Pauli | 2025/2026 | Bundesliga | 2026-01-14",
+      "rows": 1982,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910804.parquet",
+      "scraped_at": "2026-04-24T02:27:31.289727+00:00"
+    },
+    "1910797": {
+      "url": "https://www.whoscored.com/Matches/1910797/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Werder-Bremen",
+      "display_name": "Borussia Dortmund vs Werder Bremen | 2025/2026 | Bundesliga | 2026-01-13",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910797.parquet",
+      "scraped_at": "2026-04-24T02:27:54.049293+00:00"
+    },
+    "1910803": {
+      "url": "https://www.whoscored.com/Matches/1910803/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Eintracht-Frankfurt",
+      "display_name": "VfB Stuttgart vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2026-01-13",
+      "rows": 1843,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910803.parquet",
+      "scraped_at": "2026-04-24T02:28:14.996883+00:00"
+    },
+    "1910801": {
+      "url": "https://www.whoscored.com/Matches/1910801/Live/Bundesliga-2025-2026-Mainz-05-vs-FC-Heidenheim",
+      "display_name": "Mainz 05 vs FC Heidenheim | 2025/2026 | Bundesliga | 2026-01-13",
+      "rows": 1955,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910801.parquet",
+      "scraped_at": "2026-04-24T02:28:39.832554+00:00"
+    },
+    "1910676": {
+      "url": "https://www.whoscored.com/Matches/1910676/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Augsburg",
+      "display_name": "Borussia M.Gladbach vs Augsburg | 2025/2026 | Bundesliga | 2026-01-11",
+      "rows": 2145,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910676.parquet",
+      "scraped_at": "2026-04-24T02:29:01.784043+00:00"
+    },
+    "1910674": {
+      "url": "https://www.whoscored.com/Matches/1910674/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Wolfsburg",
+      "display_name": "Bayern Munich vs Wolfsburg | 2025/2026 | Bundesliga | 2026-01-11",
+      "rows": 1978,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910674.parquet",
+      "scraped_at": "2026-04-24T02:29:20.300960+00:00"
+    },
+    "1910673": {
+      "url": "https://www.whoscored.com/Matches/1910673/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-VfB-Stuttgart",
+      "display_name": "Bayer Leverkusen vs VfB Stuttgart | 2025/2026 | Bundesliga | 2026-01-10",
+      "rows": 1944,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910673.parquet",
+      "scraped_at": "2026-04-24T02:29:43.041010+00:00"
+    },
+    "1910682": {
+      "url": "https://www.whoscored.com/Matches/1910682/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-FC-Koln",
+      "display_name": "FC Heidenheim vs FC Koln | 2025/2026 | Bundesliga | 2026-01-10",
+      "rows": 1813,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910682.parquet",
+      "scraped_at": "2026-04-24T02:30:00.767407+00:00"
+    },
+    "1910680": {
+      "url": "https://www.whoscored.com/Matches/1910680/Live/Bundesliga-2025-2026-Freiburg-vs-Hamburger-SV",
+      "display_name": "Freiburg vs Hamburger SV | 2025/2026 | Bundesliga | 2026-01-10",
+      "rows": 1805,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910680.parquet",
+      "scraped_at": "2026-04-24T02:30:23.578898+00:00"
+    },
+    "1910686": {
+      "url": "https://www.whoscored.com/Matches/1910686/Live/Bundesliga-2025-2026-Union-Berlin-vs-Mainz-05",
+      "display_name": "Union Berlin vs Mainz 05 | 2025/2026 | Bundesliga | 2026-01-10",
+      "rows": 1907,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910686.parquet",
+      "scraped_at": "2026-04-24T02:30:45.071404+00:00"
+    },
+    "1910678": {
+      "url": "https://www.whoscored.com/Matches/1910678/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Borussia-Dortmund",
+      "display_name": "Eintracht Frankfurt vs Borussia Dortmund | 2025/2026 | Bundesliga | 2026-01-09",
+      "rows": 1850,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910678.parquet",
+      "scraped_at": "2026-04-24T02:31:03.864813+00:00"
+    },
+    "1910665": {
+      "url": "https://www.whoscored.com/Matches/1910665/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Bayern-Munich",
+      "display_name": "FC Heidenheim vs Bayern Munich | 2025/2026 | Bundesliga | 2025-12-21",
+      "rows": 1969,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910665.parquet",
+      "scraped_at": "2026-04-24T02:31:25.740421+00:00"
+    },
+    "1910666": {
+      "url": "https://www.whoscored.com/Matches/1910666/Live/Bundesliga-2025-2026-Mainz-05-vs-St-Pauli",
+      "display_name": "Mainz 05 vs St. Pauli | 2025/2026 | Bundesliga | 2025-12-21",
+      "rows": 1728,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910666.parquet",
+      "scraped_at": "2026-04-24T02:31:47.408909+00:00"
+    },
+    "1910658": {
+      "url": "https://www.whoscored.com/Matches/1910658/Live/Bundesliga-2025-2026-Augsburg-vs-Werder-Bremen",
+      "display_name": "Augsburg vs Werder Bremen | 2025/2026 | Bundesliga | 2025-12-20",
+      "rows": 1814,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910658.parquet",
+      "scraped_at": "2026-04-24T02:32:05.250711+00:00"
+    },
+    "1910667": {
+      "url": "https://www.whoscored.com/Matches/1910667/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Bayer-Leverkusen",
+      "display_name": "RB Leipzig vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2025-12-20",
+      "rows": 2156,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910667.parquet",
+      "scraped_at": "2026-04-24T02:32:27.646847+00:00"
+    },
+    "1910664": {
+      "url": "https://www.whoscored.com/Matches/1910664/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Eintracht-Frankfurt",
+      "display_name": "Hamburger SV vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-12-20",
+      "rows": 1915,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910664.parquet",
+      "scraped_at": "2026-04-24T02:32:48.058582+00:00"
+    },
+    "1910662": {
+      "url": "https://www.whoscored.com/Matches/1910662/Live/Bundesliga-2025-2026-FC-Koln-vs-Union-Berlin",
+      "display_name": "FC Koln vs Union Berlin | 2025/2026 | Bundesliga | 2025-12-20",
+      "rows": 1793,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910662.parquet",
+      "scraped_at": "2026-04-24T02:33:12.270597+00:00"
+    },
+    "1910671": {
+      "url": "https://www.whoscored.com/Matches/1910671/Live/Bundesliga-2025-2026-Wolfsburg-vs-Freiburg",
+      "display_name": "Wolfsburg vs Freiburg | 2025/2026 | Bundesliga | 2025-12-20",
+      "rows": 1774,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910671.parquet",
+      "scraped_at": "2026-04-24T02:33:34.837599+00:00"
+    },
+    "1910669": {
+      "url": "https://www.whoscored.com/Matches/1910669/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Hoffenheim",
+      "display_name": "VfB Stuttgart vs Hoffenheim | 2025/2026 | Bundesliga | 2025-12-20",
+      "rows": 1652,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910669.parquet",
+      "scraped_at": "2026-04-24T02:33:54.228268+00:00"
+    },
+    "1910660": {
+      "url": "https://www.whoscored.com/Matches/1910660/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Borussia-M-Gladbach",
+      "display_name": "Borussia Dortmund vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2025-12-19",
+      "rows": 2088,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910660.parquet",
+      "scraped_at": "2026-04-24T02:34:13.327944+00:00"
+    },
+    "1910642": {
+      "url": "https://www.whoscored.com/Matches/1910642/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Mainz-05",
+      "display_name": "Bayern Munich vs Mainz 05 | 2025/2026 | Bundesliga | 2025-12-14",
+      "rows": 2239,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910642.parquet",
+      "scraped_at": "2026-04-24T02:34:33.357759+00:00"
+    },
+    "1910648": {
+      "url": "https://www.whoscored.com/Matches/1910648/Live/Bundesliga-2025-2026-Freiburg-vs-Borussia-Dortmund",
+      "display_name": "Freiburg vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-12-14",
+      "rows": 1882,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910648.parquet",
+      "scraped_at": "2026-04-24T02:34:55.396228+00:00"
+    },
+    "1910656": {
+      "url": "https://www.whoscored.com/Matches/1910656/Live/Bundesliga-2025-2026-Werder-Bremen-vs-VfB-Stuttgart",
+      "display_name": "Werder Bremen vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-12-14",
+      "rows": 1988,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910656.parquet",
+      "scraped_at": "2026-04-24T02:35:14.057604+00:00"
+    },
+    "1910646": {
+      "url": "https://www.whoscored.com/Matches/1910646/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Augsburg",
+      "display_name": "Eintracht Frankfurt vs Augsburg | 2025/2026 | Bundesliga | 2025-12-13",
+      "rows": 1877,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910646.parquet",
+      "scraped_at": "2026-04-24T02:35:35.914847+00:00"
+    },
+    "1910640": {
+      "url": "https://www.whoscored.com/Matches/1910640/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-FC-Koln",
+      "display_name": "Bayer Leverkusen vs FC Koln | 2025/2026 | Bundesliga | 2025-12-13",
+      "rows": 1861,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910640.parquet",
+      "scraped_at": "2026-04-24T02:35:54.742462+00:00"
+    },
+    "1910644": {
+      "url": "https://www.whoscored.com/Matches/1910644/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Wolfsburg",
+      "display_name": "Borussia M.Gladbach vs Wolfsburg | 2025/2026 | Bundesliga | 2025-12-13",
+      "rows": 2054,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910644.parquet",
+      "scraped_at": "2026-04-24T02:36:15.261754+00:00"
+    },
+    "1910652": {
+      "url": "https://www.whoscored.com/Matches/1910652/Live/Bundesliga-2025-2026-St-Pauli-vs-FC-Heidenheim",
+      "display_name": "St. Pauli vs FC Heidenheim | 2025/2026 | Bundesliga | 2025-12-13",
+      "rows": 1928,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910652.parquet",
+      "scraped_at": "2026-04-24T02:36:35.638360+00:00"
+    },
+    "1910650": {
+      "url": "https://www.whoscored.com/Matches/1910650/Live/Bundesliga-2025-2026-Hoffenheim-vs-Hamburger-SV",
+      "display_name": "Hoffenheim vs Hamburger SV | 2025/2026 | Bundesliga | 2025-12-13",
+      "rows": 1951,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910650.parquet",
+      "scraped_at": "2026-04-24T02:36:54.284086+00:00"
+    },
+    "1910654": {
+      "url": "https://www.whoscored.com/Matches/1910654/Live/Bundesliga-2025-2026-Union-Berlin-vs-RB-Leipzig",
+      "display_name": "Union Berlin vs RB Leipzig | 2025/2026 | Bundesliga | 2025-12-12",
+      "rows": 1912,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910654.parquet",
+      "scraped_at": "2026-04-24T02:37:16.800622+00:00"
+    },
+    "1910783": {
+      "url": "https://www.whoscored.com/Matches/1910783/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Hoffenheim",
+      "display_name": "Borussia Dortmund vs Hoffenheim | 2025/2026 | Bundesliga | 2025-12-07",
+      "rows": 1754,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910783.parquet",
+      "scraped_at": "2026-04-24T02:37:39.614436+00:00"
+    },
+    "1910786": {
+      "url": "https://www.whoscored.com/Matches/1910786/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Werder-Bremen",
+      "display_name": "Hamburger SV vs Werder Bremen | 2025/2026 | Bundesliga | 2025-12-07",
+      "rows": 1811,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910786.parquet",
+      "scraped_at": "2026-04-24T02:38:03.523204+00:00"
+    },
+    "1910780": {
+      "url": "https://www.whoscored.com/Matches/1910780/Live/Bundesliga-2025-2026-Augsburg-vs-Bayer-Leverkusen",
+      "display_name": "Augsburg vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2025-12-06",
+      "rows": 2083,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910780.parquet",
+      "scraped_at": "2026-04-24T02:38:26.699955+00:00"
+    },
+    "1910636": {
+      "url": "https://www.whoscored.com/Matches/1910636/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Bayern-Munich",
+      "display_name": "VfB Stuttgart vs Bayern Munich | 2025/2026 | Bundesliga | 2025-12-06",
+      "rows": 1881,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910636.parquet",
+      "scraped_at": "2026-04-24T02:38:45.484364+00:00"
+    },
+    "1910793": {
+      "url": "https://www.whoscored.com/Matches/1910793/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Eintracht-Frankfurt",
+      "display_name": "RB Leipzig vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-12-06",
+      "rows": 1938,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910793.parquet",
+      "scraped_at": "2026-04-24T02:39:10.121342+00:00"
+    },
+    "1910788": {
+      "url": "https://www.whoscored.com/Matches/1910788/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Freiburg",
+      "display_name": "FC Heidenheim vs Freiburg | 2025/2026 | Bundesliga | 2025-12-06",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910788.parquet",
+      "scraped_at": "2026-04-24T02:39:31.702066+00:00"
+    },
+    "1910784": {
+      "url": "https://www.whoscored.com/Matches/1910784/Live/Bundesliga-2025-2026-FC-Koln-vs-St-Pauli",
+      "display_name": "FC Koln vs St. Pauli | 2025/2026 | Bundesliga | 2025-12-06",
+      "rows": 1925,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910784.parquet",
+      "scraped_at": "2026-04-24T02:39:52.765985+00:00"
+    },
+    "1910638": {
+      "url": "https://www.whoscored.com/Matches/1910638/Live/Bundesliga-2025-2026-Wolfsburg-vs-Union-Berlin",
+      "display_name": "Wolfsburg vs Union Berlin | 2025/2026 | Bundesliga | 2025-12-06",
+      "rows": 1787,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910638.parquet",
+      "scraped_at": "2026-04-24T02:40:14.779876+00:00"
+    },
+    "1910791": {
+      "url": "https://www.whoscored.com/Matches/1910791/Live/Bundesliga-2025-2026-Mainz-05-vs-Borussia-M-Gladbach",
+      "display_name": "Mainz 05 vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2025-12-05",
+      "rows": 2090,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910791.parquet",
+      "scraped_at": "2026-04-24T02:40:37.388835+00:00"
+    },
+    "1910769": {
+      "url": "https://www.whoscored.com/Matches/1910769/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Wolfsburg",
+      "display_name": "Eintracht Frankfurt vs Wolfsburg | 2025/2026 | Bundesliga | 2025-11-30",
+      "rows": 1886,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910769.parquet",
+      "scraped_at": "2026-04-24T02:40:59.170940+00:00"
+    },
+    "1910771": {
+      "url": "https://www.whoscored.com/Matches/1910771/Live/Bundesliga-2025-2026-Freiburg-vs-Mainz-05",
+      "display_name": "Freiburg vs Mainz 05 | 2025/2026 | Bundesliga | 2025-11-30",
+      "rows": 1845,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910771.parquet",
+      "scraped_at": "2026-04-24T02:41:23.473364+00:00"
+    },
+    "1910772": {
+      "url": "https://www.whoscored.com/Matches/1910772/Live/Bundesliga-2025-2026-Hamburger-SV-vs-VfB-Stuttgart",
+      "display_name": "Hamburger SV vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-11-30",
+      "rows": 1832,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910772.parquet",
+      "scraped_at": "2026-04-24T02:41:45.471107+00:00"
+    },
+    "1910774": {
+      "url": "https://www.whoscored.com/Matches/1910774/Live/Bundesliga-2025-2026-Hoffenheim-vs-Augsburg",
+      "display_name": "Hoffenheim vs Augsburg | 2025/2026 | Bundesliga | 2025-11-29",
+      "rows": 2071,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910774.parquet",
+      "scraped_at": "2026-04-24T02:42:05.754181+00:00"
+    },
+    "1910763": {
+      "url": "https://www.whoscored.com/Matches/1910763/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Borussia-Dortmund",
+      "display_name": "Bayer Leverkusen vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-11-29",
+      "rows": 1924,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910763.parquet",
+      "scraped_at": "2026-04-24T02:42:30.213543+00:00"
+    },
+    "1910765": {
+      "url": "https://www.whoscored.com/Matches/1910765/Live/Bundesliga-2025-2026-Bayern-Munich-vs-St-Pauli",
+      "display_name": "Bayern Munich vs St. Pauli | 2025/2026 | Bundesliga | 2025-11-29",
+      "rows": 2273,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910765.parquet",
+      "scraped_at": "2026-04-24T02:42:53.896774+00:00"
+    },
+    "1910776": {
+      "url": "https://www.whoscored.com/Matches/1910776/Live/Bundesliga-2025-2026-Union-Berlin-vs-FC-Heidenheim",
+      "display_name": "Union Berlin vs FC Heidenheim | 2025/2026 | Bundesliga | 2025-11-29",
+      "rows": 1745,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910776.parquet",
+      "scraped_at": "2026-04-24T02:43:18.177418+00:00"
+    },
+    "1910778": {
+      "url": "https://www.whoscored.com/Matches/1910778/Live/Bundesliga-2025-2026-Werder-Bremen-vs-FC-Koln",
+      "display_name": "Werder Bremen vs FC Koln | 2025/2026 | Bundesliga | 2025-11-29",
+      "rows": 1931,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910778.parquet",
+      "scraped_at": "2026-04-24T02:43:42.609662+00:00"
+    },
+    "1910767": {
+      "url": "https://www.whoscored.com/Matches/1910767/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-RB-Leipzig",
+      "display_name": "Borussia M.Gladbach vs RB Leipzig | 2025/2026 | Bundesliga | 2025-11-28",
+      "rows": 1967,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910767.parquet",
+      "scraped_at": "2026-04-24T02:44:05.229505+00:00"
+    },
+    "1910758": {
+      "url": "https://www.whoscored.com/Matches/1910758/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Werder-Bremen",
+      "display_name": "RB Leipzig vs Werder Bremen | 2025/2026 | Bundesliga | 2025-11-23",
+      "rows": 2015,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910758.parquet",
+      "scraped_at": "2026-04-24T02:44:29.009393+00:00"
+    },
+    "1910759": {
+      "url": "https://www.whoscored.com/Matches/1910759/Live/Bundesliga-2025-2026-St-Pauli-vs-Union-Berlin",
+      "display_name": "St. Pauli vs Union Berlin | 2025/2026 | Bundesliga | 2025-11-23",
+      "rows": 1999,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910759.parquet",
+      "scraped_at": "2026-04-24T02:44:51.495929+00:00"
+    },
+    "1910746": {
+      "url": "https://www.whoscored.com/Matches/1910746/Live/Bundesliga-2025-2026-Augsburg-vs-Hamburger-SV",
+      "display_name": "Augsburg vs Hamburger SV | 2025/2026 | Bundesliga | 2025-11-22",
+      "rows": 1845,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910746.parquet",
+      "scraped_at": "2026-04-24T02:45:16.300314+00:00"
+    },
+    "1910761": {
+      "url": "https://www.whoscored.com/Matches/1910761/Live/Bundesliga-2025-2026-Wolfsburg-vs-Bayer-Leverkusen",
+      "display_name": "Wolfsburg vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2025-11-22",
+      "rows": 1997,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910761.parquet",
+      "scraped_at": "2026-04-24T02:45:40.596507+00:00"
+    },
+    "1910748": {
+      "url": "https://www.whoscored.com/Matches/1910748/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Freiburg",
+      "display_name": "Bayern Munich vs Freiburg | 2025/2026 | Bundesliga | 2025-11-22",
+      "rows": 2018,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910748.parquet",
+      "scraped_at": "2026-04-24T02:45:59.971937+00:00"
+    },
+    "1910750": {
+      "url": "https://www.whoscored.com/Matches/1910750/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-VfB-Stuttgart",
+      "display_name": "Borussia Dortmund vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-11-22",
+      "rows": 1926,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910750.parquet",
+      "scraped_at": "2026-04-24T02:46:24.089619+00:00"
+    },
+    "1910754": {
+      "url": "https://www.whoscored.com/Matches/1910754/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Borussia-M-Gladbach",
+      "display_name": "FC Heidenheim vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2025-11-22",
+      "rows": 2043,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910754.parquet",
+      "scraped_at": "2026-04-24T02:46:45.316944+00:00"
+    },
+    "1910752": {
+      "url": "https://www.whoscored.com/Matches/1910752/Live/Bundesliga-2025-2026-FC-Koln-vs-Eintracht-Frankfurt",
+      "display_name": "FC Koln vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-11-22",
+      "rows": 2066,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910752.parquet",
+      "scraped_at": "2026-04-24T02:47:07.774323+00:00"
+    },
+    "1910756": {
+      "url": "https://www.whoscored.com/Matches/1910756/Live/Bundesliga-2025-2026-Mainz-05-vs-Hoffenheim",
+      "display_name": "Mainz 05 vs Hoffenheim | 2025/2026 | Bundesliga | 2025-11-21",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910756.parquet",
+      "scraped_at": "2026-04-24T02:47:31.698912+00:00"
+    },
+    "1910740": {
+      "url": "https://www.whoscored.com/Matches/1910740/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Augsburg",
+      "display_name": "VfB Stuttgart vs Augsburg | 2025/2026 | Bundesliga | 2025-11-09",
+      "rows": 1979,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910740.parquet",
+      "scraped_at": "2026-04-24T02:47:55.497863+00:00"
+    },
+    "1910732": {
+      "url": "https://www.whoscored.com/Matches/1910732/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Mainz-05",
+      "display_name": "Eintracht Frankfurt vs Mainz 05 | 2025/2026 | Bundesliga | 2025-11-09",
+      "rows": 1885,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910732.parquet",
+      "scraped_at": "2026-04-24T02:48:16.904018+00:00"
+    },
+    "1910734": {
+      "url": "https://www.whoscored.com/Matches/1910734/Live/Bundesliga-2025-2026-Freiburg-vs-St-Pauli",
+      "display_name": "Freiburg vs St. Pauli | 2025/2026 | Bundesliga | 2025-11-09",
+      "rows": 1921,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910734.parquet",
+      "scraped_at": "2026-04-24T02:48:37.603492+00:00"
+    },
+    "1910728": {
+      "url": "https://www.whoscored.com/Matches/1910728/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-FC-Heidenheim",
+      "display_name": "Bayer Leverkusen vs FC Heidenheim | 2025/2026 | Bundesliga | 2025-11-08",
+      "rows": 2170,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910728.parquet",
+      "scraped_at": "2026-04-24T02:49:02.561458+00:00"
+    },
+    "1910742": {
+      "url": "https://www.whoscored.com/Matches/1910742/Live/Bundesliga-2025-2026-Union-Berlin-vs-Bayern-Munich",
+      "display_name": "Union Berlin vs Bayern Munich | 2025/2026 | Bundesliga | 2025-11-08",
+      "rows": 2064,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910742.parquet",
+      "scraped_at": "2026-04-24T02:49:22.837566+00:00"
+    },
+    "1910736": {
+      "url": "https://www.whoscored.com/Matches/1910736/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Borussia-Dortmund",
+      "display_name": "Hamburger SV vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-11-08",
+      "rows": 1904,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910736.parquet",
+      "scraped_at": "2026-04-24T02:49:42.575483+00:00"
+    },
+    "1910730": {
+      "url": "https://www.whoscored.com/Matches/1910730/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-FC-Koln",
+      "display_name": "Borussia M.Gladbach vs FC Koln | 2025/2026 | Bundesliga | 2025-11-08",
+      "rows": 1926,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910730.parquet",
+      "scraped_at": "2026-04-24T02:50:07.037157+00:00"
+    },
+    "1910738": {
+      "url": "https://www.whoscored.com/Matches/1910738/Live/Bundesliga-2025-2026-Hoffenheim-vs-RB-Leipzig",
+      "display_name": "Hoffenheim vs RB Leipzig | 2025/2026 | Bundesliga | 2025-11-08",
+      "rows": 2028,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910738.parquet",
+      "scraped_at": "2026-04-24T02:50:31.495386+00:00"
+    },
+    "1910744": {
+      "url": "https://www.whoscored.com/Matches/1910744/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Wolfsburg",
+      "display_name": "Werder Bremen vs Wolfsburg | 2025/2026 | Bundesliga | 2025-11-07",
+      "rows": 2005,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910744.parquet",
+      "scraped_at": "2026-04-24T02:50:55.734577+00:00"
+    },
+    "1910714": {
+      "url": "https://www.whoscored.com/Matches/1910714/Live/Bundesliga-2025-2026-FC-Koln-vs-Hamburger-SV",
+      "display_name": "FC Koln vs Hamburger SV | 2025/2026 | Bundesliga | 2025-11-02",
+      "rows": 1701,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910714.parquet",
+      "scraped_at": "2026-04-24T02:51:15.092496+00:00"
+    },
+    "1910726": {
+      "url": "https://www.whoscored.com/Matches/1910726/Live/Bundesliga-2025-2026-Wolfsburg-vs-Hoffenheim",
+      "display_name": "Wolfsburg vs Hoffenheim | 2025/2026 | Bundesliga | 2025-11-02",
+      "rows": 1887,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910726.parquet",
+      "scraped_at": "2026-04-24T02:51:34.613050+00:00"
+    },
+    "1910712": {
+      "url": "https://www.whoscored.com/Matches/1910712/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Bayer-Leverkusen",
+      "display_name": "Bayern Munich vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2025-11-01",
+      "rows": 2098,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910712.parquet",
+      "scraped_at": "2026-04-24T02:51:57.769620+00:00"
+    },
+    "1910722": {
+      "url": "https://www.whoscored.com/Matches/1910722/Live/Bundesliga-2025-2026-St-Pauli-vs-Borussia-M-Gladbach",
+      "display_name": "St. Pauli vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2025-11-01",
+      "rows": 2023,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910722.parquet",
+      "scraped_at": "2026-04-24T02:52:18.973721+00:00"
+    },
+    "1910716": {
+      "url": "https://www.whoscored.com/Matches/1910716/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Eintracht-Frankfurt",
+      "display_name": "FC Heidenheim vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-11-01",
+      "rows": 1999,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910716.parquet",
+      "scraped_at": "2026-04-24T02:52:43.746162+00:00"
+    },
+    "1910724": {
+      "url": "https://www.whoscored.com/Matches/1910724/Live/Bundesliga-2025-2026-Union-Berlin-vs-Freiburg",
+      "display_name": "Union Berlin vs Freiburg | 2025/2026 | Bundesliga | 2025-11-01",
+      "rows": 1637,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910724.parquet",
+      "scraped_at": "2026-04-24T02:53:06.103940+00:00"
+    },
+    "1910718": {
+      "url": "https://www.whoscored.com/Matches/1910718/Live/Bundesliga-2025-2026-Mainz-05-vs-Werder-Bremen",
+      "display_name": "Mainz 05 vs Werder Bremen | 2025/2026 | Bundesliga | 2025-11-01",
+      "rows": 1839,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910718.parquet",
+      "scraped_at": "2026-04-24T02:53:28.437315+00:00"
+    },
+    "1910720": {
+      "url": "https://www.whoscored.com/Matches/1910720/Live/Bundesliga-2025-2026-RB-Leipzig-vs-VfB-Stuttgart",
+      "display_name": "RB Leipzig vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-11-01",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910720.parquet",
+      "scraped_at": "2026-04-24T02:53:49.110787+00:00"
+    },
+    "1910710": {
+      "url": "https://www.whoscored.com/Matches/1910710/Live/Bundesliga-2025-2026-Augsburg-vs-Borussia-Dortmund",
+      "display_name": "Augsburg vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-10-31",
+      "rows": 1984,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910710.parquet",
+      "scraped_at": "2026-04-24T02:54:13.293929+00:00"
+    },
+    "1910693": {
+      "url": "https://www.whoscored.com/Matches/1910693/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Freiburg",
+      "display_name": "Bayer Leverkusen vs Freiburg | 2025/2026 | Bundesliga | 2025-10-26",
+      "rows": 1991,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910693.parquet",
+      "scraped_at": "2026-04-24T02:54:33.907780+00:00"
+    },
+    "1910706": {
+      "url": "https://www.whoscored.com/Matches/1910706/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Mainz-05",
+      "display_name": "VfB Stuttgart vs Mainz 05 | 2025/2026 | Bundesliga | 2025-10-26",
+      "rows": 1772,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910706.parquet",
+      "scraped_at": "2026-04-24T02:54:52.370478+00:00"
+    },
+    "1910689": {
+      "url": "https://www.whoscored.com/Matches/1910689/Live/Bundesliga-2025-2026-Augsburg-vs-RB-Leipzig",
+      "display_name": "Augsburg vs RB Leipzig | 2025/2026 | Bundesliga | 2025-10-25",
+      "rows": 2123,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910689.parquet",
+      "scraped_at": "2026-04-24T02:55:15.341756+00:00"
+    },
+    "1910696": {
+      "url": "https://www.whoscored.com/Matches/1910696/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Bayern-Munich",
+      "display_name": "Borussia M.Gladbach vs Bayern Munich | 2025/2026 | Bundesliga | 2025-10-25",
+      "rows": 2056,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910696.parquet",
+      "scraped_at": "2026-04-24T02:55:40.009161+00:00"
+    },
+    "1910698": {
+      "url": "https://www.whoscored.com/Matches/1910698/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-FC-Koln",
+      "display_name": "Borussia Dortmund vs FC Koln | 2025/2026 | Bundesliga | 2025-10-25",
+      "rows": 1923,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910698.parquet",
+      "scraped_at": "2026-04-24T02:56:00.811005+00:00"
+    },
+    "1910700": {
+      "url": "https://www.whoscored.com/Matches/1910700/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-St-Pauli",
+      "display_name": "Eintracht Frankfurt vs St. Pauli | 2025/2026 | Bundesliga | 2025-10-25",
+      "rows": 2063,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910700.parquet",
+      "scraped_at": "2026-04-24T02:56:21.240792+00:00"
+    },
+    "1910704": {
+      "url": "https://www.whoscored.com/Matches/1910704/Live/Bundesliga-2025-2026-Hoffenheim-vs-FC-Heidenheim",
+      "display_name": "Hoffenheim vs FC Heidenheim | 2025/2026 | Bundesliga | 2025-10-25",
+      "rows": 1897,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910704.parquet",
+      "scraped_at": "2026-04-24T02:56:43.815378+00:00"
+    },
+    "1910702": {
+      "url": "https://www.whoscored.com/Matches/1910702/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Wolfsburg",
+      "display_name": "Hamburger SV vs Wolfsburg | 2025/2026 | Bundesliga | 2025-10-25",
+      "rows": 1809,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910702.parquet",
+      "scraped_at": "2026-04-24T02:57:06.146109+00:00"
+    },
+    "1910708": {
+      "url": "https://www.whoscored.com/Matches/1910708/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Union-Berlin",
+      "display_name": "Werder Bremen vs Union Berlin | 2025/2026 | Bundesliga | 2025-10-24",
+      "rows": 1907,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910708.parquet",
+      "scraped_at": "2026-04-24T02:57:25.455029+00:00"
+    },
+    "1910675": {
+      "url": "https://www.whoscored.com/Matches/1910675/Live/Bundesliga-2025-2026-Freiburg-vs-Eintracht-Frankfurt",
+      "display_name": "Freiburg vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-10-19",
+      "rows": 1799,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910675.parquet",
+      "scraped_at": "2026-04-24T02:57:46.398276+00:00"
+    },
+    "1910683": {
+      "url": "https://www.whoscored.com/Matches/1910683/Live/Bundesliga-2025-2026-St-Pauli-vs-Hoffenheim",
+      "display_name": "St. Pauli vs Hoffenheim | 2025/2026 | Bundesliga | 2025-10-19",
+      "rows": 1804,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910683.parquet",
+      "scraped_at": "2026-04-24T02:58:10.103263+00:00"
+    },
+    "1910672": {
+      "url": "https://www.whoscored.com/Matches/1910672/Live/Bundesliga-2025-2026-FC-Koln-vs-Augsburg",
+      "display_name": "FC Koln vs Augsburg | 2025/2026 | Bundesliga | 2025-10-18",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910672.parquet",
+      "scraped_at": "2026-04-24T02:58:31.371385+00:00"
+    },
+    "1910679": {
+      "url": "https://www.whoscored.com/Matches/1910679/Live/Bundesliga-2025-2026-Mainz-05-vs-Bayer-Leverkusen",
+      "display_name": "Mainz 05 vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2025-10-18",
+      "rows": 1990,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910679.parquet",
+      "scraped_at": "2026-04-24T02:58:58.507315+00:00"
+    },
+    "1910670": {
+      "url": "https://www.whoscored.com/Matches/1910670/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Borussia-Dortmund",
+      "display_name": "Bayern Munich vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-10-18",
+      "rows": 1957,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910670.parquet",
+      "scraped_at": "2026-04-24T02:59:22.244703+00:00"
+    },
+    "1910677": {
+      "url": "https://www.whoscored.com/Matches/1910677/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Werder-Bremen",
+      "display_name": "FC Heidenheim vs Werder Bremen | 2025/2026 | Bundesliga | 2025-10-18",
+      "rows": 1854,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910677.parquet",
+      "scraped_at": "2026-04-24T02:59:42.355766+00:00"
+    },
+    "1910681": {
+      "url": "https://www.whoscored.com/Matches/1910681/Live/Bundesliga-2025-2026-RB-Leipzig-vs-Hamburger-SV",
+      "display_name": "RB Leipzig vs Hamburger SV | 2025/2026 | Bundesliga | 2025-10-18",
+      "rows": 2032,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910681.parquet",
+      "scraped_at": "2026-04-24T03:00:02.100098+00:00"
+    },
+    "1910687": {
+      "url": "https://www.whoscored.com/Matches/1910687/Live/Bundesliga-2025-2026-Wolfsburg-vs-VfB-Stuttgart",
+      "display_name": "Wolfsburg vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-10-18",
+      "rows": 1988,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910687.parquet",
+      "scraped_at": "2026-04-24T03:00:25.035168+00:00"
+    },
+    "1910685": {
+      "url": "https://www.whoscored.com/Matches/1910685/Live/Bundesliga-2025-2026-Union-Berlin-vs-Borussia-M-Gladbach",
+      "display_name": "Union Berlin vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2025-10-17",
+      "rows": 1792,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910685.parquet",
+      "scraped_at": "2026-04-24T03:00:45.721829+00:00"
+    },
+    "1910625": {
+      "url": "https://www.whoscored.com/Matches/1910625/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Freiburg",
+      "display_name": "Borussia M.Gladbach vs Freiburg | 2025/2026 | Bundesliga | 2025-10-05",
+      "rows": 1894,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910625.parquet",
+      "scraped_at": "2026-04-24T03:01:05.269181+00:00"
+    },
+    "1910634": {
+      "url": "https://www.whoscored.com/Matches/1910634/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-FC-Heidenheim",
+      "display_name": "VfB Stuttgart vs FC Heidenheim | 2025/2026 | Bundesliga | 2025-10-05",
+      "rows": 2004,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910634.parquet",
+      "scraped_at": "2026-04-24T03:01:28.589806+00:00"
+    },
+    "1910630": {
+      "url": "https://www.whoscored.com/Matches/1910630/Live/Bundesliga-2025-2026-Hamburger-SV-vs-Mainz-05",
+      "display_name": "Hamburger SV vs Mainz 05 | 2025/2026 | Bundesliga | 2025-10-05",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910630.parquet",
+      "scraped_at": "2026-04-24T03:01:51.357227+00:00"
+    },
+    "1910663": {
+      "url": "https://www.whoscored.com/Matches/1910663/Live/Bundesliga-2025-2026-Augsburg-vs-Wolfsburg",
+      "display_name": "Augsburg vs Wolfsburg | 2025/2026 | Bundesliga | 2025-10-04",
+      "rows": 1700,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910663.parquet",
+      "scraped_at": "2026-04-24T03:02:11.136412+00:00"
+    },
+    "1910624": {
+      "url": "https://www.whoscored.com/Matches/1910624/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Union-Berlin",
+      "display_name": "Bayer Leverkusen vs Union Berlin | 2025/2026 | Bundesliga | 2025-10-04",
+      "rows": 2118,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910624.parquet",
+      "scraped_at": "2026-04-24T03:02:35.237948+00:00"
+    },
+    "1910628": {
+      "url": "https://www.whoscored.com/Matches/1910628/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Bayern-Munich",
+      "display_name": "Eintracht Frankfurt vs Bayern Munich | 2025/2026 | Bundesliga | 2025-10-04",
+      "rows": 2101,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910628.parquet",
+      "scraped_at": "2026-04-24T03:02:55.788540+00:00"
+    },
+    "1910626": {
+      "url": "https://www.whoscored.com/Matches/1910626/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-RB-Leipzig",
+      "display_name": "Borussia Dortmund vs RB Leipzig | 2025/2026 | Bundesliga | 2025-10-04",
+      "rows": 2133,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910626.parquet",
+      "scraped_at": "2026-04-24T03:03:16.893173+00:00"
+    },
+    "1910668": {
+      "url": "https://www.whoscored.com/Matches/1910668/Live/Bundesliga-2025-2026-Werder-Bremen-vs-St-Pauli",
+      "display_name": "Werder Bremen vs St. Pauli | 2025/2026 | Bundesliga | 2025-10-04",
+      "rows": 2103,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910668.parquet",
+      "scraped_at": "2026-04-24T03:03:39.018871+00:00"
+    },
+    "1910632": {
+      "url": "https://www.whoscored.com/Matches/1910632/Live/Bundesliga-2025-2026-Hoffenheim-vs-FC-Koln",
+      "display_name": "Hoffenheim vs FC Koln | 2025/2026 | Bundesliga | 2025-10-03",
+      "rows": 1831,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910632.parquet",
+      "scraped_at": "2026-04-24T03:03:59.013424+00:00"
+    },
+    "1910649": {
+      "url": "https://www.whoscored.com/Matches/1910649/Live/Bundesliga-2025-2026-FC-Koln-vs-VfB-Stuttgart",
+      "display_name": "FC Koln vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-09-28",
+      "rows": 1785,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910649.parquet",
+      "scraped_at": "2026-04-24T03:04:22.369865+00:00"
+    },
+    "1910651": {
+      "url": "https://www.whoscored.com/Matches/1910651/Live/Bundesliga-2025-2026-Freiburg-vs-Hoffenheim",
+      "display_name": "Freiburg vs Hoffenheim | 2025/2026 | Bundesliga | 2025-09-28",
+      "rows": 1659,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910651.parquet",
+      "scraped_at": "2026-04-24T03:04:47.564016+00:00"
+    },
+    "1910659": {
+      "url": "https://www.whoscored.com/Matches/1910659/Live/Bundesliga-2025-2026-Union-Berlin-vs-Hamburger-SV",
+      "display_name": "Union Berlin vs Hamburger SV | 2025/2026 | Bundesliga | 2025-09-28",
+      "rows": 1848,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910659.parquet",
+      "scraped_at": "2026-04-24T03:05:08.997523+00:00"
+    },
+    "1910653": {
+      "url": "https://www.whoscored.com/Matches/1910653/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Augsburg",
+      "display_name": "FC Heidenheim vs Augsburg | 2025/2026 | Bundesliga | 2025-09-27",
+      "rows": 1782,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910653.parquet",
+      "scraped_at": "2026-04-24T03:05:31.488596+00:00"
+    },
+    "1910657": {
+      "url": "https://www.whoscored.com/Matches/1910657/Live/Bundesliga-2025-2026-St-Pauli-vs-Bayer-Leverkusen",
+      "display_name": "St. Pauli vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2025-09-27",
+      "rows": 1837,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910657.parquet",
+      "scraped_at": "2026-04-24T03:05:49.771657+00:00"
+    },
+    "1910655": {
+      "url": "https://www.whoscored.com/Matches/1910655/Live/Bundesliga-2025-2026-Mainz-05-vs-Borussia-Dortmund",
+      "display_name": "Mainz 05 vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-09-27",
+      "rows": 1658,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910655.parquet",
+      "scraped_at": "2026-04-24T03:06:13.300121+00:00"
+    },
+    "1910647": {
+      "url": "https://www.whoscored.com/Matches/1910647/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Eintracht-Frankfurt",
+      "display_name": "Borussia M.Gladbach vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-09-27",
+      "rows": 1980,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910647.parquet",
+      "scraped_at": "2026-04-24T03:06:37.203962+00:00"
+    },
+    "1910661": {
+      "url": "https://www.whoscored.com/Matches/1910661/Live/Bundesliga-2025-2026-Wolfsburg-vs-RB-Leipzig",
+      "display_name": "Wolfsburg vs RB Leipzig | 2025/2026 | Bundesliga | 2025-09-27",
+      "rows": 1946,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910661.parquet",
+      "scraped_at": "2026-04-24T03:06:57.724431+00:00"
+    },
+    "1910645": {
+      "url": "https://www.whoscored.com/Matches/1910645/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Werder-Bremen",
+      "display_name": "Bayern Munich vs Werder Bremen | 2025/2026 | Bundesliga | 2025-09-26",
+      "rows": 2104,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910645.parquet",
+      "scraped_at": "2026-04-24T03:07:18.591007+00:00"
+    },
+    "1910629": {
+      "url": "https://www.whoscored.com/Matches/1910629/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Borussia-M-Gladbach",
+      "display_name": "Bayer Leverkusen vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2025-09-21",
+      "rows": 2195,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910629.parquet",
+      "scraped_at": "2026-04-24T03:07:42.684443+00:00"
+    },
+    "1910631": {
+      "url": "https://www.whoscored.com/Matches/1910631/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Wolfsburg",
+      "display_name": "Borussia Dortmund vs Wolfsburg | 2025/2026 | Bundesliga | 2025-09-21",
+      "rows": 1891,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910631.parquet",
+      "scraped_at": "2026-04-24T03:08:04.080795+00:00"
+    },
+    "1910633": {
+      "url": "https://www.whoscored.com/Matches/1910633/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Union-Berlin",
+      "display_name": "Eintracht Frankfurt vs Union Berlin | 2025/2026 | Bundesliga | 2025-09-21",
+      "rows": 1910,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910633.parquet",
+      "scraped_at": "2026-04-24T03:08:28.017906+00:00"
+    },
+    "1910627": {
+      "url": "https://www.whoscored.com/Matches/1910627/Live/Bundesliga-2025-2026-Augsburg-vs-Mainz-05",
+      "display_name": "Augsburg vs Mainz 05 | 2025/2026 | Bundesliga | 2025-09-20",
+      "rows": 1770,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910627.parquet",
+      "scraped_at": "2026-04-24T03:08:47.474528+00:00"
+    },
+    "1910637": {
+      "url": "https://www.whoscored.com/Matches/1910637/Live/Bundesliga-2025-2026-Hoffenheim-vs-Bayern-Munich",
+      "display_name": "Hoffenheim vs Bayern Munich | 2025/2026 | Bundesliga | 2025-09-20",
+      "rows": 1953,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910637.parquet",
+      "scraped_at": "2026-04-24T03:09:11.705888+00:00"
+    },
+    "1910635": {
+      "url": "https://www.whoscored.com/Matches/1910635/Live/Bundesliga-2025-2026-Hamburger-SV-vs-FC-Heidenheim",
+      "display_name": "Hamburger SV vs FC Heidenheim | 2025/2026 | Bundesliga | 2025-09-20",
+      "rows": 1815,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910635.parquet",
+      "scraped_at": "2026-04-24T03:09:33.456111+00:00"
+    },
+    "1910639": {
+      "url": "https://www.whoscored.com/Matches/1910639/Live/Bundesliga-2025-2026-RB-Leipzig-vs-FC-Koln",
+      "display_name": "RB Leipzig vs FC Koln | 2025/2026 | Bundesliga | 2025-09-20",
+      "rows": 1838,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910639.parquet",
+      "scraped_at": "2026-04-24T03:09:54.130780+00:00"
+    },
+    "1910643": {
+      "url": "https://www.whoscored.com/Matches/1910643/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Freiburg",
+      "display_name": "Werder Bremen vs Freiburg | 2025/2026 | Bundesliga | 2025-09-20",
+      "rows": 1933,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910643.parquet",
+      "scraped_at": "2026-04-24T03:10:16.999035+00:00"
+    },
+    "1910641": {
+      "url": "https://www.whoscored.com/Matches/1910641/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-St-Pauli",
+      "display_name": "VfB Stuttgart vs St. Pauli | 2025/2026 | Bundesliga | 2025-09-19",
+      "rows": 1957,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910641.parquet",
+      "scraped_at": "2026-04-24T03:10:39.533921+00:00"
+    },
+    "1910617": {
+      "url": "https://www.whoscored.com/Matches/1910617/Live/Bundesliga-2025-2026-St-Pauli-vs-Augsburg",
+      "display_name": "St. Pauli vs Augsburg | 2025/2026 | Bundesliga | 2025-09-14",
+      "rows": 1971,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910617.parquet",
+      "scraped_at": "2026-04-24T03:11:04.238019+00:00"
+    },
+    "1910621": {
+      "url": "https://www.whoscored.com/Matches/1910621/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Werder-Bremen",
+      "display_name": "Borussia M.Gladbach vs Werder Bremen | 2025/2026 | Bundesliga | 2025-09-14",
+      "rows": 1968,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910621.parquet",
+      "scraped_at": "2026-04-24T03:11:26.414869+00:00"
+    },
+    "1910615": {
+      "url": "https://www.whoscored.com/Matches/1910615/Live/Bundesliga-2025-2026-Bayern-Munich-vs-Hamburger-SV",
+      "display_name": "Bayern Munich vs Hamburger SV | 2025/2026 | Bundesliga | 2025-09-13",
+      "rows": 2016,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910615.parquet",
+      "scraped_at": "2026-04-24T03:11:47.145526+00:00"
+    },
+    "1910619": {
+      "url": "https://www.whoscored.com/Matches/1910619/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Borussia-Dortmund",
+      "display_name": "FC Heidenheim vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-09-13",
+      "rows": 2029,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910619.parquet",
+      "scraped_at": "2026-04-24T03:12:09.105804+00:00"
+    },
+    "1910622": {
+      "url": "https://www.whoscored.com/Matches/1910622/Live/Bundesliga-2025-2026-Wolfsburg-vs-FC-Koln",
+      "display_name": "Wolfsburg vs FC Koln | 2025/2026 | Bundesliga | 2025-09-13",
+      "rows": 1705,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910622.parquet",
+      "scraped_at": "2026-04-24T03:12:29.995323+00:00"
+    },
+    "1910618": {
+      "url": "https://www.whoscored.com/Matches/1910618/Live/Bundesliga-2025-2026-Freiburg-vs-VfB-Stuttgart",
+      "display_name": "Freiburg vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-09-13",
+      "rows": 1731,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910618.parquet",
+      "scraped_at": "2026-04-24T03:12:49.581008+00:00"
+    },
+    "1910623": {
+      "url": "https://www.whoscored.com/Matches/1910623/Live/Bundesliga-2025-2026-Union-Berlin-vs-Hoffenheim",
+      "display_name": "Union Berlin vs Hoffenheim | 2025/2026 | Bundesliga | 2025-09-13",
+      "rows": 1909,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910623.parquet",
+      "scraped_at": "2026-04-24T03:13:13.960921+00:00"
+    },
+    "1910620": {
+      "url": "https://www.whoscored.com/Matches/1910620/Live/Bundesliga-2025-2026-Mainz-05-vs-RB-Leipzig",
+      "display_name": "Mainz 05 vs RB Leipzig | 2025/2026 | Bundesliga | 2025-09-13",
+      "rows": 1944,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910620.parquet",
+      "scraped_at": "2026-04-24T03:13:36.694449+00:00"
+    },
+    "1910616": {
+      "url": "https://www.whoscored.com/Matches/1910616/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Eintracht-Frankfurt",
+      "display_name": "Bayer Leverkusen vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-09-12",
+      "rows": 1753,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910616.parquet",
+      "scraped_at": "2026-04-24T03:13:55.286349+00:00"
+    },
+    "1910606": {
+      "url": "https://www.whoscored.com/Matches/1910606/Live/Bundesliga-2025-2026-Borussia-Dortmund-vs-Union-Berlin",
+      "display_name": "Borussia Dortmund vs Union Berlin | 2025/2026 | Bundesliga | 2025-08-31",
+      "rows": 2062,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910606.parquet",
+      "scraped_at": "2026-04-24T03:14:14.895089+00:00"
+    },
+    "1910613": {
+      "url": "https://www.whoscored.com/Matches/1910613/Live/Bundesliga-2025-2026-FC-Koln-vs-Freiburg",
+      "display_name": "FC Koln vs Freiburg | 2025/2026 | Bundesliga | 2025-08-31",
+      "rows": 1810,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910613.parquet",
+      "scraped_at": "2026-04-24T03:14:37.542504+00:00"
+    },
+    "1910610": {
+      "url": "https://www.whoscored.com/Matches/1910610/Live/Bundesliga-2025-2026-Wolfsburg-vs-Mainz-05",
+      "display_name": "Wolfsburg vs Mainz 05 | 2025/2026 | Bundesliga | 2025-08-31",
+      "rows": 1768,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910610.parquet",
+      "scraped_at": "2026-04-24T03:14:59.870588+00:00"
+    },
+    "1910611": {
+      "url": "https://www.whoscored.com/Matches/1910611/Live/Bundesliga-2025-2026-Augsburg-vs-Bayern-Munich",
+      "display_name": "Augsburg vs Bayern Munich | 2025/2026 | Bundesliga | 2025-08-30",
+      "rows": 1956,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910611.parquet",
+      "scraped_at": "2026-04-24T03:15:18.743419+00:00"
+    },
+    "1910608": {
+      "url": "https://www.whoscored.com/Matches/1910608/Live/Bundesliga-2025-2026-Werder-Bremen-vs-Bayer-Leverkusen",
+      "display_name": "Werder Bremen vs Bayer Leverkusen | 2025/2026 | Bundesliga | 2025-08-30",
+      "rows": 2021,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910608.parquet",
+      "scraped_at": "2026-04-24T03:15:40.632499+00:00"
+    },
+    "1910609": {
+      "url": "https://www.whoscored.com/Matches/1910609/Live/Bundesliga-2025-2026-VfB-Stuttgart-vs-Borussia-M-Gladbach",
+      "display_name": "VfB Stuttgart vs Borussia M.Gladbach | 2025/2026 | Bundesliga | 2025-08-30",
+      "rows": 1980,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910609.parquet",
+      "scraped_at": "2026-04-24T03:15:59.848583+00:00"
+    },
+    "1910612": {
+      "url": "https://www.whoscored.com/Matches/1910612/Live/Bundesliga-2025-2026-Hoffenheim-vs-Eintracht-Frankfurt",
+      "display_name": "Hoffenheim vs Eintracht Frankfurt | 2025/2026 | Bundesliga | 2025-08-30",
+      "rows": 1791,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910612.parquet",
+      "scraped_at": "2026-04-24T03:16:19.214167+00:00"
+    },
+    "1910607": {
+      "url": "https://www.whoscored.com/Matches/1910607/Live/Bundesliga-2025-2026-RB-Leipzig-vs-FC-Heidenheim",
+      "display_name": "RB Leipzig vs FC Heidenheim | 2025/2026 | Bundesliga | 2025-08-30",
+      "rows": 1818,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910607.parquet",
+      "scraped_at": "2026-04-24T03:16:37.982092+00:00"
+    },
+    "1910614": {
+      "url": "https://www.whoscored.com/Matches/1910614/Live/Bundesliga-2025-2026-Hamburger-SV-vs-St-Pauli",
+      "display_name": "Hamburger SV vs St. Pauli | 2025/2026 | Bundesliga | 2025-08-29",
+      "rows": 1963,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910614.parquet",
+      "scraped_at": "2026-04-24T03:16:59.924738+00:00"
+    },
+    "1910602": {
+      "url": "https://www.whoscored.com/Matches/1910602/Live/Bundesliga-2025-2026-Borussia-M-Gladbach-vs-Hamburger-SV",
+      "display_name": "Borussia M.Gladbach vs Hamburger SV | 2025/2026 | Bundesliga | 2025-08-24",
+      "rows": 1947,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910602.parquet",
+      "scraped_at": "2026-04-24T03:17:21.994445+00:00"
+    },
+    "1910598": {
+      "url": "https://www.whoscored.com/Matches/1910598/Live/Bundesliga-2025-2026-Mainz-05-vs-FC-Koln",
+      "display_name": "Mainz 05 vs FC Koln | 2025/2026 | Bundesliga | 2025-08-24",
+      "rows": 1720,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910598.parquet",
+      "scraped_at": "2026-04-24T03:17:43.830895+00:00"
+    },
+    "1910605": {
+      "url": "https://www.whoscored.com/Matches/1910605/Live/Bundesliga-2025-2026-Freiburg-vs-Augsburg",
+      "display_name": "Freiburg vs Augsburg | 2025/2026 | Bundesliga | 2025-08-23",
+      "rows": 1863,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910605.parquet",
+      "scraped_at": "2026-04-24T03:18:02.244603+00:00"
+    },
+    "1910601": {
+      "url": "https://www.whoscored.com/Matches/1910601/Live/Bundesliga-2025-2026-Bayer-Leverkusen-vs-Hoffenheim",
+      "display_name": "Bayer Leverkusen vs Hoffenheim | 2025/2026 | Bundesliga | 2025-08-23",
+      "rows": 1939,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910601.parquet",
+      "scraped_at": "2026-04-24T03:18:20.684328+00:00"
+    },
+    "1910599": {
+      "url": "https://www.whoscored.com/Matches/1910599/Live/Bundesliga-2025-2026-St-Pauli-vs-Borussia-Dortmund",
+      "display_name": "St. Pauli vs Borussia Dortmund | 2025/2026 | Bundesliga | 2025-08-23",
+      "rows": 1881,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910599.parquet",
+      "scraped_at": "2026-04-24T03:18:39.564822+00:00"
+    },
+    "1910604": {
+      "url": "https://www.whoscored.com/Matches/1910604/Live/Bundesliga-2025-2026-Eintracht-Frankfurt-vs-Werder-Bremen",
+      "display_name": "Eintracht Frankfurt vs Werder Bremen | 2025/2026 | Bundesliga | 2025-08-23",
+      "rows": 1862,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910604.parquet",
+      "scraped_at": "2026-04-24T03:18:59.853954+00:00"
+    },
+    "1910600": {
+      "url": "https://www.whoscored.com/Matches/1910600/Live/Bundesliga-2025-2026-FC-Heidenheim-vs-Wolfsburg",
+      "display_name": "FC Heidenheim vs Wolfsburg | 2025/2026 | Bundesliga | 2025-08-23",
+      "rows": 1700,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910600.parquet",
+      "scraped_at": "2026-04-24T03:19:19.657914+00:00"
+    },
+    "1910603": {
+      "url": "https://www.whoscored.com/Matches/1910603/Live/Bundesliga-2025-2026-Union-Berlin-vs-VfB-Stuttgart",
+      "display_name": "Union Berlin vs VfB Stuttgart | 2025/2026 | Bundesliga | 2025-08-23",
+      "rows": 1871,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1910603.parquet",
+      "scraped_at": "2026-04-24T03:19:37.855363+00:00"
+    },
+    "1908319": {
+      "url": "https://www.whoscored.com/Matches/1908319/Live/Bundesliga-2025-2026-Bayern-Munich-vs-RB-Leipzig",
+      "display_name": "Bayern Munich vs RB Leipzig | 2025/2026 | Bundesliga | 2025-08-22",
+      "rows": 2071,
+      "cols": 57,
+      "saved_to": "D:\\statscout-FYP\\backend\\data\\events\\bundesliga\\2025_2026\\1908319.parquet",
+      "scraped_at": "2026-04-24T03:19:56.429303+00:00"
+    }
+  },
+  "failed": {},
+  "skipped": {},
+  "created_at": "2026-04-24T01:42:46.227230+00:00",
+  "updated_at": "2026-04-24T03:20:00.728105+00:00"
+}
