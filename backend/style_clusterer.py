@@ -217,8 +217,8 @@ def _compute_rankings(profiles: list[dict]) -> list[dict]:
             all_vals   = metric_values[m]
             # Rank: 1 = best (highest value)
             rank = sum(1 for v in all_vals if v > player_val) + 1
-            rankings[f"{m}_rank"]  = rank
-            rankings[f"{m}_total"] = total
+            rankings[f"{m}_rank"]  = int(rank)
+            rankings[f"{m}_total"] = int(total)
         p["rankings"] = rankings
 
     return profiles
@@ -265,7 +265,7 @@ def _compute_percentiles(profiles: list[dict], pos_group: str) -> list[dict]:
             
             # Apply Bayesian Adjustment (Gravity towards 50)
             adjusted_pct = (pct * confidence) + (50.0 * (1.0 - confidence))
-            percentiles[m] = round(adjusted_pct, 1)
+            percentiles[m] = float(round(adjusted_pct, 1))
             
         p["percentiles_2526"] = percentiles
         # Store metadata for frontend

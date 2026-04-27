@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes import (
     admin,
+    ai,
     auth,
     comparison,
     impact,
@@ -63,6 +64,7 @@ app.include_router(spatial.router, prefix=api_prefix)
 app.include_router(admin.router, prefix=api_prefix)
 app.include_router(scout_reports.router, prefix=api_prefix)
 app.include_router(match_analyzer.router, prefix=api_prefix)
+app.include_router(ai.router, prefix=api_prefix)
 
 
 @app.get("/")
