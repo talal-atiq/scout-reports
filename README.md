@@ -26,11 +26,28 @@ StatScout is an advanced, full-stack football (soccer) analytics platform built 
 
 ## 📸 Screenshots
 
-*(Add your screenshots here! Recommended: The main dashboard, the scatter plot explorer, a tactical twin result, and a player's pizza chart profile.)*
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Dashboard+Preview" alt="Dashboard Preview" width="800"/>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_dashboard.png" alt="Main Dashboard" width="100%"/>
+      <br/><sub><b>Main Dashboard</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_pizza_chart.png" alt="Player Pizza Chart" width="100%"/>
+      <br/><sub><b>Player Pizza Chart</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_scatter_plot.png" alt="Scatter Plot Explorer" width="100%"/>
+      <br/><sub><b>Scatter Plot Explorer</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_league_projection.png" alt="League Projection Map" width="100%"/>
+      <br/><sub><b>League Projection Map</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
