@@ -77,7 +77,7 @@ const describeArc = (x: number, y: number, radius: number, startAngle: number, e
 
 interface PizzaChartProps {
   percentiles: Record<string, number>;
-  theme?: "blue" | "orange" | "red" | "green";
+  theme?: "blue" | "orange" | "red" | "green" | "purple";
 }
 
 export const PizzaChart: React.FC<PizzaChartProps> = ({
@@ -139,11 +139,12 @@ export const PizzaChart: React.FC<PizzaChartProps> = ({
   // Background rings
   const rings = [20, 40, 60, 80, 100];
 
-  const bgColors = {
+  const bgColors: Record<string, string> = {
     blue: "#f0f6ff",
     orange: "#fff4eb",
-    red: "#fdf2f2",
+    red: "#fef2f2",
     green: "#f0fdf4",
+    purple: "#f5f3ff",
   };
   const bgColor = theme ? bgColors[theme] : "#fdf5e6";
 
