@@ -14,7 +14,7 @@
 
 ---
 
-StatScout is a full-stack football analytics platform built for data-driven scouting at an elite level. It ingests millions of granular match event records through a custom ETL pipeline, runs unsupervised machine learning to map player tactical styles, and surfaces deep insights through a professional, interactive dashboard. Every visualization is backed by real statistical models — from Bayesian-adjusted percentile rankings to Z-score translated league projections.
+**Scout Reports Generator** is a full-stack football analytics platform built for data-driven scouting at an elite level. It ingests millions of granular match event records through a custom ETL pipeline, runs unsupervised machine learning to map player tactical styles, and surfaces deep insights through a professional, interactive dashboard. Every visualization is backed by real statistical models — from Bayesian-adjusted percentile rankings to Z-score translated league projections.
 
 ---
 
