@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚽ StatScout</h1>
+  <h1>⚽ Scout Reports Generator</h1>
   <p><strong>Professional-Grade Football Analytics & Scouting Intelligence Platform</strong></p>
   <p>
     <em>Transforming raw event data into elite scouting intelligence — one data point at a time.</em>
@@ -240,5 +240,5 @@ Distributed under the MIT License.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for the beautiful game · <strong>StatScout</strong></sub>
+  <sub>Built with ❤️ for the beautiful game · <strong>Scout Reports Generator</strong></sub>
 </div>
