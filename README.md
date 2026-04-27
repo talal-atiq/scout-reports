@@ -1,172 +1,244 @@
 <div align="center">
-  <!-- Replace with actual logo if available -->
   <h1>⚽ StatScout</h1>
-  <p><strong>Professional-Grade Football Analytics & Scouting Platform</strong></p>
-  
+  <p><strong>Professional-Grade Football Analytics & Scouting Intelligence Platform</strong></p>
+  <p>
+    <em>Transforming raw event data into elite scouting intelligence — one data point at a time.</em>
+  </p>
+
   [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  [![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 </div>
-
-<br />
-
-StatScout is an advanced, full-stack football (soccer) analytics platform built for modern data-driven scouting. It processes millions of raw event data points via a custom ETL pipeline, applies unsupervised machine learning algorithms to map player styles, and surfaces these insights through an interactive, visually stunning React dashboard.
-
-## ✨ Key Features
-
-- **📊 Comprehensive Spatial Profiles:** Generates deep statistical profiles for players based on event data, breaking down metrics into Percentiles with Bayesian Gravity adjustments for low-minute anomalies.
-- **🗺️ Advanced Visualizations:** Features interactive Pizza Charts, Expected Threat (xT) Maps, Pass Networks, Shot Maps, and dynamic Scatter Plot Explorers.
-- **👯‍♂️ Tactical Twins:** Uses K-Means clustering and PCA (Principal Component Analysis) to group players by stylistic fingerprints, allowing scouts to find stylistically identical replacements using Euclidean distance calculations.
-- **📈 League Projection Engine:** Translates a player's underlying Z-scores into projected impact in different European leagues based on live UEFA Country Coefficients.
-- **🤖 AI Scout Annotations:** Integrates with the Groq API to automatically generate professional, context-aware scouting summaries based on raw player data.
-- **⚡ High-Performance ETL:** A robust data pipeline built with `pyarrow` and `pandera` to extract, validate, and load millions of raw `.parquet` event logs into MongoDB seamlessly.
 
 ---
 
-## 📸 Screenshots
+StatScout is a full-stack football analytics platform built for data-driven scouting at an elite level. It ingests millions of granular match event records through a custom ETL pipeline, runs unsupervised machine learning to map player tactical styles, and surfaces deep insights through a professional, interactive dashboard. Every visualization is backed by real statistical models — from Bayesian-adjusted percentile rankings to Z-score translated league projections.
+
+---
+
+## 📸 Platform Preview
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="docs/screenshot_dashboard.png" alt="Main Dashboard" width="100%"/>
-      <br/><sub><b>Main Dashboard</b></sub>
+      <img src="docs/screenshot_dashboard.png" alt="Player Scout Header" width="100%"/>
+      <br/><sub><b>Player Scout Dashboard — AI-generated summary with live xG, xA, and goal stats</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="docs/screenshot_pizza_chart.png" alt="Player Pizza Chart" width="100%"/>
-      <br/><sub><b>Player Pizza Chart</b></sub>
+      <img src="docs/screenshot_pizza_chart.png" alt="Pizza Chart" width="100%"/>
+      <br/><sub><b>Pizza Chart — Bayesian-adjusted percentile radar across 14+ elite metrics</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="docs/screenshot_scatter_plot.png" alt="Scatter Plot Explorer" width="100%"/>
-      <br/><sub><b>Scatter Plot Explorer</b></sub>
+      <img src="docs/screenshot_expectedthreat.png" alt="Expected Threat Map" width="100%"/>
+      <br/><sub><b>Expected Threat (xT) Map — Spatial danger generation by pitch zone</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="docs/screenshot_league_projection.png" alt="League Projection Map" width="100%"/>
-      <br/><sub><b>League Projection Map</b></sub>
+      <img src="docs/screenshot_heatmap.png" alt="Touch Heatmap" width="100%"/>
+      <br/><sub><b>Touch Heatmap — Pitch geography and positional influence visualization</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_scatter_plot.png" alt="European Transfer Landscape" width="100%"/>
+      <br/><sub><b>European Transfer Landscape — Cross-league scatter plot with 1,900+ Top 5 players</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/screenshot_shotmap.png" alt="Shot Map" width="100%"/>
+      <br/><sub><b>Shot Map — Season-level shot placement with outcomes and xG bubble sizing</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+## ✨ Features
 
-### Backend
-* **Framework:** [FastAPI](https://fastapi.tiangolo.com/) for high-performance async REST APIs.
-* **Database:** [MongoDB](https://www.mongodb.com/) (Motor AsyncIO) for flexible, document-based storage.
-* **Data Science / ML:** `scikit-learn` (K-Means, PCA), `scipy` (percentile calculations), `numpy`, `pandas`.
-* **ETL Pipeline:** `pyarrow` (Parquet parsing), `pandera` (schema validation).
-* **AI Integration:** Groq LLM API for natural language scouting summaries.
+### 🧠 Analytics Engine
+- **Percentile Rankings with Bayesian Gravity** — Per-player percentile scores computed against positional peers using `scipy`. Low-minute players are pulled toward the median to prevent small-sample anomalies from skewing the output.
+- **K-Means Tactical Clustering** — Unsupervised ML clusters players into tactical archetypes (Striker, Winger, CenterBack, etc.) using position-specific feature vectors. PCA reduces to 2D for the scatter plot.
+- **League Projection Engine** — Translates a player's raw stats into a projected Z-score impact across the Top 5 European leagues, weighted by live UEFA Country Coefficients (e.g. Premier League: 1.000, La Liga: 0.821).
+- **Season Distributions** — Aggregate metric distributions (mean, std, 10 percentile breakpoints) stored per position group, powering cross-player comparison without repeated DB scans.
 
-### Frontend
-* **Core:** React 18, TypeScript, Vite.
-* **Styling:** CSS/Tailwind CSS with responsive, modern glassmorphism design principles.
-* **Visualizations:** Recharts and custom canvas/SVG implementations for pitch maps.
+### 📊 Visualizations
+- **Pizza Charts** — 14-metric radial percentile chart split into Attacking, Possession, and Defending segments with color-coded wedges.
+- **Expected Threat (xT) Map** — A 12×8 zone grid overlaid on a pitch, showing where a player generates the most attacking danger, switchable between total volume and per-touch efficiency.
+- **Touch Heatmap** — Kernel-density rendered positional influence map showing where a player operates across the full pitch.
+- **Shot Map** — Season-level all-shots view with bubble sizing proportional to xG values, filterable by outcome (Goal, Saved, Missed, Blocked).
+- **European Transfer Landscape** — A live interactive scatter plot of 1,900+ players across 5 leagues, with configurable X/Y axes, minimum minutes filter, and a highlighted target player.
+
+### 🤖 AI Scout Annotations
+- **Groq LLM Integration** — After loading a player profile, StatScout automatically generates a contextual scouting paragraph using live stats as context, powered by the Groq API.
+
+---
+
+## 🏗️ Architecture
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                        Frontend (Vite + React 18)           │
+│   ScoutReportsPage → [Header | PizzaChart | xTMap |        │
+│    ShotMap | Heatmap | ScatterPlot | AiAnnotation]          │
+└────────────────────────┬────────────────────────────────────┘
+                         │ REST (axios)
+┌────────────────────────▼────────────────────────────────────┐
+│                 Backend (FastAPI + Uvicorn)                  │
+│   /api/v1/scout-reports  →  scout_reports_service           │
+│   /api/v1/spatial        →  scatter_service                 │
+│   /api/v1/ai             →  groq_service                    │
+└────────────────────────┬────────────────────────────────────┘
+                         │ Motor (async)
+┌────────────────────────▼────────────────────────────────────┐
+│                    MongoDB Atlas (statscout_db)              │
+│  player_spatial_profiles │ season_distributions             │
+│  match_player_stats      │ player_bio                       │
+│  understat_league_cache  │ player_shot_data                 │
+└─────────────────────────────────────────────────────────────┘
+                         ▲
+                         │ ETL Pipeline
+┌────────────────────────┴────────────────────────────────────┐
+│              Data Pipeline (Python)                          │
+│   spatial_aggregator.py  →  Parquet → per_90 aggregation   │
+│   style_clusterer.py     →  K-Means + PCA + Percentiles    │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.10+
-- Node.js 18+
-- MongoDB instance (local or Atlas)
+- Python **3.10+**
+- Node.js **18+**
+- A MongoDB Atlas cluster (or local MongoDB instance)
+- A [Groq API key](https://console.groq.com/) (free tier available)
 
-### 1. Backend Setup
+---
+
+### 1. Clone & Configure
 
 ```bash
-# Navigate to backend
+git clone https://github.com/talal-atiq/scout-reports.git
+cd scout-reports
+```
+
+**Backend environment:**
+```bash
+cd backend
+cp .env.example .env
+```
+
+Open `.env` and fill in your credentials:
+```env
+MONGODB_URL=mongodb+srv://<username>:<password>@<cluster-host>/?appName=<AppName>
+MONGODB_DB_NAME=statscout_db
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+---
+
+### 2. Backend
+
+```bash
 cd backend
 
 # Create and activate virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+venv\Scripts\activate      # Windows
+# source venv/bin/activate # macOS / Linux
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Environment variables
-cp .env.example .env
-```
-
-**Configure `.env`:**
-Open `.env` and configure your `MONGODB_URL` and `GROQ_API_KEY`.
-
-**Run the API:**
-```bash
+# Start the API server
 python run.py
 ```
-*The API will be available at `http://localhost:8000` (Swagger docs at `/api/docs`).*
 
-### 2. Frontend Setup
-
-```bash
-# Navigate to frontend
-cd frontend
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
-*The application will be available at `http://localhost:5173`.*
+> API available at `http://localhost:8000` · Swagger docs at `http://localhost:8000/api/docs`
 
 ---
 
-## 🗄️ Data Pipeline (ETL)
+### 3. Frontend
 
-StatScout relies on raw event data (in `.parquet` format) to generate insights. The ETL pipeline is decoupled from the main backend to allow independent scheduling and scaling.
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
-1. **Extract:** Reads granular event-level data (passes, shots, defensive actions) from Parquet files.
-2. **Transform:** Aggregates events into per-90 metrics, builds spatial fingerprints, and calculates league-specific percentiles.
-3. **Load:** Upserts validated player profiles and season distributions into MongoDB.
+> App available at `http://localhost:5173`
 
-*Note: The raw `.parquet` files are strictly `.gitignore`'d due to size constraints. To run the pipeline locally, you must acquire the relevant data files and place them in `backend/data/`.*
+---
+
+## 🗄️ Data Pipeline
+
+StatScout's analytics are powered by a two-stage ETL pipeline that runs independently from the live API:
+
+**Stage 1 — `spatial_aggregator.py`**
+Reads raw match event data (passes, shots, carries, defensive actions) from `.parquet` files, aggregates them into per-90 metrics, and builds a `style_fingerprint` vector for each player.
+
+**Stage 2 — `style_clusterer.py`**
+Loads all `player_spatial_profiles` for a given league+season, runs K-Means clustering (k=4) and PCA per position pool, computes Bayesian-adjusted percentiles, writes season distributions to MongoDB.
+
+```bash
+# Run the clustering pipeline for a specific league
+python style_clusterer.py --league "La Liga" --season "2025/2026"
+
+# Dry run to preview output without writing to DB
+python style_clusterer.py --league "Premier League" --dry-run
+```
+
+> **Note:** Raw `.parquet` event files are `.gitignore`'d due to size. Place them under `backend/data/events/<league>/` to run the pipeline locally.
 
 ---
 
 ## 📂 Project Structure
 
-```text
+```
 scout-reports/
 ├── backend/
-│   ├── app/                  # FastAPI application (routes, models, schemas, services)
-│   ├── data/                 # Raw event data (Parquet) & ETL dropzones
-│   ├── etl/                  # Data pipeline scripts & ETL requirements
-│   ├── models/               # Serialized ML models (PCA, Scalers)
-│   ├── spatial_aggregator.py # Core data transformation logic
-│   ├── style_clusterer.py    # Unsupervised ML classification pipeline
-│   └── run.py                # Uvicorn entry point
-└── frontend/
-    ├── public/               # Static assets
-    └── src/
-        ├── api/              # Axios API clients
-        ├── components/       # Reusable React UI components & Visualizations
-        ├── pages/            # Full-page views
-        └── types/            # TypeScript interfaces
+│   ├── app/
+│   │   ├── api/
+│   │   │   └── routes/         # FastAPI route handlers (scout-reports, spatial, ai)
+│   │   ├── core/               # DB connection, config, middleware
+│   │   ├── schemas/            # Pydantic response models
+│   │   └── services/           # Business logic (scatter, transfermarkt, groq)
+│   ├── etl/                    # ETL-specific configs & requirements
+│   ├── models/                 # Serialized ML model artifacts
+│   ├── spatial_aggregator.py   # Stage 1: event → per_90 aggregation
+│   ├── style_clusterer.py      # Stage 2: clustering + percentiles
+│   ├── requirements.txt        # API dependencies
+│   └── run.py                  # Uvicorn entry point
+├── frontend/
+│   └── src/
+│       ├── api/                # Axios API clients
+│       ├── components/         # Visualizations: PizzaChart, ShotMap, xTMap, etc.
+│       ├── pages/              # ScoutReportsPage, ScatterPage
+│       └── types/              # Shared TypeScript interfaces
+├── docs/                       # Screenshots and documentation assets
+└── README.md
 ```
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'feat: Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feat/your-feature`
+3. Commit with a conventional commit message: `git commit -m "feat: add pass network visualization"`
+4. Push and open a Pull Request
 
 ---
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
+
+---
 
 <div align="center">
-  <sub>Built with ❤️ for the love of the beautiful game.</sub>
+  <sub>Built with ❤️ for the beautiful game · <strong>StatScout</strong></sub>
 </div>
