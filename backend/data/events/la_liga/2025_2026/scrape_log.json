@@ -1,12 +1,68 @@
 {
   "scraped": {
+    "1914210": {
+      "url": "https://www.whoscored.com/Matches/1914210/Live/LaLiga-2025-2026-Real-Oviedo-vs-Elche",
+      "display_name": "Real Oviedo vs Elche | 2025/2026 | LaLiga | 2026-04-26",
+      "rows": 1691,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914210.parquet",
+      "scraped_at": "2026-04-26T18:44:14.578434+00:00"
+    },
+    "1914199": {
+      "url": "https://www.whoscored.com/Matches/1914199/Live/LaLiga-2025-2026-Osasuna-vs-Sevilla",
+      "display_name": "Osasuna vs Sevilla | 2025/2026 | LaLiga | 2026-04-26",
+      "rows": 1732,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914199.parquet",
+      "scraped_at": "2026-04-26T18:44:42.539701+00:00"
+    },
+    "1914202": {
+      "url": "https://www.whoscored.com/Matches/1914202/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Real-Sociedad",
+      "display_name": "Rayo Vallecano vs Real Sociedad | 2025/2026 | LaLiga | 2026-04-26",
+      "rows": 1678,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914202.parquet",
+      "scraped_at": "2026-04-26T18:45:08.570490+00:00"
+    },
+    "1914205": {
+      "url": "https://www.whoscored.com/Matches/1914205/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Athletic-Club",
+      "display_name": "Atletico Madrid vs Athletic Club | 2025/2026 | LaLiga | 2026-04-25",
+      "rows": 2024,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914205.parquet",
+      "scraped_at": "2026-04-26T18:45:37.526658+00:00"
+    },
+    "1914207": {
+      "url": "https://www.whoscored.com/Matches/1914207/Live/LaLiga-2025-2026-Getafe-vs-Barcelona",
+      "display_name": "Getafe vs Barcelona | 2025/2026 | LaLiga | 2026-04-25",
+      "rows": 1714,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914207.parquet",
+      "scraped_at": "2026-04-26T18:46:03.150772+00:00"
+    },
+    "1914190": {
+      "url": "https://www.whoscored.com/Matches/1914190/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Mallorca",
+      "display_name": "Deportivo Alaves vs Mallorca | 2025/2026 | LaLiga | 2026-04-25",
+      "rows": 1783,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914190.parquet",
+      "scraped_at": "2026-04-26T18:46:28.639783+00:00"
+    },
+    "1914213": {
+      "url": "https://www.whoscored.com/Matches/1914213/Live/LaLiga-2025-2026-Valencia-vs-Girona",
+      "display_name": "Valencia vs Girona | 2025/2026 | LaLiga | 2026-04-25",
+      "rows": 1916,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914213.parquet",
+      "scraped_at": "2026-04-26T18:46:53.009482+00:00"
+    },
     "1914193": {
       "url": "https://www.whoscored.com/Matches/1914193/Live/LaLiga-2025-2026-Real-Betis-vs-Real-Madrid",
       "display_name": "Real Betis vs Real Madrid | 2025/2026 | LaLiga | 2026-04-24",
-      "rows": 2151,
+      "rows": 2178,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914193.parquet",
-      "scraped_at": "2026-04-24T21:50:43.198040+00:00"
+      "scraped_at": "2026-04-26T18:47:21.483103+00:00"
     },
     "1914230": {
       "url": "https://www.whoscored.com/Matches/1914230/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Espanyol",
@@ -14,7 +70,7 @@
       "rows": 1602,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914230.parquet",
-      "scraped_at": "2026-04-24T21:51:05.369929+00:00"
+      "scraped_at": "2026-04-26T18:47:44.142011+00:00"
     },
     "1914218": {
       "url": "https://www.whoscored.com/Matches/1914218/Live/LaLiga-2025-2026-Levante-vs-Sevilla",
@@ -22,7 +78,7 @@
       "rows": 1625,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914218.parquet",
-      "scraped_at": "2026-04-24T21:51:28.106982+00:00"
+      "scraped_at": "2026-04-26T18:48:04.652785+00:00"
     },
     "1914222": {
       "url": "https://www.whoscored.com/Matches/1914222/Live/LaLiga-2025-2026-Real-Oviedo-vs-Villarreal",
@@ -30,7 +86,7 @@
       "rows": 2015,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914222.parquet",
-      "scraped_at": "2026-04-24T21:51:49.343026+00:00"
+      "scraped_at": "2026-04-26T18:48:31.158842+00:00"
     },
     "1914226": {
       "url": "https://www.whoscored.com/Matches/1914226/Live/LaLiga-2025-2026-Elche-vs-Atletico-Madrid",
@@ -38,7 +94,7 @@
       "rows": 1903,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914226.parquet",
-      "scraped_at": "2026-04-24T21:52:10.746864+00:00"
+      "scraped_at": "2026-04-26T18:48:54.828350+00:00"
     },
     "1914216": {
       "url": "https://www.whoscored.com/Matches/1914216/Live/LaLiga-2025-2026-Barcelona-vs-Celta-Vigo",
@@ -46,7 +102,7 @@
       "rows": 2078,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914216.parquet",
-      "scraped_at": "2026-04-24T21:52:37.919108+00:00"
+      "scraped_at": "2026-04-26T18:49:20.748419+00:00"
     },
     "1914232": {
       "url": "https://www.whoscored.com/Matches/1914232/Live/LaLiga-2025-2026-Real-Sociedad-vs-Getafe",
@@ -54,7 +110,7 @@
       "rows": 1809,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914232.parquet",
-      "scraped_at": "2026-04-24T21:53:04.596813+00:00"
+      "scraped_at": "2026-04-26T18:49:46.872594+00:00"
     },
     "1914214": {
       "url": "https://www.whoscored.com/Matches/1914214/Live/LaLiga-2025-2026-Athletic-Club-vs-Osasuna",
@@ -62,7 +118,7 @@
       "rows": 1780,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914214.parquet",
-      "scraped_at": "2026-04-24T21:53:24.163529+00:00"
+      "scraped_at": "2026-04-26T18:50:07.492069+00:00"
     },
     "1914224": {
       "url": "https://www.whoscored.com/Matches/1914224/Live/LaLiga-2025-2026-Real-Madrid-vs-Deportivo-Alaves",
@@ -70,7 +126,7 @@
       "rows": 2113,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914224.parquet",
-      "scraped_at": "2026-04-24T21:53:45.085184+00:00"
+      "scraped_at": "2026-04-26T18:50:28.929852+00:00"
     },
     "1914228": {
       "url": "https://www.whoscored.com/Matches/1914228/Live/LaLiga-2025-2026-Girona-vs-Real-Betis",
@@ -78,7 +134,7 @@
       "rows": 1963,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914228.parquet",
-      "scraped_at": "2026-04-24T21:54:06.888682+00:00"
+      "scraped_at": "2026-04-26T18:51:21.925982+00:00"
     },
     "1914220": {
       "url": "https://www.whoscored.com/Matches/1914220/Live/LaLiga-2025-2026-Mallorca-vs-Valencia",
@@ -86,7 +142,7 @@
       "rows": 1816,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914220.parquet",
-      "scraped_at": "2026-04-24T21:54:28.686107+00:00"
+      "scraped_at": "2026-04-26T18:51:48.831361+00:00"
     },
     "1914186": {
       "url": "https://www.whoscored.com/Matches/1914186/Live/LaLiga-2025-2026-Levante-vs-Getafe",
@@ -94,7 +150,7 @@
       "rows": 1613,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914186.parquet",
-      "scraped_at": "2026-04-24T21:54:52.973366+00:00"
+      "scraped_at": "2026-04-26T18:52:10.321275+00:00"
     },
     "1914197": {
       "url": "https://www.whoscored.com/Matches/1914197/Live/LaLiga-2025-2026-Athletic-Club-vs-Villarreal",
@@ -102,7 +158,7 @@
       "rows": 2064,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914197.parquet",
-      "scraped_at": "2026-04-24T21:55:19.148905+00:00"
+      "scraped_at": "2026-04-26T18:52:32.305956+00:00"
     },
     "1914203": {
       "url": "https://www.whoscored.com/Matches/1914203/Live/LaLiga-2025-2026-Celta-Vigo-vs-Real-Oviedo",
@@ -110,7 +166,7 @@
       "rows": 2018,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914203.parquet",
-      "scraped_at": "2026-04-24T21:55:43.626736+00:00"
+      "scraped_at": "2026-04-26T18:52:58.156880+00:00"
     },
     "1914177": {
       "url": "https://www.whoscored.com/Matches/1914177/Live/LaLiga-2025-2026-Mallorca-vs-Rayo-Vallecano",
@@ -118,7 +174,7 @@
       "rows": 1736,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914177.parquet",
-      "scraped_at": "2026-04-24T21:56:06.361088+00:00"
+      "scraped_at": "2026-04-26T18:53:21.144229+00:00"
     },
     "1914183": {
       "url": "https://www.whoscored.com/Matches/1914183/Live/LaLiga-2025-2026-Osasuna-vs-Real-Betis",
@@ -126,7 +182,7 @@
       "rows": 1986,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914183.parquet",
-      "scraped_at": "2026-04-24T21:56:32.438521+00:00"
+      "scraped_at": "2026-04-26T18:53:41.806851+00:00"
     },
     "1914181": {
       "url": "https://www.whoscored.com/Matches/1914181/Live/LaLiga-2025-2026-Sevilla-vs-Atletico-Madrid",
@@ -134,7 +190,7 @@
       "rows": 1785,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914181.parquet",
-      "scraped_at": "2026-04-24T21:56:57.566587+00:00"
+      "scraped_at": "2026-04-26T18:54:02.307685+00:00"
     },
     "1914200": {
       "url": "https://www.whoscored.com/Matches/1914200/Live/LaLiga-2025-2026-Barcelona-vs-Espanyol",
@@ -142,7 +198,7 @@
       "rows": 1946,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914200.parquet",
-      "scraped_at": "2026-04-24T21:57:18.619351+00:00"
+      "scraped_at": "2026-04-26T18:54:52.447166+00:00"
     },
     "1914179": {
       "url": "https://www.whoscored.com/Matches/1914179/Live/LaLiga-2025-2026-Real-Sociedad-vs-Deportivo-Alaves",
@@ -150,7 +206,7 @@
       "rows": 2036,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914179.parquet",
-      "scraped_at": "2026-04-24T21:57:43.291598+00:00"
+      "scraped_at": "2026-04-26T18:55:17.465176+00:00"
     },
     "1914176": {
       "url": "https://www.whoscored.com/Matches/1914176/Live/LaLiga-2025-2026-Elche-vs-Valencia",
@@ -158,7 +214,7 @@
       "rows": 1740,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914176.parquet",
-      "scraped_at": "2026-04-24T21:58:07.024877+00:00"
+      "scraped_at": "2026-04-26T18:55:39.806907+00:00"
     },
     "1914188": {
       "url": "https://www.whoscored.com/Matches/1914188/Live/LaLiga-2025-2026-Real-Madrid-vs-Girona",
@@ -166,7 +222,7 @@
       "rows": 2000,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914188.parquet",
-      "scraped_at": "2026-04-24T21:58:31.622866+00:00"
+      "scraped_at": "2026-04-26T18:56:06.312544+00:00"
     },
     "1914175": {
       "url": "https://www.whoscored.com/Matches/1914175/Live/LaLiga-2025-2026-Girona-vs-Villarreal",
@@ -174,7 +230,7 @@
       "rows": 1909,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914175.parquet",
-      "scraped_at": "2026-04-24T21:58:56.205098+00:00"
+      "scraped_at": "2026-04-26T18:56:32.145800+00:00"
     },
     "1914182": {
       "url": "https://www.whoscored.com/Matches/1914182/Live/LaLiga-2025-2026-Getafe-vs-Athletic-Club",
@@ -182,7 +238,7 @@
       "rows": 1787,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914182.parquet",
-      "scraped_at": "2026-04-24T21:59:27.159946+00:00"
+      "scraped_at": "2026-04-26T18:56:56.071142+00:00"
     },
     "1914185": {
       "url": "https://www.whoscored.com/Matches/1914185/Live/LaLiga-2025-2026-Valencia-vs-Celta-Vigo",
@@ -190,7 +246,7 @@
       "rows": 1742,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914185.parquet",
-      "scraped_at": "2026-04-24T21:59:51.774121+00:00"
+      "scraped_at": "2026-04-26T18:57:20.506944+00:00"
     },
     "1914169": {
       "url": "https://www.whoscored.com/Matches/1914169/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Osasuna",
@@ -198,7 +254,7 @@
       "rows": 1650,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914169.parquet",
-      "scraped_at": "2026-04-24T22:00:15.404356+00:00"
+      "scraped_at": "2026-04-26T18:57:43.695509+00:00"
     },
     "1914180": {
       "url": "https://www.whoscored.com/Matches/1914180/Live/LaLiga-2025-2026-Real-Oviedo-vs-Sevilla",
@@ -206,7 +262,7 @@
       "rows": 1579,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914180.parquet",
-      "scraped_at": "2026-04-24T22:00:37.434737+00:00"
+      "scraped_at": "2026-04-26T18:58:05.951350+00:00"
     },
     "1914171": {
       "url": "https://www.whoscored.com/Matches/1914171/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Barcelona",
@@ -214,191 +270,7 @@
       "rows": 1893,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914171.parquet",
-      "scraped_at": "2026-04-24T22:01:03.221149+00:00"
-    },
-    "1914194": {
-      "url": "https://www.whoscored.com/Matches/1914194/Live/LaLiga-2025-2026-Real-Sociedad-vs-Levante",
-      "display_name": "Real Sociedad vs Levante | 2025/2026 | LaLiga | 2026-04-04",
-      "rows": 1711,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914194.parquet",
-      "scraped_at": "2026-04-24T22:01:43.215981+00:00"
-    },
-    "1914178": {
-      "url": "https://www.whoscored.com/Matches/1914178/Live/LaLiga-2025-2026-Mallorca-vs-Real-Madrid",
-      "display_name": "Mallorca vs Real Madrid | 2025/2026 | LaLiga | 2026-04-04",
-      "rows": 1813,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914178.parquet",
-      "scraped_at": "2026-04-24T22:02:03.692468+00:00"
-    },
-    "1914191": {
-      "url": "https://www.whoscored.com/Matches/1914191/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Elche",
-      "display_name": "Rayo Vallecano vs Elche | 2025/2026 | LaLiga | 2026-04-03",
-      "rows": 1688,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914191.parquet",
-      "scraped_at": "2026-04-24T22:02:22.564118+00:00"
-    },
-    "1914163": {
-      "url": "https://www.whoscored.com/Matches/1914163/Live/LaLiga-2025-2026-Athletic-Club-vs-Real-Betis",
-      "display_name": "Athletic Club vs Real Betis | 2025/2026 | LaLiga | 2026-03-22",
-      "rows": 1979,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914163.parquet",
-      "scraped_at": "2026-04-24T22:02:48.876126+00:00"
-    },
-    "1914172": {
-      "url": "https://www.whoscored.com/Matches/1914172/Live/LaLiga-2025-2026-Real-Madrid-vs-Atletico-Madrid",
-      "display_name": "Real Madrid vs Atletico Madrid | 2025/2026 | LaLiga | 2026-03-22",
-      "rows": 1950,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914172.parquet",
-      "scraped_at": "2026-04-24T22:03:13.677602+00:00"
-    },
-    "1914165": {
-      "url": "https://www.whoscored.com/Matches/1914165/Live/LaLiga-2025-2026-Barcelona-vs-Rayo-Vallecano",
-      "display_name": "Barcelona vs Rayo Vallecano | 2025/2026 | LaLiga | 2026-03-22",
-      "rows": 1817,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914165.parquet",
-      "scraped_at": "2026-04-24T22:03:40.121866+00:00"
-    },
-    "1914170": {
-      "url": "https://www.whoscored.com/Matches/1914170/Live/LaLiga-2025-2026-Celta-Vigo-vs-Deportivo-Alaves",
-      "display_name": "Celta Vigo vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-03-22",
-      "rows": 1804,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914170.parquet",
-      "scraped_at": "2026-04-24T22:04:04.208408+00:00"
-    },
-    "1914164": {
-      "url": "https://www.whoscored.com/Matches/1914164/Live/LaLiga-2025-2026-Elche-vs-Mallorca",
-      "display_name": "Elche vs Mallorca | 2025/2026 | LaLiga | 2026-03-21",
-      "rows": 1736,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914164.parquet",
-      "scraped_at": "2026-04-24T22:04:28.518049+00:00"
-    },
-    "1914166": {
-      "url": "https://www.whoscored.com/Matches/1914166/Live/LaLiga-2025-2026-Espanyol-vs-Getafe",
-      "display_name": "Espanyol vs Getafe | 2025/2026 | LaLiga | 2026-03-21",
-      "rows": 1703,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914166.parquet",
-      "scraped_at": "2026-04-24T22:04:56.109446+00:00"
-    },
-    "1914174": {
-      "url": "https://www.whoscored.com/Matches/1914174/Live/LaLiga-2025-2026-Osasuna-vs-Girona",
-      "display_name": "Osasuna vs Girona | 2025/2026 | LaLiga | 2026-03-21",
-      "rows": 2025,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914174.parquet",
-      "scraped_at": "2026-04-24T22:05:21.271925+00:00"
-    },
-    "1914167": {
-      "url": "https://www.whoscored.com/Matches/1914167/Live/LaLiga-2025-2026-Levante-vs-Real-Oviedo",
-      "display_name": "Levante vs Real Oviedo | 2025/2026 | LaLiga | 2026-03-21",
-      "rows": 1737,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914167.parquet",
-      "scraped_at": "2026-04-24T22:05:39.103943+00:00"
-    },
-    "1914168": {
-      "url": "https://www.whoscored.com/Matches/1914168/Live/LaLiga-2025-2026-Sevilla-vs-Valencia",
-      "display_name": "Sevilla vs Valencia | 2025/2026 | LaLiga | 2026-03-21",
-      "rows": 1824,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914168.parquet",
-      "scraped_at": "2026-04-24T22:06:04.742319+00:00"
-    },
-    "1914162": {
-      "url": "https://www.whoscored.com/Matches/1914162/Live/LaLiga-2025-2026-Villarreal-vs-Real-Sociedad",
-      "display_name": "Villarreal vs Real Sociedad | 2025/2026 | LaLiga | 2026-03-20",
-      "rows": 2163,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914162.parquet",
-      "scraped_at": "2026-04-24T22:06:31.352881+00:00"
-    },
-    "1914127": {
-      "url": "https://www.whoscored.com/Matches/1914127/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Levante",
-      "display_name": "Rayo Vallecano vs Levante | 2025/2026 | LaLiga | 2026-03-16",
-      "rows": 1718,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914127.parquet",
-      "scraped_at": "2026-04-24T22:06:52.740616+00:00"
-    },
-    "1914120": {
-      "url": "https://www.whoscored.com/Matches/1914120/Live/LaLiga-2025-2026-Barcelona-vs-Sevilla",
-      "display_name": "Barcelona vs Sevilla | 2025/2026 | LaLiga | 2026-03-15",
-      "rows": 1933,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914120.parquet",
-      "scraped_at": "2026-04-24T22:07:19.595593+00:00"
-    },
-    "1914121": {
-      "url": "https://www.whoscored.com/Matches/1914121/Live/LaLiga-2025-2026-Real-Betis-vs-Celta-Vigo",
-      "display_name": "Real Betis vs Celta Vigo | 2025/2026 | LaLiga | 2026-03-15",
-      "rows": 2001,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914121.parquet",
-      "scraped_at": "2026-04-24T22:07:44.740877+00:00"
-    },
-    "1914126": {
-      "url": "https://www.whoscored.com/Matches/1914126/Live/LaLiga-2025-2026-Mallorca-vs-Espanyol",
-      "display_name": "Mallorca vs Espanyol | 2025/2026 | LaLiga | 2026-03-15",
-      "rows": 1743,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914126.parquet",
-      "scraped_at": "2026-04-24T22:08:12.114175+00:00"
-    },
-    "1914128": {
-      "url": "https://www.whoscored.com/Matches/1914128/Live/LaLiga-2025-2026-Real-Sociedad-vs-Osasuna",
-      "display_name": "Real Sociedad vs Osasuna | 2025/2026 | LaLiga | 2026-03-15",
-      "rows": 1896,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914128.parquet",
-      "scraped_at": "2026-04-24T22:08:38.641328+00:00"
-    },
-    "1914124": {
-      "url": "https://www.whoscored.com/Matches/1914124/Live/LaLiga-2025-2026-Girona-vs-Athletic-Club",
-      "display_name": "Girona vs Athletic Club | 2025/2026 | LaLiga | 2026-03-14",
-      "rows": 1998,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914124.parquet",
-      "scraped_at": "2026-04-24T22:09:02.847202+00:00"
-    },
-    "1914119": {
-      "url": "https://www.whoscored.com/Matches/1914119/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Getafe",
-      "display_name": "Atletico Madrid vs Getafe | 2025/2026 | LaLiga | 2026-03-14",
-      "rows": 1897,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914119.parquet",
-      "scraped_at": "2026-04-24T22:09:29.249073+00:00"
-    },
-    "1914125": {
-      "url": "https://www.whoscored.com/Matches/1914125/Live/LaLiga-2025-2026-Real-Madrid-vs-Elche",
-      "display_name": "Real Madrid vs Elche | 2025/2026 | LaLiga | 2026-03-14",
-      "rows": 2061,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914125.parquet",
-      "scraped_at": "2026-04-24T22:09:56.814976+00:00"
-    },
-    "1914122": {
-      "url": "https://www.whoscored.com/Matches/1914122/Live/LaLiga-2025-2026-Real-Oviedo-vs-Valencia",
-      "display_name": "Real Oviedo vs Valencia | 2025/2026 | LaLiga | 2026-03-14",
-      "rows": 1849,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914122.parquet",
-      "scraped_at": "2026-04-24T22:10:17.675310+00:00"
-    },
-    "1914118": {
-      "url": "https://www.whoscored.com/Matches/1914118/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Villarreal",
-      "display_name": "Deportivo Alaves vs Villarreal | 2025/2026 | LaLiga | 2026-03-13",
-      "rows": 1673,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914118.parquet",
-      "scraped_at": "2026-04-24T22:10:41.287888+00:00"
+      "scraped_at": "2026-04-26T18:58:26.021780+00:00"
     },
     "1914173": {
       "url": "https://www.whoscored.com/Matches/1914173/Live/LaLiga-2025-2026-Real-Betis-vs-Espanyol",
@@ -406,7 +278,191 @@
       "rows": 1994,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914173.parquet",
-      "scraped_at": "2026-04-24T22:36:57.749092+00:00"
+      "scraped_at": "2026-04-26T18:58:48.814022+00:00"
+    },
+    "1914194": {
+      "url": "https://www.whoscored.com/Matches/1914194/Live/LaLiga-2025-2026-Real-Sociedad-vs-Levante",
+      "display_name": "Real Sociedad vs Levante | 2025/2026 | LaLiga | 2026-04-04",
+      "rows": 1711,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914194.parquet",
+      "scraped_at": "2026-04-26T18:59:09.712287+00:00"
+    },
+    "1914178": {
+      "url": "https://www.whoscored.com/Matches/1914178/Live/LaLiga-2025-2026-Mallorca-vs-Real-Madrid",
+      "display_name": "Mallorca vs Real Madrid | 2025/2026 | LaLiga | 2026-04-04",
+      "rows": 1813,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914178.parquet",
+      "scraped_at": "2026-04-26T18:59:35.076398+00:00"
+    },
+    "1914191": {
+      "url": "https://www.whoscored.com/Matches/1914191/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Elche",
+      "display_name": "Rayo Vallecano vs Elche | 2025/2026 | LaLiga | 2026-04-03",
+      "rows": 1688,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914191.parquet",
+      "scraped_at": "2026-04-26T18:59:58.116098+00:00"
+    },
+    "1914163": {
+      "url": "https://www.whoscored.com/Matches/1914163/Live/LaLiga-2025-2026-Athletic-Club-vs-Real-Betis",
+      "display_name": "Athletic Club vs Real Betis | 2025/2026 | LaLiga | 2026-03-22",
+      "rows": 1979,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914163.parquet",
+      "scraped_at": "2026-04-26T19:00:19.943122+00:00"
+    },
+    "1914172": {
+      "url": "https://www.whoscored.com/Matches/1914172/Live/LaLiga-2025-2026-Real-Madrid-vs-Atletico-Madrid",
+      "display_name": "Real Madrid vs Atletico Madrid | 2025/2026 | LaLiga | 2026-03-22",
+      "rows": 1950,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914172.parquet",
+      "scraped_at": "2026-04-26T19:00:45.763107+00:00"
+    },
+    "1914165": {
+      "url": "https://www.whoscored.com/Matches/1914165/Live/LaLiga-2025-2026-Barcelona-vs-Rayo-Vallecano",
+      "display_name": "Barcelona vs Rayo Vallecano | 2025/2026 | LaLiga | 2026-03-22",
+      "rows": 1817,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914165.parquet",
+      "scraped_at": "2026-04-26T19:01:08.349783+00:00"
+    },
+    "1914170": {
+      "url": "https://www.whoscored.com/Matches/1914170/Live/LaLiga-2025-2026-Celta-Vigo-vs-Deportivo-Alaves",
+      "display_name": "Celta Vigo vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-03-22",
+      "rows": 1804,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914170.parquet",
+      "scraped_at": "2026-04-26T19:01:34.539741+00:00"
+    },
+    "1914164": {
+      "url": "https://www.whoscored.com/Matches/1914164/Live/LaLiga-2025-2026-Elche-vs-Mallorca",
+      "display_name": "Elche vs Mallorca | 2025/2026 | LaLiga | 2026-03-21",
+      "rows": 1736,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914164.parquet",
+      "scraped_at": "2026-04-26T19:02:00.679201+00:00"
+    },
+    "1914166": {
+      "url": "https://www.whoscored.com/Matches/1914166/Live/LaLiga-2025-2026-Espanyol-vs-Getafe",
+      "display_name": "Espanyol vs Getafe | 2025/2026 | LaLiga | 2026-03-21",
+      "rows": 1703,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914166.parquet",
+      "scraped_at": "2026-04-26T19:02:25.516457+00:00"
+    },
+    "1914174": {
+      "url": "https://www.whoscored.com/Matches/1914174/Live/LaLiga-2025-2026-Osasuna-vs-Girona",
+      "display_name": "Osasuna vs Girona | 2025/2026 | LaLiga | 2026-03-21",
+      "rows": 2025,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914174.parquet",
+      "scraped_at": "2026-04-26T19:02:46.945479+00:00"
+    },
+    "1914167": {
+      "url": "https://www.whoscored.com/Matches/1914167/Live/LaLiga-2025-2026-Levante-vs-Real-Oviedo",
+      "display_name": "Levante vs Real Oviedo | 2025/2026 | LaLiga | 2026-03-21",
+      "rows": 1737,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914167.parquet",
+      "scraped_at": "2026-04-26T19:03:08.075181+00:00"
+    },
+    "1914168": {
+      "url": "https://www.whoscored.com/Matches/1914168/Live/LaLiga-2025-2026-Sevilla-vs-Valencia",
+      "display_name": "Sevilla vs Valencia | 2025/2026 | LaLiga | 2026-03-21",
+      "rows": 1824,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914168.parquet",
+      "scraped_at": "2026-04-26T19:03:33.649176+00:00"
+    },
+    "1914162": {
+      "url": "https://www.whoscored.com/Matches/1914162/Live/LaLiga-2025-2026-Villarreal-vs-Real-Sociedad",
+      "display_name": "Villarreal vs Real Sociedad | 2025/2026 | LaLiga | 2026-03-20",
+      "rows": 2163,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914162.parquet",
+      "scraped_at": "2026-04-26T19:04:00.878289+00:00"
+    },
+    "1914127": {
+      "url": "https://www.whoscored.com/Matches/1914127/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Levante",
+      "display_name": "Rayo Vallecano vs Levante | 2025/2026 | LaLiga | 2026-03-16",
+      "rows": 1718,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914127.parquet",
+      "scraped_at": "2026-04-26T19:04:25.253975+00:00"
+    },
+    "1914120": {
+      "url": "https://www.whoscored.com/Matches/1914120/Live/LaLiga-2025-2026-Barcelona-vs-Sevilla",
+      "display_name": "Barcelona vs Sevilla | 2025/2026 | LaLiga | 2026-03-15",
+      "rows": 1933,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914120.parquet",
+      "scraped_at": "2026-04-26T19:04:45.877205+00:00"
+    },
+    "1914121": {
+      "url": "https://www.whoscored.com/Matches/1914121/Live/LaLiga-2025-2026-Real-Betis-vs-Celta-Vigo",
+      "display_name": "Real Betis vs Celta Vigo | 2025/2026 | LaLiga | 2026-03-15",
+      "rows": 2001,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914121.parquet",
+      "scraped_at": "2026-04-26T19:05:12.227445+00:00"
+    },
+    "1914126": {
+      "url": "https://www.whoscored.com/Matches/1914126/Live/LaLiga-2025-2026-Mallorca-vs-Espanyol",
+      "display_name": "Mallorca vs Espanyol | 2025/2026 | LaLiga | 2026-03-15",
+      "rows": 1743,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914126.parquet",
+      "scraped_at": "2026-04-26T19:05:36.801468+00:00"
+    },
+    "1914128": {
+      "url": "https://www.whoscored.com/Matches/1914128/Live/LaLiga-2025-2026-Real-Sociedad-vs-Osasuna",
+      "display_name": "Real Sociedad vs Osasuna | 2025/2026 | LaLiga | 2026-03-15",
+      "rows": 1896,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914128.parquet",
+      "scraped_at": "2026-04-26T19:06:02.693178+00:00"
+    },
+    "1914124": {
+      "url": "https://www.whoscored.com/Matches/1914124/Live/LaLiga-2025-2026-Girona-vs-Athletic-Club",
+      "display_name": "Girona vs Athletic Club | 2025/2026 | LaLiga | 2026-03-14",
+      "rows": 1998,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914124.parquet",
+      "scraped_at": "2026-04-26T19:06:24.712003+00:00"
+    },
+    "1914119": {
+      "url": "https://www.whoscored.com/Matches/1914119/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Getafe",
+      "display_name": "Atletico Madrid vs Getafe | 2025/2026 | LaLiga | 2026-03-14",
+      "rows": 1897,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914119.parquet",
+      "scraped_at": "2026-04-26T19:06:49.973467+00:00"
+    },
+    "1914125": {
+      "url": "https://www.whoscored.com/Matches/1914125/Live/LaLiga-2025-2026-Real-Madrid-vs-Elche",
+      "display_name": "Real Madrid vs Elche | 2025/2026 | LaLiga | 2026-03-14",
+      "rows": 2061,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914125.parquet",
+      "scraped_at": "2026-04-26T19:07:15.764661+00:00"
+    },
+    "1914122": {
+      "url": "https://www.whoscored.com/Matches/1914122/Live/LaLiga-2025-2026-Real-Oviedo-vs-Valencia",
+      "display_name": "Real Oviedo vs Valencia | 2025/2026 | LaLiga | 2026-03-14",
+      "rows": 1849,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914122.parquet",
+      "scraped_at": "2026-04-26T19:07:36.956610+00:00"
+    },
+    "1914118": {
+      "url": "https://www.whoscored.com/Matches/1914118/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Villarreal",
+      "display_name": "Deportivo Alaves vs Villarreal | 2025/2026 | LaLiga | 2026-03-13",
+      "rows": 1673,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914118.parquet",
+      "scraped_at": "2026-04-26T19:07:59.420361+00:00"
     },
     "1914110": {
       "url": "https://www.whoscored.com/Matches/1914110/Live/LaLiga-2025-2026-Espanyol-vs-Real-Oviedo",
@@ -414,7 +470,7 @@
       "rows": 1953,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914110.parquet",
-      "scraped_at": "2026-04-24T22:37:22.203118+00:00"
+      "scraped_at": "2026-04-26T19:08:24.357356+00:00"
     },
     "1914111": {
       "url": "https://www.whoscored.com/Matches/1914111/Live/LaLiga-2025-2026-Valencia-vs-Deportivo-Alaves",
@@ -422,7 +478,7 @@
       "rows": 2013,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914111.parquet",
-      "scraped_at": "2026-04-24T22:38:09.472517+00:00"
+      "scraped_at": "2026-04-26T19:08:47.734064+00:00"
     },
     "1914113": {
       "url": "https://www.whoscored.com/Matches/1914113/Live/LaLiga-2025-2026-Villarreal-vs-Elche",
@@ -430,7 +486,7 @@
       "rows": 1958,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914113.parquet",
-      "scraped_at": "2026-04-24T23:26:57.491966+00:00"
+      "scraped_at": "2026-04-26T19:09:09.725114+00:00"
     },
     "1914112": {
       "url": "https://www.whoscored.com/Matches/1914112/Live/LaLiga-2025-2026-Getafe-vs-Real-Betis",
@@ -438,7 +494,7 @@
       "rows": 1722,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914112.parquet",
-      "scraped_at": "2026-04-24T23:27:20.378293+00:00"
+      "scraped_at": "2026-04-26T19:09:34.816539+00:00"
     },
     "1914117": {
       "url": "https://www.whoscored.com/Matches/1914117/Live/LaLiga-2025-2026-Sevilla-vs-Rayo-Vallecano",
@@ -446,7 +502,7 @@
       "rows": 1578,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914117.parquet",
-      "scraped_at": "2026-04-24T23:27:41.565300+00:00"
+      "scraped_at": "2026-04-26T19:09:57.568055+00:00"
     },
     "1914145": {
       "url": "https://www.whoscored.com/Matches/1914145/Live/LaLiga-2025-2026-Athletic-Club-vs-Barcelona",
@@ -454,7 +510,7 @@
       "rows": 1934,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914145.parquet",
-      "scraped_at": "2026-04-24T23:28:05.453157+00:00"
+      "scraped_at": "2026-04-26T19:10:19.495536+00:00"
     },
     "1914146": {
       "url": "https://www.whoscored.com/Matches/1914146/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Real-Sociedad",
@@ -462,7 +518,7 @@
       "rows": 1936,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914146.parquet",
-      "scraped_at": "2026-04-24T23:28:29.492184+00:00"
+      "scraped_at": "2026-04-26T19:10:40.957895+00:00"
     },
     "1914115": {
       "url": "https://www.whoscored.com/Matches/1914115/Live/LaLiga-2025-2026-Levante-vs-Girona",
@@ -470,7 +526,7 @@
       "rows": 1917,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914115.parquet",
-      "scraped_at": "2026-04-24T23:28:50.994834+00:00"
+      "scraped_at": "2026-04-26T19:11:07.569013+00:00"
     },
     "1914116": {
       "url": "https://www.whoscored.com/Matches/1914116/Live/LaLiga-2025-2026-Osasuna-vs-Mallorca",
@@ -478,7 +534,7 @@
       "rows": 1791,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914116.parquet",
-      "scraped_at": "2026-04-24T23:29:12.981865+00:00"
+      "scraped_at": "2026-04-26T19:11:33.564904+00:00"
     },
     "1914147": {
       "url": "https://www.whoscored.com/Matches/1914147/Live/LaLiga-2025-2026-Celta-Vigo-vs-Real-Madrid",
@@ -486,7 +542,7 @@
       "rows": 2295,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914147.parquet",
-      "scraped_at": "2026-04-24T23:29:40.228687+00:00"
+      "scraped_at": "2026-04-26T19:12:02.130893+00:00"
     },
     "1914092": {
       "url": "https://www.whoscored.com/Matches/1914092/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Real-Oviedo",
@@ -494,7 +550,7 @@
       "rows": 1670,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914092.parquet",
-      "scraped_at": "2026-04-24T23:30:00.189879+00:00"
+      "scraped_at": "2026-04-26T19:12:23.950158+00:00"
     },
     "1914143": {
       "url": "https://www.whoscored.com/Matches/1914143/Live/LaLiga-2025-2026-Real-Madrid-vs-Getafe",
@@ -502,7 +558,7 @@
       "rows": 1953,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914143.parquet",
-      "scraped_at": "2026-04-24T23:30:22.444820+00:00"
+      "scraped_at": "2026-04-26T19:12:49.998364+00:00"
     },
     "1914142": {
       "url": "https://www.whoscored.com/Matches/1914142/Live/LaLiga-2025-2026-Girona-vs-Celta-Vigo",
@@ -510,7 +566,7 @@
       "rows": 2058,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914142.parquet",
-      "scraped_at": "2026-04-24T23:30:47.529781+00:00"
+      "scraped_at": "2026-04-26T19:13:14.869585+00:00"
     },
     "1914137": {
       "url": "https://www.whoscored.com/Matches/1914137/Live/LaLiga-2025-2026-Elche-vs-Espanyol",
@@ -518,7 +574,7 @@
       "rows": 1735,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914137.parquet",
-      "scraped_at": "2026-04-24T23:31:11.203086+00:00"
+      "scraped_at": "2026-04-26T19:13:40.762777+00:00"
     },
     "1914144": {
       "url": "https://www.whoscored.com/Matches/1914144/Live/LaLiga-2025-2026-Valencia-vs-Osasuna",
@@ -526,7 +582,7 @@
       "rows": 1742,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914144.parquet",
-      "scraped_at": "2026-04-24T23:31:35.224515+00:00"
+      "scraped_at": "2026-04-26T19:14:06.049245+00:00"
     },
     "1914136": {
       "url": "https://www.whoscored.com/Matches/1914136/Live/LaLiga-2025-2026-Real-Betis-vs-Sevilla",
@@ -534,7 +590,7 @@
       "rows": 1912,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914136.parquet",
-      "scraped_at": "2026-04-24T23:32:00.712947+00:00"
+      "scraped_at": "2026-04-26T19:14:31.064077+00:00"
     },
     "1914140": {
       "url": "https://www.whoscored.com/Matches/1914140/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Athletic-Club",
@@ -542,7 +598,7 @@
       "rows": 1588,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914140.parquet",
-      "scraped_at": "2026-04-24T23:32:18.931955+00:00"
+      "scraped_at": "2026-04-26T19:14:55.052449+00:00"
     },
     "1914141": {
       "url": "https://www.whoscored.com/Matches/1914141/Live/LaLiga-2025-2026-Real-Oviedo-vs-Atletico-Madrid",
@@ -550,7 +606,7 @@
       "rows": 1950,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914141.parquet",
-      "scraped_at": "2026-04-24T23:32:40.120606+00:00"
+      "scraped_at": "2026-04-26T19:15:18.896992+00:00"
     },
     "1914135": {
       "url": "https://www.whoscored.com/Matches/1914135/Live/LaLiga-2025-2026-Barcelona-vs-Villarreal",
@@ -558,7 +614,7 @@
       "rows": 2081,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914135.parquet",
-      "scraped_at": "2026-04-24T23:33:05.097022+00:00"
+      "scraped_at": "2026-04-26T19:15:41.799818+00:00"
     },
     "1914138": {
       "url": "https://www.whoscored.com/Matches/1914138/Live/LaLiga-2025-2026-Mallorca-vs-Real-Sociedad",
@@ -566,7 +622,7 @@
       "rows": 1852,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914138.parquet",
-      "scraped_at": "2026-04-24T23:33:28.579523+00:00"
+      "scraped_at": "2026-04-26T19:16:07.371118+00:00"
     },
     "1914139": {
       "url": "https://www.whoscored.com/Matches/1914139/Live/LaLiga-2025-2026-Levante-vs-Deportivo-Alaves",
@@ -574,7 +630,7 @@
       "rows": 1802,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914139.parquet",
-      "scraped_at": "2026-04-24T23:33:49.966790+00:00"
+      "scraped_at": "2026-04-26T19:16:29.457917+00:00"
     },
     "1914108": {
       "url": "https://www.whoscored.com/Matches/1914108/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Girona",
@@ -582,7 +638,7 @@
       "rows": 2040,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914108.parquet",
-      "scraped_at": "2026-04-24T23:34:10.552323+00:00"
+      "scraped_at": "2026-04-26T19:16:52.625448+00:00"
     },
     "1914123": {
       "url": "https://www.whoscored.com/Matches/1914123/Live/LaLiga-2025-2026-Barcelona-vs-Levante",
@@ -590,7 +646,7 @@
       "rows": 2073,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914123.parquet",
-      "scraped_at": "2026-04-24T23:34:36.623587+00:00"
+      "scraped_at": "2026-04-26T19:17:19.798005+00:00"
     },
     "1914130": {
       "url": "https://www.whoscored.com/Matches/1914130/Live/LaLiga-2025-2026-Celta-Vigo-vs-Mallorca",
@@ -598,7 +654,7 @@
       "rows": 1809,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914130.parquet",
-      "scraped_at": "2026-04-24T23:35:01.614988+00:00"
+      "scraped_at": "2026-04-26T19:17:44.248832+00:00"
     },
     "1914131": {
       "url": "https://www.whoscored.com/Matches/1914131/Live/LaLiga-2025-2026-Getafe-vs-Sevilla",
@@ -606,7 +662,7 @@
       "rows": 1639,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914131.parquet",
-      "scraped_at": "2026-04-24T23:35:24.384930+00:00"
+      "scraped_at": "2026-04-26T19:18:08.489398+00:00"
     },
     "1914133": {
       "url": "https://www.whoscored.com/Matches/1914133/Live/LaLiga-2025-2026-Villarreal-vs-Valencia",
@@ -614,7 +670,7 @@
       "rows": 1811,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914133.parquet",
-      "scraped_at": "2026-04-24T23:35:45.592458+00:00"
+      "scraped_at": "2026-04-26T19:18:31.816587+00:00"
     },
     "1914114": {
       "url": "https://www.whoscored.com/Matches/1914114/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Espanyol",
@@ -622,7 +678,7 @@
       "rows": 2115,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914114.parquet",
-      "scraped_at": "2026-04-24T23:36:08.884815+00:00"
+      "scraped_at": "2026-04-26T19:18:53.193935+00:00"
     },
     "1914132": {
       "url": "https://www.whoscored.com/Matches/1914132/Live/LaLiga-2025-2026-Osasuna-vs-Real-Madrid",
@@ -630,7 +686,7 @@
       "rows": 1861,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914132.parquet",
-      "scraped_at": "2026-04-24T23:36:29.965677+00:00"
+      "scraped_at": "2026-04-26T19:19:17.126306+00:00"
     },
     "1914129": {
       "url": "https://www.whoscored.com/Matches/1914129/Live/LaLiga-2025-2026-Real-Betis-vs-Rayo-Vallecano",
@@ -638,7 +694,7 @@
       "rows": 1834,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914129.parquet",
-      "scraped_at": "2026-04-24T23:36:48.325757+00:00"
+      "scraped_at": "2026-04-26T19:19:46.836245+00:00"
     },
     "1914134": {
       "url": "https://www.whoscored.com/Matches/1914134/Live/LaLiga-2025-2026-Real-Sociedad-vs-Real-Oviedo",
@@ -646,7 +702,7 @@
       "rows": 1818,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914134.parquet",
-      "scraped_at": "2026-04-24T23:37:07.091794+00:00"
+      "scraped_at": "2026-04-26T19:20:08.673198+00:00"
     },
     "1914109": {
       "url": "https://www.whoscored.com/Matches/1914109/Live/LaLiga-2025-2026-Athletic-Club-vs-Elche",
@@ -654,7 +710,7 @@
       "rows": 1822,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914109.parquet",
-      "scraped_at": "2026-04-24T23:37:27.838668+00:00"
+      "scraped_at": "2026-04-26T19:20:29.848182+00:00"
     },
     "1914035": {
       "url": "https://www.whoscored.com/Matches/1914035/Live/LaLiga-2025-2026-Levante-vs-Villarreal",
@@ -662,7 +718,7 @@
       "rows": 1896,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914035.parquet",
-      "scraped_at": "2026-04-24T23:37:52.286435+00:00"
+      "scraped_at": "2026-04-26T19:20:55.160828+00:00"
     },
     "1914105": {
       "url": "https://www.whoscored.com/Matches/1914105/Live/LaLiga-2025-2026-Girona-vs-Barcelona",
@@ -670,7 +726,7 @@
       "rows": 2147,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914105.parquet",
-      "scraped_at": "2026-04-24T23:38:16.488244+00:00"
+      "scraped_at": "2026-04-26T19:21:20.290212+00:00"
     },
     "1914102": {
       "url": "https://www.whoscored.com/Matches/1914102/Live/LaLiga-2025-2026-Real-Oviedo-vs-Athletic-Club",
@@ -678,7 +734,7 @@
       "rows": 1785,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914102.parquet",
-      "scraped_at": "2026-04-24T23:38:40.151431+00:00"
+      "scraped_at": "2026-04-26T19:21:46.119888+00:00"
     },
     "1914103": {
       "url": "https://www.whoscored.com/Matches/1914103/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Atletico-Madrid",
@@ -686,7 +742,7 @@
       "rows": 1888,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914103.parquet",
-      "scraped_at": "2026-04-24T23:39:03.505360+00:00"
+      "scraped_at": "2026-04-26T19:22:15.364895+00:00"
     },
     "1914098": {
       "url": "https://www.whoscored.com/Matches/1914098/Live/LaLiga-2025-2026-Levante-vs-Valencia",
@@ -694,671 +750,7 @@
       "rows": 1634,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914098.parquet",
-      "scraped_at": "2026-04-24T23:39:24.369235+00:00"
-    },
-    "1914101": {
-      "url": "https://www.whoscored.com/Matches/1914101/Live/LaLiga-2025-2026-Sevilla-vs-Deportivo-Alaves",
-      "display_name": "Sevilla vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-02-14",
-      "rows": 1648,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914101.parquet",
-      "scraped_at": "2026-04-24T23:40:17.270915+00:00"
-    },
-    "1914096": {
-      "url": "https://www.whoscored.com/Matches/1914096/Live/LaLiga-2025-2026-Getafe-vs-Villarreal",
-      "display_name": "Getafe vs Villarreal | 2025/2026 | LaLiga | 2026-02-14",
-      "rows": 1549,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914096.parquet",
-      "scraped_at": "2026-04-24T23:40:38.323615+00:00"
-    },
-    "1914094": {
-      "url": "https://www.whoscored.com/Matches/1914094/Live/LaLiga-2025-2026-Elche-vs-Osasuna",
-      "display_name": "Elche vs Osasuna | 2025/2026 | LaLiga | 2026-02-13",
-      "rows": 1610,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914094.parquet",
-      "scraped_at": "2026-04-24T23:41:18.051559+00:00"
-    },
-    "1914156": {
-      "url": "https://www.whoscored.com/Matches/1914156/Live/LaLiga-2025-2026-Athletic-Club-vs-Levante",
-      "display_name": "Athletic Club vs Levante | 2025/2026 | LaLiga | 2026-02-08",
-      "rows": 1920,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914156.parquet",
-      "scraped_at": "2026-04-24T23:42:03.973455+00:00"
-    },
-    "1914155": {
-      "url": "https://www.whoscored.com/Matches/1914155/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Getafe",
-      "display_name": "Deportivo Alaves vs Getafe | 2025/2026 | LaLiga | 2026-02-08",
-      "rows": 1710,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914155.parquet",
-      "scraped_at": "2026-04-24T23:42:39.260961+00:00"
-    },
-    "1914087": {
-      "url": "https://www.whoscored.com/Matches/1914087/Live/LaLiga-2025-2026-Sevilla-vs-Girona",
-      "display_name": "Sevilla vs Girona | 2025/2026 | LaLiga | 2026-02-08",
-      "rows": 1870,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914087.parquet",
-      "scraped_at": "2026-04-24T23:42:59.859935+00:00"
-    },
-    "1914089": {
-      "url": "https://www.whoscored.com/Matches/1914089/Live/LaLiga-2025-2026-Valencia-vs-Real-Madrid",
-      "display_name": "Valencia vs Real Madrid | 2025/2026 | LaLiga | 2026-02-08",
-      "rows": 1847,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914089.parquet",
-      "scraped_at": "2026-04-24T23:43:23.636827+00:00"
-    },
-    "1914158": {
-      "url": "https://www.whoscored.com/Matches/1914158/Live/LaLiga-2025-2026-Barcelona-vs-Mallorca",
-      "display_name": "Barcelona vs Mallorca | 2025/2026 | LaLiga | 2026-02-07",
-      "rows": 2041,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914158.parquet",
-      "scraped_at": "2026-04-24T23:43:48.564301+00:00"
-    },
-    "1914160": {
-      "url": "https://www.whoscored.com/Matches/1914160/Live/LaLiga-2025-2026-Real-Sociedad-vs-Elche",
-      "display_name": "Real Sociedad vs Elche | 2025/2026 | LaLiga | 2026-02-07",
-      "rows": 1839,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914160.parquet",
-      "scraped_at": "2026-04-24T23:44:08.027092+00:00"
-    },
-    "1914159": {
-      "url": "https://www.whoscored.com/Matches/1914159/Live/LaLiga-2025-2026-Celta-Vigo-vs-Osasuna",
-      "display_name": "Celta Vigo vs Osasuna | 2025/2026 | LaLiga | 2026-02-06",
-      "rows": 1903,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914159.parquet",
-      "scraped_at": "2026-04-24T23:44:27.660048+00:00"
-    },
-    "1914074": {
-      "url": "https://www.whoscored.com/Matches/1914074/Live/LaLiga-2025-2026-Mallorca-vs-Sevilla",
-      "display_name": "Mallorca vs Sevilla | 2025/2026 | LaLiga | 2026-02-02",
-      "rows": 1826,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914074.parquet",
-      "scraped_at": "2026-04-24T23:44:48.102061+00:00"
-    },
-    "1914104": {
-      "url": "https://www.whoscored.com/Matches/1914104/Live/LaLiga-2025-2026-Athletic-Club-vs-Real-Sociedad",
-      "display_name": "Athletic Club vs Real Sociedad | 2025/2026 | LaLiga | 2026-02-01",
-      "rows": 1863,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914104.parquet",
-      "scraped_at": "2026-04-24T23:45:10.832613+00:00"
-    },
-    "1914085": {
-      "url": "https://www.whoscored.com/Matches/1914085/Live/LaLiga-2025-2026-Getafe-vs-Celta-Vigo",
-      "display_name": "Getafe vs Celta Vigo | 2025/2026 | LaLiga | 2026-02-01",
-      "rows": 1760,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914085.parquet",
-      "scraped_at": "2026-04-24T23:45:35.027373+00:00"
-    },
-    "1914072": {
-      "url": "https://www.whoscored.com/Matches/1914072/Live/LaLiga-2025-2026-Real-Betis-vs-Valencia",
-      "display_name": "Real Betis vs Valencia | 2025/2026 | LaLiga | 2026-02-01",
-      "rows": 1845,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914072.parquet",
-      "scraped_at": "2026-04-24T23:45:56.379680+00:00"
-    },
-    "1914154": {
-      "url": "https://www.whoscored.com/Matches/1914154/Live/LaLiga-2025-2026-Real-Madrid-vs-Rayo-Vallecano",
-      "display_name": "Real Madrid vs Rayo Vallecano | 2025/2026 | LaLiga | 2026-02-01",
-      "rows": 2132,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914154.parquet",
-      "scraped_at": "2026-04-24T23:46:22.839541+00:00"
-    },
-    "1914081": {
-      "url": "https://www.whoscored.com/Matches/1914081/Live/LaLiga-2025-2026-Levante-vs-Atletico-Madrid",
-      "display_name": "Levante vs Atletico Madrid | 2025/2026 | LaLiga | 2026-01-31",
-      "rows": 1887,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914081.parquet",
-      "scraped_at": "2026-04-24T23:46:48.125403+00:00"
-    },
-    "1914083": {
-      "url": "https://www.whoscored.com/Matches/1914083/Live/LaLiga-2025-2026-Elche-vs-Barcelona",
-      "display_name": "Elche vs Barcelona | 2025/2026 | LaLiga | 2026-01-31",
-      "rows": 1930,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914083.parquet",
-      "scraped_at": "2026-04-24T23:47:08.860740+00:00"
-    },
-    "1914090": {
-      "url": "https://www.whoscored.com/Matches/1914090/Live/LaLiga-2025-2026-Real-Oviedo-vs-Girona",
-      "display_name": "Real Oviedo vs Girona | 2025/2026 | LaLiga | 2026-01-31",
-      "rows": 1841,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914090.parquet",
-      "scraped_at": "2026-04-24T23:47:32.360469+00:00"
-    },
-    "1914076": {
-      "url": "https://www.whoscored.com/Matches/1914076/Live/LaLiga-2025-2026-Osasuna-vs-Villarreal",
-      "display_name": "Osasuna vs Villarreal | 2025/2026 | LaLiga | 2026-01-31",
-      "rows": 1815,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914076.parquet",
-      "scraped_at": "2026-04-24T23:47:54.745756+00:00"
-    },
-    "1914078": {
-      "url": "https://www.whoscored.com/Matches/1914078/Live/LaLiga-2025-2026-Espanyol-vs-Deportivo-Alaves",
-      "display_name": "Espanyol vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-01-30",
-      "rows": 1828,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914078.parquet",
-      "scraped_at": "2026-04-24T23:48:15.767481+00:00"
-    },
-    "1914084": {
-      "url": "https://www.whoscored.com/Matches/1914084/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Mallorca",
-      "display_name": "Atletico Madrid vs Mallorca | 2025/2026 | LaLiga | 2026-01-25",
-      "rows": 1981,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914084.parquet",
-      "scraped_at": "2026-04-24T23:48:52.995157+00:00"
-    },
-    "1914086": {
-      "url": "https://www.whoscored.com/Matches/1914086/Live/LaLiga-2025-2026-Barcelona-vs-Real-Oviedo",
-      "display_name": "Barcelona vs Real Oviedo | 2025/2026 | LaLiga | 2026-01-25",
-      "rows": 1955,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914086.parquet",
-      "scraped_at": "2026-04-24T23:49:12.688620+00:00"
-    },
-    "1914088": {
-      "url": "https://www.whoscored.com/Matches/1914088/Live/LaLiga-2025-2026-Real-Sociedad-vs-Celta-Vigo",
-      "display_name": "Real Sociedad vs Celta Vigo | 2025/2026 | LaLiga | 2026-01-25",
-      "rows": 2010,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914088.parquet",
-      "scraped_at": "2026-04-24T23:49:33.485171+00:00"
-    },
-    "1914082": {
-      "url": "https://www.whoscored.com/Matches/1914082/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Betis",
-      "display_name": "Deportivo Alaves vs Real Betis | 2025/2026 | LaLiga | 2026-01-25",
-      "rows": 1950,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914082.parquet",
-      "scraped_at": "2026-04-24T23:49:55.868464+00:00"
-    },
-    "1914080": {
-      "url": "https://www.whoscored.com/Matches/1914080/Live/LaLiga-2025-2026-Sevilla-vs-Athletic-Club",
-      "display_name": "Sevilla vs Athletic Club | 2025/2026 | LaLiga | 2026-01-24",
-      "rows": 1818,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914080.parquet",
-      "scraped_at": "2026-04-24T23:50:15.040987+00:00"
-    },
-    "1914093": {
-      "url": "https://www.whoscored.com/Matches/1914093/Live/LaLiga-2025-2026-Valencia-vs-Espanyol",
-      "display_name": "Valencia vs Espanyol | 2025/2026 | LaLiga | 2026-01-24",
-      "rows": 1792,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914093.parquet",
-      "scraped_at": "2026-04-24T23:50:38.671063+00:00"
-    },
-    "1914097": {
-      "url": "https://www.whoscored.com/Matches/1914097/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Osasuna",
-      "display_name": "Rayo Vallecano vs Osasuna | 2025/2026 | LaLiga | 2026-01-24",
-      "rows": 1715,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914097.parquet",
-      "scraped_at": "2026-04-24T23:51:00.019033+00:00"
-    },
-    "1914099": {
-      "url": "https://www.whoscored.com/Matches/1914099/Live/LaLiga-2025-2026-Villarreal-vs-Real-Madrid",
-      "display_name": "Villarreal vs Real Madrid | 2025/2026 | LaLiga | 2026-01-24",
-      "rows": 1989,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914099.parquet",
-      "scraped_at": "2026-04-24T23:51:21.890664+00:00"
-    },
-    "1914091": {
-      "url": "https://www.whoscored.com/Matches/1914091/Live/LaLiga-2025-2026-Levante-vs-Elche",
-      "display_name": "Levante vs Elche | 2025/2026 | LaLiga | 2026-01-23",
-      "rows": 1793,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914091.parquet",
-      "scraped_at": "2026-04-24T23:51:40.892426+00:00"
-    },
-    "1914150": {
-      "url": "https://www.whoscored.com/Matches/1914150/Live/LaLiga-2025-2026-Elche-vs-Sevilla",
-      "display_name": "Elche vs Sevilla | 2025/2026 | LaLiga | 2026-01-19",
-      "rows": 1716,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914150.parquet",
-      "scraped_at": "2026-04-24T23:52:03.279028+00:00"
-    },
-    "1914073": {
-      "url": "https://www.whoscored.com/Matches/1914073/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Deportivo-Alaves",
-      "display_name": "Atletico Madrid vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-01-18",
-      "rows": 2111,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914073.parquet",
-      "scraped_at": "2026-04-24T23:52:23.524966+00:00"
-    },
-    "1914077": {
-      "url": "https://www.whoscored.com/Matches/1914077/Live/LaLiga-2025-2026-Real-Sociedad-vs-Barcelona",
-      "display_name": "Real Sociedad vs Barcelona | 2025/2026 | LaLiga | 2026-01-18",
-      "rows": 1839,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914077.parquet",
-      "scraped_at": "2026-04-24T23:52:44.699429+00:00"
-    },
-    "1914149": {
-      "url": "https://www.whoscored.com/Matches/1914149/Live/LaLiga-2025-2026-Celta-Vigo-vs-Rayo-Vallecano",
-      "display_name": "Celta Vigo vs Rayo Vallecano | 2025/2026 | LaLiga | 2026-01-18",
-      "rows": 1832,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914149.parquet",
-      "scraped_at": "2026-04-24T23:53:06.157946+00:00"
-    },
-    "1914152": {
-      "url": "https://www.whoscored.com/Matches/1914152/Live/LaLiga-2025-2026-Getafe-vs-Valencia",
-      "display_name": "Getafe vs Valencia | 2025/2026 | LaLiga | 2026-01-18",
-      "rows": 1674,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914152.parquet",
-      "scraped_at": "2026-04-24T23:53:28.935431+00:00"
-    },
-    "1914075": {
-      "url": "https://www.whoscored.com/Matches/1914075/Live/LaLiga-2025-2026-Mallorca-vs-Athletic-Club",
-      "display_name": "Mallorca vs Athletic Club | 2025/2026 | LaLiga | 2026-01-17",
-      "rows": 1863,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914075.parquet",
-      "scraped_at": "2026-04-24T23:53:46.429335+00:00"
-    },
-    "1914079": {
-      "url": "https://www.whoscored.com/Matches/1914079/Live/LaLiga-2025-2026-Real-Madrid-vs-Levante",
-      "display_name": "Real Madrid vs Levante | 2025/2026 | LaLiga | 2026-01-17",
-      "rows": 2074,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914079.parquet",
-      "scraped_at": "2026-04-24T23:54:10.692484+00:00"
-    },
-    "1914153": {
-      "url": "https://www.whoscored.com/Matches/1914153/Live/LaLiga-2025-2026-Osasuna-vs-Real-Oviedo",
-      "display_name": "Osasuna vs Real Oviedo | 2025/2026 | LaLiga | 2026-01-17",
-      "rows": 1668,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914153.parquet",
-      "scraped_at": "2026-04-24T23:54:32.215247+00:00"
-    },
-    "1914148": {
-      "url": "https://www.whoscored.com/Matches/1914148/Live/LaLiga-2025-2026-Real-Betis-vs-Villarreal",
-      "display_name": "Real Betis vs Villarreal | 2025/2026 | LaLiga | 2026-01-17",
-      "rows": 1835,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914148.parquet",
-      "scraped_at": "2026-04-24T23:54:55.165744+00:00"
-    },
-    "1914151": {
-      "url": "https://www.whoscored.com/Matches/1914151/Live/LaLiga-2025-2026-Espanyol-vs-Girona",
-      "display_name": "Espanyol vs Girona | 2025/2026 | LaLiga | 2026-01-16",
-      "rows": 1898,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914151.parquet",
-      "scraped_at": "2026-04-24T23:55:18.699312+00:00"
-    },
-    "1914068": {
-      "url": "https://www.whoscored.com/Matches/1914068/Live/LaLiga-2025-2026-Sevilla-vs-Celta-Vigo",
-      "display_name": "Sevilla vs Celta Vigo | 2025/2026 | LaLiga | 2026-01-12",
-      "rows": 1669,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914068.parquet",
-      "scraped_at": "2026-04-24T23:55:37.308256+00:00"
-    },
-    "1914070": {
-      "url": "https://www.whoscored.com/Matches/1914070/Live/LaLiga-2025-2026-Levante-vs-Espanyol",
-      "display_name": "Levante vs Espanyol | 2025/2026 | LaLiga | 2026-01-11",
-      "rows": 1798,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914070.parquet",
-      "scraped_at": "2026-04-24T23:56:05.714133+00:00"
-    },
-    "1914069": {
-      "url": "https://www.whoscored.com/Matches/1914069/Live/LaLiga-2025-2026-Valencia-vs-Elche",
-      "display_name": "Valencia vs Elche | 2025/2026 | LaLiga | 2026-01-10",
-      "rows": 1861,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914069.parquet",
-      "scraped_at": "2026-04-24T23:56:56.738196+00:00"
-    },
-    "1914064": {
-      "url": "https://www.whoscored.com/Matches/1914064/Live/LaLiga-2025-2026-Girona-vs-Osasuna",
-      "display_name": "Girona vs Osasuna | 2025/2026 | LaLiga | 2026-01-10",
-      "rows": 1933,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914064.parquet",
-      "scraped_at": "2026-04-24T23:57:15.614198+00:00"
-    },
-    "1914067": {
-      "url": "https://www.whoscored.com/Matches/1914067/Live/LaLiga-2025-2026-Real-Oviedo-vs-Real-Betis",
-      "display_name": "Real Oviedo vs Real Betis | 2025/2026 | LaLiga | 2026-01-10",
-      "rows": 1988,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914067.parquet",
-      "scraped_at": "2026-04-24T23:57:38.447066+00:00"
-    },
-    "1914063": {
-      "url": "https://www.whoscored.com/Matches/1914063/Live/LaLiga-2025-2026-Getafe-vs-Real-Sociedad",
-      "display_name": "Getafe vs Real Sociedad | 2025/2026 | LaLiga | 2026-01-09",
-      "rows": 1847,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914063.parquet",
-      "scraped_at": "2026-04-24T23:58:00.615739+00:00"
-    },
-    "1914056": {
-      "url": "https://www.whoscored.com/Matches/1914056/Live/LaLiga-2025-2026-Real-Sociedad-vs-Atletico-Madrid",
-      "display_name": "Real Sociedad vs Atletico Madrid | 2025/2026 | LaLiga | 2026-01-04",
-      "rows": 1919,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914056.parquet",
-      "scraped_at": "2026-04-24T23:58:25.645447+00:00"
-    },
-    "1914052": {
-      "url": "https://www.whoscored.com/Matches/1914052/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Oviedo",
-      "display_name": "Deportivo Alaves vs Real Oviedo | 2025/2026 | LaLiga | 2026-01-04",
-      "rows": 1874,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914052.parquet",
-      "scraped_at": "2026-04-24T23:58:46.052813+00:00"
-    },
-    "1914060": {
-      "url": "https://www.whoscored.com/Matches/1914060/Live/LaLiga-2025-2026-Mallorca-vs-Girona",
-      "display_name": "Mallorca vs Girona | 2025/2026 | LaLiga | 2026-01-04",
-      "rows": 1937,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914060.parquet",
-      "scraped_at": "2026-04-24T23:59:07.284973+00:00"
-    },
-    "1914061": {
-      "url": "https://www.whoscored.com/Matches/1914061/Live/LaLiga-2025-2026-Sevilla-vs-Levante",
-      "display_name": "Sevilla vs Levante | 2025/2026 | LaLiga | 2026-01-04",
-      "rows": 1704,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914061.parquet",
-      "scraped_at": "2026-04-24T23:59:31.125707+00:00"
-    },
-    "1914058": {
-      "url": "https://www.whoscored.com/Matches/1914058/Live/LaLiga-2025-2026-Real-Madrid-vs-Real-Betis",
-      "display_name": "Real Madrid vs Real Betis | 2025/2026 | LaLiga | 2026-01-04",
-      "rows": 2031,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914058.parquet",
-      "scraped_at": "2026-04-24T23:59:51.624056+00:00"
-    },
-    "1914055": {
-      "url": "https://www.whoscored.com/Matches/1914055/Live/LaLiga-2025-2026-Osasuna-vs-Athletic-Club",
-      "display_name": "Osasuna vs Athletic Club | 2025/2026 | LaLiga | 2026-01-03",
-      "rows": 1890,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914055.parquet",
-      "scraped_at": "2026-04-25T00:00:11.171267+00:00"
-    },
-    "1914057": {
-      "url": "https://www.whoscored.com/Matches/1914057/Live/LaLiga-2025-2026-Espanyol-vs-Barcelona",
-      "display_name": "Espanyol vs Barcelona | 2025/2026 | LaLiga | 2026-01-03",
-      "rows": 1740,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914057.parquet",
-      "scraped_at": "2026-04-25T00:00:30.251132+00:00"
-    },
-    "1914053": {
-      "url": "https://www.whoscored.com/Matches/1914053/Live/LaLiga-2025-2026-Celta-Vigo-vs-Valencia",
-      "display_name": "Celta Vigo vs Valencia | 2025/2026 | LaLiga | 2026-01-03",
-      "rows": 1852,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914053.parquet",
-      "scraped_at": "2026-04-25T00:00:52.393806+00:00"
-    },
-    "1914054": {
-      "url": "https://www.whoscored.com/Matches/1914054/Live/LaLiga-2025-2026-Elche-vs-Villarreal",
-      "display_name": "Elche vs Villarreal | 2025/2026 | LaLiga | 2026-01-03",
-      "rows": 2014,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914054.parquet",
-      "scraped_at": "2026-04-25T00:01:12.939738+00:00"
-    },
-    "1914059": {
-      "url": "https://www.whoscored.com/Matches/1914059/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Getafe",
-      "display_name": "Rayo Vallecano vs Getafe | 2025/2026 | LaLiga | 2026-01-02",
-      "rows": 1644,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914059.parquet",
-      "scraped_at": "2026-04-25T00:01:32.964550+00:00"
-    },
-    "1914042": {
-      "url": "https://www.whoscored.com/Matches/1914042/Live/LaLiga-2025-2026-Athletic-Club-vs-Espanyol",
-      "display_name": "Athletic Club vs Espanyol | 2025/2026 | LaLiga | 2025-12-22",
-      "rows": 1837,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914042.parquet",
-      "scraped_at": "2026-04-25T00:01:53.932913+00:00"
-    },
-    "1914048": {
-      "url": "https://www.whoscored.com/Matches/1914048/Live/LaLiga-2025-2026-Girona-vs-Atletico-Madrid",
-      "display_name": "Girona vs Atletico Madrid | 2025/2026 | LaLiga | 2025-12-21",
-      "rows": 2045,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914048.parquet",
-      "scraped_at": "2026-04-25T00:02:15.404968+00:00"
-    },
-    "1914049": {
-      "url": "https://www.whoscored.com/Matches/1914049/Live/LaLiga-2025-2026-Villarreal-vs-Barcelona",
-      "display_name": "Villarreal vs Barcelona | 2025/2026 | LaLiga | 2025-12-21",
-      "rows": 2026,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914049.parquet",
-      "scraped_at": "2026-04-25T00:02:38.246212+00:00"
-    },
-    "1914044": {
-      "url": "https://www.whoscored.com/Matches/1914044/Live/LaLiga-2025-2026-Elche-vs-Rayo-Vallecano",
-      "display_name": "Elche vs Rayo Vallecano | 2025/2026 | LaLiga | 2025-12-21",
-      "rows": 1663,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914044.parquet",
-      "scraped_at": "2026-04-25T00:02:58.074610+00:00"
-    },
-    "1914043": {
-      "url": "https://www.whoscored.com/Matches/1914043/Live/LaLiga-2025-2026-Real-Betis-vs-Getafe",
-      "display_name": "Real Betis vs Getafe | 2025/2026 | LaLiga | 2025-12-21",
-      "rows": 1784,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914043.parquet",
-      "scraped_at": "2026-04-25T00:03:19.325452+00:00"
-    },
-    "1914050": {
-      "url": "https://www.whoscored.com/Matches/1914050/Live/LaLiga-2025-2026-Real-Oviedo-vs-Celta-Vigo",
-      "display_name": "Real Oviedo vs Celta Vigo | 2025/2026 | LaLiga | 2025-12-20",
-      "rows": 1837,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914050.parquet",
-      "scraped_at": "2026-04-25T00:03:37.427012+00:00"
-    },
-    "1914047": {
-      "url": "https://www.whoscored.com/Matches/1914047/Live/LaLiga-2025-2026-Osasuna-vs-Deportivo-Alaves",
-      "display_name": "Osasuna vs Deportivo Alaves | 2025/2026 | LaLiga | 2025-12-20",
-      "rows": 1760,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914047.parquet",
-      "scraped_at": "2026-04-25T00:03:57.093644+00:00"
-    },
-    "1914045": {
-      "url": "https://www.whoscored.com/Matches/1914045/Live/LaLiga-2025-2026-Levante-vs-Real-Sociedad",
-      "display_name": "Levante vs Real Sociedad | 2025/2026 | LaLiga | 2025-12-20",
-      "rows": 1884,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914045.parquet",
-      "scraped_at": "2026-04-25T00:04:19.614092+00:00"
-    },
-    "1914046": {
-      "url": "https://www.whoscored.com/Matches/1914046/Live/LaLiga-2025-2026-Real-Madrid-vs-Sevilla",
-      "display_name": "Real Madrid vs Sevilla | 2025/2026 | LaLiga | 2025-12-20",
-      "rows": 1895,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914046.parquet",
-      "scraped_at": "2026-04-25T00:04:42.517327+00:00"
-    },
-    "1914051": {
-      "url": "https://www.whoscored.com/Matches/1914051/Live/LaLiga-2025-2026-Valencia-vs-Mallorca",
-      "display_name": "Valencia vs Mallorca | 2025/2026 | LaLiga | 2025-12-19",
-      "rows": 1830,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914051.parquet",
-      "scraped_at": "2026-04-25T00:05:05.103515+00:00"
-    },
-    "1914037": {
-      "url": "https://www.whoscored.com/Matches/1914037/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Real-Betis",
-      "display_name": "Rayo Vallecano vs Real Betis | 2025/2026 | LaLiga | 2025-12-15",
-      "rows": 1743,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914037.parquet",
-      "scraped_at": "2026-04-25T00:05:25.267153+00:00"
-    },
-    "1914036": {
-      "url": "https://www.whoscored.com/Matches/1914036/Live/LaLiga-2025-2026-Celta-Vigo-vs-Athletic-Club",
-      "display_name": "Celta Vigo vs Athletic Club | 2025/2026 | LaLiga | 2025-12-14",
-      "rows": 1993,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914036.parquet",
-      "scraped_at": "2026-04-25T00:05:44.482416+00:00"
-    },
-    "1914032": {
-      "url": "https://www.whoscored.com/Matches/1914032/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Madrid",
-      "display_name": "Deportivo Alaves vs Real Madrid | 2025/2026 | LaLiga | 2025-12-14",
-      "rows": 1952,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914032.parquet",
-      "scraped_at": "2026-04-25T00:06:07.544468+00:00"
-    },
-    "1914041": {
-      "url": "https://www.whoscored.com/Matches/1914041/Live/LaLiga-2025-2026-Sevilla-vs-Real-Oviedo",
-      "display_name": "Sevilla vs Real Oviedo | 2025/2026 | LaLiga | 2025-12-14",
-      "rows": 1647,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914041.parquet",
-      "scraped_at": "2026-04-25T00:06:29.913828+00:00"
-    },
-    "1914033": {
-      "url": "https://www.whoscored.com/Matches/1914033/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Valencia",
-      "display_name": "Atletico Madrid vs Valencia | 2025/2026 | LaLiga | 2025-12-13",
-      "rows": 1944,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914033.parquet",
-      "scraped_at": "2026-04-25T00:06:51.628344+00:00"
-    },
-    "1914034": {
-      "url": "https://www.whoscored.com/Matches/1914034/Live/LaLiga-2025-2026-Barcelona-vs-Osasuna",
-      "display_name": "Barcelona vs Osasuna | 2025/2026 | LaLiga | 2025-12-13",
-      "rows": 1913,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914034.parquet",
-      "scraped_at": "2026-04-25T00:07:10.810751+00:00"
-    },
-    "1914038": {
-      "url": "https://www.whoscored.com/Matches/1914038/Live/LaLiga-2025-2026-Mallorca-vs-Elche",
-      "display_name": "Mallorca vs Elche | 2025/2026 | LaLiga | 2025-12-13",
-      "rows": 1866,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914038.parquet",
-      "scraped_at": "2026-04-25T00:07:34.406836+00:00"
-    },
-    "1914039": {
-      "url": "https://www.whoscored.com/Matches/1914039/Live/LaLiga-2025-2026-Getafe-vs-Espanyol",
-      "display_name": "Getafe vs Espanyol | 2025/2026 | LaLiga | 2025-12-13",
-      "rows": 1625,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914039.parquet",
-      "scraped_at": "2026-04-25T00:07:55.446808+00:00"
-    },
-    "1914040": {
-      "url": "https://www.whoscored.com/Matches/1914040/Live/LaLiga-2025-2026-Real-Sociedad-vs-Girona",
-      "display_name": "Real Sociedad vs Girona | 2025/2026 | LaLiga | 2025-12-12",
-      "rows": 2186,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914040.parquet",
-      "scraped_at": "2026-04-25T00:08:17.550437+00:00"
-    },
-    "1914029": {
-      "url": "https://www.whoscored.com/Matches/1914029/Live/LaLiga-2025-2026-Osasuna-vs-Levante",
-      "display_name": "Osasuna vs Levante | 2025/2026 | LaLiga | 2025-12-08",
-      "rows": 1972,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914029.parquet",
-      "scraped_at": "2026-04-25T00:08:39.288999+00:00"
-    },
-    "1914027": {
-      "url": "https://www.whoscored.com/Matches/1914027/Live/LaLiga-2025-2026-Real-Madrid-vs-Celta-Vigo",
-      "display_name": "Real Madrid vs Celta Vigo | 2025/2026 | LaLiga | 2025-12-07",
-      "rows": 1991,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914027.parquet",
-      "scraped_at": "2026-04-25T00:09:00.162601+00:00"
-    },
-    "1914024": {
-      "url": "https://www.whoscored.com/Matches/1914024/Live/LaLiga-2025-2026-Elche-vs-Girona",
-      "display_name": "Elche vs Girona | 2025/2026 | LaLiga | 2025-12-07",
-      "rows": 1843,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914024.parquet",
-      "scraped_at": "2026-04-25T00:09:23.700636+00:00"
-    },
-    "1914025": {
-      "url": "https://www.whoscored.com/Matches/1914025/Live/LaLiga-2025-2026-Espanyol-vs-Rayo-Vallecano",
-      "display_name": "Espanyol vs Rayo Vallecano | 2025/2026 | LaLiga | 2025-12-07",
-      "rows": 1630,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914025.parquet",
-      "scraped_at": "2026-04-25T05:44:18.995806+00:00"
-    },
-    "1914031": {
-      "url": "https://www.whoscored.com/Matches/1914031/Live/LaLiga-2025-2026-Valencia-vs-Sevilla",
-      "display_name": "Valencia vs Sevilla | 2025/2026 | LaLiga | 2025-12-07",
-      "rows": 1769,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914031.parquet",
-      "scraped_at": "2026-04-25T05:44:57.318705+00:00"
-    },
-    "1914023": {
-      "url": "https://www.whoscored.com/Matches/1914023/Live/LaLiga-2025-2026-Athletic-Club-vs-Atletico-Madrid",
-      "display_name": "Athletic Club vs Atletico Madrid | 2025/2026 | LaLiga | 2025-12-06",
-      "rows": 1883,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914023.parquet",
-      "scraped_at": "2026-04-25T05:45:21.463018+00:00"
-    },
-    "1914026": {
-      "url": "https://www.whoscored.com/Matches/1914026/Live/LaLiga-2025-2026-Real-Betis-vs-Barcelona",
-      "display_name": "Real Betis vs Barcelona | 2025/2026 | LaLiga | 2025-12-06",
-      "rows": 1949,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914026.parquet",
-      "scraped_at": "2026-04-25T05:45:46.660689+00:00"
-    },
-    "1914022": {
-      "url": "https://www.whoscored.com/Matches/1914022/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Sociedad",
-      "display_name": "Deportivo Alaves vs Real Sociedad | 2025/2026 | LaLiga | 2025-12-06",
-      "rows": 1861,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914022.parquet",
-      "scraped_at": "2026-04-25T05:46:05.767180+00:00"
-    },
-    "1914028": {
-      "url": "https://www.whoscored.com/Matches/1914028/Live/LaLiga-2025-2026-Villarreal-vs-Getafe",
-      "display_name": "Villarreal vs Getafe | 2025/2026 | LaLiga | 2025-12-06",
-      "rows": 1840,
-      "cols": 57,
-      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914028.parquet",
-      "scraped_at": "2026-04-25T05:46:30.744331+00:00"
+      "scraped_at": "2026-04-26T19:22:38.056104+00:00"
     },
     "1914106": {
       "url": "https://www.whoscored.com/Matches/1914106/Live/LaLiga-2025-2026-Mallorca-vs-Real-Betis",
@@ -1366,7 +758,7 @@
       "rows": 1983,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914106.parquet",
-      "scraped_at": "2026-04-25T05:48:45.852287+00:00"
+      "scraped_at": "2026-04-26T19:23:05.772653+00:00"
     },
     "1914107": {
       "url": "https://www.whoscored.com/Matches/1914107/Live/LaLiga-2025-2026-Espanyol-vs-Celta-Vigo",
@@ -1374,7 +766,23 @@
       "rows": 1827,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914107.parquet",
-      "scraped_at": "2026-04-25T05:49:16.792284+00:00"
+      "scraped_at": "2026-04-26T19:23:28.024326+00:00"
+    },
+    "1914101": {
+      "url": "https://www.whoscored.com/Matches/1914101/Live/LaLiga-2025-2026-Sevilla-vs-Deportivo-Alaves",
+      "display_name": "Sevilla vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-02-14",
+      "rows": 1648,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914101.parquet",
+      "scraped_at": "2026-04-26T19:23:52.891828+00:00"
+    },
+    "1914096": {
+      "url": "https://www.whoscored.com/Matches/1914096/Live/LaLiga-2025-2026-Getafe-vs-Villarreal",
+      "display_name": "Getafe vs Villarreal | 2025/2026 | LaLiga | 2026-02-14",
+      "rows": 1549,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914096.parquet",
+      "scraped_at": "2026-04-26T19:24:19.076604+00:00"
     },
     "1914100": {
       "url": "https://www.whoscored.com/Matches/1914100/Live/LaLiga-2025-2026-Real-Madrid-vs-Real-Sociedad",
@@ -1382,7 +790,15 @@
       "rows": 2082,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914100.parquet",
-      "scraped_at": "2026-04-25T05:49:54.398117+00:00"
+      "scraped_at": "2026-04-26T19:24:42.054485+00:00"
+    },
+    "1914094": {
+      "url": "https://www.whoscored.com/Matches/1914094/Live/LaLiga-2025-2026-Elche-vs-Osasuna",
+      "display_name": "Elche vs Osasuna | 2025/2026 | LaLiga | 2026-02-13",
+      "rows": 1610,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914094.parquet",
+      "scraped_at": "2026-04-26T19:25:05.077373+00:00"
     },
     "1914161": {
       "url": "https://www.whoscored.com/Matches/1914161/Live/LaLiga-2025-2026-Villarreal-vs-Espanyol",
@@ -1390,7 +806,15 @@
       "rows": 1776,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914161.parquet",
-      "scraped_at": "2026-04-25T05:50:23.873274+00:00"
+      "scraped_at": "2026-04-26T19:25:30.699992+00:00"
+    },
+    "1914156": {
+      "url": "https://www.whoscored.com/Matches/1914156/Live/LaLiga-2025-2026-Athletic-Club-vs-Levante",
+      "display_name": "Athletic Club vs Levante | 2025/2026 | LaLiga | 2026-02-08",
+      "rows": 1920,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914156.parquet",
+      "scraped_at": "2026-04-26T19:25:52.537322+00:00"
     },
     "1914157": {
       "url": "https://www.whoscored.com/Matches/1914157/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Real-Betis",
@@ -1398,7 +822,135 @@
       "rows": 2032,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914157.parquet",
-      "scraped_at": "2026-04-25T05:50:54.162910+00:00"
+      "scraped_at": "2026-04-26T19:26:18.811746+00:00"
+    },
+    "1914155": {
+      "url": "https://www.whoscored.com/Matches/1914155/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Getafe",
+      "display_name": "Deportivo Alaves vs Getafe | 2025/2026 | LaLiga | 2026-02-08",
+      "rows": 1710,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914155.parquet",
+      "scraped_at": "2026-04-26T19:26:44.697003+00:00"
+    },
+    "1914087": {
+      "url": "https://www.whoscored.com/Matches/1914087/Live/LaLiga-2025-2026-Sevilla-vs-Girona",
+      "display_name": "Sevilla vs Girona | 2025/2026 | LaLiga | 2026-02-08",
+      "rows": 1870,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914087.parquet",
+      "scraped_at": "2026-04-26T19:27:08.609042+00:00"
+    },
+    "1914089": {
+      "url": "https://www.whoscored.com/Matches/1914089/Live/LaLiga-2025-2026-Valencia-vs-Real-Madrid",
+      "display_name": "Valencia vs Real Madrid | 2025/2026 | LaLiga | 2026-02-08",
+      "rows": 1847,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914089.parquet",
+      "scraped_at": "2026-04-26T19:27:34.479968+00:00"
+    },
+    "1914158": {
+      "url": "https://www.whoscored.com/Matches/1914158/Live/LaLiga-2025-2026-Barcelona-vs-Mallorca",
+      "display_name": "Barcelona vs Mallorca | 2025/2026 | LaLiga | 2026-02-07",
+      "rows": 2041,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914158.parquet",
+      "scraped_at": "2026-04-26T19:28:02.300715+00:00"
+    },
+    "1914160": {
+      "url": "https://www.whoscored.com/Matches/1914160/Live/LaLiga-2025-2026-Real-Sociedad-vs-Elche",
+      "display_name": "Real Sociedad vs Elche | 2025/2026 | LaLiga | 2026-02-07",
+      "rows": 1839,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914160.parquet",
+      "scraped_at": "2026-04-26T19:28:24.093388+00:00"
+    },
+    "1914159": {
+      "url": "https://www.whoscored.com/Matches/1914159/Live/LaLiga-2025-2026-Celta-Vigo-vs-Osasuna",
+      "display_name": "Celta Vigo vs Osasuna | 2025/2026 | LaLiga | 2026-02-06",
+      "rows": 1903,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914159.parquet",
+      "scraped_at": "2026-04-26T19:28:45.799983+00:00"
+    },
+    "1914074": {
+      "url": "https://www.whoscored.com/Matches/1914074/Live/LaLiga-2025-2026-Mallorca-vs-Sevilla",
+      "display_name": "Mallorca vs Sevilla | 2025/2026 | LaLiga | 2026-02-02",
+      "rows": 1826,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914074.parquet",
+      "scraped_at": "2026-04-26T19:29:07.459815+00:00"
+    },
+    "1914104": {
+      "url": "https://www.whoscored.com/Matches/1914104/Live/LaLiga-2025-2026-Athletic-Club-vs-Real-Sociedad",
+      "display_name": "Athletic Club vs Real Sociedad | 2025/2026 | LaLiga | 2026-02-01",
+      "rows": 1863,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914104.parquet",
+      "scraped_at": "2026-04-26T19:29:32.187880+00:00"
+    },
+    "1914085": {
+      "url": "https://www.whoscored.com/Matches/1914085/Live/LaLiga-2025-2026-Getafe-vs-Celta-Vigo",
+      "display_name": "Getafe vs Celta Vigo | 2025/2026 | LaLiga | 2026-02-01",
+      "rows": 1760,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914085.parquet",
+      "scraped_at": "2026-04-26T19:29:52.892343+00:00"
+    },
+    "1914154": {
+      "url": "https://www.whoscored.com/Matches/1914154/Live/LaLiga-2025-2026-Real-Madrid-vs-Rayo-Vallecano",
+      "display_name": "Real Madrid vs Rayo Vallecano | 2025/2026 | LaLiga | 2026-02-01",
+      "rows": 2132,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914154.parquet",
+      "scraped_at": "2026-04-26T19:30:17.635877+00:00"
+    },
+    "1914072": {
+      "url": "https://www.whoscored.com/Matches/1914072/Live/LaLiga-2025-2026-Real-Betis-vs-Valencia",
+      "display_name": "Real Betis vs Valencia | 2025/2026 | LaLiga | 2026-02-01",
+      "rows": 1845,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914072.parquet",
+      "scraped_at": "2026-04-26T19:30:44.013156+00:00"
+    },
+    "1914081": {
+      "url": "https://www.whoscored.com/Matches/1914081/Live/LaLiga-2025-2026-Levante-vs-Atletico-Madrid",
+      "display_name": "Levante vs Atletico Madrid | 2025/2026 | LaLiga | 2026-01-31",
+      "rows": 1887,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914081.parquet",
+      "scraped_at": "2026-04-26T19:31:07.772638+00:00"
+    },
+    "1914083": {
+      "url": "https://www.whoscored.com/Matches/1914083/Live/LaLiga-2025-2026-Elche-vs-Barcelona",
+      "display_name": "Elche vs Barcelona | 2025/2026 | LaLiga | 2026-01-31",
+      "rows": 1930,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914083.parquet",
+      "scraped_at": "2026-04-26T19:31:32.508955+00:00"
+    },
+    "1914090": {
+      "url": "https://www.whoscored.com/Matches/1914090/Live/LaLiga-2025-2026-Real-Oviedo-vs-Girona",
+      "display_name": "Real Oviedo vs Girona | 2025/2026 | LaLiga | 2026-01-31",
+      "rows": 1841,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914090.parquet",
+      "scraped_at": "2026-04-26T19:31:56.348314+00:00"
+    },
+    "1914076": {
+      "url": "https://www.whoscored.com/Matches/1914076/Live/LaLiga-2025-2026-Osasuna-vs-Villarreal",
+      "display_name": "Osasuna vs Villarreal | 2025/2026 | LaLiga | 2026-01-31",
+      "rows": 1815,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914076.parquet",
+      "scraped_at": "2026-04-26T19:32:20.583769+00:00"
+    },
+    "1914078": {
+      "url": "https://www.whoscored.com/Matches/1914078/Live/LaLiga-2025-2026-Espanyol-vs-Deportivo-Alaves",
+      "display_name": "Espanyol vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-01-30",
+      "rows": 1828,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914078.parquet",
+      "scraped_at": "2026-04-26T19:32:40.684522+00:00"
     },
     "1914095": {
       "url": "https://www.whoscored.com/Matches/1914095/Live/LaLiga-2025-2026-Girona-vs-Getafe",
@@ -1406,7 +958,175 @@
       "rows": 1928,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914095.parquet",
-      "scraped_at": "2026-04-25T05:51:16.515447+00:00"
+      "scraped_at": "2026-04-26T19:33:05.530081+00:00"
+    },
+    "1914084": {
+      "url": "https://www.whoscored.com/Matches/1914084/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Mallorca",
+      "display_name": "Atletico Madrid vs Mallorca | 2025/2026 | LaLiga | 2026-01-25",
+      "rows": 1981,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914084.parquet",
+      "scraped_at": "2026-04-26T19:33:30.497227+00:00"
+    },
+    "1914086": {
+      "url": "https://www.whoscored.com/Matches/1914086/Live/LaLiga-2025-2026-Barcelona-vs-Real-Oviedo",
+      "display_name": "Barcelona vs Real Oviedo | 2025/2026 | LaLiga | 2026-01-25",
+      "rows": 1955,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914086.parquet",
+      "scraped_at": "2026-04-26T19:33:52.428486+00:00"
+    },
+    "1914088": {
+      "url": "https://www.whoscored.com/Matches/1914088/Live/LaLiga-2025-2026-Real-Sociedad-vs-Celta-Vigo",
+      "display_name": "Real Sociedad vs Celta Vigo | 2025/2026 | LaLiga | 2026-01-25",
+      "rows": 2010,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914088.parquet",
+      "scraped_at": "2026-04-26T19:34:15.860508+00:00"
+    },
+    "1914082": {
+      "url": "https://www.whoscored.com/Matches/1914082/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Betis",
+      "display_name": "Deportivo Alaves vs Real Betis | 2025/2026 | LaLiga | 2026-01-25",
+      "rows": 1950,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914082.parquet",
+      "scraped_at": "2026-04-26T19:34:37.384999+00:00"
+    },
+    "1914080": {
+      "url": "https://www.whoscored.com/Matches/1914080/Live/LaLiga-2025-2026-Sevilla-vs-Athletic-Club",
+      "display_name": "Sevilla vs Athletic Club | 2025/2026 | LaLiga | 2026-01-24",
+      "rows": 1818,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914080.parquet",
+      "scraped_at": "2026-04-26T19:34:59.292935+00:00"
+    },
+    "1914093": {
+      "url": "https://www.whoscored.com/Matches/1914093/Live/LaLiga-2025-2026-Valencia-vs-Espanyol",
+      "display_name": "Valencia vs Espanyol | 2025/2026 | LaLiga | 2026-01-24",
+      "rows": 1792,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914093.parquet",
+      "scraped_at": "2026-04-26T19:35:24.620528+00:00"
+    },
+    "1914097": {
+      "url": "https://www.whoscored.com/Matches/1914097/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Osasuna",
+      "display_name": "Rayo Vallecano vs Osasuna | 2025/2026 | LaLiga | 2026-01-24",
+      "rows": 1715,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914097.parquet",
+      "scraped_at": "2026-04-26T19:35:48.880673+00:00"
+    },
+    "1914099": {
+      "url": "https://www.whoscored.com/Matches/1914099/Live/LaLiga-2025-2026-Villarreal-vs-Real-Madrid",
+      "display_name": "Villarreal vs Real Madrid | 2025/2026 | LaLiga | 2026-01-24",
+      "rows": 1989,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914099.parquet",
+      "scraped_at": "2026-04-26T19:36:12.484752+00:00"
+    },
+    "1914091": {
+      "url": "https://www.whoscored.com/Matches/1914091/Live/LaLiga-2025-2026-Levante-vs-Elche",
+      "display_name": "Levante vs Elche | 2025/2026 | LaLiga | 2026-01-23",
+      "rows": 1793,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914091.parquet",
+      "scraped_at": "2026-04-26T19:36:35.133903+00:00"
+    },
+    "1914150": {
+      "url": "https://www.whoscored.com/Matches/1914150/Live/LaLiga-2025-2026-Elche-vs-Sevilla",
+      "display_name": "Elche vs Sevilla | 2025/2026 | LaLiga | 2026-01-19",
+      "rows": 1716,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914150.parquet",
+      "scraped_at": "2026-04-26T19:36:55.335183+00:00"
+    },
+    "1914073": {
+      "url": "https://www.whoscored.com/Matches/1914073/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Deportivo-Alaves",
+      "display_name": "Atletico Madrid vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-01-18",
+      "rows": 2111,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914073.parquet",
+      "scraped_at": "2026-04-26T19:37:21.730529+00:00"
+    },
+    "1914077": {
+      "url": "https://www.whoscored.com/Matches/1914077/Live/LaLiga-2025-2026-Real-Sociedad-vs-Barcelona",
+      "display_name": "Real Sociedad vs Barcelona | 2025/2026 | LaLiga | 2026-01-18",
+      "rows": 1839,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914077.parquet",
+      "scraped_at": "2026-04-26T19:37:43.252450+00:00"
+    },
+    "1914149": {
+      "url": "https://www.whoscored.com/Matches/1914149/Live/LaLiga-2025-2026-Celta-Vigo-vs-Rayo-Vallecano",
+      "display_name": "Celta Vigo vs Rayo Vallecano | 2025/2026 | LaLiga | 2026-01-18",
+      "rows": 1832,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914149.parquet",
+      "scraped_at": "2026-04-26T19:38:10.353246+00:00"
+    },
+    "1914152": {
+      "url": "https://www.whoscored.com/Matches/1914152/Live/LaLiga-2025-2026-Getafe-vs-Valencia",
+      "display_name": "Getafe vs Valencia | 2025/2026 | LaLiga | 2026-01-18",
+      "rows": 1674,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914152.parquet",
+      "scraped_at": "2026-04-26T19:38:32.784603+00:00"
+    },
+    "1914075": {
+      "url": "https://www.whoscored.com/Matches/1914075/Live/LaLiga-2025-2026-Mallorca-vs-Athletic-Club",
+      "display_name": "Mallorca vs Athletic Club | 2025/2026 | LaLiga | 2026-01-17",
+      "rows": 1863,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914075.parquet",
+      "scraped_at": "2026-04-26T19:38:57.824871+00:00"
+    },
+    "1914079": {
+      "url": "https://www.whoscored.com/Matches/1914079/Live/LaLiga-2025-2026-Real-Madrid-vs-Levante",
+      "display_name": "Real Madrid vs Levante | 2025/2026 | LaLiga | 2026-01-17",
+      "rows": 2074,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914079.parquet",
+      "scraped_at": "2026-04-26T19:39:25.787961+00:00"
+    },
+    "1914153": {
+      "url": "https://www.whoscored.com/Matches/1914153/Live/LaLiga-2025-2026-Osasuna-vs-Real-Oviedo",
+      "display_name": "Osasuna vs Real Oviedo | 2025/2026 | LaLiga | 2026-01-17",
+      "rows": 1668,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914153.parquet",
+      "scraped_at": "2026-04-26T19:39:47.803173+00:00"
+    },
+    "1914148": {
+      "url": "https://www.whoscored.com/Matches/1914148/Live/LaLiga-2025-2026-Real-Betis-vs-Villarreal",
+      "display_name": "Real Betis vs Villarreal | 2025/2026 | LaLiga | 2026-01-17",
+      "rows": 1835,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914148.parquet",
+      "scraped_at": "2026-04-26T19:40:13.590490+00:00"
+    },
+    "1914151": {
+      "url": "https://www.whoscored.com/Matches/1914151/Live/LaLiga-2025-2026-Espanyol-vs-Girona",
+      "display_name": "Espanyol vs Girona | 2025/2026 | LaLiga | 2026-01-16",
+      "rows": 1898,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914151.parquet",
+      "scraped_at": "2026-04-26T19:40:40.283942+00:00"
+    },
+    "1914068": {
+      "url": "https://www.whoscored.com/Matches/1914068/Live/LaLiga-2025-2026-Sevilla-vs-Celta-Vigo",
+      "display_name": "Sevilla vs Celta Vigo | 2025/2026 | LaLiga | 2026-01-12",
+      "rows": 1669,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914068.parquet",
+      "scraped_at": "2026-04-26T19:41:03.392448+00:00"
+    },
+    "1914070": {
+      "url": "https://www.whoscored.com/Matches/1914070/Live/LaLiga-2025-2026-Levante-vs-Espanyol",
+      "display_name": "Levante vs Espanyol | 2025/2026 | LaLiga | 2026-01-11",
+      "rows": 1798,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914070.parquet",
+      "scraped_at": "2026-04-26T19:41:26.604642+00:00"
     },
     "1914071": {
       "url": "https://www.whoscored.com/Matches/1914071/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Mallorca",
@@ -1414,7 +1134,7 @@
       "rows": 1618,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914071.parquet",
-      "scraped_at": "2026-04-25T05:51:42.400454+00:00"
+      "scraped_at": "2026-04-26T19:41:51.612177+00:00"
     },
     "1914065": {
       "url": "https://www.whoscored.com/Matches/1914065/Live/LaLiga-2025-2026-Villarreal-vs-Deportivo-Alaves",
@@ -1422,7 +1142,343 @@
       "rows": 1965,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914065.parquet",
-      "scraped_at": "2026-04-25T05:52:04.066216+00:00"
+      "scraped_at": "2026-04-26T19:42:16.785377+00:00"
+    },
+    "1914069": {
+      "url": "https://www.whoscored.com/Matches/1914069/Live/LaLiga-2025-2026-Valencia-vs-Elche",
+      "display_name": "Valencia vs Elche | 2025/2026 | LaLiga | 2026-01-10",
+      "rows": 1861,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914069.parquet",
+      "scraped_at": "2026-04-26T19:42:42.057109+00:00"
+    },
+    "1914064": {
+      "url": "https://www.whoscored.com/Matches/1914064/Live/LaLiga-2025-2026-Girona-vs-Osasuna",
+      "display_name": "Girona vs Osasuna | 2025/2026 | LaLiga | 2026-01-10",
+      "rows": 1933,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914064.parquet",
+      "scraped_at": "2026-04-26T19:43:05.945194+00:00"
+    },
+    "1914067": {
+      "url": "https://www.whoscored.com/Matches/1914067/Live/LaLiga-2025-2026-Real-Oviedo-vs-Real-Betis",
+      "display_name": "Real Oviedo vs Real Betis | 2025/2026 | LaLiga | 2026-01-10",
+      "rows": 1988,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914067.parquet",
+      "scraped_at": "2026-04-26T19:43:27.649163+00:00"
+    },
+    "1914063": {
+      "url": "https://www.whoscored.com/Matches/1914063/Live/LaLiga-2025-2026-Getafe-vs-Real-Sociedad",
+      "display_name": "Getafe vs Real Sociedad | 2025/2026 | LaLiga | 2026-01-09",
+      "rows": 1847,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914063.parquet",
+      "scraped_at": "2026-04-26T19:43:47.864232+00:00"
+    },
+    "1914056": {
+      "url": "https://www.whoscored.com/Matches/1914056/Live/LaLiga-2025-2026-Real-Sociedad-vs-Atletico-Madrid",
+      "display_name": "Real Sociedad vs Atletico Madrid | 2025/2026 | LaLiga | 2026-01-04",
+      "rows": 1919,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914056.parquet",
+      "scraped_at": "2026-04-26T19:44:09.609619+00:00"
+    },
+    "1914052": {
+      "url": "https://www.whoscored.com/Matches/1914052/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Oviedo",
+      "display_name": "Deportivo Alaves vs Real Oviedo | 2025/2026 | LaLiga | 2026-01-04",
+      "rows": 1874,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914052.parquet",
+      "scraped_at": "2026-04-26T19:44:30.525141+00:00"
+    },
+    "1914060": {
+      "url": "https://www.whoscored.com/Matches/1914060/Live/LaLiga-2025-2026-Mallorca-vs-Girona",
+      "display_name": "Mallorca vs Girona | 2025/2026 | LaLiga | 2026-01-04",
+      "rows": 1937,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914060.parquet",
+      "scraped_at": "2026-04-26T19:44:55.424332+00:00"
+    },
+    "1914061": {
+      "url": "https://www.whoscored.com/Matches/1914061/Live/LaLiga-2025-2026-Sevilla-vs-Levante",
+      "display_name": "Sevilla vs Levante | 2025/2026 | LaLiga | 2026-01-04",
+      "rows": 1704,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914061.parquet",
+      "scraped_at": "2026-04-26T19:45:20.937351+00:00"
+    },
+    "1914058": {
+      "url": "https://www.whoscored.com/Matches/1914058/Live/LaLiga-2025-2026-Real-Madrid-vs-Real-Betis",
+      "display_name": "Real Madrid vs Real Betis | 2025/2026 | LaLiga | 2026-01-04",
+      "rows": 2031,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914058.parquet",
+      "scraped_at": "2026-04-26T19:45:47.029514+00:00"
+    },
+    "1914055": {
+      "url": "https://www.whoscored.com/Matches/1914055/Live/LaLiga-2025-2026-Osasuna-vs-Athletic-Club",
+      "display_name": "Osasuna vs Athletic Club | 2025/2026 | LaLiga | 2026-01-03",
+      "rows": 1890,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914055.parquet",
+      "scraped_at": "2026-04-26T19:46:12.077200+00:00"
+    },
+    "1914057": {
+      "url": "https://www.whoscored.com/Matches/1914057/Live/LaLiga-2025-2026-Espanyol-vs-Barcelona",
+      "display_name": "Espanyol vs Barcelona | 2025/2026 | LaLiga | 2026-01-03",
+      "rows": 1740,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914057.parquet",
+      "scraped_at": "2026-04-26T19:46:37.296313+00:00"
+    },
+    "1914053": {
+      "url": "https://www.whoscored.com/Matches/1914053/Live/LaLiga-2025-2026-Celta-Vigo-vs-Valencia",
+      "display_name": "Celta Vigo vs Valencia | 2025/2026 | LaLiga | 2026-01-03",
+      "rows": 1852,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914053.parquet",
+      "scraped_at": "2026-04-26T19:47:03.145537+00:00"
+    },
+    "1914054": {
+      "url": "https://www.whoscored.com/Matches/1914054/Live/LaLiga-2025-2026-Elche-vs-Villarreal",
+      "display_name": "Elche vs Villarreal | 2025/2026 | LaLiga | 2026-01-03",
+      "rows": 2014,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914054.parquet",
+      "scraped_at": "2026-04-26T19:47:28.561187+00:00"
+    },
+    "1914059": {
+      "url": "https://www.whoscored.com/Matches/1914059/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Getafe",
+      "display_name": "Rayo Vallecano vs Getafe | 2025/2026 | LaLiga | 2026-01-02",
+      "rows": 1644,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914059.parquet",
+      "scraped_at": "2026-04-26T19:47:54.220816+00:00"
+    },
+    "1914042": {
+      "url": "https://www.whoscored.com/Matches/1914042/Live/LaLiga-2025-2026-Athletic-Club-vs-Espanyol",
+      "display_name": "Athletic Club vs Espanyol | 2025/2026 | LaLiga | 2025-12-22",
+      "rows": 1837,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914042.parquet",
+      "scraped_at": "2026-04-26T19:48:17.969896+00:00"
+    },
+    "1914048": {
+      "url": "https://www.whoscored.com/Matches/1914048/Live/LaLiga-2025-2026-Girona-vs-Atletico-Madrid",
+      "display_name": "Girona vs Atletico Madrid | 2025/2026 | LaLiga | 2025-12-21",
+      "rows": 2045,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914048.parquet",
+      "scraped_at": "2026-04-26T19:48:40.408032+00:00"
+    },
+    "1914049": {
+      "url": "https://www.whoscored.com/Matches/1914049/Live/LaLiga-2025-2026-Villarreal-vs-Barcelona",
+      "display_name": "Villarreal vs Barcelona | 2025/2026 | LaLiga | 2025-12-21",
+      "rows": 2026,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914049.parquet",
+      "scraped_at": "2026-04-26T19:49:02.977354+00:00"
+    },
+    "1914044": {
+      "url": "https://www.whoscored.com/Matches/1914044/Live/LaLiga-2025-2026-Elche-vs-Rayo-Vallecano",
+      "display_name": "Elche vs Rayo Vallecano | 2025/2026 | LaLiga | 2025-12-21",
+      "rows": 1663,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914044.parquet",
+      "scraped_at": "2026-04-26T19:49:22.288458+00:00"
+    },
+    "1914043": {
+      "url": "https://www.whoscored.com/Matches/1914043/Live/LaLiga-2025-2026-Real-Betis-vs-Getafe",
+      "display_name": "Real Betis vs Getafe | 2025/2026 | LaLiga | 2025-12-21",
+      "rows": 1784,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914043.parquet",
+      "scraped_at": "2026-04-26T19:49:43.617442+00:00"
+    },
+    "1914050": {
+      "url": "https://www.whoscored.com/Matches/1914050/Live/LaLiga-2025-2026-Real-Oviedo-vs-Celta-Vigo",
+      "display_name": "Real Oviedo vs Celta Vigo | 2025/2026 | LaLiga | 2025-12-20",
+      "rows": 1837,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914050.parquet",
+      "scraped_at": "2026-04-26T19:50:04.063978+00:00"
+    },
+    "1914047": {
+      "url": "https://www.whoscored.com/Matches/1914047/Live/LaLiga-2025-2026-Osasuna-vs-Deportivo-Alaves",
+      "display_name": "Osasuna vs Deportivo Alaves | 2025/2026 | LaLiga | 2025-12-20",
+      "rows": 1760,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914047.parquet",
+      "scraped_at": "2026-04-26T19:50:30.048665+00:00"
+    },
+    "1914045": {
+      "url": "https://www.whoscored.com/Matches/1914045/Live/LaLiga-2025-2026-Levante-vs-Real-Sociedad",
+      "display_name": "Levante vs Real Sociedad | 2025/2026 | LaLiga | 2025-12-20",
+      "rows": 1884,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914045.parquet",
+      "scraped_at": "2026-04-26T19:50:53.470425+00:00"
+    },
+    "1914046": {
+      "url": "https://www.whoscored.com/Matches/1914046/Live/LaLiga-2025-2026-Real-Madrid-vs-Sevilla",
+      "display_name": "Real Madrid vs Sevilla | 2025/2026 | LaLiga | 2025-12-20",
+      "rows": 1895,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914046.parquet",
+      "scraped_at": "2026-04-26T19:51:20.100277+00:00"
+    },
+    "1914051": {
+      "url": "https://www.whoscored.com/Matches/1914051/Live/LaLiga-2025-2026-Valencia-vs-Mallorca",
+      "display_name": "Valencia vs Mallorca | 2025/2026 | LaLiga | 2025-12-19",
+      "rows": 1830,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914051.parquet",
+      "scraped_at": "2026-04-26T19:51:44.829279+00:00"
+    },
+    "1914037": {
+      "url": "https://www.whoscored.com/Matches/1914037/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Real-Betis",
+      "display_name": "Rayo Vallecano vs Real Betis | 2025/2026 | LaLiga | 2025-12-15",
+      "rows": 1743,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914037.parquet",
+      "scraped_at": "2026-04-26T19:52:09.674217+00:00"
+    },
+    "1914036": {
+      "url": "https://www.whoscored.com/Matches/1914036/Live/LaLiga-2025-2026-Celta-Vigo-vs-Athletic-Club",
+      "display_name": "Celta Vigo vs Athletic Club | 2025/2026 | LaLiga | 2025-12-14",
+      "rows": 1993,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914036.parquet",
+      "scraped_at": "2026-04-26T19:52:32.439046+00:00"
+    },
+    "1914032": {
+      "url": "https://www.whoscored.com/Matches/1914032/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Madrid",
+      "display_name": "Deportivo Alaves vs Real Madrid | 2025/2026 | LaLiga | 2025-12-14",
+      "rows": 1952,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914032.parquet",
+      "scraped_at": "2026-04-26T19:52:55.289696+00:00"
+    },
+    "1914041": {
+      "url": "https://www.whoscored.com/Matches/1914041/Live/LaLiga-2025-2026-Sevilla-vs-Real-Oviedo",
+      "display_name": "Sevilla vs Real Oviedo | 2025/2026 | LaLiga | 2025-12-14",
+      "rows": 1647,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914041.parquet",
+      "scraped_at": "2026-04-26T19:53:20.583742+00:00"
+    },
+    "1914033": {
+      "url": "https://www.whoscored.com/Matches/1914033/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Valencia",
+      "display_name": "Atletico Madrid vs Valencia | 2025/2026 | LaLiga | 2025-12-13",
+      "rows": 1944,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914033.parquet",
+      "scraped_at": "2026-04-26T19:53:46.023881+00:00"
+    },
+    "1914034": {
+      "url": "https://www.whoscored.com/Matches/1914034/Live/LaLiga-2025-2026-Barcelona-vs-Osasuna",
+      "display_name": "Barcelona vs Osasuna | 2025/2026 | LaLiga | 2025-12-13",
+      "rows": 1913,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914034.parquet",
+      "scraped_at": "2026-04-26T19:54:10.123998+00:00"
+    },
+    "1914038": {
+      "url": "https://www.whoscored.com/Matches/1914038/Live/LaLiga-2025-2026-Mallorca-vs-Elche",
+      "display_name": "Mallorca vs Elche | 2025/2026 | LaLiga | 2025-12-13",
+      "rows": 1866,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914038.parquet",
+      "scraped_at": "2026-04-26T19:54:31.793335+00:00"
+    },
+    "1914039": {
+      "url": "https://www.whoscored.com/Matches/1914039/Live/LaLiga-2025-2026-Getafe-vs-Espanyol",
+      "display_name": "Getafe vs Espanyol | 2025/2026 | LaLiga | 2025-12-13",
+      "rows": 1625,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914039.parquet",
+      "scraped_at": "2026-04-26T19:54:53.428678+00:00"
+    },
+    "1914040": {
+      "url": "https://www.whoscored.com/Matches/1914040/Live/LaLiga-2025-2026-Real-Sociedad-vs-Girona",
+      "display_name": "Real Sociedad vs Girona | 2025/2026 | LaLiga | 2025-12-12",
+      "rows": 2186,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914040.parquet",
+      "scraped_at": "2026-04-26T19:55:17.613174+00:00"
+    },
+    "1914029": {
+      "url": "https://www.whoscored.com/Matches/1914029/Live/LaLiga-2025-2026-Osasuna-vs-Levante",
+      "display_name": "Osasuna vs Levante | 2025/2026 | LaLiga | 2025-12-08",
+      "rows": 1972,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914029.parquet",
+      "scraped_at": "2026-04-26T19:55:39.506501+00:00"
+    },
+    "1914027": {
+      "url": "https://www.whoscored.com/Matches/1914027/Live/LaLiga-2025-2026-Real-Madrid-vs-Celta-Vigo",
+      "display_name": "Real Madrid vs Celta Vigo | 2025/2026 | LaLiga | 2025-12-07",
+      "rows": 1991,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914027.parquet",
+      "scraped_at": "2026-04-26T19:56:03.191947+00:00"
+    },
+    "1914024": {
+      "url": "https://www.whoscored.com/Matches/1914024/Live/LaLiga-2025-2026-Elche-vs-Girona",
+      "display_name": "Elche vs Girona | 2025/2026 | LaLiga | 2025-12-07",
+      "rows": 1843,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914024.parquet",
+      "scraped_at": "2026-04-26T19:56:27.612716+00:00"
+    },
+    "1914025": {
+      "url": "https://www.whoscored.com/Matches/1914025/Live/LaLiga-2025-2026-Espanyol-vs-Rayo-Vallecano",
+      "display_name": "Espanyol vs Rayo Vallecano | 2025/2026 | LaLiga | 2025-12-07",
+      "rows": 1630,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914025.parquet",
+      "scraped_at": "2026-04-26T19:56:51.871223+00:00"
+    },
+    "1914031": {
+      "url": "https://www.whoscored.com/Matches/1914031/Live/LaLiga-2025-2026-Valencia-vs-Sevilla",
+      "display_name": "Valencia vs Sevilla | 2025/2026 | LaLiga | 2025-12-07",
+      "rows": 1769,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914031.parquet",
+      "scraped_at": "2026-04-26T19:57:15.044043+00:00"
+    },
+    "1914023": {
+      "url": "https://www.whoscored.com/Matches/1914023/Live/LaLiga-2025-2026-Athletic-Club-vs-Atletico-Madrid",
+      "display_name": "Athletic Club vs Atletico Madrid | 2025/2026 | LaLiga | 2025-12-06",
+      "rows": 1883,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914023.parquet",
+      "scraped_at": "2026-04-26T19:57:37.867749+00:00"
+    },
+    "1914026": {
+      "url": "https://www.whoscored.com/Matches/1914026/Live/LaLiga-2025-2026-Real-Betis-vs-Barcelona",
+      "display_name": "Real Betis vs Barcelona | 2025/2026 | LaLiga | 2025-12-06",
+      "rows": 1949,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914026.parquet",
+      "scraped_at": "2026-04-26T19:58:02.352469+00:00"
+    },
+    "1914022": {
+      "url": "https://www.whoscored.com/Matches/1914022/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Real-Sociedad",
+      "display_name": "Deportivo Alaves vs Real Sociedad | 2025/2026 | LaLiga | 2025-12-06",
+      "rows": 1861,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914022.parquet",
+      "scraped_at": "2026-04-26T19:58:28.533932+00:00"
+    },
+    "1914028": {
+      "url": "https://www.whoscored.com/Matches/1914028/Live/LaLiga-2025-2026-Villarreal-vs-Getafe",
+      "display_name": "Villarreal vs Getafe | 2025/2026 | LaLiga | 2025-12-06",
+      "rows": 1840,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914028.parquet",
+      "scraped_at": "2026-04-26T19:58:54.715765+00:00"
     },
     "1914030": {
       "url": "https://www.whoscored.com/Matches/1914030/Live/LaLiga-2025-2026-Real-Oviedo-vs-Mallorca",
@@ -1430,7 +1486,7 @@
       "rows": 1741,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914030.parquet",
-      "scraped_at": "2026-04-25T05:52:32.200952+00:00"
+      "scraped_at": "2026-04-26T19:59:14.492144+00:00"
     },
     "1914062": {
       "url": "https://www.whoscored.com/Matches/1914062/Live/LaLiga-2025-2026-Athletic-Club-vs-Real-Madrid",
@@ -1438,7 +1494,7 @@
       "rows": 2083,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914062.parquet",
-      "scraped_at": "2026-04-25T05:52:53.604141+00:00"
+      "scraped_at": "2026-04-26T19:59:36.343662+00:00"
     },
     "1914066": {
       "url": "https://www.whoscored.com/Matches/1914066/Live/LaLiga-2025-2026-Barcelona-vs-Atletico-Madrid",
@@ -1446,7 +1502,7 @@
       "rows": 1904,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914066.parquet",
-      "scraped_at": "2026-04-25T05:53:18.074611+00:00"
+      "scraped_at": "2026-04-26T19:59:56.026746+00:00"
     },
     "1914016": {
       "url": "https://www.whoscored.com/Matches/1914016/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Valencia",
@@ -1454,7 +1510,7 @@
       "rows": 1746,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914016.parquet",
-      "scraped_at": "2026-04-25T05:53:41.801104+00:00"
+      "scraped_at": "2026-04-26T20:00:22.480379+00:00"
     },
     "1914013": {
       "url": "https://www.whoscored.com/Matches/1914013/Live/LaLiga-2025-2026-Celta-Vigo-vs-Espanyol",
@@ -1462,7 +1518,7 @@
       "rows": 1864,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914013.parquet",
-      "scraped_at": "2026-04-25T05:54:05.017958+00:00"
+      "scraped_at": "2026-04-26T20:00:48.008852+00:00"
     },
     "1914014": {
       "url": "https://www.whoscored.com/Matches/1914014/Live/LaLiga-2025-2026-Girona-vs-Real-Madrid",
@@ -1470,7 +1526,7 @@
       "rows": 2058,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914014.parquet",
-      "scraped_at": "2026-04-25T05:54:25.957487+00:00"
+      "scraped_at": "2026-04-26T20:01:14.001369+00:00"
     },
     "1914020": {
       "url": "https://www.whoscored.com/Matches/1914020/Live/LaLiga-2025-2026-Sevilla-vs-Real-Betis",
@@ -1478,7 +1534,7 @@
       "rows": 1612,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914020.parquet",
-      "scraped_at": "2026-04-25T05:54:46.031657+00:00"
+      "scraped_at": "2026-04-26T20:01:38.943537+00:00"
     },
     "1914017": {
       "url": "https://www.whoscored.com/Matches/1914017/Live/LaLiga-2025-2026-Real-Sociedad-vs-Villarreal",
@@ -1486,7 +1542,7 @@
       "rows": 1944,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914017.parquet",
-      "scraped_at": "2026-04-25T05:55:11.375727+00:00"
+      "scraped_at": "2026-04-26T20:02:01.330843+00:00"
     },
     "1914019": {
       "url": "https://www.whoscored.com/Matches/1914019/Live/LaLiga-2025-2026-Levante-vs-Athletic-Club",
@@ -1494,7 +1550,7 @@
       "rows": 1769,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914019.parquet",
-      "scraped_at": "2026-04-25T05:55:36.861754+00:00"
+      "scraped_at": "2026-04-26T20:02:27.085208+00:00"
     },
     "1914012": {
       "url": "https://www.whoscored.com/Matches/1914012/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Real-Oviedo",
@@ -1502,7 +1558,15 @@
       "rows": 2114,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914012.parquet",
-      "scraped_at": "2026-04-25T05:56:00.687360+00:00"
+      "scraped_at": "2026-04-26T20:02:54.436611+00:00"
+    },
+    "1914208": {
+      "url": "https://www.whoscored.com/Matches/1914208/Live/LaLiga-2025-2026-Villarreal-vs-Celta-Vigo",
+      "display_name": "Villarreal vs Celta Vigo | 2025/2026 | LaLiga | 2026-04-26",
+      "rows": 1945,
+      "cols": 57,
+      "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914208.parquet",
+      "scraped_at": "2026-04-27T00:22:48.006064+00:00"
     },
     "1914018": {
       "url": "https://www.whoscored.com/Matches/1914018/Live/LaLiga-2025-2026-Barcelona-vs-Deportivo-Alaves",
@@ -1510,7 +1574,7 @@
       "rows": 2126,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914018.parquet",
-      "scraped_at": "2026-04-25T05:56:27.652923+00:00"
+      "scraped_at": "2026-04-27T00:23:34.247774+00:00"
     },
     "1914015": {
       "url": "https://www.whoscored.com/Matches/1914015/Live/LaLiga-2025-2026-Mallorca-vs-Osasuna",
@@ -1518,7 +1582,7 @@
       "rows": 1812,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914015.parquet",
-      "scraped_at": "2026-04-25T05:56:51.203816+00:00"
+      "scraped_at": "2026-04-27T00:24:02.019623+00:00"
     },
     "1914021": {
       "url": "https://www.whoscored.com/Matches/1914021/Live/LaLiga-2025-2026-Getafe-vs-Elche",
@@ -1526,7 +1590,7 @@
       "rows": 1704,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914021.parquet",
-      "scraped_at": "2026-04-25T05:57:16.039871+00:00"
+      "scraped_at": "2026-04-27T00:24:30.360055+00:00"
     },
     "1914005": {
       "url": "https://www.whoscored.com/Matches/1914005/Live/LaLiga-2025-2026-Espanyol-vs-Sevilla",
@@ -1534,7 +1598,7 @@
       "rows": 1704,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914005.parquet",
-      "scraped_at": "2026-04-25T05:57:35.819964+00:00"
+      "scraped_at": "2026-04-27T00:24:57.262870+00:00"
     },
     "1914009": {
       "url": "https://www.whoscored.com/Matches/1914009/Live/LaLiga-2025-2026-Getafe-vs-Atletico-Madrid",
@@ -1542,7 +1606,7 @@
       "rows": 1758,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914009.parquet",
-      "scraped_at": "2026-04-25T05:57:55.936542+00:00"
+      "scraped_at": "2026-04-27T00:25:28.485436+00:00"
     },
     "1914003": {
       "url": "https://www.whoscored.com/Matches/1914003/Live/LaLiga-2025-2026-Elche-vs-Real-Madrid",
@@ -1550,7 +1614,7 @@
       "rows": 1987,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914003.parquet",
-      "scraped_at": "2026-04-25T05:58:16.044462+00:00"
+      "scraped_at": "2026-04-27T00:25:59.291342+00:00"
     },
     "1914001": {
       "url": "https://www.whoscored.com/Matches/1914001/Live/LaLiga-2025-2026-Real-Betis-vs-Girona",
@@ -1558,7 +1622,7 @@
       "rows": 2114,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914001.parquet",
-      "scraped_at": "2026-04-25T05:58:38.893068+00:00"
+      "scraped_at": "2026-04-27T00:26:31.140698+00:00"
     },
     "1914007": {
       "url": "https://www.whoscored.com/Matches/1914007/Live/LaLiga-2025-2026-Real-Oviedo-vs-Rayo-Vallecano",
@@ -1566,7 +1630,7 @@
       "rows": 1774,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914007.parquet",
-      "scraped_at": "2026-04-25T05:59:03.088296+00:00"
+      "scraped_at": "2026-04-27T00:26:56.084540+00:00"
     },
     "1914008": {
       "url": "https://www.whoscored.com/Matches/1914008/Live/LaLiga-2025-2026-Barcelona-vs-Athletic-Club",
@@ -1574,7 +1638,7 @@
       "rows": 2046,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914008.parquet",
-      "scraped_at": "2026-04-25T05:59:27.340107+00:00"
+      "scraped_at": "2026-04-27T00:27:21.361946+00:00"
     },
     "1913999": {
       "url": "https://www.whoscored.com/Matches/1913999/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Celta-Vigo",
@@ -1582,7 +1646,7 @@
       "rows": 1931,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913999.parquet",
-      "scraped_at": "2026-04-25T05:59:53.180522+00:00"
+      "scraped_at": "2026-04-27T00:27:49.060835+00:00"
     },
     "1914011": {
       "url": "https://www.whoscored.com/Matches/1914011/Live/LaLiga-2025-2026-Villarreal-vs-Mallorca",
@@ -1590,7 +1654,7 @@
       "rows": 1808,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914011.parquet",
-      "scraped_at": "2026-04-25T06:00:18.664164+00:00"
+      "scraped_at": "2026-04-27T00:28:15.515542+00:00"
     },
     "1914006": {
       "url": "https://www.whoscored.com/Matches/1914006/Live/LaLiga-2025-2026-Osasuna-vs-Real-Sociedad",
@@ -1598,7 +1662,7 @@
       "rows": 1851,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914006.parquet",
-      "scraped_at": "2026-04-25T06:00:39.930376+00:00"
+      "scraped_at": "2026-04-27T00:28:44.437700+00:00"
     },
     "1914010": {
       "url": "https://www.whoscored.com/Matches/1914010/Live/LaLiga-2025-2026-Valencia-vs-Levante",
@@ -1606,7 +1670,7 @@
       "rows": 1921,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914010.parquet",
-      "scraped_at": "2026-04-25T06:01:05.641099+00:00"
+      "scraped_at": "2026-04-27T00:29:16.443528+00:00"
     },
     "1913980": {
       "url": "https://www.whoscored.com/Matches/1913980/Live/LaLiga-2025-2026-Athletic-Club-vs-Real-Oviedo",
@@ -1614,7 +1678,7 @@
       "rows": 1922,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913980.parquet",
-      "scraped_at": "2026-04-25T06:01:25.183739+00:00"
+      "scraped_at": "2026-04-27T00:29:41.684031+00:00"
     },
     "1913991": {
       "url": "https://www.whoscored.com/Matches/1913991/Live/LaLiga-2025-2026-Celta-Vigo-vs-Barcelona",
@@ -1622,7 +1686,7 @@
       "rows": 2168,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913991.parquet",
-      "scraped_at": "2026-04-25T06:01:50.886890+00:00"
+      "scraped_at": "2026-04-27T00:30:10.038314+00:00"
     },
     "1913995": {
       "url": "https://www.whoscored.com/Matches/1913995/Live/LaLiga-2025-2026-Mallorca-vs-Getafe",
@@ -1630,7 +1694,7 @@
       "rows": 1745,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913995.parquet",
-      "scraped_at": "2026-04-25T06:02:15.451260+00:00"
+      "scraped_at": "2026-04-27T00:30:35.241398+00:00"
     },
     "1913987": {
       "url": "https://www.whoscored.com/Matches/1913987/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Real-Madrid",
@@ -1638,7 +1702,7 @@
       "rows": 1818,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913987.parquet",
-      "scraped_at": "2026-04-25T06:02:44.479184+00:00"
+      "scraped_at": "2026-04-27T00:30:56.978420+00:00"
     },
     "1913993": {
       "url": "https://www.whoscored.com/Matches/1913993/Live/LaLiga-2025-2026-Valencia-vs-Real-Betis",
@@ -1646,7 +1710,7 @@
       "rows": 1983,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913993.parquet",
-      "scraped_at": "2026-04-25T06:03:10.876971+00:00"
+      "scraped_at": "2026-04-27T00:31:24.555672+00:00"
     },
     "1913982": {
       "url": "https://www.whoscored.com/Matches/1913982/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Levante",
@@ -1654,7 +1718,7 @@
       "rows": 1856,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913982.parquet",
-      "scraped_at": "2026-04-25T06:03:33.185205+00:00"
+      "scraped_at": "2026-04-27T00:31:52.090714+00:00"
     },
     "1913989": {
       "url": "https://www.whoscored.com/Matches/1913989/Live/LaLiga-2025-2026-Girona-vs-Deportivo-Alaves",
@@ -1662,7 +1726,7 @@
       "rows": 2058,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913989.parquet",
-      "scraped_at": "2026-04-25T06:03:56.146851+00:00"
+      "scraped_at": "2026-04-27T00:32:15.518211+00:00"
     },
     "1913986": {
       "url": "https://www.whoscored.com/Matches/1913986/Live/LaLiga-2025-2026-Espanyol-vs-Villarreal",
@@ -1670,7 +1734,7 @@
       "rows": 2123,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913986.parquet",
-      "scraped_at": "2026-04-25T06:04:20.299751+00:00"
+      "scraped_at": "2026-04-27T00:32:41.814345+00:00"
     },
     "1913997": {
       "url": "https://www.whoscored.com/Matches/1913997/Live/LaLiga-2025-2026-Sevilla-vs-Osasuna",
@@ -1678,7 +1742,7 @@
       "rows": 1705,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913997.parquet",
-      "scraped_at": "2026-04-25T06:04:42.679098+00:00"
+      "scraped_at": "2026-04-27T00:33:07.735682+00:00"
     },
     "1913984": {
       "url": "https://www.whoscored.com/Matches/1913984/Live/LaLiga-2025-2026-Elche-vs-Real-Sociedad",
@@ -1686,7 +1750,7 @@
       "rows": 1905,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913984.parquet",
-      "scraped_at": "2026-04-25T06:05:03.214841+00:00"
+      "scraped_at": "2026-04-27T00:33:29.518289+00:00"
     },
     "1913976": {
       "url": "https://www.whoscored.com/Matches/1913976/Live/LaLiga-2025-2026-Real-Oviedo-vs-Osasuna",
@@ -1694,7 +1758,7 @@
       "rows": 1666,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913976.parquet",
-      "scraped_at": "2026-04-25T06:05:23.381642+00:00"
+      "scraped_at": "2026-04-27T00:33:53.010279+00:00"
     },
     "1913963": {
       "url": "https://www.whoscored.com/Matches/1913963/Live/LaLiga-2025-2026-Barcelona-vs-Elche",
@@ -1702,7 +1766,7 @@
       "rows": 1830,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913963.parquet",
-      "scraped_at": "2026-04-25T06:05:42.177937+00:00"
+      "scraped_at": "2026-04-27T00:34:20.138860+00:00"
     },
     "1913974": {
       "url": "https://www.whoscored.com/Matches/1913974/Live/LaLiga-2025-2026-Levante-vs-Celta-Vigo",
@@ -1710,7 +1774,7 @@
       "rows": 1911,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913974.parquet",
-      "scraped_at": "2026-04-25T06:06:05.296270+00:00"
+      "scraped_at": "2026-04-27T00:34:49.320672+00:00"
     },
     "1913959": {
       "url": "https://www.whoscored.com/Matches/1913959/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Espanyol",
@@ -1718,7 +1782,7 @@
       "rows": 1904,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913959.parquet",
-      "scraped_at": "2026-04-25T06:06:26.129803+00:00"
+      "scraped_at": "2026-04-27T00:35:13.791971+00:00"
     },
     "1913966": {
       "url": "https://www.whoscored.com/Matches/1913966/Live/LaLiga-2025-2026-Real-Betis-vs-Mallorca",
@@ -1726,7 +1790,7 @@
       "rows": 2073,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913966.parquet",
-      "scraped_at": "2026-04-25T06:06:44.685987+00:00"
+      "scraped_at": "2026-04-27T00:35:40.863296+00:00"
     },
     "1913972": {
       "url": "https://www.whoscored.com/Matches/1913972/Live/LaLiga-2025-2026-Real-Sociedad-vs-Athletic-Club",
@@ -1734,7 +1798,7 @@
       "rows": 1660,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913972.parquet",
-      "scraped_at": "2026-04-25T06:07:07.303893+00:00"
+      "scraped_at": "2026-04-27T00:36:02.861005+00:00"
     },
     "1913961": {
       "url": "https://www.whoscored.com/Matches/1913961/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Sevilla",
@@ -1742,7 +1806,7 @@
       "rows": 2034,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913961.parquet",
-      "scraped_at": "2026-04-25T06:07:29.286717+00:00"
+      "scraped_at": "2026-04-27T00:36:27.294592+00:00"
     },
     "1913978": {
       "url": "https://www.whoscored.com/Matches/1913978/Live/LaLiga-2025-2026-Villarreal-vs-Rayo-Vallecano",
@@ -1750,7 +1814,7 @@
       "rows": 1755,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913978.parquet",
-      "scraped_at": "2026-04-25T06:07:51.141003+00:00"
+      "scraped_at": "2026-04-27T00:36:54.710226+00:00"
     },
     "1913970": {
       "url": "https://www.whoscored.com/Matches/1913970/Live/LaLiga-2025-2026-Real-Madrid-vs-Valencia",
@@ -1758,7 +1822,7 @@
       "rows": 2122,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913970.parquet",
-      "scraped_at": "2026-04-25T06:08:11.788460+00:00"
+      "scraped_at": "2026-04-27T00:37:24.398774+00:00"
     },
     "1913967": {
       "url": "https://www.whoscored.com/Matches/1913967/Live/LaLiga-2025-2026-Getafe-vs-Girona",
@@ -1766,7 +1830,7 @@
       "rows": 1656,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913967.parquet",
-      "scraped_at": "2026-04-25T06:08:30.708610+00:00"
+      "scraped_at": "2026-04-27T00:37:46.936314+00:00"
     },
     "1913996": {
       "url": "https://www.whoscored.com/Matches/1913996/Live/LaLiga-2025-2026-Real-Betis-vs-Atletico-Madrid",
@@ -1774,7 +1838,7 @@
       "rows": 2068,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913996.parquet",
-      "scraped_at": "2026-04-25T06:08:51.131537+00:00"
+      "scraped_at": "2026-04-27T00:38:12.042332+00:00"
     },
     "1913998": {
       "url": "https://www.whoscored.com/Matches/1913998/Live/LaLiga-2025-2026-Real-Madrid-vs-Barcelona",
@@ -1782,7 +1846,7 @@
       "rows": 1984,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913998.parquet",
-      "scraped_at": "2026-04-25T06:09:12.611526+00:00"
+      "scraped_at": "2026-04-27T00:38:35.798704+00:00"
     },
     "1914000": {
       "url": "https://www.whoscored.com/Matches/1914000/Live/LaLiga-2025-2026-Osasuna-vs-Celta-Vigo",
@@ -1790,7 +1854,7 @@
       "rows": 1919,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914000.parquet",
-      "scraped_at": "2026-04-25T06:09:34.011997+00:00"
+      "scraped_at": "2026-04-27T00:38:59.185661+00:00"
     },
     "1913994": {
       "url": "https://www.whoscored.com/Matches/1913994/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Deportivo-Alaves",
@@ -1798,7 +1862,7 @@
       "rows": 1825,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913994.parquet",
-      "scraped_at": "2026-04-25T06:09:59.712987+00:00"
+      "scraped_at": "2026-04-27T00:39:26.989296+00:00"
     },
     "1914004": {
       "url": "https://www.whoscored.com/Matches/1914004/Live/LaLiga-2025-2026-Mallorca-vs-Levante",
@@ -1806,7 +1870,7 @@
       "rows": 1983,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914004.parquet",
-      "scraped_at": "2026-04-25T06:10:25.536686+00:00"
+      "scraped_at": "2026-04-27T00:39:52.559149+00:00"
     },
     "1913985": {
       "url": "https://www.whoscored.com/Matches/1913985/Live/LaLiga-2025-2026-Athletic-Club-vs-Getafe",
@@ -1814,7 +1878,7 @@
       "rows": 1799,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913985.parquet",
-      "scraped_at": "2026-04-25T06:10:48.872743+00:00"
+      "scraped_at": "2026-04-27T00:40:17.375231+00:00"
     },
     "1914002": {
       "url": "https://www.whoscored.com/Matches/1914002/Live/LaLiga-2025-2026-Espanyol-vs-Elche",
@@ -1822,7 +1886,7 @@
       "rows": 1852,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1914002.parquet",
-      "scraped_at": "2026-04-25T06:11:09.011325+00:00"
+      "scraped_at": "2026-04-27T00:40:39.001035+00:00"
     },
     "1913988": {
       "url": "https://www.whoscored.com/Matches/1913988/Live/LaLiga-2025-2026-Girona-vs-Real-Oviedo",
@@ -1830,7 +1894,7 @@
       "rows": 1868,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913988.parquet",
-      "scraped_at": "2026-04-25T06:11:35.426713+00:00"
+      "scraped_at": "2026-04-27T00:41:02.823509+00:00"
     },
     "1913992": {
       "url": "https://www.whoscored.com/Matches/1913992/Live/LaLiga-2025-2026-Valencia-vs-Villarreal",
@@ -1838,7 +1902,7 @@
       "rows": 2008,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913992.parquet",
-      "scraped_at": "2026-04-25T06:11:55.618504+00:00"
+      "scraped_at": "2026-04-27T00:41:27.743231+00:00"
     },
     "1913990": {
       "url": "https://www.whoscored.com/Matches/1913990/Live/LaLiga-2025-2026-Real-Sociedad-vs-Sevilla",
@@ -1846,7 +1910,7 @@
       "rows": 1725,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913990.parquet",
-      "scraped_at": "2026-04-25T06:12:20.820505+00:00"
+      "scraped_at": "2026-04-27T00:41:52.782651+00:00"
     },
     "1913965": {
       "url": "https://www.whoscored.com/Matches/1913965/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Valencia",
@@ -1854,7 +1918,7 @@
       "rows": 1709,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913965.parquet",
-      "scraped_at": "2026-04-25T06:12:40.870345+00:00"
+      "scraped_at": "2026-04-27T00:42:17.635752+00:00"
     },
     "1913977": {
       "url": "https://www.whoscored.com/Matches/1913977/Live/LaLiga-2025-2026-Elche-vs-Athletic-Club",
@@ -1862,7 +1926,7 @@
       "rows": 1820,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913977.parquet",
-      "scraped_at": "2026-04-25T06:13:05.934154+00:00"
+      "scraped_at": "2026-04-27T00:42:40.006276+00:00"
     },
     "1913971": {
       "url": "https://www.whoscored.com/Matches/1913971/Live/LaLiga-2025-2026-Celta-Vigo-vs-Real-Sociedad",
@@ -1870,7 +1934,7 @@
       "rows": 1861,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913971.parquet",
-      "scraped_at": "2026-04-25T06:13:32.829462+00:00"
+      "scraped_at": "2026-04-27T00:43:05.414134+00:00"
     },
     "1913973": {
       "url": "https://www.whoscored.com/Matches/1913973/Live/LaLiga-2025-2026-Getafe-vs-Real-Madrid",
@@ -1878,7 +1942,7 @@
       "rows": 1758,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913973.parquet",
-      "scraped_at": "2026-04-25T06:13:55.875940+00:00"
+      "scraped_at": "2026-04-27T00:43:32.633966+00:00"
     },
     "1913975": {
       "url": "https://www.whoscored.com/Matches/1913975/Live/LaLiga-2025-2026-Levante-vs-Rayo-Vallecano",
@@ -1886,7 +1950,7 @@
       "rows": 1778,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913975.parquet",
-      "scraped_at": "2026-04-25T06:14:16.922115+00:00"
+      "scraped_at": "2026-04-27T00:43:57.005190+00:00"
     },
     "1913968": {
       "url": "https://www.whoscored.com/Matches/1913968/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Osasuna",
@@ -1894,7 +1958,7 @@
       "rows": 1880,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913968.parquet",
-      "scraped_at": "2026-04-25T06:14:38.156016+00:00"
+      "scraped_at": "2026-04-27T00:44:20.995140+00:00"
     },
     "1913969": {
       "url": "https://www.whoscored.com/Matches/1913969/Live/LaLiga-2025-2026-Barcelona-vs-Girona",
@@ -1902,7 +1966,7 @@
       "rows": 2069,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913969.parquet",
-      "scraped_at": "2026-04-25T06:15:01.340248+00:00"
+      "scraped_at": "2026-04-27T00:44:48.563155+00:00"
     },
     "1913983": {
       "url": "https://www.whoscored.com/Matches/1913983/Live/LaLiga-2025-2026-Sevilla-vs-Mallorca",
@@ -1910,7 +1974,7 @@
       "rows": 1651,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913983.parquet",
-      "scraped_at": "2026-04-25T06:15:23.352136+00:00"
+      "scraped_at": "2026-04-27T00:45:11.154739+00:00"
     },
     "1913979": {
       "url": "https://www.whoscored.com/Matches/1913979/Live/LaLiga-2025-2026-Villarreal-vs-Real-Betis",
@@ -1918,7 +1982,7 @@
       "rows": 1875,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913979.parquet",
-      "scraped_at": "2026-04-25T06:15:43.145339+00:00"
+      "scraped_at": "2026-04-27T00:45:33.256485+00:00"
     },
     "1913981": {
       "url": "https://www.whoscored.com/Matches/1913981/Live/LaLiga-2025-2026-Real-Oviedo-vs-Espanyol",
@@ -1926,7 +1990,7 @@
       "rows": 1898,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913981.parquet",
-      "scraped_at": "2026-04-25T06:16:07.222063+00:00"
+      "scraped_at": "2026-04-27T00:45:57.377354+00:00"
     },
     "1913954": {
       "url": "https://www.whoscored.com/Matches/1913954/Live/LaLiga-2025-2026-Celta-Vigo-vs-Atletico-Madrid",
@@ -1934,7 +1998,7 @@
       "rows": 2244,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913954.parquet",
-      "scraped_at": "2026-04-25T06:16:32.777138+00:00"
+      "scraped_at": "2026-04-27T00:46:23.763716+00:00"
     },
     "1913956": {
       "url": "https://www.whoscored.com/Matches/1913956/Live/LaLiga-2025-2026-Sevilla-vs-Barcelona",
@@ -1942,7 +2006,7 @@
       "rows": 1641,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913956.parquet",
-      "scraped_at": "2026-04-25T06:16:52.533621+00:00"
+      "scraped_at": "2026-04-27T00:46:44.900846+00:00"
     },
     "1913946": {
       "url": "https://www.whoscored.com/Matches/1913946/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Elche",
@@ -1950,7 +2014,7 @@
       "rows": 1887,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913946.parquet",
-      "scraped_at": "2026-04-25T06:17:16.458493+00:00"
+      "scraped_at": "2026-04-27T00:47:07.638240+00:00"
     },
     "1913958": {
       "url": "https://www.whoscored.com/Matches/1913958/Live/LaLiga-2025-2026-Espanyol-vs-Real-Betis",
@@ -1958,7 +2022,7 @@
       "rows": 1973,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913958.parquet",
-      "scraped_at": "2026-04-25T06:17:39.535034+00:00"
+      "scraped_at": "2026-04-27T00:47:34.976559+00:00"
     },
     "1913964": {
       "url": "https://www.whoscored.com/Matches/1913964/Live/LaLiga-2025-2026-Real-Sociedad-vs-Rayo-Vallecano",
@@ -1966,7 +2030,7 @@
       "rows": 1745,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913964.parquet",
-      "scraped_at": "2026-04-25T06:18:03.858558+00:00"
+      "scraped_at": "2026-04-27T00:47:55.865324+00:00"
     },
     "1913948": {
       "url": "https://www.whoscored.com/Matches/1913948/Live/LaLiga-2025-2026-Athletic-Club-vs-Mallorca",
@@ -1974,7 +2038,7 @@
       "rows": 1839,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913948.parquet",
-      "scraped_at": "2026-04-25T06:18:23.551008+00:00"
+      "scraped_at": "2026-04-27T00:48:19.968218+00:00"
     },
     "1913950": {
       "url": "https://www.whoscored.com/Matches/1913950/Live/LaLiga-2025-2026-Girona-vs-Valencia",
@@ -1982,7 +2046,7 @@
       "rows": 1767,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913950.parquet",
-      "scraped_at": "2026-04-25T06:18:47.999595+00:00"
+      "scraped_at": "2026-04-27T00:48:44.456192+00:00"
     },
     "1913962": {
       "url": "https://www.whoscored.com/Matches/1913962/Live/LaLiga-2025-2026-Real-Oviedo-vs-Levante",
@@ -1990,7 +2054,7 @@
       "rows": 1920,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913962.parquet",
-      "scraped_at": "2026-04-25T06:19:10.482336+00:00"
+      "scraped_at": "2026-04-27T00:49:08.576951+00:00"
     },
     "1913952": {
       "url": "https://www.whoscored.com/Matches/1913952/Live/LaLiga-2025-2026-Real-Madrid-vs-Villarreal",
@@ -1998,7 +2062,7 @@
       "rows": 2046,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913952.parquet",
-      "scraped_at": "2026-04-25T06:19:45.506599+00:00"
+      "scraped_at": "2026-04-27T00:49:31.216259+00:00"
     },
     "1913960": {
       "url": "https://www.whoscored.com/Matches/1913960/Live/LaLiga-2025-2026-Osasuna-vs-Getafe",
@@ -2006,7 +2070,7 @@
       "rows": 1693,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913960.parquet",
-      "scraped_at": "2026-04-25T06:20:17.622360+00:00"
+      "scraped_at": "2026-04-27T00:49:54.503410+00:00"
     },
     "1913943": {
       "url": "https://www.whoscored.com/Matches/1913943/Live/LaLiga-2025-2026-Valencia-vs-Real-Oviedo",
@@ -2014,7 +2078,7 @@
       "rows": 1952,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913943.parquet",
-      "scraped_at": "2026-04-25T06:20:53.718483+00:00"
+      "scraped_at": "2026-04-27T00:50:21.807180+00:00"
     },
     "1913949": {
       "url": "https://www.whoscored.com/Matches/1913949/Live/LaLiga-2025-2026-Barcelona-vs-Real-Sociedad",
@@ -2022,7 +2086,7 @@
       "rows": 2020,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913949.parquet",
-      "scraped_at": "2026-04-25T06:21:30.570447+00:00"
+      "scraped_at": "2026-04-27T00:50:45.196404+00:00"
     },
     "1913940": {
       "url": "https://www.whoscored.com/Matches/1913940/Live/LaLiga-2025-2026-Elche-vs-Celta-Vigo",
@@ -2030,7 +2094,7 @@
       "rows": 1895,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913940.parquet",
-      "scraped_at": "2026-04-25T06:22:12.177403+00:00"
+      "scraped_at": "2026-04-27T00:51:14.399918+00:00"
     },
     "1913951": {
       "url": "https://www.whoscored.com/Matches/1913951/Live/LaLiga-2025-2026-Real-Betis-vs-Osasuna",
@@ -2038,7 +2102,7 @@
       "rows": 2033,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913951.parquet",
-      "scraped_at": "2026-04-25T06:22:51.868678+00:00"
+      "scraped_at": "2026-04-27T00:51:38.357668+00:00"
     },
     "1913955": {
       "url": "https://www.whoscored.com/Matches/1913955/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Sevilla",
@@ -2046,7 +2110,7 @@
       "rows": 1735,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913955.parquet",
-      "scraped_at": "2026-04-25T06:23:24.987561+00:00"
+      "scraped_at": "2026-04-27T00:52:03.127137+00:00"
     },
     "1913939": {
       "url": "https://www.whoscored.com/Matches/1913939/Live/LaLiga-2025-2026-Villarreal-vs-Athletic-Club",
@@ -2054,7 +2118,7 @@
       "rows": 1885,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913939.parquet",
-      "scraped_at": "2026-04-25T06:24:05.484914+00:00"
+      "scraped_at": "2026-04-27T00:52:27.713422+00:00"
     },
     "1913947": {
       "url": "https://www.whoscored.com/Matches/1913947/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Real-Madrid",
@@ -2062,7 +2126,7 @@
       "rows": 1680,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913947.parquet",
-      "scraped_at": "2026-04-25T06:24:46.490867+00:00"
+      "scraped_at": "2026-04-27T00:52:48.764065+00:00"
     },
     "1913957": {
       "url": "https://www.whoscored.com/Matches/1913957/Live/LaLiga-2025-2026-Mallorca-vs-Deportivo-Alaves",
@@ -2070,7 +2134,7 @@
       "rows": 1866,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913957.parquet",
-      "scraped_at": "2026-04-25T06:25:23.366007+00:00"
+      "scraped_at": "2026-04-27T00:53:13.671532+00:00"
     },
     "1913953": {
       "url": "https://www.whoscored.com/Matches/1913953/Live/LaLiga-2025-2026-Getafe-vs-Levante",
@@ -2078,7 +2142,7 @@
       "rows": 1549,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913953.parquet",
-      "scraped_at": "2026-04-25T06:25:53.557385+00:00"
+      "scraped_at": "2026-04-27T00:53:34.808792+00:00"
     },
     "1913941": {
       "url": "https://www.whoscored.com/Matches/1913941/Live/LaLiga-2025-2026-Girona-vs-Espanyol",
@@ -2086,7 +2150,7 @@
       "rows": 1880,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913941.parquet",
-      "scraped_at": "2026-04-25T06:26:34.008962+00:00"
+      "scraped_at": "2026-04-27T00:54:00.480031+00:00"
     },
     "1913936": {
       "url": "https://www.whoscored.com/Matches/1913936/Live/LaLiga-2025-2026-Real-Oviedo-vs-Barcelona",
@@ -2094,7 +2158,7 @@
       "rows": 2036,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913936.parquet",
-      "scraped_at": "2026-04-25T06:27:12.230120+00:00"
+      "scraped_at": "2026-04-27T00:54:23.634726+00:00"
     },
     "1913938": {
       "url": "https://www.whoscored.com/Matches/1913938/Live/LaLiga-2025-2026-Osasuna-vs-Elche",
@@ -2102,7 +2166,7 @@
       "rows": 2000,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913938.parquet",
-      "scraped_at": "2026-04-25T06:27:49.859845+00:00"
+      "scraped_at": "2026-04-27T00:54:49.071091+00:00"
     },
     "1913945": {
       "url": "https://www.whoscored.com/Matches/1913945/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Rayo-Vallecano",
@@ -2110,7 +2174,7 @@
       "rows": 1979,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913945.parquet",
-      "scraped_at": "2026-04-25T06:28:28.647217+00:00"
+      "scraped_at": "2026-04-27T00:55:15.628230+00:00"
     },
     "1913935": {
       "url": "https://www.whoscored.com/Matches/1913935/Live/LaLiga-2025-2026-Getafe-vs-Deportivo-Alaves",
@@ -2118,7 +2182,7 @@
       "rows": 1639,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913935.parquet",
-      "scraped_at": "2026-04-25T06:29:06.227303+00:00"
+      "scraped_at": "2026-04-27T00:55:37.233276+00:00"
     },
     "1913944": {
       "url": "https://www.whoscored.com/Matches/1913944/Live/LaLiga-2025-2026-Real-Sociedad-vs-Mallorca",
@@ -2126,7 +2190,7 @@
       "rows": 1868,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913944.parquet",
-      "scraped_at": "2026-04-25T06:29:44.314414+00:00"
+      "scraped_at": "2026-04-27T00:56:03.586076+00:00"
     },
     "1913942": {
       "url": "https://www.whoscored.com/Matches/1913942/Live/LaLiga-2025-2026-Athletic-Club-vs-Girona",
@@ -2134,7 +2198,7 @@
       "rows": 1994,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913942.parquet",
-      "scraped_at": "2026-04-25T06:30:20.695624+00:00"
+      "scraped_at": "2026-04-27T00:56:31.909303+00:00"
     },
     "1913932": {
       "url": "https://www.whoscored.com/Matches/1913932/Live/LaLiga-2025-2026-Espanyol-vs-Valencia",
@@ -2142,7 +2206,7 @@
       "rows": 1774,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913932.parquet",
-      "scraped_at": "2026-04-25T06:30:53.436071+00:00"
+      "scraped_at": "2026-04-27T00:56:58.966149+00:00"
     },
     "1913933": {
       "url": "https://www.whoscored.com/Matches/1913933/Live/LaLiga-2025-2026-Levante-vs-Real-Madrid",
@@ -2150,7 +2214,7 @@
       "rows": 2128,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913933.parquet",
-      "scraped_at": "2026-04-25T06:31:38.100749+00:00"
+      "scraped_at": "2026-04-27T00:57:34.354958+00:00"
     },
     "1913934": {
       "url": "https://www.whoscored.com/Matches/1913934/Live/LaLiga-2025-2026-Sevilla-vs-Villarreal",
@@ -2158,7 +2222,7 @@
       "rows": 1935,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913934.parquet",
-      "scraped_at": "2026-04-25T06:32:17.053720+00:00"
+      "scraped_at": "2026-04-27T00:58:02.065342+00:00"
     },
     "1913909": {
       "url": "https://www.whoscored.com/Matches/1913909/Live/LaLiga-2025-2026-Mallorca-vs-Atletico-Madrid",
@@ -2166,7 +2230,7 @@
       "rows": 1890,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913909.parquet",
-      "scraped_at": "2026-04-25T06:32:58.864167+00:00"
+      "scraped_at": "2026-04-27T00:58:36.008176+00:00"
     },
     "1913903": {
       "url": "https://www.whoscored.com/Matches/1913903/Live/LaLiga-2025-2026-Barcelona-vs-Getafe",
@@ -2174,7 +2238,7 @@
       "rows": 1997,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913903.parquet",
-      "scraped_at": "2026-04-25T06:33:35.823979+00:00"
+      "scraped_at": "2026-04-27T00:59:07.407568+00:00"
     },
     "1913910": {
       "url": "https://www.whoscored.com/Matches/1913910/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Celta-Vigo",
@@ -2182,7 +2246,7 @@
       "rows": 1868,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913910.parquet",
-      "scraped_at": "2026-04-25T06:34:15.332095+00:00"
+      "scraped_at": "2026-04-27T00:59:35.643509+00:00"
     },
     "1913906": {
       "url": "https://www.whoscored.com/Matches/1913906/Live/LaLiga-2025-2026-Elche-vs-Real-Oviedo",
@@ -2190,7 +2254,7 @@
       "rows": 1992,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913906.parquet",
-      "scraped_at": "2026-04-25T06:34:53.440225+00:00"
+      "scraped_at": "2026-04-27T01:00:11.307664+00:00"
     },
     "1913908": {
       "url": "https://www.whoscored.com/Matches/1913908/Live/LaLiga-2025-2026-Valencia-vs-Athletic-Club",
@@ -2198,7 +2262,7 @@
       "rows": 1854,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913908.parquet",
-      "scraped_at": "2026-04-25T06:35:28.476666+00:00"
+      "scraped_at": "2026-04-27T01:00:40.887114+00:00"
     },
     "1913931": {
       "url": "https://www.whoscored.com/Matches/1913931/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Sevilla",
@@ -2206,7 +2270,7 @@
       "rows": 1863,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913931.parquet",
-      "scraped_at": "2026-04-25T06:36:04.214019+00:00"
+      "scraped_at": "2026-04-27T01:01:10.446469+00:00"
     },
     "1913911": {
       "url": "https://www.whoscored.com/Matches/1913911/Live/LaLiga-2025-2026-Real-Madrid-vs-Espanyol",
@@ -2214,7 +2278,7 @@
       "rows": 2018,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913911.parquet",
-      "scraped_at": "2026-04-25T06:36:44.622043+00:00"
+      "scraped_at": "2026-04-27T01:01:40.574965+00:00"
     },
     "1913907": {
       "url": "https://www.whoscored.com/Matches/1913907/Live/LaLiga-2025-2026-Girona-vs-Levante",
@@ -2222,7 +2286,7 @@
       "rows": 1722,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913907.parquet",
-      "scraped_at": "2026-04-25T06:37:17.699937+00:00"
+      "scraped_at": "2026-04-27T01:02:11.103530+00:00"
     },
     "1913912": {
       "url": "https://www.whoscored.com/Matches/1913912/Live/LaLiga-2025-2026-Villarreal-vs-Osasuna",
@@ -2230,7 +2294,7 @@
       "rows": 1667,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913912.parquet",
-      "scraped_at": "2026-04-25T06:37:54.567407+00:00"
+      "scraped_at": "2026-04-27T01:02:35.470332+00:00"
     },
     "1913905": {
       "url": "https://www.whoscored.com/Matches/1913905/Live/LaLiga-2025-2026-Real-Betis-vs-Real-Sociedad",
@@ -2238,7 +2302,7 @@
       "rows": 2087,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913905.parquet",
-      "scraped_at": "2026-04-25T06:38:35.541160+00:00"
+      "scraped_at": "2026-04-27T01:03:01.162017+00:00"
     },
     "1913924": {
       "url": "https://www.whoscored.com/Matches/1913924/Live/LaLiga-2025-2026-Espanyol-vs-Mallorca",
@@ -2246,7 +2310,7 @@
       "rows": 1738,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913924.parquet",
-      "scraped_at": "2026-04-25T06:39:15.514929+00:00"
+      "scraped_at": "2026-04-27T01:03:28.121214+00:00"
     },
     "1913922": {
       "url": "https://www.whoscored.com/Matches/1913922/Live/LaLiga-2025-2026-Barcelona-vs-Valencia",
@@ -2254,7 +2318,7 @@
       "rows": 1864,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913922.parquet",
-      "scraped_at": "2026-04-25T06:39:55.790192+00:00"
+      "scraped_at": "2026-04-27T01:03:55.176124+00:00"
     },
     "1913923": {
       "url": "https://www.whoscored.com/Matches/1913923/Live/LaLiga-2025-2026-Celta-Vigo-vs-Girona",
@@ -2262,7 +2326,7 @@
       "rows": 2103,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913923.parquet",
-      "scraped_at": "2026-04-25T06:40:38.785430+00:00"
+      "scraped_at": "2026-04-27T01:04:24.544220+00:00"
     },
     "1913928": {
       "url": "https://www.whoscored.com/Matches/1913928/Live/LaLiga-2025-2026-Levante-vs-Real-Betis",
@@ -2270,7 +2334,7 @@
       "rows": 1934,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913928.parquet",
-      "scraped_at": "2026-04-25T06:41:11.957602+00:00"
+      "scraped_at": "2026-04-27T01:04:50.415509+00:00"
     },
     "1913926": {
       "url": "https://www.whoscored.com/Matches/1913926/Live/LaLiga-2025-2026-Osasuna-vs-Rayo-Vallecano",
@@ -2278,7 +2342,7 @@
       "rows": 1818,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913926.parquet",
-      "scraped_at": "2026-04-25T06:41:36.448478+00:00"
+      "scraped_at": "2026-04-27T01:05:14.098613+00:00"
     },
     "1913927": {
       "url": "https://www.whoscored.com/Matches/1913927/Live/LaLiga-2025-2026-Athletic-Club-vs-Deportivo-Alaves",
@@ -2286,7 +2350,7 @@
       "rows": 1918,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913927.parquet",
-      "scraped_at": "2026-04-25T06:42:05.464040+00:00"
+      "scraped_at": "2026-04-27T01:05:41.724870+00:00"
     },
     "1913921": {
       "url": "https://www.whoscored.com/Matches/1913921/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Villarreal",
@@ -2294,7 +2358,7 @@
       "rows": 1907,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913921.parquet",
-      "scraped_at": "2026-04-25T06:42:42.787805+00:00"
+      "scraped_at": "2026-04-27T01:06:07.079390+00:00"
     },
     "1913925": {
       "url": "https://www.whoscored.com/Matches/1913925/Live/LaLiga-2025-2026-Getafe-vs-Real-Oviedo",
@@ -2302,7 +2366,7 @@
       "rows": 1644,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913925.parquet",
-      "scraped_at": "2026-04-25T06:43:16.841921+00:00"
+      "scraped_at": "2026-04-27T01:06:28.549801+00:00"
     },
     "1913930": {
       "url": "https://www.whoscored.com/Matches/1913930/Live/LaLiga-2025-2026-Real-Sociedad-vs-Real-Madrid",
@@ -2310,7 +2374,7 @@
       "rows": 1810,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913930.parquet",
-      "scraped_at": "2026-04-25T06:43:44.633570+00:00"
+      "scraped_at": "2026-04-27T01:06:55.604570+00:00"
     },
     "1913929": {
       "url": "https://www.whoscored.com/Matches/1913929/Live/LaLiga-2025-2026-Sevilla-vs-Elche",
@@ -2318,7 +2382,7 @@
       "rows": 1690,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913929.parquet",
-      "scraped_at": "2026-04-25T06:44:11.613423+00:00"
+      "scraped_at": "2026-04-27T01:07:17.365649+00:00"
     },
     "1913902": {
       "url": "https://www.whoscored.com/Matches/1913902/Live/LaLiga-2025-2026-Real-Betis-vs-Athletic-Club",
@@ -2326,7 +2390,7 @@
       "rows": 1987,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913902.parquet",
-      "scraped_at": "2026-04-25T06:44:53.564032+00:00"
+      "scraped_at": "2026-04-27T01:07:40.013877+00:00"
     },
     "1913904": {
       "url": "https://www.whoscored.com/Matches/1913904/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Barcelona",
@@ -2334,7 +2398,7 @@
       "rows": 1771,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913904.parquet",
-      "scraped_at": "2026-04-25T06:45:32.555594+00:00"
+      "scraped_at": "2026-04-27T01:08:10.460668+00:00"
     },
     "1913887": {
       "url": "https://www.whoscored.com/Matches/1913887/Live/LaLiga-2025-2026-Celta-Vigo-vs-Villarreal",
@@ -2342,7 +2406,7 @@
       "rows": 2079,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913887.parquet",
-      "scraped_at": "2026-04-25T06:45:56.590804+00:00"
+      "scraped_at": "2026-04-27T01:08:40.195959+00:00"
     },
     "1913893": {
       "url": "https://www.whoscored.com/Matches/1913893/Live/LaLiga-2025-2026-Espanyol-vs-Osasuna",
@@ -2350,7 +2414,7 @@
       "rows": 1877,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913893.parquet",
-      "scraped_at": "2026-04-25T06:46:22.856233+00:00"
+      "scraped_at": "2026-04-27T01:09:08.371746+00:00"
     },
     "1913884": {
       "url": "https://www.whoscored.com/Matches/1913884/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Atletico-Madrid",
@@ -2358,7 +2422,7 @@
       "rows": 1948,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913884.parquet",
-      "scraped_at": "2026-04-25T06:46:54.784789+00:00"
+      "scraped_at": "2026-04-27T01:09:30.461843+00:00"
     },
     "1913896": {
       "url": "https://www.whoscored.com/Matches/1913896/Live/LaLiga-2025-2026-Girona-vs-Sevilla",
@@ -2366,7 +2430,7 @@
       "rows": 1799,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913896.parquet",
-      "scraped_at": "2026-04-25T06:47:16.915697+00:00"
+      "scraped_at": "2026-04-27T01:09:57.220642+00:00"
     },
     "1913920": {
       "url": "https://www.whoscored.com/Matches/1913920/Live/LaLiga-2025-2026-Real-Madrid-vs-Mallorca",
@@ -2374,7 +2438,7 @@
       "rows": 1908,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913920.parquet",
-      "scraped_at": "2026-04-25T06:47:38.859170+00:00"
+      "scraped_at": "2026-04-27T01:10:26.612054+00:00"
     },
     "1913899": {
       "url": "https://www.whoscored.com/Matches/1913899/Live/LaLiga-2025-2026-Real-Oviedo-vs-Real-Sociedad",
@@ -2382,7 +2446,7 @@
       "rows": 1995,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913899.parquet",
-      "scraped_at": "2026-04-25T06:48:06.710709+00:00"
+      "scraped_at": "2026-04-27T01:10:54.814000+00:00"
     },
     "1913890": {
       "url": "https://www.whoscored.com/Matches/1913890/Live/LaLiga-2025-2026-Elche-vs-Levante",
@@ -2390,7 +2454,7 @@
       "rows": 1723,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913890.parquet",
-      "scraped_at": "2026-04-25T06:48:33.297672+00:00"
+      "scraped_at": "2026-04-27T01:11:21.612160+00:00"
     },
     "1913919": {
       "url": "https://www.whoscored.com/Matches/1913919/Live/LaLiga-2025-2026-Valencia-vs-Getafe",
@@ -2398,7 +2462,7 @@
       "rows": 1632,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913919.parquet",
-      "scraped_at": "2026-04-25T06:48:56.677574+00:00"
+      "scraped_at": "2026-04-27T01:11:49.654418+00:00"
     },
     "1913937": {
       "url": "https://www.whoscored.com/Matches/1913937/Live/LaLiga-2025-2026-Celta-Vigo-vs-Real-Betis",
@@ -2406,7 +2470,7 @@
       "rows": 2021,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913937.parquet",
-      "scraped_at": "2026-04-25T06:49:42.732795+00:00"
+      "scraped_at": "2026-04-27T01:12:16.405549+00:00"
     },
     "1913895": {
       "url": "https://www.whoscored.com/Matches/1913895/Live/LaLiga-2025-2026-Athletic-Club-vs-Rayo-Vallecano",
@@ -2414,7 +2478,7 @@
       "rows": 1836,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913895.parquet",
-      "scraped_at": "2026-04-25T06:50:08.291329+00:00"
+      "scraped_at": "2026-04-27T01:12:37.018266+00:00"
     },
     "1913897": {
       "url": "https://www.whoscored.com/Matches/1913897/Live/LaLiga-2025-2026-Sevilla-vs-Getafe",
@@ -2422,7 +2486,7 @@
       "rows": 1803,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913897.parquet",
-      "scraped_at": "2026-04-25T06:50:31.704669+00:00"
+      "scraped_at": "2026-04-27T01:13:04.345857+00:00"
     },
     "1913894": {
       "url": "https://www.whoscored.com/Matches/1913894/Live/LaLiga-2025-2026-Real-Sociedad-vs-Espanyol",
@@ -2430,7 +2494,7 @@
       "rows": 1818,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913894.parquet",
-      "scraped_at": "2026-04-25T06:50:59.598342+00:00"
+      "scraped_at": "2026-04-27T01:13:29.592394+00:00"
     },
     "1913901": {
       "url": "https://www.whoscored.com/Matches/1913901/Live/LaLiga-2025-2026-Villarreal-vs-Girona",
@@ -2438,7 +2502,7 @@
       "rows": 1920,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913901.parquet",
-      "scraped_at": "2026-04-25T06:51:28.355484+00:00"
+      "scraped_at": "2026-04-27T01:14:00.162527+00:00"
     },
     "1913900": {
       "url": "https://www.whoscored.com/Matches/1913900/Live/LaLiga-2025-2026-Osasuna-vs-Valencia",
@@ -2446,7 +2510,7 @@
       "rows": 1725,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913900.parquet",
-      "scraped_at": "2026-04-25T06:51:52.575860+00:00"
+      "scraped_at": "2026-04-27T01:14:25.333795+00:00"
     },
     "1913882": {
       "url": "https://www.whoscored.com/Matches/1913882/Live/LaLiga-2025-2026-Real-Oviedo-vs-Real-Madrid",
@@ -2454,7 +2518,7 @@
       "rows": 2131,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913882.parquet",
-      "scraped_at": "2026-04-25T06:52:17.480282+00:00"
+      "scraped_at": "2026-04-27T01:14:57.894420+00:00"
     },
     "1913898": {
       "url": "https://www.whoscored.com/Matches/1913898/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Elche",
@@ -2462,7 +2526,7 @@
       "rows": 1976,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913898.parquet",
-      "scraped_at": "2026-04-25T06:52:44.950768+00:00"
+      "scraped_at": "2026-04-27T01:15:28.594349+00:00"
     },
     "1913888": {
       "url": "https://www.whoscored.com/Matches/1913888/Live/LaLiga-2025-2026-Levante-vs-Barcelona",
@@ -2470,7 +2534,7 @@
       "rows": 1993,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913888.parquet",
-      "scraped_at": "2026-04-25T06:53:07.852300+00:00"
+      "scraped_at": "2026-04-27T01:15:51.753919+00:00"
     },
     "1913891": {
       "url": "https://www.whoscored.com/Matches/1913891/Live/LaLiga-2025-2026-Mallorca-vs-Celta-Vigo",
@@ -2478,7 +2542,7 @@
       "rows": 1765,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913891.parquet",
-      "scraped_at": "2026-04-25T06:53:38.344223+00:00"
+      "scraped_at": "2026-04-27T01:16:16.828148+00:00"
     },
     "1913885": {
       "url": "https://www.whoscored.com/Matches/1913885/Live/LaLiga-2025-2026-Real-Betis-vs-Deportivo-Alaves",
@@ -2486,7 +2550,7 @@
       "rows": 1973,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913885.parquet",
-      "scraped_at": "2026-04-25T06:54:27.085078+00:00"
+      "scraped_at": "2026-04-27T01:16:41.145763+00:00"
     },
     "1913886": {
       "url": "https://www.whoscored.com/Matches/1913886/Live/LaLiga-2025-2026-Real-Madrid-vs-Osasuna",
@@ -2494,7 +2558,7 @@
       "rows": 1989,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913886.parquet",
-      "scraped_at": "2026-04-25T06:55:07.213143+00:00"
+      "scraped_at": "2026-04-27T01:17:04.405275+00:00"
     },
     "1913883": {
       "url": "https://www.whoscored.com/Matches/1913883/Live/LaLiga-2025-2026-Elche-vs-Real-Betis",
@@ -2502,7 +2566,7 @@
       "rows": 1969,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913883.parquet",
-      "scraped_at": "2026-04-25T06:55:35.083932+00:00"
+      "scraped_at": "2026-04-27T01:17:31.530145+00:00"
     },
     "1913914": {
       "url": "https://www.whoscored.com/Matches/1913914/Live/LaLiga-2025-2026-Athletic-Club-vs-Sevilla",
@@ -2510,7 +2574,7 @@
       "rows": 1843,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913914.parquet",
-      "scraped_at": "2026-04-25T06:56:03.984657+00:00"
+      "scraped_at": "2026-04-27T01:17:57.553518+00:00"
     },
     "1913917": {
       "url": "https://www.whoscored.com/Matches/1913917/Live/LaLiga-2025-2026-Espanyol-vs-Atletico-Madrid",
@@ -2518,7 +2582,7 @@
       "rows": 1968,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913917.parquet",
-      "scraped_at": "2026-04-25T06:56:31.972233+00:00"
+      "scraped_at": "2026-04-27T01:18:22.631328+00:00"
     },
     "1913915": {
       "url": "https://www.whoscored.com/Matches/1913915/Live/LaLiga-2025-2026-Celta-Vigo-vs-Getafe",
@@ -2526,7 +2590,7 @@
       "rows": 1760,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913915.parquet",
-      "scraped_at": "2026-04-25T06:56:52.793312+00:00"
+      "scraped_at": "2026-04-27T01:18:49.293434+00:00"
     },
     "1913918": {
       "url": "https://www.whoscored.com/Matches/1913918/Live/LaLiga-2025-2026-Mallorca-vs-Barcelona",
@@ -2534,7 +2598,7 @@
       "rows": 1643,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913918.parquet",
-      "scraped_at": "2026-04-25T06:57:13.350275+00:00"
+      "scraped_at": "2026-04-27T01:19:12.301308+00:00"
     },
     "1913913": {
       "url": "https://www.whoscored.com/Matches/1913913/Live/LaLiga-2025-2026-Deportivo-Alaves-vs-Levante",
@@ -2542,7 +2606,7 @@
       "rows": 1673,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913913.parquet",
-      "scraped_at": "2026-04-25T06:57:35.303690+00:00"
+      "scraped_at": "2026-04-27T01:19:38.262770+00:00"
     },
     "1913889": {
       "url": "https://www.whoscored.com/Matches/1913889/Live/LaLiga-2025-2026-Valencia-vs-Real-Sociedad",
@@ -2550,7 +2614,7 @@
       "rows": 1613,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913889.parquet",
-      "scraped_at": "2026-04-25T06:57:58.326781+00:00"
+      "scraped_at": "2026-04-27T01:20:04.576132+00:00"
     },
     "1913916": {
       "url": "https://www.whoscored.com/Matches/1913916/Live/LaLiga-2025-2026-Girona-vs-Rayo-Vallecano",
@@ -2558,7 +2622,7 @@
       "rows": 1847,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913916.parquet",
-      "scraped_at": "2026-04-25T06:58:21.232093+00:00"
+      "scraped_at": "2026-04-27T01:20:33.161469+00:00"
     },
     "1913892": {
       "url": "https://www.whoscored.com/Matches/1913892/Live/LaLiga-2025-2026-Villarreal-vs-Real-Oviedo",
@@ -2566,75 +2630,11 @@
       "rows": 1919,
       "cols": 57,
       "saved_to": "C:\\Users\\dell\\Desktop\\statscout-test\\statscout-FYP\\backend\\data\\events\\la_liga\\2025_2026\\1913892.parquet",
-      "scraped_at": "2026-04-25T06:58:48.134876+00:00"
+      "scraped_at": "2026-04-27T01:20:57.020712+00:00"
     }
   },
-  "failed": {
-    "1914173": {
-      "url": "https://www.whoscored.com/Matches/1914173/Live/LaLiga-2025-2026-Real-Betis-vs-Espanyol",
-      "display_name": "Real Betis vs Espanyol | 2025/2026 | LaLiga | 2026-04-04",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T22:01:25.766081+00:00"
-    },
-    "1914106": {
-      "url": "https://www.whoscored.com/Matches/1914106/Live/LaLiga-2025-2026-Mallorca-vs-Real-Betis",
-      "display_name": "Mallorca vs Real Betis | 2025/2026 | LaLiga | 2026-02-15",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:39:41.364612+00:00"
-    },
-    "1914107": {
-      "url": "https://www.whoscored.com/Matches/1914107/Live/LaLiga-2025-2026-Espanyol-vs-Celta-Vigo",
-      "display_name": "Espanyol vs Celta Vigo | 2025/2026 | LaLiga | 2026-02-14",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:39:58.050941+00:00"
-    },
-    "1914100": {
-      "url": "https://www.whoscored.com/Matches/1914100/Live/LaLiga-2025-2026-Real-Madrid-vs-Real-Sociedad",
-      "display_name": "Real Madrid vs Real Sociedad | 2025/2026 | LaLiga | 2026-02-14",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:40:58.544017+00:00"
-    },
-    "1914161": {
-      "url": "https://www.whoscored.com/Matches/1914161/Live/LaLiga-2025-2026-Villarreal-vs-Espanyol",
-      "display_name": "Villarreal vs Espanyol | 2025/2026 | LaLiga | 2026-02-09",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:41:33.352467+00:00"
-    },
-    "1914157": {
-      "url": "https://www.whoscored.com/Matches/1914157/Live/LaLiga-2025-2026-Atletico-Madrid-vs-Real-Betis",
-      "display_name": "Atletico Madrid vs Real Betis | 2025/2026 | LaLiga | 2026-02-08",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:42:22.907665+00:00"
-    },
-    "1914095": {
-      "url": "https://www.whoscored.com/Matches/1914095/Live/LaLiga-2025-2026-Girona-vs-Getafe",
-      "display_name": "Girona vs Getafe | 2025/2026 | LaLiga | 2026-01-26",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:48:35.596349+00:00"
-    },
-    "1914071": {
-      "url": "https://www.whoscored.com/Matches/1914071/Live/LaLiga-2025-2026-Rayo-Vallecano-vs-Mallorca",
-      "display_name": "Rayo Vallecano vs Mallorca | 2025/2026 | LaLiga | 2026-01-11",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:56:21.013735+00:00"
-    },
-    "1914065": {
-      "url": "https://www.whoscored.com/Matches/1914065/Live/LaLiga-2025-2026-Villarreal-vs-Deportivo-Alaves",
-      "display_name": "Villarreal vs Deportivo Alaves | 2025/2026 | LaLiga | 2026-01-10",
-      "error": "WhoScored returned status 502.",
-      "attempts": 1,
-      "last_attempt": "2026-04-24T23:56:38.117160+00:00"
-    }
-  },
+  "failed": {},
   "skipped": {},
-  "created_at": "2026-04-24T21:50:32.914096+00:00",
-  "updated_at": "2026-04-25T06:58:52.042256+00:00"
+  "created_at": "2026-04-26T18:44:02.483467+00:00",
+  "updated_at": "2026-04-27T01:21:01.241302+00:00"
 }
